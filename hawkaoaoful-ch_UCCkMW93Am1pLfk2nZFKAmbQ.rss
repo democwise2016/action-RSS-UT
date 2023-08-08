@@ -35,10 +35,11 @@
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=irDQ1vsxMiI"><img src="https://img.youtube.com/vi/irDQ1vsxMiI/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/0.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/1.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/2.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/3.jpg" /></a> <br />
+<hr />
 罪惡都市是一款可塑性很強的遊戲。遊戲在移植到PC平臺後。為電腦玩家提供了兩個有意思的獨占功能。一個是自定義電臺。只要玩家把想聽的音樂MP3文件放到指定文件夾。進入遊戲裏面的載具裏。就會收聽到一個新的電臺節目。這個電臺播放的就是你想聽的音樂。第二個功能是遊戲提供了一個外接端口。玩家可以在這裏找到男主角的貼圖。這就為玩家修改主角的外貌提供了便利。敖廠長在過去的一期視頻裏面就用這個功能。把男主角改成了一名籃球運動員。這裏就不單獨介紹了。不過只能修改主角顯然無法滿足玩家的需求。我們能不能把遊戲裏面街上的路人也修改成其他樣子呢。顯然遊戲沒有提供這樣的便利。不過酷愛整活的敖廠長知道觀眾朋友們想看什麽。有沒有可能把遊戲裏面的某個路人修改成敖廠長的樣子。然後讓男主角把他狠狠的打一頓。甚至可以用各種武器把他給送走。我想說這個想法太可怕了。但卻是有創意。那今天我們就玩狠一點。首先我們要明確怎麽修改。然後到哪裏改。遊戲裏面有幾十種路人模型。其中一個叫「male01」的模型進入了我的視線。因為這貨可能是遊戲中最常見的路人。
 
 我剛出酒店就看到他來了。不過看起來不太聰明的樣子。走路被卡住的肥婆擋了一下就放棄了？走了一會兒覺得這樣不對。又回頭走去。然後又放棄了。難道他就不會繞開走嗎？就這幅低能兒智商。拿來換成我的樣子絕對氣質匹配。在明確目標後。我們就要提取這個路人的模型。我們可以看到這個路人其實是由DFF格式的建模和TXD的貼圖構建的。所以要改成我的樣子不僅要重新建模還要繪製貼圖。當我們在3DSMAX下查看這個路人的建模的時候。會發現他的建模很簡單。雖然罪惡都市是快20年前的遊戲了。但是理論上遊戲是完全可以支持更精細的建模的。為什麽開發者會做得這麽粗糙了。這是因為罪惡都市本來就是一款PS2平臺的遊戲。如果建模太精致可能會導致遊戲運行不暢。後來移植到PC平臺後。製作人員不想再製作更精細的模型導致開發預算增加。因此你就看到了現在那個領角分明的他。不過顯然。敖廠長可以把自己那精致的腦袋換上去。來個換頭大法。所以首先。我們要為自己拍攝正面和側面照片。你就想像自己進了局子。
@@ -70,10 +71,11 @@ https://www.youtube.com/watch?v=irDQ1vsxMiI
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=irDQ1vsxMiI"><img src="https://img.youtube.com/vi/irDQ1vsxMiI/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/0.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/1.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/2.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/3.jpg" /></a> <br />
+<hr />
 罪惡都市是一款可塑性很強的遊戲。遊戲在移植到PC平臺後。為電腦玩家提供了兩個有意思的獨占功能。一個是自定義電臺。只要玩家把想聽的音樂MP3文件放到指定文件夾。進入遊戲裏面的載具裏。就會收聽到一個新的電臺節目。這個電臺播放的就是你想聽的音樂。第二個功能是遊戲提供了一個外接端口。玩家可以在這裏找到男主角的貼圖。這就為玩家修改主角的外貌提供了便利。敖廠長在過去的一期視頻裏面就用這個功能。把男主角改成了一名籃球運動員。這裏就不單獨介紹了。不過只能修改主角顯然無法滿足玩家的需求。我們能不能把遊戲裏面街上的路人也修改成其他樣子呢。顯然遊戲沒有提供這樣的便利。不過酷愛整活的敖廠長知道觀眾朋友們想看什麽。有沒有可能把遊戲裏面的某個路人修改成敖廠長的樣子。然後讓男主角把他狠狠的打一頓。甚至可以用各種武器把他給送走。我想說這個想法太可怕了。但卻是有創意。那今天我們就玩狠一點。首先我們要明確怎麽修改。然後到哪裏改。遊戲裏面有幾十種路人模型。其中一個叫「male01」的模型進入了我的視線。因為這貨可能是遊戲中最常見的路人。
 
 我剛出酒店就看到他來了。不過看起來不太聰明的樣子。走路被卡住的肥婆擋了一下就放棄了？走了一會兒覺得這樣不對。又回頭走去。然後又放棄了。難道他就不會繞開走嗎？就這幅低能兒智商。拿來換成我的樣子絕對氣質匹配。在明確目標後。我們就要提取這個路人的模型。我們可以看到這個路人其實是由DFF格式的建模和TXD的貼圖構建的。所以要改成我的樣子不僅要重新建模還要繪製貼圖。當我們在3DSMAX下查看這個路人的建模的時候。會發現他的建模很簡單。雖然罪惡都市是快20年前的遊戲了。但是理論上遊戲是完全可以支持更精細的建模的。為什麽開發者會做得這麽粗糙了。這是因為罪惡都市本來就是一款PS2平臺的遊戲。如果建模太精致可能會導致遊戲運行不暢。後來移植到PC平臺後。製作人員不想再製作更精細的模型導致開發預算增加。因此你就看到了現在那個領角分明的他。不過顯然。敖廠長可以把自己那精致的腦袋換上去。來個換頭大法。所以首先。我們要為自己拍攝正面和側面照片。你就想像自己進了局子。
@@ -104,10 +106,11 @@ https://www.youtube.com/watch?v=irDQ1vsxMiI
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=irDQ1vsxMiI"><img src="https://img.youtube.com/vi/irDQ1vsxMiI/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/irDQ1vsxMiI/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/0.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/1.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/2.jpg" />
+<img src="https://img.youtube.com/vi/irDQ1vsxMiI/3.jpg" /></a> <br /><br />
+<hr />
 罪惡都市是一款可塑性很強的遊戲。遊戲在移植到PC平臺後。為電腦玩家提供了兩個有意思的獨占功能。一個是自定義電臺。只要玩家把想聽的音樂MP3文件放到指定文件夾。進入遊戲裏面的載具裏。就會收聽到一個新的電臺節目。這個電臺播放的就是你想聽的音樂。第二個功能是遊戲提供了一個外接端口。玩家可以在這裏找到男主角的貼圖。這就為玩家修改主角的外貌提供了便利。敖廠長在過去的一期視頻裏面就用這個功能。把男主角改成了一名籃球運動員。這裏就不單獨介紹了。不過只能修改主角顯然無法滿足玩家的需求。我們能不能把遊戲裏面街上的路人也修改成其他樣子呢。顯然遊戲沒有提供這樣的便利。不過酷愛整活的敖廠長知道觀眾朋友們想看什麽。有沒有可能把遊戲裏面的某個路人修改成敖廠長的樣子。然後讓男主角把他狠狠的打一頓。甚至可以用各種武器把他給送走。我想說這個想法太可怕了。但卻是有創意。那今天我們就玩狠一點。首先我們要明確怎麽修改。然後到哪裏改。遊戲裏面有幾十種路人模型。其中一個叫「male01」的模型進入了我的視線。因為這貨可能是遊戲中最常見的路人。
 
 我剛出酒店就看到他來了。不過看起來不太聰明的樣子。走路被卡住的肥婆擋了一下就放棄了？走了一會兒覺得這樣不對。又回頭走去。然後又放棄了。難道他就不會繞開走嗎？就這幅低能兒智商。拿來換成我的樣子絕對氣質匹配。在明確目標後。我們就要提取這個路人的模型。我們可以看到這個路人其實是由DFF格式的建模和TXD的貼圖構建的。所以要改成我的樣子不僅要重新建模還要繪製貼圖。當我們在3DSMAX下查看這個路人的建模的時候。會發現他的建模很簡單。雖然罪惡都市是快20年前的遊戲了。但是理論上遊戲是完全可以支持更精細的建模的。為什麽開發者會做得這麽粗糙了。這是因為罪惡都市本來就是一款PS2平臺的遊戲。如果建模太精致可能會導致遊戲運行不暢。後來移植到PC平臺後。製作人員不想再製作更精細的模型導致開發預算增加。因此你就看到了現在那個領角分明的他。不過顯然。敖廠長可以把自己那精致的腦袋換上去。來個換頭大法。所以首先。我們要為自己拍攝正面和側面照片。你就想像自己進了局子。
@@ -144,10 +147,11 @@ https://www.youtube.com/watch?v=irDQ1vsxMiI
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=5Au7RQGqso0"><img src="https://img.youtube.com/vi/5Au7RQGqso0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/0.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/1.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/2.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/3.jpg" /></a> <br />
+<hr />
 曾經有一臺遊戲主機。拳打任天堂 腳踢 PCE。在 90 年代風光無兩。它就是 Mega Drive。如果你不知道它的製造商名字。下面這只刺猬你肯定認識。陪伴一代人的音速小子 世嘉的索尼克。就誕生於 Mega Drive 時代。世嘉一度是與任天堂、索尼齊名的禦三家之一。可惜後來一連串的商業失敗。使得世嘉於 2001 年退出了家用機市場。有趣的是。也就在那一年微軟發布初代 Xbox。禦三家又整整齊齊起來。咳咳。稍微有點扯遠了啊。總之世嘉也曾是能叫板任天堂的家用機大廠。並且在《刺猬索尼克》等暢銷遊戲的加持下。在 90 年代的美國市場。力壓全球霸主任天堂一頭。可以說MD作為遊戲發展史上真正意義上的 16 位家用遊戲主機。絕對是一代經典！初看 Mega Drive 的外觀。像極了那個年代的音樂播放器是不是？
 
 有些不明真相的小夥伴甚至拿到機器。以為是插碟的。對著那個圓盤摳了半天。世嘉確實鬼點子多。打出了「把街機遊戲搬回家」的宣傳口號。在機器的硬件方面也早就為移植做足了準備。使用了與街機 System 16 完全相同的 CPU。包括摩托羅拉 68000 與 Zilog Z80 芯片。天生向下兼容。於是《戰斧》《街頭霸王》等街機神作就被陸續加入到了MD的遊戲陣容中來。而且得益於 16 位 CPU 的使用。Mega Drive 一經推出就擁有細膩出色的畫面。讓當時的遊戲玩家大呼過癮。Mega Drive 的手柄也是盡可能向街機看齊。為了適應更多的格鬥遊戲操作要求。第二代 Mega Drive 更是將手柄操控鍵從三鍵升級到六鍵。以快速調用更多的格鬥招式。方向鍵在物理設計上盡可能靠攏街機搖桿。也正因為如此備受格鬥迷們所津津樂道。像我這種手殘黨正手出招還可以。反手就麻煩了。升龍拳總是升不起來。用 Mega Drive 手柄搓招成功率大增！瞬間感覺雄起了有木有。
@@ -176,10 +180,11 @@ https://www.youtube.com/watch?v=5Au7RQGqso0
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=5Au7RQGqso0"><img src="https://img.youtube.com/vi/5Au7RQGqso0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/0.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/1.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/2.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/3.jpg" /></a> <br />
+<hr />
 曾經有一臺遊戲主機。拳打任天堂 腳踢 PCE。在 90 年代風光無兩。它就是 Mega Drive。如果你不知道它的製造商名字。下面這只刺猬你肯定認識。陪伴一代人的音速小子 世嘉的索尼克。就誕生於 Mega Drive 時代。世嘉一度是與任天堂、索尼齊名的禦三家之一。可惜後來一連串的商業失敗。使得世嘉於 2001 年退出了家用機市場。有趣的是。也就在那一年微軟發布初代 Xbox。禦三家又整整齊齊起來。咳咳。稍微有點扯遠了啊。總之世嘉也曾是能叫板任天堂的家用機大廠。並且在《刺猬索尼克》等暢銷遊戲的加持下。在 90 年代的美國市場。力壓全球霸主任天堂一頭。可以說MD作為遊戲發展史上真正意義上的 16 位家用遊戲主機。絕對是一代經典！初看 Mega Drive 的外觀。像極了那個年代的音樂播放器是不是？
 
 有些不明真相的小夥伴甚至拿到機器。以為是插碟的。對著那個圓盤摳了半天。世嘉確實鬼點子多。打出了「把街機遊戲搬回家」的宣傳口號。在機器的硬件方面也早就為移植做足了準備。使用了與街機 System 16 完全相同的 CPU。包括摩托羅拉 68000 與 Zilog Z80 芯片。天生向下兼容。於是《戰斧》《街頭霸王》等街機神作就被陸續加入到了MD的遊戲陣容中來。而且得益於 16 位 CPU 的使用。Mega Drive 一經推出就擁有細膩出色的畫面。讓當時的遊戲玩家大呼過癮。Mega Drive 的手柄也是盡可能向街機看齊。為了適應更多的格鬥遊戲操作要求。第二代 Mega Drive 更是將手柄操控鍵從三鍵升級到六鍵。以快速調用更多的格鬥招式。方向鍵在物理設計上盡可能靠攏街機搖桿。也正因為如此備受格鬥迷們所津津樂道。像我這種手殘黨正手出招還可以。反手就麻煩了。升龍拳總是升不起來。用 Mega Drive 手柄搓招成功率大增！瞬間感覺雄起了有木有。
@@ -207,10 +212,11 @@ https://www.youtube.com/watch?v=5Au7RQGqso0
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=5Au7RQGqso0"><img src="https://img.youtube.com/vi/5Au7RQGqso0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/5Au7RQGqso0/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/0.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/1.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/2.jpg" />
+<img src="https://img.youtube.com/vi/5Au7RQGqso0/3.jpg" /></a> <br /><br />
+<hr />
 曾經有一臺遊戲主機。拳打任天堂 腳踢 PCE。在 90 年代風光無兩。它就是 Mega Drive。如果你不知道它的製造商名字。下面這只刺猬你肯定認識。陪伴一代人的音速小子 世嘉的索尼克。就誕生於 Mega Drive 時代。世嘉一度是與任天堂、索尼齊名的禦三家之一。可惜後來一連串的商業失敗。使得世嘉於 2001 年退出了家用機市場。有趣的是。也就在那一年微軟發布初代 Xbox。禦三家又整整齊齊起來。咳咳。稍微有點扯遠了啊。總之世嘉也曾是能叫板任天堂的家用機大廠。並且在《刺猬索尼克》等暢銷遊戲的加持下。在 90 年代的美國市場。力壓全球霸主任天堂一頭。可以說MD作為遊戲發展史上真正意義上的 16 位家用遊戲主機。絕對是一代經典！初看 Mega Drive 的外觀。像極了那個年代的音樂播放器是不是？
 
 有些不明真相的小夥伴甚至拿到機器。以為是插碟的。對著那個圓盤摳了半天。世嘉確實鬼點子多。打出了「把街機遊戲搬回家」的宣傳口號。在機器的硬件方面也早就為移植做足了準備。使用了與街機 System 16 完全相同的 CPU。包括摩托羅拉 68000 與 Zilog Z80 芯片。天生向下兼容。於是《戰斧》《街頭霸王》等街機神作就被陸續加入到了MD的遊戲陣容中來。而且得益於 16 位 CPU 的使用。Mega Drive 一經推出就擁有細膩出色的畫面。讓當時的遊戲玩家大呼過癮。Mega Drive 的手柄也是盡可能向街機看齊。為了適應更多的格鬥遊戲操作要求。第二代 Mega Drive 更是將手柄操控鍵從三鍵升級到六鍵。以快速調用更多的格鬥招式。方向鍵在物理設計上盡可能靠攏街機搖桿。也正因為如此備受格鬥迷們所津津樂道。像我這種手殘黨正手出招還可以。反手就麻煩了。升龍拳總是升不起來。用 Mega Drive 手柄搓招成功率大增！瞬間感覺雄起了有木有。
@@ -244,10 +250,11 @@ https://www.youtube.com/watch?v=5Au7RQGqso0
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=X8QEpNmVUQI"><img src="https://img.youtube.com/vi/X8QEpNmVUQI/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/0.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/1.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/2.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/3.jpg" /></a> <br />
+<hr />
 和春晚一樣。每年冬天暢玩打槍年貨使命召喚系列是絕對的保留內容。今年的《使命召喚先鋒》敖廠長也在第一時間通關了。遊戲的第二關東加行動給我很深刻的印象。本關我們需要空降到敵後摧毀德軍的海防大炮。為次日的諾曼地登陸掃清障礙。而這個行動第一個攔路石就是空降。很多士兵在空降前就因為飛機摧毀命喪雲端。而一些士兵直接落入水塘淹死。最經典的死法莫過於因為降落傘繩掛樹上被吊死。但是死亡率最高的依然是落入敵佔區被敵人幹掉。空降行動是戰損風險最大的軍事行動。不過敖廠長早在14年前的一款打槍遊戲裡面就已經深刻體會到了這種殘酷。榮譽勳章是EA的老牌打槍系列。可是系列的巔峰期很短。現在IP價值基本上無法與使命召喚和戰地系列相比了。當年EA看到這個IP開始走下坡路的時候。就做了一些大膽的嘗試。雖然當時沒有收到太理想的回饋。但現在來看這些嘗試還是非常值得一提的。本期節目的主角就是2007年發售的《榮譽勳章：空降奇兵》。這款14年前發售的遊戲可是引進到國內了的。而且還是這種很酷的鐵盒包裝。
 
 裡面也是國內代理專門精心佈置了一番。07年國內單機遊戲實體正版市場只剩下一口氣了。還能有這種態度確實難得。遊戲在當時使用了虛幻3加強版引擎進行製作。現在能夠完美支持4K解析度運行。現在看起來也是狂絢炸天的。不過最令我印象深刻的是遊戲對於副標題“空降”二字的完美點題。每一關開始都是空降登場。場面十分震撼。不過更有趣的是比起cod系列的空降都是腳本演繹。這裡在玩家跳出機艙的那一刻就把操作權交給了玩家。我們可以選擇在遊戲場景的任何地方進行降落。這種自由度在2007年是十分大膽的設計。而且也確實帶來了戰術多樣性。我們可以降落到有綠色信號煙標注的預定降落點。這裡的地面是安全區域。沒有敵人會妨礙你。你也可以降落到房子的屋頂給敵人搞個偷襲。不過這也使得你無法及時和隊友進行會合。你當然還可以直接降落到敵人總部來個出其不意。但是有可能你在卸掉降落正準備起身前就被敵人圍毆致死了。為了能降落地面迅速起身。我們就需要在訓練關裡面反復練習。
@@ -278,10 +285,11 @@ https://www.youtube.com/watch?v=X8QEpNmVUQI
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=X8QEpNmVUQI"><img src="https://img.youtube.com/vi/X8QEpNmVUQI/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/0.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/1.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/2.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/3.jpg" /></a> <br />
+<hr />
 和春晚一樣。每年冬天暢玩打槍年貨使命召喚系列是絕對的保留內容。今年的《使命召喚先鋒》敖廠長也在第一時間通關了。遊戲的第二關東加行動給我很深刻的印象。本關我們需要空降到敵後摧毀德軍的海防大炮。為次日的諾曼地登陸掃清障礙。而這個行動第一個攔路石就是空降。很多士兵在空降前就因為飛機摧毀命喪雲端。而一些士兵直接落入水塘淹死。最經典的死法莫過於因為降落傘繩掛樹上被吊死。但是死亡率最高的依然是落入敵佔區被敵人幹掉。空降行動是戰損風險最大的軍事行動。不過敖廠長早在14年前的一款打槍遊戲裡面就已經深刻體會到了這種殘酷。榮譽勳章是EA的老牌打槍系列。可是系列的巔峰期很短。現在IP價值基本上無法與使命召喚和戰地系列相比了。當年EA看到這個IP開始走下坡路的時候。就做了一些大膽的嘗試。雖然當時沒有收到太理想的回饋。但現在來看這些嘗試還是非常值得一提的。本期節目的主角就是2007年發售的《榮譽勳章：空降奇兵》。這款14年前發售的遊戲可是引進到國內了的。而且還是這種很酷的鐵盒包裝。
 
 裡面也是國內代理專門精心佈置了一番。07年國內單機遊戲實體正版市場只剩下一口氣了。還能有這種態度確實難得。遊戲在當時使用了虛幻3加強版引擎進行製作。現在能夠完美支持4K解析度運行。現在看起來也是狂絢炸天的。不過最令我印象深刻的是遊戲對於副標題“空降”二字的完美點題。每一關開始都是空降登場。場面十分震撼。不過更有趣的是比起cod系列的空降都是腳本演繹。這裡在玩家跳出機艙的那一刻就把操作權交給了玩家。我們可以選擇在遊戲場景的任何地方進行降落。這種自由度在2007年是十分大膽的設計。而且也確實帶來了戰術多樣性。我們可以降落到有綠色信號煙標注的預定降落點。這裡的地面是安全區域。沒有敵人會妨礙你。你也可以降落到房子的屋頂給敵人搞個偷襲。不過這也使得你無法及時和隊友進行會合。你當然還可以直接降落到敵人總部來個出其不意。但是有可能你在卸掉降落正準備起身前就被敵人圍毆致死了。為了能降落地面迅速起身。我們就需要在訓練關裡面反復練習。
@@ -311,10 +319,11 @@ https://www.youtube.com/watch?v=X8QEpNmVUQI
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=X8QEpNmVUQI"><img src="https://img.youtube.com/vi/X8QEpNmVUQI/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/X8QEpNmVUQI/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/0.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/1.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/2.jpg" />
+<img src="https://img.youtube.com/vi/X8QEpNmVUQI/3.jpg" /></a> <br /><br />
+<hr />
 和春晚一樣。每年冬天暢玩打槍年貨使命召喚系列是絕對的保留內容。今年的《使命召喚先鋒》敖廠長也在第一時間通關了。遊戲的第二關東加行動給我很深刻的印象。本關我們需要空降到敵後摧毀德軍的海防大炮。為次日的諾曼地登陸掃清障礙。而這個行動第一個攔路石就是空降。很多士兵在空降前就因為飛機摧毀命喪雲端。而一些士兵直接落入水塘淹死。最經典的死法莫過於因為降落傘繩掛樹上被吊死。但是死亡率最高的依然是落入敵佔區被敵人幹掉。空降行動是戰損風險最大的軍事行動。不過敖廠長早在14年前的一款打槍遊戲裡面就已經深刻體會到了這種殘酷。榮譽勳章是EA的老牌打槍系列。可是系列的巔峰期很短。現在IP價值基本上無法與使命召喚和戰地系列相比了。當年EA看到這個IP開始走下坡路的時候。就做了一些大膽的嘗試。雖然當時沒有收到太理想的回饋。但現在來看這些嘗試還是非常值得一提的。本期節目的主角就是2007年發售的《榮譽勳章：空降奇兵》。這款14年前發售的遊戲可是引進到國內了的。而且還是這種很酷的鐵盒包裝。
 
 裡面也是國內代理專門精心佈置了一番。07年國內單機遊戲實體正版市場只剩下一口氣了。還能有這種態度確實難得。遊戲在當時使用了虛幻3加強版引擎進行製作。現在能夠完美支持4K解析度運行。現在看起來也是狂絢炸天的。不過最令我印象深刻的是遊戲對於副標題“空降”二字的完美點題。每一關開始都是空降登場。場面十分震撼。不過更有趣的是比起cod系列的空降都是腳本演繹。這裡在玩家跳出機艙的那一刻就把操作權交給了玩家。我們可以選擇在遊戲場景的任何地方進行降落。這種自由度在2007年是十分大膽的設計。而且也確實帶來了戰術多樣性。我們可以降落到有綠色信號煙標注的預定降落點。這裡的地面是安全區域。沒有敵人會妨礙你。你也可以降落到房子的屋頂給敵人搞個偷襲。不過這也使得你無法及時和隊友進行會合。你當然還可以直接降落到敵人總部來個出其不意。但是有可能你在卸掉降落正準備起身前就被敵人圍毆致死了。為了能降落地面迅速起身。我們就需要在訓練關裡面反復練習。
@@ -350,10 +359,11 @@ https://www.youtube.com/watch?v=X8QEpNmVUQI
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=KK0rwW_r0zs"><img src="https://img.youtube.com/vi/KK0rwW_r0zs/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/0.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/1.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/2.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/3.jpg" /></a> <br />
+<hr />
 今天不廢話直接給大家介紹一款經典的FC遊戲淘金者。這是由HUDSON在80年代開發的動作解謎遊戲。之所以說這是解謎遊戲。是因為在遊戲中玩家要想盡辦法。在不被敵人抓到的同時。收集關卡中的所有金塊。後來到了國內這款遊戲還有了一個非常奇葩的叫法。“老鼠偷大米”。因為主角的樣貌較小。玩法又是躲避敵人然後收集金塊。所以很容易讓人聯想到老鼠的形象。只是這個“大米”在今天看來就有點扯淡了。這金閃閃的一大坨也能叫大米讓人有點不禁想問。你家大米是金皮子做的。在遊戲中。玩家可以爬梯子。爬繩子。還可以挖坑。主角手中擁有一個可以一鍵挖坑的神奇道具。一開始我還以為是什麼魔法棒。但後來看到遊戲包裝封面之後才知道這竟然是一把鐳射手槍。但通常情況下這個道具會成為玩家的自殺神器。因為這些被挖掉的磚塊過一段時間就會自動復原。我們玩的時候經常會一不小心掉進自己挖的坑然後把自己坑死。遊戲另一大特點就是敵人的AI。在關卡中他們會死死的跟著你。雖然玩了很久我也一直沒搞清楚他們究竟是以什麼邏輯跟蹤我們的。但我們經常還要利用他們跟蹤我們的特點來讓他們做墊腳石。這樣的遊戲玩法讓《淘金者》這款遊戲給許多玩家留下了很深刻的印象。既然遊戲不錯。那麼當然會繼續推出續作。於是HUDSON沒過多久就發售了《淘金者：冠軍版》。很多人認為這是《淘金者2》。其實不然。
 
 這其實只是利用《淘金者》的關卡編輯器功能製作的關卡合集。所以進入遊戲後我們發現遊戲畫面、玩法完全沒有任何變化。只是關卡有所不同。但冠軍版的關卡難度卻是地獄級的。遊戲的第一關就給玩家來了個下馬威。這複雜程度一開始就直接把我整懵逼了。要是不看攻略我恐怕連第一關都過不去。遊戲還特意在《冠軍版》說明書裡。洋洋灑灑寫了幾十個步驟教你怎麼過第一關。看來連官方都知道這些關卡不是正常人能夠順利過關的。並且這些關卡不僅難以攻略。有的看上去還挺有藝術細胞。你能看到這樣。這樣...還有這樣的關卡。看到這裡你也許想自己也嘗試利用關卡編輯器製作這樣酷炫的關卡。但我想說很遺憾。這些遊戲關卡並不是使用FC淘金者的關卡編輯器來製作的。這又是什麼一情況呢。觀察仔細的觀眾們可能會發現關卡編輯器的尺寸。和冠軍版中的關卡尺寸明顯是對不上的。因為FC淘金者其實是HUDSON把其他平臺的遊戲移植過來的遊戲。除了美術資源。遊戲玩法和關卡都是完全複刻的。HUDSON只是獲得了遊戲的版權做了原版遊戲的複刻版。又由於複刻之後的遊戲可視範圍被縮小了好幾圈。導致FC淘金者的關卡編輯器也只能編輯小一點的關卡。看到這大家應該都明白了。淘金者冠軍版合集其實也是早期的玩家們。利用最原始版本的關卡編輯器來製作的關卡合集。FC淘金者冠軍版也是HUDSON把其他平臺的冠軍版複刻到FC平臺的版本。看到這我都驚了。HUDSON怎麼又是用其他IP版權製作遊戲。臥槽這麼經典的童年回憶難道就不來個真正的正統續作嗎。
@@ -390,10 +400,11 @@ https://www.youtube.com/watch?v=KK0rwW_r0zs
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=KK0rwW_r0zs"><img src="https://img.youtube.com/vi/KK0rwW_r0zs/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/0.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/1.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/2.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/3.jpg" /></a> <br />
+<hr />
 今天不廢話直接給大家介紹一款經典的FC遊戲淘金者。這是由HUDSON在80年代開發的動作解謎遊戲。之所以說這是解謎遊戲。是因為在遊戲中玩家要想盡辦法。在不被敵人抓到的同時。收集關卡中的所有金塊。後來到了國內這款遊戲還有了一個非常奇葩的叫法。“老鼠偷大米”。因為主角的樣貌較小。玩法又是躲避敵人然後收集金塊。所以很容易讓人聯想到老鼠的形象。只是這個“大米”在今天看來就有點扯淡了。這金閃閃的一大坨也能叫大米讓人有點不禁想問。你家大米是金皮子做的。在遊戲中。玩家可以爬梯子。爬繩子。還可以挖坑。主角手中擁有一個可以一鍵挖坑的神奇道具。一開始我還以為是什麼魔法棒。但後來看到遊戲包裝封面之後才知道這竟然是一把鐳射手槍。但通常情況下這個道具會成為玩家的自殺神器。因為這些被挖掉的磚塊過一段時間就會自動復原。我們玩的時候經常會一不小心掉進自己挖的坑然後把自己坑死。遊戲另一大特點就是敵人的AI。在關卡中他們會死死的跟著你。雖然玩了很久我也一直沒搞清楚他們究竟是以什麼邏輯跟蹤我們的。但我們經常還要利用他們跟蹤我們的特點來讓他們做墊腳石。這樣的遊戲玩法讓《淘金者》這款遊戲給許多玩家留下了很深刻的印象。既然遊戲不錯。那麼當然會繼續推出續作。於是HUDSON沒過多久就發售了《淘金者：冠軍版》。很多人認為這是《淘金者2》。其實不然。
 
 這其實只是利用《淘金者》的關卡編輯器功能製作的關卡合集。所以進入遊戲後我們發現遊戲畫面、玩法完全沒有任何變化。只是關卡有所不同。但冠軍版的關卡難度卻是地獄級的。遊戲的第一關就給玩家來了個下馬威。這複雜程度一開始就直接把我整懵逼了。要是不看攻略我恐怕連第一關都過不去。遊戲還特意在《冠軍版》說明書裡。洋洋灑灑寫了幾十個步驟教你怎麼過第一關。看來連官方都知道這些關卡不是正常人能夠順利過關的。並且這些關卡不僅難以攻略。有的看上去還挺有藝術細胞。你能看到這樣。這樣...還有這樣的關卡。看到這裡你也許想自己也嘗試利用關卡編輯器製作這樣酷炫的關卡。但我想說很遺憾。這些遊戲關卡並不是使用FC淘金者的關卡編輯器來製作的。這又是什麼一情況呢。觀察仔細的觀眾們可能會發現關卡編輯器的尺寸。和冠軍版中的關卡尺寸明顯是對不上的。因為FC淘金者其實是HUDSON把其他平臺的遊戲移植過來的遊戲。除了美術資源。遊戲玩法和關卡都是完全複刻的。HUDSON只是獲得了遊戲的版權做了原版遊戲的複刻版。又由於複刻之後的遊戲可視範圍被縮小了好幾圈。導致FC淘金者的關卡編輯器也只能編輯小一點的關卡。看到這大家應該都明白了。淘金者冠軍版合集其實也是早期的玩家們。利用最原始版本的關卡編輯器來製作的關卡合集。FC淘金者冠軍版也是HUDSON把其他平臺的冠軍版複刻到FC平臺的版本。看到這我都驚了。HUDSON怎麼又是用其他IP版權製作遊戲。臥槽這麼經典的童年回憶難道就不來個真正的正統續作嗎。
@@ -429,10 +440,11 @@ https://www.youtube.com/watch?v=KK0rwW_r0zs
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=KK0rwW_r0zs"><img src="https://img.youtube.com/vi/KK0rwW_r0zs/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/KK0rwW_r0zs/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/0.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/1.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/2.jpg" />
+<img src="https://img.youtube.com/vi/KK0rwW_r0zs/3.jpg" /></a> <br /><br />
+<hr />
 今天不廢話直接給大家介紹一款經典的FC遊戲淘金者。這是由HUDSON在80年代開發的動作解謎遊戲。之所以說這是解謎遊戲。是因為在遊戲中玩家要想盡辦法。在不被敵人抓到的同時。收集關卡中的所有金塊。後來到了國內這款遊戲還有了一個非常奇葩的叫法。“老鼠偷大米”。因為主角的樣貌較小。玩法又是躲避敵人然後收集金塊。所以很容易讓人聯想到老鼠的形象。只是這個“大米”在今天看來就有點扯淡了。這金閃閃的一大坨也能叫大米讓人有點不禁想問。你家大米是金皮子做的。在遊戲中。玩家可以爬梯子。爬繩子。還可以挖坑。主角手中擁有一個可以一鍵挖坑的神奇道具。一開始我還以為是什麼魔法棒。但後來看到遊戲包裝封面之後才知道這竟然是一把鐳射手槍。但通常情況下這個道具會成為玩家的自殺神器。因為這些被挖掉的磚塊過一段時間就會自動復原。我們玩的時候經常會一不小心掉進自己挖的坑然後把自己坑死。遊戲另一大特點就是敵人的AI。在關卡中他們會死死的跟著你。雖然玩了很久我也一直沒搞清楚他們究竟是以什麼邏輯跟蹤我們的。但我們經常還要利用他們跟蹤我們的特點來讓他們做墊腳石。這樣的遊戲玩法讓《淘金者》這款遊戲給許多玩家留下了很深刻的印象。既然遊戲不錯。那麼當然會繼續推出續作。於是HUDSON沒過多久就發售了《淘金者：冠軍版》。很多人認為這是《淘金者2》。其實不然。
 
 這其實只是利用《淘金者》的關卡編輯器功能製作的關卡合集。所以進入遊戲後我們發現遊戲畫面、玩法完全沒有任何變化。只是關卡有所不同。但冠軍版的關卡難度卻是地獄級的。遊戲的第一關就給玩家來了個下馬威。這複雜程度一開始就直接把我整懵逼了。要是不看攻略我恐怕連第一關都過不去。遊戲還特意在《冠軍版》說明書裡。洋洋灑灑寫了幾十個步驟教你怎麼過第一關。看來連官方都知道這些關卡不是正常人能夠順利過關的。並且這些關卡不僅難以攻略。有的看上去還挺有藝術細胞。你能看到這樣。這樣...還有這樣的關卡。看到這裡你也許想自己也嘗試利用關卡編輯器製作這樣酷炫的關卡。但我想說很遺憾。這些遊戲關卡並不是使用FC淘金者的關卡編輯器來製作的。這又是什麼一情況呢。觀察仔細的觀眾們可能會發現關卡編輯器的尺寸。和冠軍版中的關卡尺寸明顯是對不上的。因為FC淘金者其實是HUDSON把其他平臺的遊戲移植過來的遊戲。除了美術資源。遊戲玩法和關卡都是完全複刻的。HUDSON只是獲得了遊戲的版權做了原版遊戲的複刻版。又由於複刻之後的遊戲可視範圍被縮小了好幾圈。導致FC淘金者的關卡編輯器也只能編輯小一點的關卡。看到這大家應該都明白了。淘金者冠軍版合集其實也是早期的玩家們。利用最原始版本的關卡編輯器來製作的關卡合集。FC淘金者冠軍版也是HUDSON把其他平臺的冠軍版複刻到FC平臺的版本。看到這我都驚了。HUDSON怎麼又是用其他IP版權製作遊戲。臥槽這麼經典的童年回憶難道就不來個真正的正統續作嗎。
@@ -474,10 +486,11 @@ https://www.youtube.com/watch?v=KK0rwW_r0zs
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=RwX98Q_kbv8"><img src="https://img.youtube.com/vi/RwX98Q_kbv8/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/0.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/1.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/2.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/3.jpg" /></a> <br />
+<hr />
 前段時間敖廠長給大家講過紅白機上的F1賽車遊戲。其中介紹了紅白機平臺實現立體圖像的兩種方法。在硬體機能有限的80年代。除了光柵滾動和關鍵幀動畫能夠實現立體場景以外。還有沒有其他方法呢？1984年SEGA的一款街機平臺的F1賽車遊戲就用更簡單粗暴的方式展現給玩家。他們在那一年推出了街機遊戲《世界大獎賽》（GP WORLD）。他們竟然把真實拍攝的賽道錄影燒錄進LD光碟裡。然後把LD光碟整合到街機裡面。玩家在駕駛賽車的時候。背景賽道就會播放預先錄製的視頻。試圖給人一種身臨其境的感覺。然而實際效果讓人一言難盡。不過這可是一個能夠減少開發成本的有效手段。不過這也讓大家看到了鐳射光碟介質對於圖像的無限可能性。90年代CD-ROM開始實裝到家庭電腦上。隨即誕生了許多真人演員演繹的全動態視頻遊戲。我們曾經講過一期全動態視頻遊戲《收割者》。不過我們看到以上的案例都是真實視頻服務於遊戲互動。即實拍視頻只是作為遊戲的元素出現。比如作為遊戲背景。或者過場動畫這些。但是今天我們要講的案例。卻是讓遊戲互動機制服務於一部完整的電影。我們很多朋友小時候肯定都在DVD播放機上玩過遊戲。
 
 這是因為DVD格式的獨特技術可以相容互動式遊戲環境。這種技術不僅可以讓大家不需要額外硬體就能在DVD機上玩遊戲。也能夠為DVD格式電影提供交互環境。舉個例子。敖廠長小時候就買過007電影的DVD。那時把光碟放進機器不會直接看到電影畫面。而是會看到一個酷絢的功能表動畫。讓觀眾選擇對應的內容。這不免會讓人想像如果讓電影實裝DVD互動技術。會不會帶來新的觀影革命呢?1998年一部叫做《溫柔關懷》的DVD電影面世了。這部電影雖然成本不高。但是卻請到了約翰赫特出演該片。約翰赫特在1980年因出演《象人》。而獲得奧斯卡最佳男主角提名。雖然最後與獎項失之交臂但也證明了其精湛的演技。不過敖廠長對其印象最深的還是。在電影《異型》裡面被破胸蟲開胸暴斃的瞬間。不過除了他以外。《溫柔關懷》裡面的其餘三個主要角色。都是毫無名氣但是顏值爆炸的年輕演員。不過我們需要好好看看電影的內容。故事講述了男主角小帥和妻子小美因為一場車禍失去了自己的女兒。妻子小美無法接受失去女兒的悲傷事實。此後精神恍惚。
@@ -522,10 +535,11 @@ https://www.youtube.com/watch?v=y9M_pR7rMXs\u0026t=149s
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=RwX98Q_kbv8"><img src="https://img.youtube.com/vi/RwX98Q_kbv8/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/0.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/1.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/2.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/3.jpg" /></a> <br />
+<hr />
 前段時間敖廠長給大家講過紅白機上的F1賽車遊戲。其中介紹了紅白機平臺實現立體圖像的兩種方法。在硬體機能有限的80年代。除了光柵滾動和關鍵幀動畫能夠實現立體場景以外。還有沒有其他方法呢？1984年SEGA的一款街機平臺的F1賽車遊戲就用更簡單粗暴的方式展現給玩家。他們在那一年推出了街機遊戲《世界大獎賽》（GP WORLD）。他們竟然把真實拍攝的賽道錄影燒錄進LD光碟裡。然後把LD光碟整合到街機裡面。玩家在駕駛賽車的時候。背景賽道就會播放預先錄製的視頻。試圖給人一種身臨其境的感覺。然而實際效果讓人一言難盡。不過這可是一個能夠減少開發成本的有效手段。不過這也讓大家看到了鐳射光碟介質對於圖像的無限可能性。90年代CD-ROM開始實裝到家庭電腦上。隨即誕生了許多真人演員演繹的全動態視頻遊戲。我們曾經講過一期全動態視頻遊戲《收割者》。不過我們看到以上的案例都是真實視頻服務於遊戲互動。即實拍視頻只是作為遊戲的元素出現。比如作為遊戲背景。或者過場動畫這些。但是今天我們要講的案例。卻是讓遊戲互動機制服務於一部完整的電影。我們很多朋友小時候肯定都在DVD播放機上玩過遊戲。
 
 這是因為DVD格式的獨特技術可以相容互動式遊戲環境。這種技術不僅可以讓大家不需要額外硬體就能在DVD機上玩遊戲。也能夠為DVD格式電影提供交互環境。舉個例子。敖廠長小時候就買過007電影的DVD。那時把光碟放進機器不會直接看到電影畫面。而是會看到一個酷絢的功能表動畫。讓觀眾選擇對應的內容。這不免會讓人想像如果讓電影實裝DVD互動技術。會不會帶來新的觀影革命呢?1998年一部叫做《溫柔關懷》的DVD電影面世了。這部電影雖然成本不高。但是卻請到了約翰赫特出演該片。約翰赫特在1980年因出演《象人》。而獲得奧斯卡最佳男主角提名。雖然最後與獎項失之交臂但也證明了其精湛的演技。不過敖廠長對其印象最深的還是。在電影《異型》裡面被破胸蟲開胸暴斃的瞬間。不過除了他以外。《溫柔關懷》裡面的其餘三個主要角色。都是毫無名氣但是顏值爆炸的年輕演員。不過我們需要好好看看電影的內容。故事講述了男主角小帥和妻子小美因為一場車禍失去了自己的女兒。妻子小美無法接受失去女兒的悲傷事實。此後精神恍惚。
@@ -569,10 +583,11 @@ https://www.youtube.com/watch?v=y9M_pR7rMXs\u0026t=149s
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=RwX98Q_kbv8"><img src="https://img.youtube.com/vi/RwX98Q_kbv8/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/RwX98Q_kbv8/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/0.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/1.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/2.jpg" />
+<img src="https://img.youtube.com/vi/RwX98Q_kbv8/3.jpg" /></a> <br /><br />
+<hr />
 前段時間敖廠長給大家講過紅白機上的F1賽車遊戲。其中介紹了紅白機平臺實現立體圖像的兩種方法。在硬體機能有限的80年代。除了光柵滾動和關鍵幀動畫能夠實現立體場景以外。還有沒有其他方法呢？1984年SEGA的一款街機平臺的F1賽車遊戲就用更簡單粗暴的方式展現給玩家。他們在那一年推出了街機遊戲《世界大獎賽》（GP WORLD）。他們竟然把真實拍攝的賽道錄影燒錄進LD光碟裡。然後把LD光碟整合到街機裡面。玩家在駕駛賽車的時候。背景賽道就會播放預先錄製的視頻。試圖給人一種身臨其境的感覺。然而實際效果讓人一言難盡。不過這可是一個能夠減少開發成本的有效手段。不過這也讓大家看到了鐳射光碟介質對於圖像的無限可能性。90年代CD-ROM開始實裝到家庭電腦上。隨即誕生了許多真人演員演繹的全動態視頻遊戲。我們曾經講過一期全動態視頻遊戲《收割者》。不過我們看到以上的案例都是真實視頻服務於遊戲互動。即實拍視頻只是作為遊戲的元素出現。比如作為遊戲背景。或者過場動畫這些。但是今天我們要講的案例。卻是讓遊戲互動機制服務於一部完整的電影。我們很多朋友小時候肯定都在DVD播放機上玩過遊戲。
 
 這是因為DVD格式的獨特技術可以相容互動式遊戲環境。這種技術不僅可以讓大家不需要額外硬體就能在DVD機上玩遊戲。也能夠為DVD格式電影提供交互環境。舉個例子。敖廠長小時候就買過007電影的DVD。那時把光碟放進機器不會直接看到電影畫面。而是會看到一個酷絢的功能表動畫。讓觀眾選擇對應的內容。這不免會讓人想像如果讓電影實裝DVD互動技術。會不會帶來新的觀影革命呢?1998年一部叫做《溫柔關懷》的DVD電影面世了。這部電影雖然成本不高。但是卻請到了約翰赫特出演該片。約翰赫特在1980年因出演《象人》。而獲得奧斯卡最佳男主角提名。雖然最後與獎項失之交臂但也證明了其精湛的演技。不過敖廠長對其印象最深的還是。在電影《異型》裡面被破胸蟲開胸暴斃的瞬間。不過除了他以外。《溫柔關懷》裡面的其餘三個主要角色。都是毫無名氣但是顏值爆炸的年輕演員。不過我們需要好好看看電影的內容。故事講述了男主角小帥和妻子小美因為一場車禍失去了自己的女兒。妻子小美無法接受失去女兒的悲傷事實。此後精神恍惚。
@@ -622,10 +637,11 @@ https://www.youtube.com/watch?v=y9M_pR7rMXs\u0026t=149s
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=WHq7iPeN1NE"><img src="https://img.youtube.com/vi/WHq7iPeN1NE/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/0.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/1.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/2.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/3.jpg" /></a> <br />
+<hr />
 我最近無聊在翻看自己以前的視頻。簡直是慘不忍睹。尤其是看到自己十年前的遊戲解說視頻。內容頻爆粗鄙之語。感覺非常刺耳。尤其是囧的呼喚103期。完全可以說是在挑戰當今視頻審核的極限。開場第一句就有粗話。視頻最後更是污穢難忍。我沒想到年輕時候的自己竟然如此幼稚。不過這就可惜了當時被我講解的遊戲《真魂鬥羅》。視頻中關於這款遊戲的正事兒是一句沒提。反而被我的不當語言侮辱了一番。過了這麼多年。隨著自己愈發成熟。我決定重新審視這款被自己胡侃過的遊戲。好好的重新介紹給大家。然而我發現我做不到。這款《真魂鬥羅》實在是太難了。“難”其實是魂鬥羅系列的招牌。但是它也不會那麼難。但是《真魂鬥羅》的難卻在於系統別出心裁的設計。這款PS2時期的魂鬥羅作品實際上並沒有因為PS2的大賣而廣為人知。但是卻是我個人認為魂鬥羅系列3D化圖像以來最為成熟的一款作品。3D圖像帶來的只是酷絢的BOSS戰登場演出。遊戲的基本玩法依然原汁原味。既然玩法沒有變化。也就是說玩家經過反復練習通關並不難。但是如果只是通關的話。你就根本看不到這款遊戲最完整的面貌。這是因為每一關過關的時候會有一個評價系統。遊戲的流程完成度就和這個評價系統息息相關。
 
 只有每關的評價在A級。才能開啟最後兩關看到最終結局。那麼怎樣要獲得高評價呢。我們可以看到遊戲介面的上方會有一個擊破率。這就是一個硬指標。擊破率意味著玩家要盡可能多的摧毀敵人的裝備設施。舉一個例子。比如第一關中期有一個小BOSS。如果只是摧毀他。那麼只需要擊毀它中間的核心即可。但是要獲得高擊破率。你就要耐心的摧毀它左右的武器。你就會發現這玩意兒先是導彈發射器。接著變成散射裝置。又變成酸液生成器。最後還要換成大範圍火焰噴射器。打爆後中間核心還要啟動電擊傷害。狗日的一個小BOSS這麼多鬼名堂。你必須要將其破盡才能獲得高擊破率。這就比你直接幹爆它難多了。不過如果一直是這種套路其實熟悉過後也還好。關鍵是遊戲第二關和第四關是高速行進關卡。整個流程發展是被動進行的。玩家在高速進行時的機制下很容易錯過一些敵人導致擊破率不理想。而擊破率不理想的另外一個原因在於遊戲的另一個機制。武器系統。遊戲提供了三種武器可供選擇。基本的機槍。火焰噴射器。滾地榴彈。基本上機槍遠程。火焰近身。
@@ -661,10 +677,11 @@ https://www.youtube.com/watch?v=WHq7iPeN1NE
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=WHq7iPeN1NE"><img src="https://img.youtube.com/vi/WHq7iPeN1NE/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/0.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/1.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/2.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/3.jpg" /></a> <br />
+<hr />
 我最近無聊在翻看自己以前的視頻。簡直是慘不忍睹。尤其是看到自己十年前的遊戲解說視頻。內容頻爆粗鄙之語。感覺非常刺耳。尤其是囧的呼喚103期。完全可以說是在挑戰當今視頻審核的極限。開場第一句就有粗話。視頻最後更是污穢難忍。我沒想到年輕時候的自己竟然如此幼稚。不過這就可惜了當時被我講解的遊戲《真魂鬥羅》。視頻中關於這款遊戲的正事兒是一句沒提。反而被我的不當語言侮辱了一番。過了這麼多年。隨著自己愈發成熟。我決定重新審視這款被自己胡侃過的遊戲。好好的重新介紹給大家。然而我發現我做不到。這款《真魂鬥羅》實在是太難了。“難”其實是魂鬥羅系列的招牌。但是它也不會那麼難。但是《真魂鬥羅》的難卻在於系統別出心裁的設計。這款PS2時期的魂鬥羅作品實際上並沒有因為PS2的大賣而廣為人知。但是卻是我個人認為魂鬥羅系列3D化圖像以來最為成熟的一款作品。3D圖像帶來的只是酷絢的BOSS戰登場演出。遊戲的基本玩法依然原汁原味。既然玩法沒有變化。也就是說玩家經過反復練習通關並不難。但是如果只是通關的話。你就根本看不到這款遊戲最完整的面貌。這是因為每一關過關的時候會有一個評價系統。遊戲的流程完成度就和這個評價系統息息相關。
 
 只有每關的評價在A級。才能開啟最後兩關看到最終結局。那麼怎樣要獲得高評價呢。我們可以看到遊戲介面的上方會有一個擊破率。這就是一個硬指標。擊破率意味著玩家要盡可能多的摧毀敵人的裝備設施。舉一個例子。比如第一關中期有一個小BOSS。如果只是摧毀他。那麼只需要擊毀它中間的核心即可。但是要獲得高擊破率。你就要耐心的摧毀它左右的武器。你就會發現這玩意兒先是導彈發射器。接著變成散射裝置。又變成酸液生成器。最後還要換成大範圍火焰噴射器。打爆後中間核心還要啟動電擊傷害。狗日的一個小BOSS這麼多鬼名堂。你必須要將其破盡才能獲得高擊破率。這就比你直接幹爆它難多了。不過如果一直是這種套路其實熟悉過後也還好。關鍵是遊戲第二關和第四關是高速行進關卡。整個流程發展是被動進行的。玩家在高速進行時的機制下很容易錯過一些敵人導致擊破率不理想。而擊破率不理想的另外一個原因在於遊戲的另一個機制。武器系統。遊戲提供了三種武器可供選擇。基本的機槍。火焰噴射器。滾地榴彈。基本上機槍遠程。火焰近身。
@@ -699,10 +716,11 @@ https://www.youtube.com/watch?v=WHq7iPeN1NE
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=WHq7iPeN1NE"><img src="https://img.youtube.com/vi/WHq7iPeN1NE/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/WHq7iPeN1NE/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/0.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/1.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/2.jpg" />
+<img src="https://img.youtube.com/vi/WHq7iPeN1NE/3.jpg" /></a> <br /><br />
+<hr />
 我最近無聊在翻看自己以前的視頻。簡直是慘不忍睹。尤其是看到自己十年前的遊戲解說視頻。內容頻爆粗鄙之語。感覺非常刺耳。尤其是囧的呼喚103期。完全可以說是在挑戰當今視頻審核的極限。開場第一句就有粗話。視頻最後更是污穢難忍。我沒想到年輕時候的自己竟然如此幼稚。不過這就可惜了當時被我講解的遊戲《真魂鬥羅》。視頻中關於這款遊戲的正事兒是一句沒提。反而被我的不當語言侮辱了一番。過了這麼多年。隨著自己愈發成熟。我決定重新審視這款被自己胡侃過的遊戲。好好的重新介紹給大家。然而我發現我做不到。這款《真魂鬥羅》實在是太難了。“難”其實是魂鬥羅系列的招牌。但是它也不會那麼難。但是《真魂鬥羅》的難卻在於系統別出心裁的設計。這款PS2時期的魂鬥羅作品實際上並沒有因為PS2的大賣而廣為人知。但是卻是我個人認為魂鬥羅系列3D化圖像以來最為成熟的一款作品。3D圖像帶來的只是酷絢的BOSS戰登場演出。遊戲的基本玩法依然原汁原味。既然玩法沒有變化。也就是說玩家經過反復練習通關並不難。但是如果只是通關的話。你就根本看不到這款遊戲最完整的面貌。這是因為每一關過關的時候會有一個評價系統。遊戲的流程完成度就和這個評價系統息息相關。
 
 只有每關的評價在A級。才能開啟最後兩關看到最終結局。那麼怎樣要獲得高評價呢。我們可以看到遊戲介面的上方會有一個擊破率。這就是一個硬指標。擊破率意味著玩家要盡可能多的摧毀敵人的裝備設施。舉一個例子。比如第一關中期有一個小BOSS。如果只是摧毀他。那麼只需要擊毀它中間的核心即可。但是要獲得高擊破率。你就要耐心的摧毀它左右的武器。你就會發現這玩意兒先是導彈發射器。接著變成散射裝置。又變成酸液生成器。最後還要換成大範圍火焰噴射器。打爆後中間核心還要啟動電擊傷害。狗日的一個小BOSS這麼多鬼名堂。你必須要將其破盡才能獲得高擊破率。這就比你直接幹爆它難多了。不過如果一直是這種套路其實熟悉過後也還好。關鍵是遊戲第二關和第四關是高速行進關卡。整個流程發展是被動進行的。玩家在高速進行時的機制下很容易錯過一些敵人導致擊破率不理想。而擊破率不理想的另外一個原因在於遊戲的另一個機制。武器系統。遊戲提供了三種武器可供選擇。基本的機槍。火焰噴射器。滾地榴彈。基本上機槍遠程。火焰近身。
@@ -743,10 +761,11 @@ https://www.youtube.com/watch?v=WHq7iPeN1NE
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=Js9ADIV0tto"><img src="https://img.youtube.com/vi/Js9ADIV0tto/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/0.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/1.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/2.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/3.jpg" /></a> <br />
+<hr />
 Sleeping Dogs熱血無賴。因為類似GTA玩法加上故事發生地是在香港。所以很受國內玩家的喜歡。雖然本作是由歐美的遊戲工作室主持開發。但是對於香港的還原是完全合格的。狹窄的城市街道。斑斕的霓虹燈牌。還有大街上各種本土交通載具配合著中文路牌。的確是能讓十年前的中國玩家感到興奮。香港的夜晚總是那麼的美麗繁華。駕駛著心愛的小車放著穿插著中文歌曲的電臺一路狂奔。這種體驗就算是放到今天也是那麼的珍貴。因為自打十年前熱血無賴發售後。我就再也沒有看到3A級別的以中國城市為背景的開放世界動作遊戲了。值得一提的是。遊戲在2012年末為了迎接蛇年新春的到來。特意在遊戲裡各處掛上了迎新春的標語橫幅。雖然這是在為遊戲DLC“蛇年”作宣傳。但確實是很應景很有氛圍。就在這款遊戲發售後的兩年後。
 
 電子遊戲全面進入第八世代。《熱血無賴》開發商為了能夠在PS4和XBOXONE平臺再賺一筆。便於當年發佈了《熱血無賴終極版》。現在的玩家很熟悉了。凡是能叫終極版的遊戲那基本上會有畫質的提升以及包含所有DLC。就是一次高清強化重制。《熱血無賴終極版》也是這樣。比起原版遊戲針對新世代主機採用了1080P解析度。增加了更先進的光影效果。還有新的氣候效果以及更華麗的破壞物體碰撞。而針對PC平臺還對DX11進行了支持。可以在遊戲本體就很優秀的基礎上再經過一系列畫質的提升。《熱血無賴終極版》完全具備次世代遊戲畫質標準。但是值到今天可能很多玩家都沒有注意的一個事實是。《熱血無賴終極版》的畫質的確很次時代。但是詭異的地方在於我發現。2014年PC版《熱血無賴終極版》的畫質竟然不如2012年PC版《熱血無賴原版》。對於PC玩家來說《熱血無賴終極版》不是畫質的提升而是一次倒退。更可怕的是自從《熱血無賴終極版》上架的同時。畫質更好的《熱血無賴原版》竟然就下架絕版了。
@@ -782,10 +801,11 @@ https://www.youtube.com/watch?v=Js9ADIV0tto
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=Js9ADIV0tto"><img src="https://img.youtube.com/vi/Js9ADIV0tto/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/0.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/1.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/2.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/3.jpg" /></a> <br />
+<hr />
 Sleeping Dogs熱血無賴。因為類似GTA玩法加上故事發生地是在香港。所以很受國內玩家的喜歡。雖然本作是由歐美的遊戲工作室主持開發。但是對於香港的還原是完全合格的。狹窄的城市街道。斑斕的霓虹燈牌。還有大街上各種本土交通載具配合著中文路牌。的確是能讓十年前的中國玩家感到興奮。香港的夜晚總是那麼的美麗繁華。駕駛著心愛的小車放著穿插著中文歌曲的電臺一路狂奔。這種體驗就算是放到今天也是那麼的珍貴。因為自打十年前熱血無賴發售後。我就再也沒有看到3A級別的以中國城市為背景的開放世界動作遊戲了。值得一提的是。遊戲在2012年末為了迎接蛇年新春的到來。特意在遊戲裡各處掛上了迎新春的標語橫幅。雖然這是在為遊戲DLC“蛇年”作宣傳。但確實是很應景很有氛圍。就在這款遊戲發售後的兩年後。
 
 電子遊戲全面進入第八世代。《熱血無賴》開發商為了能夠在PS4和XBOXONE平臺再賺一筆。便於當年發佈了《熱血無賴終極版》。現在的玩家很熟悉了。凡是能叫終極版的遊戲那基本上會有畫質的提升以及包含所有DLC。就是一次高清強化重制。《熱血無賴終極版》也是這樣。比起原版遊戲針對新世代主機採用了1080P解析度。增加了更先進的光影效果。還有新的氣候效果以及更華麗的破壞物體碰撞。而針對PC平臺還對DX11進行了支持。可以在遊戲本體就很優秀的基礎上再經過一系列畫質的提升。《熱血無賴終極版》完全具備次世代遊戲畫質標準。但是值到今天可能很多玩家都沒有注意的一個事實是。《熱血無賴終極版》的畫質的確很次時代。但是詭異的地方在於我發現。2014年PC版《熱血無賴終極版》的畫質竟然不如2012年PC版《熱血無賴原版》。對於PC玩家來說《熱血無賴終極版》不是畫質的提升而是一次倒退。更可怕的是自從《熱血無賴終極版》上架的同時。畫質更好的《熱血無賴原版》竟然就下架絕版了。
@@ -820,10 +840,11 @@ https://www.youtube.com/watch?v=Js9ADIV0tto
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=Js9ADIV0tto"><img src="https://img.youtube.com/vi/Js9ADIV0tto/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/Js9ADIV0tto/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/0.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/1.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/2.jpg" />
+<img src="https://img.youtube.com/vi/Js9ADIV0tto/3.jpg" /></a> <br /><br />
+<hr />
 Sleeping Dogs熱血無賴。因為類似GTA玩法加上故事發生地是在香港。所以很受國內玩家的喜歡。雖然本作是由歐美的遊戲工作室主持開發。但是對於香港的還原是完全合格的。狹窄的城市街道。斑斕的霓虹燈牌。還有大街上各種本土交通載具配合著中文路牌。的確是能讓十年前的中國玩家感到興奮。香港的夜晚總是那麼的美麗繁華。駕駛著心愛的小車放著穿插著中文歌曲的電臺一路狂奔。這種體驗就算是放到今天也是那麼的珍貴。因為自打十年前熱血無賴發售後。我就再也沒有看到3A級別的以中國城市為背景的開放世界動作遊戲了。值得一提的是。遊戲在2012年末為了迎接蛇年新春的到來。特意在遊戲裡各處掛上了迎新春的標語橫幅。雖然這是在為遊戲DLC“蛇年”作宣傳。但確實是很應景很有氛圍。就在這款遊戲發售後的兩年後。
 
 電子遊戲全面進入第八世代。《熱血無賴》開發商為了能夠在PS4和XBOXONE平臺再賺一筆。便於當年發佈了《熱血無賴終極版》。現在的玩家很熟悉了。凡是能叫終極版的遊戲那基本上會有畫質的提升以及包含所有DLC。就是一次高清強化重制。《熱血無賴終極版》也是這樣。比起原版遊戲針對新世代主機採用了1080P解析度。增加了更先進的光影效果。還有新的氣候效果以及更華麗的破壞物體碰撞。而針對PC平臺還對DX11進行了支持。可以在遊戲本體就很優秀的基礎上再經過一系列畫質的提升。《熱血無賴終極版》完全具備次世代遊戲畫質標準。但是值到今天可能很多玩家都沒有注意的一個事實是。《熱血無賴終極版》的畫質的確很次時代。但是詭異的地方在於我發現。2014年PC版《熱血無賴終極版》的畫質竟然不如2012年PC版《熱血無賴原版》。對於PC玩家來說《熱血無賴終極版》不是畫質的提升而是一次倒退。更可怕的是自從《熱血無賴終極版》上架的同時。畫質更好的《熱血無賴原版》竟然就下架絕版了。
@@ -864,10 +885,11 @@ https://www.youtube.com/watch?v=Js9ADIV0tto
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=IFwtCNmS8UU"><img src="https://img.youtube.com/vi/IFwtCNmS8UU/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/0.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/1.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/2.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/3.jpg" /></a> <br />
+<hr />
 我相信很多朋友小時候都玩過這款紅白機平臺的F1賽車。這個遊戲在當時很新奇的。因為我們見到的紅白機圖像移動要麼是這種X座標橫軸。要麼是這種Y座標縱軸。而這款F1賽車的賽道遠小近大很有立體感。尤其是遇到賽道轉彎的時候3維空間感太足了。感覺像是Z座標豎軸移動。遊戲當時發佈於1984年。大家都被這種超前的圖像表現力驚呆了。使得這款遊戲和其設計者岩田聰一舉成名。這款遊戲基於現實的世界一級方程式錦標賽。連遊戲的封面都是在照抄真實比賽照片。而遊戲本身沒有什麼好說的地方。玩家開始選擇技術等級。然後依次在十條不同的賽道上和其他方程式賽車同台競技。遊戲的賽道越到後面彎道就越多。難度自然也就逐級提升了。很多玩過這款遊戲的玩家都知道。這款遊戲其實到了第五個賽道就根本過不去了。因為無論如何時間都會在這個賽道耗盡。這也是遊戲史上一個很難的勸退點。其實真實原因是遊戲最低技術等級預設第五關為最後一關。因此會在這一關無限迴圈。
 
 選擇高的技術等級就能玩到後面的賽道了。有趣的是遊戲的畫面實際上分為兩個部分。上半部分是靜止不動的賽道背景。就算玩家如何移動這個背景都是靜止的。不過在遇到彎道的時候背景就會左右移動。遊戲預設的背景圖層很寬。根據左右彎道變化就可以同時變換景別。然後是遊戲的背景顏色和風景也是隨機的。每次進入可能都不一樣。而畫面的下半部分是整個遊戲圖像的核心技術所在。提供了在1984年看來立體空間感十足的賽道。這種圖像技術對於紅白機平臺來說是前所未有的。維琪百科說到了這是一種叫做光柵滾動（ Raster Scrolling）的技術。F1賽車是紅白機上第一款運用光柵滾動技術的遊戲。正是因為這種技術讓遊戲的賽道呈現出空間立體感。不過這款遊戲開發的時候還是經歷了不小的困難。因為當時紅白機遊戲程式設計系統沒有內置這種技術。因此岩田聰和其團隊從頭進行程式設計開發。這種技術誕生後。我們就在以後的很多款紅白機遊戲裡面看到了類似的展現。可以說光柵滾動技術掀起了紅白機平臺新的圖像革命。甚至這種技術對以後的F-Zero系列和馬里奧賽車系列都產生了影響。但是問題了。
@@ -922,10 +944,11 @@ https://www.youtube.com/watch?v=IJ1PhCnl0bQ
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=IFwtCNmS8UU"><img src="https://img.youtube.com/vi/IFwtCNmS8UU/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/0.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/1.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/2.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/3.jpg" /></a> <br />
+<hr />
 我相信很多朋友小時候都玩過這款紅白機平臺的F1賽車。這個遊戲在當時很新奇的。因為我們見到的紅白機圖像移動要麼是這種X座標橫軸。要麼是這種Y座標縱軸。而這款F1賽車的賽道遠小近大很有立體感。尤其是遇到賽道轉彎的時候3維空間感太足了。感覺像是Z座標豎軸移動。遊戲當時發佈於1984年。大家都被這種超前的圖像表現力驚呆了。使得這款遊戲和其設計者岩田聰一舉成名。這款遊戲基於現實的世界一級方程式錦標賽。連遊戲的封面都是在照抄真實比賽照片。而遊戲本身沒有什麼好說的地方。玩家開始選擇技術等級。然後依次在十條不同的賽道上和其他方程式賽車同台競技。遊戲的賽道越到後面彎道就越多。難度自然也就逐級提升了。很多玩過這款遊戲的玩家都知道。這款遊戲其實到了第五個賽道就根本過不去了。因為無論如何時間都會在這個賽道耗盡。這也是遊戲史上一個很難的勸退點。其實真實原因是遊戲最低技術等級預設第五關為最後一關。因此會在這一關無限迴圈。
 
 選擇高的技術等級就能玩到後面的賽道了。有趣的是遊戲的畫面實際上分為兩個部分。上半部分是靜止不動的賽道背景。就算玩家如何移動這個背景都是靜止的。不過在遇到彎道的時候背景就會左右移動。遊戲預設的背景圖層很寬。根據左右彎道變化就可以同時變換景別。然後是遊戲的背景顏色和風景也是隨機的。每次進入可能都不一樣。而畫面的下半部分是整個遊戲圖像的核心技術所在。提供了在1984年看來立體空間感十足的賽道。這種圖像技術對於紅白機平臺來說是前所未有的。維琪百科說到了這是一種叫做光柵滾動（ Raster Scrolling）的技術。F1賽車是紅白機上第一款運用光柵滾動技術的遊戲。正是因為這種技術讓遊戲的賽道呈現出空間立體感。不過這款遊戲開發的時候還是經歷了不小的困難。因為當時紅白機遊戲程式設計系統沒有內置這種技術。因此岩田聰和其團隊從頭進行程式設計開發。這種技術誕生後。我們就在以後的很多款紅白機遊戲裡面看到了類似的展現。可以說光柵滾動技術掀起了紅白機平臺新的圖像革命。甚至這種技術對以後的F-Zero系列和馬里奧賽車系列都產生了影響。但是問題了。
@@ -979,10 +1002,11 @@ https://www.youtube.com/watch?v=IJ1PhCnl0bQ
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=IFwtCNmS8UU"><img src="https://img.youtube.com/vi/IFwtCNmS8UU/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/IFwtCNmS8UU/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/0.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/1.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/2.jpg" />
+<img src="https://img.youtube.com/vi/IFwtCNmS8UU/3.jpg" /></a> <br /><br />
+<hr />
 我相信很多朋友小時候都玩過這款紅白機平臺的F1賽車。這個遊戲在當時很新奇的。因為我們見到的紅白機圖像移動要麼是這種X座標橫軸。要麼是這種Y座標縱軸。而這款F1賽車的賽道遠小近大很有立體感。尤其是遇到賽道轉彎的時候3維空間感太足了。感覺像是Z座標豎軸移動。遊戲當時發佈於1984年。大家都被這種超前的圖像表現力驚呆了。使得這款遊戲和其設計者岩田聰一舉成名。這款遊戲基於現實的世界一級方程式錦標賽。連遊戲的封面都是在照抄真實比賽照片。而遊戲本身沒有什麼好說的地方。玩家開始選擇技術等級。然後依次在十條不同的賽道上和其他方程式賽車同台競技。遊戲的賽道越到後面彎道就越多。難度自然也就逐級提升了。很多玩過這款遊戲的玩家都知道。這款遊戲其實到了第五個賽道就根本過不去了。因為無論如何時間都會在這個賽道耗盡。這也是遊戲史上一個很難的勸退點。其實真實原因是遊戲最低技術等級預設第五關為最後一關。因此會在這一關無限迴圈。
 
 選擇高的技術等級就能玩到後面的賽道了。有趣的是遊戲的畫面實際上分為兩個部分。上半部分是靜止不動的賽道背景。就算玩家如何移動這個背景都是靜止的。不過在遇到彎道的時候背景就會左右移動。遊戲預設的背景圖層很寬。根據左右彎道變化就可以同時變換景別。然後是遊戲的背景顏色和風景也是隨機的。每次進入可能都不一樣。而畫面的下半部分是整個遊戲圖像的核心技術所在。提供了在1984年看來立體空間感十足的賽道。這種圖像技術對於紅白機平臺來說是前所未有的。維琪百科說到了這是一種叫做光柵滾動（ Raster Scrolling）的技術。F1賽車是紅白機上第一款運用光柵滾動技術的遊戲。正是因為這種技術讓遊戲的賽道呈現出空間立體感。不過這款遊戲開發的時候還是經歷了不小的困難。因為當時紅白機遊戲程式設計系統沒有內置這種技術。因此岩田聰和其團隊從頭進行程式設計開發。這種技術誕生後。我們就在以後的很多款紅白機遊戲裡面看到了類似的展現。可以說光柵滾動技術掀起了紅白機平臺新的圖像革命。甚至這種技術對以後的F-Zero系列和馬里奧賽車系列都產生了影響。但是問題了。
@@ -1042,10 +1066,11 @@ https://www.youtube.com/watch?v=IJ1PhCnl0bQ
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=n-5yizgqHS0"><img src="https://img.youtube.com/vi/n-5yizgqHS0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/0.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/1.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/2.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/3.jpg" /></a> <br />
+<hr />
 對80後90後而言。拓麻歌子應該不是一個陌生的名字。即便更多人只知道它的別稱。電子寵物。1996年。萬代發售第一代拓麻歌子。以雞蛋為造型。加入手錶的計時功能。於是就有了日文。Tamago（蛋）結合Watch（手錶）的。Tamagotchi這個名字。玩家需要不斷餵食 陪玩 陪睡 看病。來促進寵物的生長。別看它萌萌噠。就成功激怒一個成年人這點來說。拓麻歌子是成功的。尤其是當你擁有七台的時候。剛出生那會簡直是地獄模式。每兩分鐘就吵著要吃飯拉屎。每半小時就要生一場病。那此起彼伏的滴滴聲。想像下七個人同時敲你的腦袋。讓他們閉嘴的最好方法就是。
 
 飯要吃飽。蛋糕也不能少。前者扛餓。後者提供快樂。看著娃在無限甜食的環境中一天天長胖。老父親揪心了起來。嗯嗯果然多做運動。才是減肥的正確方法。又能刷好感度。當然拓麻歌子的系統機制。也不是都那麼人性化。比如經常拉完屎後長睡不醒。大便只能擱一夜。不能忍。而且好幾次遇到晚上一忙忘了餵食。結果隔天一覺醒來發現。已經GG的殘酷現實。誒寵物一旦睡覺。就什麼都不能做。真的很令人抓狂。又比如蛋糕只能增加愉快程度。卻不能用來填飽肚子。這太不科學了。
@@ -1076,10 +1101,11 @@ https://www.youtube.com/watch?v=n-5yizgqHS0
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=n-5yizgqHS0"><img src="https://img.youtube.com/vi/n-5yizgqHS0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/0.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/1.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/2.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/3.jpg" /></a> <br />
+<hr />
 對80後90後而言。拓麻歌子應該不是一個陌生的名字。即便更多人只知道它的別稱。電子寵物。1996年。萬代發售第一代拓麻歌子。以雞蛋為造型。加入手錶的計時功能。於是就有了日文。Tamago（蛋）結合Watch（手錶）的。Tamagotchi這個名字。玩家需要不斷餵食 陪玩 陪睡 看病。來促進寵物的生長。別看它萌萌噠。就成功激怒一個成年人這點來說。拓麻歌子是成功的。尤其是當你擁有七台的時候。剛出生那會簡直是地獄模式。每兩分鐘就吵著要吃飯拉屎。每半小時就要生一場病。那此起彼伏的滴滴聲。想像下七個人同時敲你的腦袋。讓他們閉嘴的最好方法就是。
 
 飯要吃飽。蛋糕也不能少。前者扛餓。後者提供快樂。看著娃在無限甜食的環境中一天天長胖。老父親揪心了起來。嗯嗯果然多做運動。才是減肥的正確方法。又能刷好感度。當然拓麻歌子的系統機制。也不是都那麼人性化。比如經常拉完屎後長睡不醒。大便只能擱一夜。不能忍。而且好幾次遇到晚上一忙忘了餵食。結果隔天一覺醒來發現。已經GG的殘酷現實。誒寵物一旦睡覺。就什麼都不能做。真的很令人抓狂。又比如蛋糕只能增加愉快程度。卻不能用來填飽肚子。這太不科學了。
@@ -1109,10 +1135,11 @@ https://www.youtube.com/watch?v=n-5yizgqHS0
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=n-5yizgqHS0"><img src="https://img.youtube.com/vi/n-5yizgqHS0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/n-5yizgqHS0/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/0.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/1.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/2.jpg" />
+<img src="https://img.youtube.com/vi/n-5yizgqHS0/3.jpg" /></a> <br /><br />
+<hr />
 對80後90後而言。拓麻歌子應該不是一個陌生的名字。即便更多人只知道它的別稱。電子寵物。1996年。萬代發售第一代拓麻歌子。以雞蛋為造型。加入手錶的計時功能。於是就有了日文。Tamago（蛋）結合Watch（手錶）的。Tamagotchi這個名字。玩家需要不斷餵食 陪玩 陪睡 看病。來促進寵物的生長。別看它萌萌噠。就成功激怒一個成年人這點來說。拓麻歌子是成功的。尤其是當你擁有七台的時候。剛出生那會簡直是地獄模式。每兩分鐘就吵著要吃飯拉屎。每半小時就要生一場病。那此起彼伏的滴滴聲。想像下七個人同時敲你的腦袋。讓他們閉嘴的最好方法就是。
 
 飯要吃飽。蛋糕也不能少。前者扛餓。後者提供快樂。看著娃在無限甜食的環境中一天天長胖。老父親揪心了起來。嗯嗯果然多做運動。才是減肥的正確方法。又能刷好感度。當然拓麻歌子的系統機制。也不是都那麼人性化。比如經常拉完屎後長睡不醒。大便只能擱一夜。不能忍。而且好幾次遇到晚上一忙忘了餵食。結果隔天一覺醒來發現。已經GG的殘酷現實。誒寵物一旦睡覺。就什麼都不能做。真的很令人抓狂。又比如蛋糕只能增加愉快程度。卻不能用來填飽肚子。這太不科學了。
@@ -1148,10 +1175,11 @@ https://www.youtube.com/watch?v=n-5yizgqHS0
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=xJRj6RqAy1Y"><img src="https://img.youtube.com/vi/xJRj6RqAy1Y/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/0.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/1.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/2.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/3.jpg" /></a> <br />
+<hr />
 上期節目我們提到了一款經典的FC遊戲《冒險島》。看過節目後大家方知原來《冒險島》竟然是《神奇小子》的換皮版本。不過很多觀眾都反映。說《冒險島》這麼經典的童年遊戲。你竟然只講了幕後的故事。為什麼不深入的解析一下遊戲本身呢。那麼敖廠長今天就給大家好好介紹一下《冒險島》。我們知道《冒險島》最大的特徵就是標題冠有“高橋名人”之名。高橋名人不是遊戲設計者。而是人氣電玩高手。在遊戲中玩家扮演裸露全身的他去救自己心愛的公主TINA。最大問題就在這。如果不是因為遊戲正版說明書提前告知劇情的話。玩家在遊戲中穿越丘陵。踏雲渡海。勇闖冰窟。神殿鏖戰。但是根本就都不知道高橋名人在遊戲裡面的目的是什麼。因為遊戲一是沒有幕前劇情。二是鮮少有人通關過這款遊戲。雖然大家對《冒險島》的諸多場景歷歷在目。但是卻很少有人能夠準確說出《冒險島》究竟有多少關。這到底是為什麼呢？這還是因為《冒險島》本身的設計問題。很多玩家都知道。遊戲的第四關最後會有一場BOSS戰。獲勝後遊戲的場景就開始不斷重複。這樣就會造成遊玩新鮮感下降。再加上後面關卡難度變態。導致遊戲通關率極低。那麼今天大家就跟我一起去看看《冒險島》後面是什麼樣的。彌補大家沒有通關的遺憾。在很多視頻製作上敖廠長一般都是先查資料寫大綱。再去收集素材。而這期節目確實罕見的先錄製遊戲素材。在通過實際遊戲的經歷去寫大綱。這麼做的目的也是想看看僅憑自己的探索。能發現哪些有趣的要素。通關遊戲後。我可以準確告訴大家。《冒險島》是可以通關的。整個遊戲有八個大關。每個大關裡面有四個小關。
 
 遊戲的機制就是操作高橋名人一路殺敵闖關。不過遊戲中高橋名人的精力會慢慢流失。我們需要吃水果來延時持久。不過水果再持久還是不如牛奶。我們知道遊戲很多道具藏在雞蛋裡。而有時雞蛋裡面會有牛奶。可以一次性大量補充高橋名人的精力。讓他如沐春風。遊戲中高橋名人的可使用道具有三種。一種是飛錘。這種武器只能殺敵。但是對石頭無效。另一種是麻雀兒。反正我小時候就覺得他射出去的是麻雀兒。這種武器可以看作是飛錘的升級。可以射爆石頭或落石。第三種道具就是滑板。踩了滑板雖然短平快但得卻可以節省很多時間。而且滑板相當於為高橋名人上了一道保險。可以為其擋下一次傷害。最後就是分數機制。這也是當年大多數遊戲必須有的要素。《冒險島》也不例外。通過分數機制激勵玩家前進和獎勵小命。明面上跟分數有關道具只有兩種。一種是每關都有一個的獎盃。拾取後會在過關統計介面為玩家上分。不過這個獎盃越到後面越難獲得。尤其是最後幾關這個獎盃居然會偽裝成紅蛇蛇或篝火。除了獎盃有時候雞蛋裡面會爆出白花。小時候根本不知道這朵花的用處。因為得到過後沒有任何效果大概只是為了好看？後來有了正版說明書才知道。花的作用是讓那些需要空中採摘的水果延時效果更好。不過在通關遊戲後。我還發現了幾個根本就沒有官方記載的隱藏道具。一種是這種紅寶石戒指。這個紅寶石戒指是不是跟劇情有關。或許是通關後送給女友的禮物。反正目前看來作用就是加分。然後我們知道遊戲的牛奶可以大量補充精力。但是後面有關卡居然會爆出紅色牛奶。此物可以一次性將高橋名人精力加滿讓他重拾男兒自信。
@@ -1208,10 +1236,11 @@ https://www.youtube.com/watch?v=amRwK_KGj8c\u0026t=3s
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=xJRj6RqAy1Y"><img src="https://img.youtube.com/vi/xJRj6RqAy1Y/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/0.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/1.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/2.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/3.jpg" /></a> <br />
+<hr />
 上期節目我們提到了一款經典的FC遊戲《冒險島》。看過節目後大家方知原來《冒險島》竟然是《神奇小子》的換皮版本。不過很多觀眾都反映。說《冒險島》這麼經典的童年遊戲。你竟然只講了幕後的故事。為什麼不深入的解析一下遊戲本身呢。那麼敖廠長今天就給大家好好介紹一下《冒險島》。我們知道《冒險島》最大的特徵就是標題冠有“高橋名人”之名。高橋名人不是遊戲設計者。而是人氣電玩高手。在遊戲中玩家扮演裸露全身的他去救自己心愛的公主TINA。最大問題就在這。如果不是因為遊戲正版說明書提前告知劇情的話。玩家在遊戲中穿越丘陵。踏雲渡海。勇闖冰窟。神殿鏖戰。但是根本就都不知道高橋名人在遊戲裡面的目的是什麼。因為遊戲一是沒有幕前劇情。二是鮮少有人通關過這款遊戲。雖然大家對《冒險島》的諸多場景歷歷在目。但是卻很少有人能夠準確說出《冒險島》究竟有多少關。這到底是為什麼呢？這還是因為《冒險島》本身的設計問題。很多玩家都知道。遊戲的第四關最後會有一場BOSS戰。獲勝後遊戲的場景就開始不斷重複。這樣就會造成遊玩新鮮感下降。再加上後面關卡難度變態。導致遊戲通關率極低。那麼今天大家就跟我一起去看看《冒險島》後面是什麼樣的。彌補大家沒有通關的遺憾。在很多視頻製作上敖廠長一般都是先查資料寫大綱。再去收集素材。而這期節目確實罕見的先錄製遊戲素材。在通過實際遊戲的經歷去寫大綱。這麼做的目的也是想看看僅憑自己的探索。能發現哪些有趣的要素。通關遊戲後。我可以準確告訴大家。《冒險島》是可以通關的。整個遊戲有八個大關。每個大關裡面有四個小關。
 
 遊戲的機制就是操作高橋名人一路殺敵闖關。不過遊戲中高橋名人的精力會慢慢流失。我們需要吃水果來延時持久。不過水果再持久還是不如牛奶。我們知道遊戲很多道具藏在雞蛋裡。而有時雞蛋裡面會有牛奶。可以一次性大量補充高橋名人的精力。讓他如沐春風。遊戲中高橋名人的可使用道具有三種。一種是飛錘。這種武器只能殺敵。但是對石頭無效。另一種是麻雀兒。反正我小時候就覺得他射出去的是麻雀兒。這種武器可以看作是飛錘的升級。可以射爆石頭或落石。第三種道具就是滑板。踩了滑板雖然短平快但得卻可以節省很多時間。而且滑板相當於為高橋名人上了一道保險。可以為其擋下一次傷害。最後就是分數機制。這也是當年大多數遊戲必須有的要素。《冒險島》也不例外。通過分數機制激勵玩家前進和獎勵小命。明面上跟分數有關道具只有兩種。一種是每關都有一個的獎盃。拾取後會在過關統計介面為玩家上分。不過這個獎盃越到後面越難獲得。尤其是最後幾關這個獎盃居然會偽裝成紅蛇蛇或篝火。除了獎盃有時候雞蛋裡面會爆出白花。小時候根本不知道這朵花的用處。因為得到過後沒有任何效果大概只是為了好看？後來有了正版說明書才知道。花的作用是讓那些需要空中採摘的水果延時效果更好。不過在通關遊戲後。我還發現了幾個根本就沒有官方記載的隱藏道具。一種是這種紅寶石戒指。這個紅寶石戒指是不是跟劇情有關。或許是通關後送給女友的禮物。反正目前看來作用就是加分。然後我們知道遊戲的牛奶可以大量補充精力。但是後面有關卡居然會爆出紅色牛奶。此物可以一次性將高橋名人精力加滿讓他重拾男兒自信。
@@ -1267,10 +1296,11 @@ https://www.youtube.com/watch?v=amRwK_KGj8c\u0026t=3s
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=xJRj6RqAy1Y"><img src="https://img.youtube.com/vi/xJRj6RqAy1Y/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/0.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/1.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/2.jpg" />
+<img src="https://img.youtube.com/vi/xJRj6RqAy1Y/3.jpg" /></a> <br /><br />
+<hr />
 上期節目我們提到了一款經典的FC遊戲《冒險島》。看過節目後大家方知原來《冒險島》竟然是《神奇小子》的換皮版本。不過很多觀眾都反映。說《冒險島》這麼經典的童年遊戲。你竟然只講了幕後的故事。為什麼不深入的解析一下遊戲本身呢。那麼敖廠長今天就給大家好好介紹一下《冒險島》。我們知道《冒險島》最大的特徵就是標題冠有“高橋名人”之名。高橋名人不是遊戲設計者。而是人氣電玩高手。在遊戲中玩家扮演裸露全身的他去救自己心愛的公主TINA。最大問題就在這。如果不是因為遊戲正版說明書提前告知劇情的話。玩家在遊戲中穿越丘陵。踏雲渡海。勇闖冰窟。神殿鏖戰。但是根本就都不知道高橋名人在遊戲裡面的目的是什麼。因為遊戲一是沒有幕前劇情。二是鮮少有人通關過這款遊戲。雖然大家對《冒險島》的諸多場景歷歷在目。但是卻很少有人能夠準確說出《冒險島》究竟有多少關。這到底是為什麼呢？這還是因為《冒險島》本身的設計問題。很多玩家都知道。遊戲的第四關最後會有一場BOSS戰。獲勝後遊戲的場景就開始不斷重複。這樣就會造成遊玩新鮮感下降。再加上後面關卡難度變態。導致遊戲通關率極低。那麼今天大家就跟我一起去看看《冒險島》後面是什麼樣的。彌補大家沒有通關的遺憾。在很多視頻製作上敖廠長一般都是先查資料寫大綱。再去收集素材。而這期節目確實罕見的先錄製遊戲素材。在通過實際遊戲的經歷去寫大綱。這麼做的目的也是想看看僅憑自己的探索。能發現哪些有趣的要素。通關遊戲後。我可以準確告訴大家。《冒險島》是可以通關的。整個遊戲有八個大關。每個大關裡面有四個小關。
 
 遊戲的機制就是操作高橋名人一路殺敵闖關。不過遊戲中高橋名人的精力會慢慢流失。我們需要吃水果來延時持久。不過水果再持久還是不如牛奶。我們知道遊戲很多道具藏在雞蛋裡。而有時雞蛋裡面會有牛奶。可以一次性大量補充高橋名人的精力。讓他如沐春風。遊戲中高橋名人的可使用道具有三種。一種是飛錘。這種武器只能殺敵。但是對石頭無效。另一種是麻雀兒。反正我小時候就覺得他射出去的是麻雀兒。這種武器可以看作是飛錘的升級。可以射爆石頭或落石。第三種道具就是滑板。踩了滑板雖然短平快但得卻可以節省很多時間。而且滑板相當於為高橋名人上了一道保險。可以為其擋下一次傷害。最後就是分數機制。這也是當年大多數遊戲必須有的要素。《冒險島》也不例外。通過分數機制激勵玩家前進和獎勵小命。明面上跟分數有關道具只有兩種。一種是每關都有一個的獎盃。拾取後會在過關統計介面為玩家上分。不過這個獎盃越到後面越難獲得。尤其是最後幾關這個獎盃居然會偽裝成紅蛇蛇或篝火。除了獎盃有時候雞蛋裡面會爆出白花。小時候根本不知道這朵花的用處。因為得到過後沒有任何效果大概只是為了好看？後來有了正版說明書才知道。花的作用是讓那些需要空中採摘的水果延時效果更好。不過在通關遊戲後。我還發現了幾個根本就沒有官方記載的隱藏道具。一種是這種紅寶石戒指。這個紅寶石戒指是不是跟劇情有關。或許是通關後送給女友的禮物。反正目前看來作用就是加分。然後我們知道遊戲的牛奶可以大量補充精力。但是後面有關卡居然會爆出紅色牛奶。此物可以一次性將高橋名人精力加滿讓他重拾男兒自信。
@@ -1332,10 +1362,11 @@ https://www.youtube.com/watch?v=amRwK_KGj8c\u0026t=3s
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=JqsfhB1zfO0"><img src="https://img.youtube.com/vi/JqsfhB1zfO0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/0.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/1.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/2.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/3.jpg" /></a> <br />
+<hr />
 敖廠長最近突然想起了一盤很早以前。哥們兒從美國給我寄來的遊戲。當時漂洋過海也是大費周章。疫情加上運輸周轉問題。居然在海上漂泊了數月之久。更讓敖廠長沒想到的是。等到運輸到達之後。這個 27 年前的遊戲居然容光煥發重新再起。借著當時賽博朋克的熱潮上架了 steam。供玩家免費下載。所以這個碟片似乎也就沒有什麼用處了。不過敖廠長對於這個叫作。《beneath a steel sky》的遊戲還是饒有興致。帶大家一同感受一下。上世紀的賽博朋克又描繪出了一個什麼樣的未來。這款由英國 revolution software 開發的遊戲。也算是早期電腦遊戲作品中比較知名的了。開場一段精緻的漫畫就揭示了遊戲的故事背景。主要講述的就是從小被荒地居民撫養長大的主角 foster。突然被來自 union city 的武裝人員找上門來。並許諾只要他願意前往 union city。便會放過他在荒野的親人。危急關頭 foster 挺身而出。決定跟隨武裝人員前往城市。怎料對方言而無信直接核平了村莊。但是 foster 一行前往城市的航班也並不順利。飛機飛抵城市上空時意外墜毀。而死裡逃生的 foster 也正式開啟了逃亡之路。遊戲本身就是操作簡單的點擊拾取物品。然後進行對話使用來解謎通關既可。對於現在的玩家來說那還不就是駕輕就熟。不過很多情節需要玩家跟上遊戲製作者的腦回路!比如剛剛落地城中守衛得知。有人進入城市炸毀飛機便會加強警備。如果貿然行動就會這樣。而且還會播放一個看起來有些嚇人的死亡畫面!正確的解謎方式是使用撬棍。打開走廊盡頭的鐵門。吸引守衛前來查看使用一招調虎離山。才能成功脫險。不過要是依敖廠長之見。就該趁他觀望的時候。爆他菊花一腳把他踹下去。隨後在廢棄的垃圾堆裡。可以找到一個癱瘓的掃地機器人。將主角的機器人夥伴 joey 的主機板放到裡面。便能復活機器人。這個 joey 是主角在荒野居住時製作的智慧型機器人夥伴。只需要放入相容主機板的機器便能復活。看來上世紀的人們。對於未來的展望還是脫不開機器人和高水準工業的暢想啊。經過一定程度的深入瞭解。我們可以知道。這個所謂的 union city 其實是一個貧富差距很大的城市。城市由上而下的幾層分別對應了貧民窟。中產階級和最底部的富人區。有的觀眾就要問了。為什麼最有錢的住在最底下呢?其實是因為大肆發展工業。空氣污染已經達到了前所未有的程度。只有底層才能有些許新鮮空氣。同時我們從劇情對話中也知道。整個城市的管理則是議會制度。不過特別的地方在於這個議會。使用一個名叫 linc 的系統來管理城市。雖然聽起來像是非常高級的統治方式。但是在城市中能看到卻是在這樣的統治下。沒有平等。沒有人權。有的只是巨大的社會貧富差距和無止境的壓迫。以及毫不作為的城市官員。而具體 linc 系統是什麼樣子。我們在劇情中也可以親自進去體驗。因為主角 foster 需要合適的身份。才能在城市裡合法活動。於是需要駭入 linc 系統來調高身份。嗯...駭客元素有了。這真是有那味兒了...這裡的話我們需要找到一個能夠駭入 linc 的人。不過在進入 linc 系統之前。
 
 我們還需要完成一系列的任務。包括但不限於。和一個躺在手術臺上剛剛被切開肚子的人閒聊半小時。以及挫骨整型植入一個 linc 系統的介面。在軟磨硬泡之後。主角 foster 還是得到説明成功進入 linc 系統。來到了一個畫風清奇的場景。說是駭入系統。其實還是和前面一樣的收集道具點擊解謎。內容無非也就是解決一下系統中的監視措施和防衛措施。但是這個名叫 linc 的系統中。還可以發現更多秘密。比如調查檔能夠知道這個 linc 系統。是一個叫 overmann 的人製作的。而在後面 foster 經過進一步的瞭解之後會發現。這個叫做 overmann 的人即是他的親生父親。現在可以算是 union city 有頭有臉的人物。當 foster 和富人區的闊太太詢問關於他的資訊時。甚至得知 overmann 屬於城市的統治階級。與闊太的丈夫——著名教授共事。但是所有人都知道他唯一的兒子早年就去世了。並不相信主角 foster 是他的兒子...我草
@@ -1371,10 +1402,11 @@ https://www.youtube.com/watch?v=JqsfhB1zfO0
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=JqsfhB1zfO0"><img src="https://img.youtube.com/vi/JqsfhB1zfO0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/0.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/1.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/2.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/3.jpg" /></a> <br />
+<hr />
 敖廠長最近突然想起了一盤很早以前。哥們兒從美國給我寄來的遊戲。當時漂洋過海也是大費周章。疫情加上運輸周轉問題。居然在海上漂泊了數月之久。更讓敖廠長沒想到的是。等到運輸到達之後。這個 27 年前的遊戲居然容光煥發重新再起。借著當時賽博朋克的熱潮上架了 steam。供玩家免費下載。所以這個碟片似乎也就沒有什麼用處了。不過敖廠長對於這個叫作。《beneath a steel sky》的遊戲還是饒有興致。帶大家一同感受一下。上世紀的賽博朋克又描繪出了一個什麼樣的未來。這款由英國 revolution software 開發的遊戲。也算是早期電腦遊戲作品中比較知名的了。開場一段精緻的漫畫就揭示了遊戲的故事背景。主要講述的就是從小被荒地居民撫養長大的主角 foster。突然被來自 union city 的武裝人員找上門來。並許諾只要他願意前往 union city。便會放過他在荒野的親人。危急關頭 foster 挺身而出。決定跟隨武裝人員前往城市。怎料對方言而無信直接核平了村莊。但是 foster 一行前往城市的航班也並不順利。飛機飛抵城市上空時意外墜毀。而死裡逃生的 foster 也正式開啟了逃亡之路。遊戲本身就是操作簡單的點擊拾取物品。然後進行對話使用來解謎通關既可。對於現在的玩家來說那還不就是駕輕就熟。不過很多情節需要玩家跟上遊戲製作者的腦回路!比如剛剛落地城中守衛得知。有人進入城市炸毀飛機便會加強警備。如果貿然行動就會這樣。而且還會播放一個看起來有些嚇人的死亡畫面!正確的解謎方式是使用撬棍。打開走廊盡頭的鐵門。吸引守衛前來查看使用一招調虎離山。才能成功脫險。不過要是依敖廠長之見。就該趁他觀望的時候。爆他菊花一腳把他踹下去。隨後在廢棄的垃圾堆裡。可以找到一個癱瘓的掃地機器人。將主角的機器人夥伴 joey 的主機板放到裡面。便能復活機器人。這個 joey 是主角在荒野居住時製作的智慧型機器人夥伴。只需要放入相容主機板的機器便能復活。看來上世紀的人們。對於未來的展望還是脫不開機器人和高水準工業的暢想啊。經過一定程度的深入瞭解。我們可以知道。這個所謂的 union city 其實是一個貧富差距很大的城市。城市由上而下的幾層分別對應了貧民窟。中產階級和最底部的富人區。有的觀眾就要問了。為什麼最有錢的住在最底下呢?其實是因為大肆發展工業。空氣污染已經達到了前所未有的程度。只有底層才能有些許新鮮空氣。同時我們從劇情對話中也知道。整個城市的管理則是議會制度。不過特別的地方在於這個議會。使用一個名叫 linc 的系統來管理城市。雖然聽起來像是非常高級的統治方式。但是在城市中能看到卻是在這樣的統治下。沒有平等。沒有人權。有的只是巨大的社會貧富差距和無止境的壓迫。以及毫不作為的城市官員。而具體 linc 系統是什麼樣子。我們在劇情中也可以親自進去體驗。因為主角 foster 需要合適的身份。才能在城市裡合法活動。於是需要駭入 linc 系統來調高身份。嗯...駭客元素有了。這真是有那味兒了...這裡的話我們需要找到一個能夠駭入 linc 的人。不過在進入 linc 系統之前。
 
 我們還需要完成一系列的任務。包括但不限於。和一個躺在手術臺上剛剛被切開肚子的人閒聊半小時。以及挫骨整型植入一個 linc 系統的介面。在軟磨硬泡之後。主角 foster 還是得到説明成功進入 linc 系統。來到了一個畫風清奇的場景。說是駭入系統。其實還是和前面一樣的收集道具點擊解謎。內容無非也就是解決一下系統中的監視措施和防衛措施。但是這個名叫 linc 的系統中。還可以發現更多秘密。比如調查檔能夠知道這個 linc 系統。是一個叫 overmann 的人製作的。而在後面 foster 經過進一步的瞭解之後會發現。這個叫做 overmann 的人即是他的親生父親。現在可以算是 union city 有頭有臉的人物。當 foster 和富人區的闊太太詢問關於他的資訊時。甚至得知 overmann 屬於城市的統治階級。與闊太的丈夫——著名教授共事。但是所有人都知道他唯一的兒子早年就去世了。並不相信主角 foster 是他的兒子...我草
@@ -1409,10 +1441,11 @@ https://www.youtube.com/watch?v=JqsfhB1zfO0
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=JqsfhB1zfO0"><img src="https://img.youtube.com/vi/JqsfhB1zfO0/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/JqsfhB1zfO0/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/0.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/1.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/2.jpg" />
+<img src="https://img.youtube.com/vi/JqsfhB1zfO0/3.jpg" /></a> <br /><br />
+<hr />
 敖廠長最近突然想起了一盤很早以前。哥們兒從美國給我寄來的遊戲。當時漂洋過海也是大費周章。疫情加上運輸周轉問題。居然在海上漂泊了數月之久。更讓敖廠長沒想到的是。等到運輸到達之後。這個 27 年前的遊戲居然容光煥發重新再起。借著當時賽博朋克的熱潮上架了 steam。供玩家免費下載。所以這個碟片似乎也就沒有什麼用處了。不過敖廠長對於這個叫作。《beneath a steel sky》的遊戲還是饒有興致。帶大家一同感受一下。上世紀的賽博朋克又描繪出了一個什麼樣的未來。這款由英國 revolution software 開發的遊戲。也算是早期電腦遊戲作品中比較知名的了。開場一段精緻的漫畫就揭示了遊戲的故事背景。主要講述的就是從小被荒地居民撫養長大的主角 foster。突然被來自 union city 的武裝人員找上門來。並許諾只要他願意前往 union city。便會放過他在荒野的親人。危急關頭 foster 挺身而出。決定跟隨武裝人員前往城市。怎料對方言而無信直接核平了村莊。但是 foster 一行前往城市的航班也並不順利。飛機飛抵城市上空時意外墜毀。而死裡逃生的 foster 也正式開啟了逃亡之路。遊戲本身就是操作簡單的點擊拾取物品。然後進行對話使用來解謎通關既可。對於現在的玩家來說那還不就是駕輕就熟。不過很多情節需要玩家跟上遊戲製作者的腦回路!比如剛剛落地城中守衛得知。有人進入城市炸毀飛機便會加強警備。如果貿然行動就會這樣。而且還會播放一個看起來有些嚇人的死亡畫面!正確的解謎方式是使用撬棍。打開走廊盡頭的鐵門。吸引守衛前來查看使用一招調虎離山。才能成功脫險。不過要是依敖廠長之見。就該趁他觀望的時候。爆他菊花一腳把他踹下去。隨後在廢棄的垃圾堆裡。可以找到一個癱瘓的掃地機器人。將主角的機器人夥伴 joey 的主機板放到裡面。便能復活機器人。這個 joey 是主角在荒野居住時製作的智慧型機器人夥伴。只需要放入相容主機板的機器便能復活。看來上世紀的人們。對於未來的展望還是脫不開機器人和高水準工業的暢想啊。經過一定程度的深入瞭解。我們可以知道。這個所謂的 union city 其實是一個貧富差距很大的城市。城市由上而下的幾層分別對應了貧民窟。中產階級和最底部的富人區。有的觀眾就要問了。為什麼最有錢的住在最底下呢?其實是因為大肆發展工業。空氣污染已經達到了前所未有的程度。只有底層才能有些許新鮮空氣。同時我們從劇情對話中也知道。整個城市的管理則是議會制度。不過特別的地方在於這個議會。使用一個名叫 linc 的系統來管理城市。雖然聽起來像是非常高級的統治方式。但是在城市中能看到卻是在這樣的統治下。沒有平等。沒有人權。有的只是巨大的社會貧富差距和無止境的壓迫。以及毫不作為的城市官員。而具體 linc 系統是什麼樣子。我們在劇情中也可以親自進去體驗。因為主角 foster 需要合適的身份。才能在城市裡合法活動。於是需要駭入 linc 系統來調高身份。嗯...駭客元素有了。這真是有那味兒了...這裡的話我們需要找到一個能夠駭入 linc 的人。不過在進入 linc 系統之前。
 
 我們還需要完成一系列的任務。包括但不限於。和一個躺在手術臺上剛剛被切開肚子的人閒聊半小時。以及挫骨整型植入一個 linc 系統的介面。在軟磨硬泡之後。主角 foster 還是得到説明成功進入 linc 系統。來到了一個畫風清奇的場景。說是駭入系統。其實還是和前面一樣的收集道具點擊解謎。內容無非也就是解決一下系統中的監視措施和防衛措施。但是這個名叫 linc 的系統中。還可以發現更多秘密。比如調查檔能夠知道這個 linc 系統。是一個叫 overmann 的人製作的。而在後面 foster 經過進一步的瞭解之後會發現。這個叫做 overmann 的人即是他的親生父親。現在可以算是 union city 有頭有臉的人物。當 foster 和富人區的闊太太詢問關於他的資訊時。甚至得知 overmann 屬於城市的統治階級。與闊太的丈夫——著名教授共事。但是所有人都知道他唯一的兒子早年就去世了。並不相信主角 foster 是他的兒子...我草
@@ -1453,10 +1486,11 @@ https://www.youtube.com/watch?v=JqsfhB1zfO0
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=GWmqb7fPJMw"><img src="https://img.youtube.com/vi/GWmqb7fPJMw/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/0.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/1.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/2.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/3.jpg" /></a> <br />
+<hr />
 手錶上裝智慧系統早就不是什麼新鮮事。四捨五入一下。好像用手錶玩一些熱門遊戲也不是不可以。但如果遇到一些低配手錶。打開遊戲。大概率會是這樣。在手錶上玩遊戲。一直是玩家們的夢想。不過這個夢想。其實早在40多年前就已實現。它就是大“表”哥卡西歐的初代遊戲手錶GM10。遊戲手錶並不是卡西歐發明的。最早的產品來自1977年美國蒙特卡羅遊戲手錶。它除了可以顯示時間。還能玩抽獎 投骰子 輪盤賭三款遊戲。都是和數字相關。簡陋到其內部只是執行了一串隨機函數。而到了1980年。任天堂遊戲手錶（Game & Watch）。哦不是。走錯片場了。卡西歐第一款遊戲手錶GM-10發佈。才算是真正將遊戲帶入到千萬人的手腕上。儘管它的操作在今天看來。挺“童真”的。它內置的是一款打飛機的遊戲。按鍵也只有兩個。一個移動鍵一個發射鍵。需要玩家不斷擊落敵機。
 
 敵機的子彈一旦射到我方這邊那就over了。聽起來很簡單。但廠長手裡這款手錶移動鍵有些接觸不良。敵機子彈的速度也會不斷加快。所以玩到後面其實挺有難度滴。當然。卡西歐也不是只給手錶加了個遊戲就完事。平時那些飛機子彈。是有充當秒針或者碼錶的作用。存在感滿滿。經過那麼多年。看到GM10還能正常運行。品質還是杠杠的。偶爾帶出街。不說時髦拉風。但真的一點也不落伍。對第一代產品進行複盤後。卡西歐啟動生態化反之路。不是要玩遊戲嘛。有什麼遊戲我就做什麼遊戲……手錶。比如這款GR5。從打飛機升級成跑賽車。還在錶盤上直接集成了左右移動鍵。除了螢幕小點。看不出和小時候玩的掌機有任何分別。而且隨著時間的推移。賽車速度會越來越快。讓你體驗飆車的樂趣。這有什麼難的。
@@ -1487,10 +1521,11 @@ https://www.youtube.com/watch?v=GWmqb7fPJMw
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=GWmqb7fPJMw"><img src="https://img.youtube.com/vi/GWmqb7fPJMw/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/0.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/1.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/2.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/3.jpg" /></a> <br />
+<hr />
 手錶上裝智慧系統早就不是什麼新鮮事。四捨五入一下。好像用手錶玩一些熱門遊戲也不是不可以。但如果遇到一些低配手錶。打開遊戲。大概率會是這樣。在手錶上玩遊戲。一直是玩家們的夢想。不過這個夢想。其實早在40多年前就已實現。它就是大“表”哥卡西歐的初代遊戲手錶GM10。遊戲手錶並不是卡西歐發明的。最早的產品來自1977年美國蒙特卡羅遊戲手錶。它除了可以顯示時間。還能玩抽獎 投骰子 輪盤賭三款遊戲。都是和數字相關。簡陋到其內部只是執行了一串隨機函數。而到了1980年。任天堂遊戲手錶（Game & Watch）。哦不是。走錯片場了。卡西歐第一款遊戲手錶GM-10發佈。才算是真正將遊戲帶入到千萬人的手腕上。儘管它的操作在今天看來。挺“童真”的。它內置的是一款打飛機的遊戲。按鍵也只有兩個。一個移動鍵一個發射鍵。需要玩家不斷擊落敵機。
 
 敵機的子彈一旦射到我方這邊那就over了。聽起來很簡單。但廠長手裡這款手錶移動鍵有些接觸不良。敵機子彈的速度也會不斷加快。所以玩到後面其實挺有難度滴。當然。卡西歐也不是只給手錶加了個遊戲就完事。平時那些飛機子彈。是有充當秒針或者碼錶的作用。存在感滿滿。經過那麼多年。看到GM10還能正常運行。品質還是杠杠的。偶爾帶出街。不說時髦拉風。但真的一點也不落伍。對第一代產品進行複盤後。卡西歐啟動生態化反之路。不是要玩遊戲嘛。有什麼遊戲我就做什麼遊戲……手錶。比如這款GR5。從打飛機升級成跑賽車。還在錶盤上直接集成了左右移動鍵。除了螢幕小點。看不出和小時候玩的掌機有任何分別。而且隨著時間的推移。賽車速度會越來越快。讓你體驗飆車的樂趣。這有什麼難的。
@@ -1520,10 +1555,11 @@ https://www.youtube.com/watch?v=GWmqb7fPJMw
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=GWmqb7fPJMw"><img src="https://img.youtube.com/vi/GWmqb7fPJMw/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/GWmqb7fPJMw/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/0.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/1.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/2.jpg" />
+<img src="https://img.youtube.com/vi/GWmqb7fPJMw/3.jpg" /></a> <br /><br />
+<hr />
 手錶上裝智慧系統早就不是什麼新鮮事。四捨五入一下。好像用手錶玩一些熱門遊戲也不是不可以。但如果遇到一些低配手錶。打開遊戲。大概率會是這樣。在手錶上玩遊戲。一直是玩家們的夢想。不過這個夢想。其實早在40多年前就已實現。它就是大“表”哥卡西歐的初代遊戲手錶GM10。遊戲手錶並不是卡西歐發明的。最早的產品來自1977年美國蒙特卡羅遊戲手錶。它除了可以顯示時間。還能玩抽獎 投骰子 輪盤賭三款遊戲。都是和數字相關。簡陋到其內部只是執行了一串隨機函數。而到了1980年。任天堂遊戲手錶（Game & Watch）。哦不是。走錯片場了。卡西歐第一款遊戲手錶GM-10發佈。才算是真正將遊戲帶入到千萬人的手腕上。儘管它的操作在今天看來。挺“童真”的。它內置的是一款打飛機的遊戲。按鍵也只有兩個。一個移動鍵一個發射鍵。需要玩家不斷擊落敵機。
 
 敵機的子彈一旦射到我方這邊那就over了。聽起來很簡單。但廠長手裡這款手錶移動鍵有些接觸不良。敵機子彈的速度也會不斷加快。所以玩到後面其實挺有難度滴。當然。卡西歐也不是只給手錶加了個遊戲就完事。平時那些飛機子彈。是有充當秒針或者碼錶的作用。存在感滿滿。經過那麼多年。看到GM10還能正常運行。品質還是杠杠的。偶爾帶出街。不說時髦拉風。但真的一點也不落伍。對第一代產品進行複盤後。卡西歐啟動生態化反之路。不是要玩遊戲嘛。有什麼遊戲我就做什麼遊戲……手錶。比如這款GR5。從打飛機升級成跑賽車。還在錶盤上直接集成了左右移動鍵。除了螢幕小點。看不出和小時候玩的掌機有任何分別。而且隨著時間的推移。賽車速度會越來越快。讓你體驗飆車的樂趣。這有什麼難的。
@@ -1559,10 +1595,11 @@ https://www.youtube.com/watch?v=GWmqb7fPJMw
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=mUUkaQz-Ms8"><img src="https://img.youtube.com/vi/mUUkaQz-Ms8/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/0.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/1.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/2.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/3.jpg" /></a> <br />
+<hr />
 最近敖廠長開始在一款叫作《RUST》的生存遊戲裡面開荒。跟很多同類遊戲一樣。《RUST》也散發出一股糙遊氣質。不過遊戲吸引我的地方不是資源採集。也不是騎馬戰鬥。更不是造車築房。而是這款遊戲在種植業上的獨特追求。偶然在B站上看到介紹。這款遊戲竟然可以實現農業雜交。這就抓住了我的眼球。因為敖廠長對農業雜交技術非常感興趣。成都的高新區發展迅速 寸土寸金。然而在高新區的中軸地帶天府立交的橋下。居然隱藏了一片小種植園。種植園是西南環保培育雜交植物王母龍草的地方。在高樓林立的一線城市經濟重心地帶竟然搞農業種植。不得不說這種反差帶來了巨大的衝擊。這種王母龍草其實是一種飼料用牧草。這種雜交植物雖是草本家族。但根莖細長高大挺拔。很難不讓人聯想到另一種實莖草本植物甘蔗。沒錯王母龍草就是由甘蔗和其他幾種草本植物雜交形成的。這種植物一經雜交後就擁有了生長快產量高的優勢。而選擇在城市中心地帶培育也能印證這種植物易於種植的優點。不過更令我震驚的地方在於王母龍草在實驗室雜交育種階段的基本思路。竟然和《RUST》這款遊戲的植物雜交方法不謀而合。也就是說我們可以通過現實技術去反輔遊戲體驗。於是我們趕緊回到《RUST》開始進行雜交培育。
 
 首先我們必須要為雜交育種修建試驗田。開一片地基建一片區域。而試驗田一定要選擇這種三行九宮的大型種植箱。其實場地什麼的都是小事情。供水才是最大的問題。很多朋友會說你家前面不就是一片水域嗎。你們不知道。我這可是正二八經的海景房。你敢拿海水搞土壤培植？這可就算是人工海水倒灌了。格局往大了說就是在破壞可耕種土地。因此我們首先想到的就是海水過濾。遊戲在初級階段有一種簡易過濾裝置。把空煤氣灌架在篝火上蒸餾過濾。不過即便如此我還是需要用鐵桶裝海水再運過來過濾。這就是開荒萌新的悲哀。不過過濾後的淡水又要如何均勻的作用到種植土壤裡呢。這裡就要製作灑水裝置。我們可以直接用水管連接過濾裝置淡水出水口和灑水裝置。但是這樣是無法將水送到灑水終端的。因此我們還要安裝一個水泵作為輸送中繼。不過水泵又需要接通電源才能運作。玩過生存遊戲的玩家都知道。科技樹一環扣一環。累並同時快樂著。接好電線打開裝置。灑水器成功的運作了。土壤的含水量開始慢慢增加。
@@ -1601,10 +1638,11 @@ https://www.bilibili.com/read/cv7247399/
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=mUUkaQz-Ms8"><img src="https://img.youtube.com/vi/mUUkaQz-Ms8/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/0.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/1.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/2.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/3.jpg" /></a> <br />
+<hr />
 最近敖廠長開始在一款叫作《RUST》的生存遊戲裡面開荒。跟很多同類遊戲一樣。《RUST》也散發出一股糙遊氣質。不過遊戲吸引我的地方不是資源採集。也不是騎馬戰鬥。更不是造車築房。而是這款遊戲在種植業上的獨特追求。偶然在B站上看到介紹。這款遊戲竟然可以實現農業雜交。這就抓住了我的眼球。因為敖廠長對農業雜交技術非常感興趣。成都的高新區發展迅速 寸土寸金。然而在高新區的中軸地帶天府立交的橋下。居然隱藏了一片小種植園。種植園是西南環保培育雜交植物王母龍草的地方。在高樓林立的一線城市經濟重心地帶竟然搞農業種植。不得不說這種反差帶來了巨大的衝擊。這種王母龍草其實是一種飼料用牧草。這種雜交植物雖是草本家族。但根莖細長高大挺拔。很難不讓人聯想到另一種實莖草本植物甘蔗。沒錯王母龍草就是由甘蔗和其他幾種草本植物雜交形成的。這種植物一經雜交後就擁有了生長快產量高的優勢。而選擇在城市中心地帶培育也能印證這種植物易於種植的優點。不過更令我震驚的地方在於王母龍草在實驗室雜交育種階段的基本思路。竟然和《RUST》這款遊戲的植物雜交方法不謀而合。也就是說我們可以通過現實技術去反輔遊戲體驗。於是我們趕緊回到《RUST》開始進行雜交培育。
 
 首先我們必須要為雜交育種修建試驗田。開一片地基建一片區域。而試驗田一定要選擇這種三行九宮的大型種植箱。其實場地什麼的都是小事情。供水才是最大的問題。很多朋友會說你家前面不就是一片水域嗎。你們不知道。我這可是正二八經的海景房。你敢拿海水搞土壤培植？這可就算是人工海水倒灌了。格局往大了說就是在破壞可耕種土地。因此我們首先想到的就是海水過濾。遊戲在初級階段有一種簡易過濾裝置。把空煤氣灌架在篝火上蒸餾過濾。不過即便如此我還是需要用鐵桶裝海水再運過來過濾。這就是開荒萌新的悲哀。不過過濾後的淡水又要如何均勻的作用到種植土壤裡呢。這裡就要製作灑水裝置。我們可以直接用水管連接過濾裝置淡水出水口和灑水裝置。但是這樣是無法將水送到灑水終端的。因此我們還要安裝一個水泵作為輸送中繼。不過水泵又需要接通電源才能運作。玩過生存遊戲的玩家都知道。科技樹一環扣一環。累並同時快樂著。接好電線打開裝置。灑水器成功的運作了。土壤的含水量開始慢慢增加。
@@ -1642,10 +1680,11 @@ https://www.bilibili.com/read/cv7247399/
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=mUUkaQz-Ms8"><img src="https://img.youtube.com/vi/mUUkaQz-Ms8/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/0.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/1.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/2.jpg" />
+<img src="https://img.youtube.com/vi/mUUkaQz-Ms8/3.jpg" /></a> <br /><br />
+<hr />
 最近敖廠長開始在一款叫作《RUST》的生存遊戲裡面開荒。跟很多同類遊戲一樣。《RUST》也散發出一股糙遊氣質。不過遊戲吸引我的地方不是資源採集。也不是騎馬戰鬥。更不是造車築房。而是這款遊戲在種植業上的獨特追求。偶然在B站上看到介紹。這款遊戲竟然可以實現農業雜交。這就抓住了我的眼球。因為敖廠長對農業雜交技術非常感興趣。成都的高新區發展迅速 寸土寸金。然而在高新區的中軸地帶天府立交的橋下。居然隱藏了一片小種植園。種植園是西南環保培育雜交植物王母龍草的地方。在高樓林立的一線城市經濟重心地帶竟然搞農業種植。不得不說這種反差帶來了巨大的衝擊。這種王母龍草其實是一種飼料用牧草。這種雜交植物雖是草本家族。但根莖細長高大挺拔。很難不讓人聯想到另一種實莖草本植物甘蔗。沒錯王母龍草就是由甘蔗和其他幾種草本植物雜交形成的。這種植物一經雜交後就擁有了生長快產量高的優勢。而選擇在城市中心地帶培育也能印證這種植物易於種植的優點。不過更令我震驚的地方在於王母龍草在實驗室雜交育種階段的基本思路。竟然和《RUST》這款遊戲的植物雜交方法不謀而合。也就是說我們可以通過現實技術去反輔遊戲體驗。於是我們趕緊回到《RUST》開始進行雜交培育。
 
 首先我們必須要為雜交育種修建試驗田。開一片地基建一片區域。而試驗田一定要選擇這種三行九宮的大型種植箱。其實場地什麼的都是小事情。供水才是最大的問題。很多朋友會說你家前面不就是一片水域嗎。你們不知道。我這可是正二八經的海景房。你敢拿海水搞土壤培植？這可就算是人工海水倒灌了。格局往大了說就是在破壞可耕種土地。因此我們首先想到的就是海水過濾。遊戲在初級階段有一種簡易過濾裝置。把空煤氣灌架在篝火上蒸餾過濾。不過即便如此我還是需要用鐵桶裝海水再運過來過濾。這就是開荒萌新的悲哀。不過過濾後的淡水又要如何均勻的作用到種植土壤裡呢。這裡就要製作灑水裝置。我們可以直接用水管連接過濾裝置淡水出水口和灑水裝置。但是這樣是無法將水送到灑水終端的。因此我們還要安裝一個水泵作為輸送中繼。不過水泵又需要接通電源才能運作。玩過生存遊戲的玩家都知道。科技樹一環扣一環。累並同時快樂著。接好電線打開裝置。灑水器成功的運作了。土壤的含水量開始慢慢增加。
@@ -1689,10 +1728,11 @@ https://www.bilibili.com/read/cv7247399/
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=EGzeeDMufEE"><img src="https://img.youtube.com/vi/EGzeeDMufEE/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/0.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/1.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/2.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/3.jpg" /></a> <br />
+<hr />
 17小時前廠長收到一台86年產的東芝T1100 plus筆記本。世界上第一台筆記本……的性能增強版。回顧這台筆記本的命運可謂一波三折。先從美國飛新加坡。再從新加坡運到國內。等拿到手已歷時1個多月。友情提醒。機器已經過醫用酒精、滴露、84消毒液消毒。開光儀式完畢。讓我們來看下。世界第一台筆記型電腦的開機畫面。Emmmm. 好像是開機磁片壞了。刻一張DOS開機磁片有什麼難的。分分鐘搞定。廠長發現T1100 plus年代的DOS應該是3.2版本的。但之前刻的是6.0版本。難道DOS也是見風使舵狗。認舊不認新。你以為這就要放棄了嗎。好了。本期視頻到此結束。我們下期再賤。你以為這就完了。
 
 廠長告訴你什麼叫做“一頓操作猛如虎”。既然電腦報廢。那就帶大家見識下。上世紀80年代筆記型電腦的內部世界。東芝T1100 plus的拆解沒有絲毫難度。手握一把螺絲刀見螺就拆遇線就拔。額。這是什麼螺絲。怎麼另一端還戴套子的呢。廠長深藏不露的動手能力。一不小心打開了。和今天的電腦相比。東芝T1100 plus的設計著實有些“笨”。全螺絲固定。結構清晰沒有任何小秘密。電路板上的晶片間隔。甚至能塞下CPU、BIOS這樣的標識字元。相比現代超極本那塞張紙都嫌擠的集成度。80年代的電腦用料厚道得像是空間不要錢。猜猜看它4.1公斤的塊頭。哪一部分的組件重量占比最大。是軟盤機。這貨配備了兩個3.5英寸軟盤機。因為它沒有硬碟。
@@ -1724,10 +1764,11 @@ https://www.youtube.com/watch?v=EGzeeDMufEE
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=EGzeeDMufEE"><img src="https://img.youtube.com/vi/EGzeeDMufEE/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/0.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/1.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/2.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/3.jpg" /></a> <br />
+<hr />
 17小時前廠長收到一台86年產的東芝T1100 plus筆記本。世界上第一台筆記本……的性能增強版。回顧這台筆記本的命運可謂一波三折。先從美國飛新加坡。再從新加坡運到國內。等拿到手已歷時1個多月。友情提醒。機器已經過醫用酒精、滴露、84消毒液消毒。開光儀式完畢。讓我們來看下。世界第一台筆記型電腦的開機畫面。Emmmm. 好像是開機磁片壞了。刻一張DOS開機磁片有什麼難的。分分鐘搞定。廠長發現T1100 plus年代的DOS應該是3.2版本的。但之前刻的是6.0版本。難道DOS也是見風使舵狗。認舊不認新。你以為這就要放棄了嗎。好了。本期視頻到此結束。我們下期再賤。你以為這就完了。
 
 廠長告訴你什麼叫做“一頓操作猛如虎”。既然電腦報廢。那就帶大家見識下。上世紀80年代筆記型電腦的內部世界。東芝T1100 plus的拆解沒有絲毫難度。手握一把螺絲刀見螺就拆遇線就拔。額。這是什麼螺絲。怎麼另一端還戴套子的呢。廠長深藏不露的動手能力。一不小心打開了。和今天的電腦相比。東芝T1100 plus的設計著實有些“笨”。全螺絲固定。結構清晰沒有任何小秘密。電路板上的晶片間隔。甚至能塞下CPU、BIOS這樣的標識字元。相比現代超極本那塞張紙都嫌擠的集成度。80年代的電腦用料厚道得像是空間不要錢。猜猜看它4.1公斤的塊頭。哪一部分的組件重量占比最大。是軟盤機。這貨配備了兩個3.5英寸軟盤機。因為它沒有硬碟。
@@ -1758,10 +1799,11 @@ https://www.youtube.com/watch?v=EGzeeDMufEE
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=EGzeeDMufEE"><img src="https://img.youtube.com/vi/EGzeeDMufEE/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/EGzeeDMufEE/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/0.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/1.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/2.jpg" />
+<img src="https://img.youtube.com/vi/EGzeeDMufEE/3.jpg" /></a> <br /><br />
+<hr />
 17小時前廠長收到一台86年產的東芝T1100 plus筆記本。世界上第一台筆記本……的性能增強版。回顧這台筆記本的命運可謂一波三折。先從美國飛新加坡。再從新加坡運到國內。等拿到手已歷時1個多月。友情提醒。機器已經過醫用酒精、滴露、84消毒液消毒。開光儀式完畢。讓我們來看下。世界第一台筆記型電腦的開機畫面。Emmmm. 好像是開機磁片壞了。刻一張DOS開機磁片有什麼難的。分分鐘搞定。廠長發現T1100 plus年代的DOS應該是3.2版本的。但之前刻的是6.0版本。難道DOS也是見風使舵狗。認舊不認新。你以為這就要放棄了嗎。好了。本期視頻到此結束。我們下期再賤。你以為這就完了。
 
 廠長告訴你什麼叫做“一頓操作猛如虎”。既然電腦報廢。那就帶大家見識下。上世紀80年代筆記型電腦的內部世界。東芝T1100 plus的拆解沒有絲毫難度。手握一把螺絲刀見螺就拆遇線就拔。額。這是什麼螺絲。怎麼另一端還戴套子的呢。廠長深藏不露的動手能力。一不小心打開了。和今天的電腦相比。東芝T1100 plus的設計著實有些“笨”。全螺絲固定。結構清晰沒有任何小秘密。電路板上的晶片間隔。甚至能塞下CPU、BIOS這樣的標識字元。相比現代超極本那塞張紙都嫌擠的集成度。80年代的電腦用料厚道得像是空間不要錢。猜猜看它4.1公斤的塊頭。哪一部分的組件重量占比最大。是軟盤機。這貨配備了兩個3.5英寸軟盤機。因為它沒有硬碟。
@@ -1798,10 +1840,11 @@ https://www.youtube.com/watch?v=EGzeeDMufEE
       <itunes:author><![CDATA[敖厂长]]></itunes:author>
       <itunes:summary>
         <![CDATA[<a href="https://www.youtube.com/watch?v=KKt1uHiCj0U"><img src="https://img.youtube.com/vi/KKt1uHiCj0U/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/0.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/1.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/2.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/3.jpg" /></a> <br />
+<hr />
 上期視頻我們提到了80年代電競之星高橋名人。當年高橋名人出名靠的是兩個名場面。一是一秒鐘點16次手柄按鈕。二是“遊戲一天玩一小時”的口號。然而這些對於現在玩家來說簡直太小兒科了。一秒鐘點16次按鈕對於看片宅來說就是基操。而“遊戲一天玩一小時”完全就是在說笑。不過這兩件事對於80年代的日本小朋友來說簡直就是職業玩家的教條。在他們心中高橋名人就是電子遊戲之神。而HUDSON為了推廣自己的大篷車電競比賽。就邀請高橋名人作為第一屆大篷車電競比賽的巡演嘉賓。這也使得當年的大篷車電競比賽盛況空前。其實國內玩家對於高橋名人也不陌生。不過他們是通過這款遊戲認識的。冒險島！LOGO上大大的“高橋名人”非常矚目。不過當時很多人都認為這個高橋名人是冒險島的製作人。現在才知道原來是明星月臺代言。而且為了讓高橋名人的明星效應最大利用化。遊戲甚至將男主角的形象設計得跟高橋名人一模一樣。
 
 這就是為什麼我們的原始人男主角雖然只能用樹葉蔽體遮羞。但卻要很違和的戴一頂棒球帽子。連嘴形都非常傳神的用曲線表達了出來。但是問題就在這。既然高橋名人是現代人。為何要生硬的給他安排一個原始時代背景的故事呢？這裡就不得不提到商業鬼才HUDSON。這個公司的商鬼氣質在上期節目已經暴露無遺。這一次再度為大家展示這個公司另一妙算。上期節目我們知道HUDSON經常買一些沒有用處的IP授權。買到之後發現IP廢了。就偷樑換柱欺騙消費者。這一次也是這樣。HUDSON在80年代末期莫名其妙找遊戲公司Westone。買了旗下街機遊戲《神奇小子》的部分授權。想要把這款遊戲移植到FC上。這絕對是一次智熄操作。你TM要買就買整齊啊。你買一部份授權是怎麼個說法？正因為如此。
@@ -1859,10 +1902,11 @@ https://www.youtube.com/channel/UC3Cg_p12wJFA3lYy3E35u8g
       </itunes:summary>
       <description>
         <![CDATA[<a href="https://www.youtube.com/watch?v=KKt1uHiCj0U"><img src="https://img.youtube.com/vi/KKt1uHiCj0U/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/3.jpg" /><br /></a>
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/0.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/1.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/2.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/3.jpg" /></a> <br />
+<hr />
 上期視頻我們提到了80年代電競之星高橋名人。當年高橋名人出名靠的是兩個名場面。一是一秒鐘點16次手柄按鈕。二是“遊戲一天玩一小時”的口號。然而這些對於現在玩家來說簡直太小兒科了。一秒鐘點16次按鈕對於看片宅來說就是基操。而“遊戲一天玩一小時”完全就是在說笑。不過這兩件事對於80年代的日本小朋友來說簡直就是職業玩家的教條。在他們心中高橋名人就是電子遊戲之神。而HUDSON為了推廣自己的大篷車電競比賽。就邀請高橋名人作為第一屆大篷車電競比賽的巡演嘉賓。這也使得當年的大篷車電競比賽盛況空前。其實國內玩家對於高橋名人也不陌生。不過他們是通過這款遊戲認識的。冒險島！LOGO上大大的“高橋名人”非常矚目。不過當時很多人都認為這個高橋名人是冒險島的製作人。現在才知道原來是明星月臺代言。而且為了讓高橋名人的明星效應最大利用化。遊戲甚至將男主角的形象設計得跟高橋名人一模一樣。
 
 這就是為什麼我們的原始人男主角雖然只能用樹葉蔽體遮羞。但卻要很違和的戴一頂棒球帽子。連嘴形都非常傳神的用曲線表達了出來。但是問題就在這。既然高橋名人是現代人。為何要生硬的給他安排一個原始時代背景的故事呢？這裡就不得不提到商業鬼才HUDSON。這個公司的商鬼氣質在上期節目已經暴露無遺。這一次再度為大家展示這個公司另一妙算。上期節目我們知道HUDSON經常買一些沒有用處的IP授權。買到之後發現IP廢了。就偷樑換柱欺騙消費者。這一次也是這樣。HUDSON在80年代末期莫名其妙找遊戲公司Westone。買了旗下街機遊戲《神奇小子》的部分授權。想要把這款遊戲移植到FC上。這絕對是一次智熄操作。你TM要買就買整齊啊。你買一部份授權是怎麼個說法？正因為如此。
@@ -1919,10 +1963,11 @@ https://www.youtube.com/channel/UC3Cg_p12wJFA3lYy3E35u8g
 喜欢我的视频欢迎订阅、点赞、评论]]>
       </description>
       <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=KKt1uHiCj0U"><img src="https://img.youtube.com/vi/KKt1uHiCj0U/maxresdefault.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/0.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/1.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/2.jpg" /><br />
-<img src="https://img.youtube.com/vi/KKt1uHiCj0U/3.jpg" /><br /></a><br />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/0.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/1.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/2.jpg" />
+<img src="https://img.youtube.com/vi/KKt1uHiCj0U/3.jpg" /></a> <br /><br />
+<hr />
 上期視頻我們提到了80年代電競之星高橋名人。當年高橋名人出名靠的是兩個名場面。一是一秒鐘點16次手柄按鈕。二是“遊戲一天玩一小時”的口號。然而這些對於現在玩家來說簡直太小兒科了。一秒鐘點16次按鈕對於看片宅來說就是基操。而“遊戲一天玩一小時”完全就是在說笑。不過這兩件事對於80年代的日本小朋友來說簡直就是職業玩家的教條。在他們心中高橋名人就是電子遊戲之神。而HUDSON為了推廣自己的大篷車電競比賽。就邀請高橋名人作為第一屆大篷車電競比賽的巡演嘉賓。這也使得當年的大篷車電競比賽盛況空前。其實國內玩家對於高橋名人也不陌生。不過他們是通過這款遊戲認識的。冒險島！LOGO上大大的“高橋名人”非常矚目。不過當時很多人都認為這個高橋名人是冒險島的製作人。現在才知道原來是明星月臺代言。而且為了讓高橋名人的明星效應最大利用化。遊戲甚至將男主角的形象設計得跟高橋名人一模一樣。
 
 這就是為什麼我們的原始人男主角雖然只能用樹葉蔽體遮羞。但卻要很違和的戴一頂棒球帽子。連嘴形都非常傳神的用曲線表達了出來。但是問題就在這。既然高橋名人是現代人。為何要生硬的給他安排一個原始時代背景的故事呢？這裡就不得不提到商業鬼才HUDSON。這個公司的商鬼氣質在上期節目已經暴露無遺。這一次再度為大家展示這個公司另一妙算。上期節目我們知道HUDSON經常買一些沒有用處的IP授權。買到之後發現IP廢了。就偷樑換柱欺騙消費者。這一次也是這樣。HUDSON在80年代末期莫名其妙找遊戲公司Westone。買了旗下街機遊戲《神奇小子》的部分授權。想要把這款遊戲移植到FC上。這絕對是一次智熄操作。你TM要買就買整齊啊。你買一部份授權是怎麼個說法？正因為如此。
