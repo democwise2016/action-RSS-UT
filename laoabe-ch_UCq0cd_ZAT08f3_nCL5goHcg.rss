@@ -39,6 +39,46 @@
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/1.jpg" />
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/2.jpg" />
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/3.jpg" /></a>
+先祝各位大大們8月8號父親節快樂。感謝這位大大的建議。大家好
+今天來跟大家分享DW-POSE。因為目前將DW-pose安裝到stable diffusion web UI中的controlnet上，對初學者還是有點複雜。所以今天只分享DW-pose與openpose的比較
+等安裝較為簡單之後，再來分享如何安裝在stable diffusion web UI上。先來到DW-Pose Github 網頁。大致上看一下
+有興趣的,網址在影片下方說明欄中。這邊有一個安裝說明。
+
+其實安裝DW-Pose for controlnet看起來是很簡單
+不過要先安裝conda。很多初學者對conda應該很陌生吧
+老阿貝覺得，如果能像裝extension的流程那樣。就非常建議將目前的openpose full改換成DW-pose
+因為偵測的能力強上不少。目前對初學者來說
+建議可以等比較簡單的時候再來安裝。老阿貝雖然在stable diffusion web UI上有安裝成功
+不過在測試上還是有一些怪怪的問題。所以今天的分享會以這一個獨立的DW-pose 來做測試會比較對得起DW-Pose。先來看看官方的測試結果。這些圖片大致上是在說DW-Pose在一些圖片的偵測上比openpose還要好，特別在手的部分。
+
+當然這是官方所發表的圖片
+是不是真的這樣要自己測看看才知道。那就來測看看囉。那就來測看看囉。先放入一張圖。這邊有Openpose和DW Pose可以選擇。先來選擇openpose。預處理器就選擇Openpose Full。點RUN來跑看看。
+
+這是一個超級簡化的web UI
+他也有prompt可以輸入。因為他是連圖片一起生成
+所以時間會比較久。加速加速加速。來看一下手部這邊。右手的部分openpose並沒有偵測出來。所以生成的圖片右手這邊就怪怪的。先來把這張openpose 生成的圖用其他分頁開起來。再來使用DW Pose跑看看。
+
+本來想介紹一下這個介面
+不過以後好像用不到，就快速跳過吧。這一個是DW Pose所生成的圖
+手指的部分的確有像他們宣稱那樣。把剛剛openpose所生成的圖叫出來比較一下。Openpose缺少左手部分。D W Pose在這張圖的偵測上非常的完整。來看一下官方的宣傳圖片。簡直是一模一樣。那麼會不會這個獨立的web UI把openpose弱化了呢?
+
+也是來實際測看看就知道囉。因為這個獨立的web UI吃掉大多數顯示卡記憶體
+所以要先關閉再開啟stable diffusion web UI。OK
+來controlnet這邊試看看。選擇同一張圖。選擇openpose。這邊一樣選擇openpose full。點預覽按鈕。來把圖片放到其他分頁比較看看。
+
+這一個是stable diffusion web UI controlnet openpose所生成的圖。這一個是DW Pose web UI openpose所生成的圖。以下所生成的圖片給各位參考參考。openpose不是沒放上去喔
+而是完全偵測不到。效果都比openpose還好
+不過在安裝上面希望可以像extension那樣簡單。畢竟大部分的使用者都是來學AI繪圖
+安裝的部分如果能盡量的簡單會比較好。如果安裝變比較簡單
+再來做個影片跟大家分享。以上就是今天的分享
+如果影片對你有幫助。
+
+再記的幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=dFWDBEL1rMQ
 本影片內容為分享DWPose與Openpose的姿勢偵測比較。
 DWPpose Github website:
@@ -82,6 +122,46 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/1.jpg" />
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/2.jpg" />
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/3.jpg" /></a>
+先祝各位大大們8月8號父親節快樂。感謝這位大大的建議。大家好
+今天來跟大家分享DW-POSE。因為目前將DW-pose安裝到stable diffusion web UI中的controlnet上，對初學者還是有點複雜。所以今天只分享DW-pose與openpose的比較
+等安裝較為簡單之後，再來分享如何安裝在stable diffusion web UI上。先來到DW-Pose Github 網頁。大致上看一下
+有興趣的,網址在影片下方說明欄中。這邊有一個安裝說明。
+
+其實安裝DW-Pose for controlnet看起來是很簡單
+不過要先安裝conda。很多初學者對conda應該很陌生吧
+老阿貝覺得，如果能像裝extension的流程那樣。就非常建議將目前的openpose full改換成DW-pose
+因為偵測的能力強上不少。目前對初學者來說
+建議可以等比較簡單的時候再來安裝。老阿貝雖然在stable diffusion web UI上有安裝成功
+不過在測試上還是有一些怪怪的問題。所以今天的分享會以這一個獨立的DW-pose 來做測試會比較對得起DW-Pose。先來看看官方的測試結果。這些圖片大致上是在說DW-Pose在一些圖片的偵測上比openpose還要好，特別在手的部分。
+
+當然這是官方所發表的圖片
+是不是真的這樣要自己測看看才知道。那就來測看看囉。那就來測看看囉。先放入一張圖。這邊有Openpose和DW Pose可以選擇。先來選擇openpose。預處理器就選擇Openpose Full。點RUN來跑看看。
+
+這是一個超級簡化的web UI
+他也有prompt可以輸入。因為他是連圖片一起生成
+所以時間會比較久。加速加速加速。來看一下手部這邊。右手的部分openpose並沒有偵測出來。所以生成的圖片右手這邊就怪怪的。先來把這張openpose 生成的圖用其他分頁開起來。再來使用DW Pose跑看看。
+
+本來想介紹一下這個介面
+不過以後好像用不到，就快速跳過吧。這一個是DW Pose所生成的圖
+手指的部分的確有像他們宣稱那樣。把剛剛openpose所生成的圖叫出來比較一下。Openpose缺少左手部分。D W Pose在這張圖的偵測上非常的完整。來看一下官方的宣傳圖片。簡直是一模一樣。那麼會不會這個獨立的web UI把openpose弱化了呢?
+
+也是來實際測看看就知道囉。因為這個獨立的web UI吃掉大多數顯示卡記憶體
+所以要先關閉再開啟stable diffusion web UI。OK
+來controlnet這邊試看看。選擇同一張圖。選擇openpose。這邊一樣選擇openpose full。點預覽按鈕。來把圖片放到其他分頁比較看看。
+
+這一個是stable diffusion web UI controlnet openpose所生成的圖。這一個是DW Pose web UI openpose所生成的圖。以下所生成的圖片給各位參考參考。openpose不是沒放上去喔
+而是完全偵測不到。效果都比openpose還好
+不過在安裝上面希望可以像extension那樣簡單。畢竟大部分的使用者都是來學AI繪圖
+安裝的部分如果能盡量的簡單會比較好。如果安裝變比較簡單
+再來做個影片跟大家分享。以上就是今天的分享
+如果影片對你有幫助。
+
+再記的幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=dFWDBEL1rMQ
 本影片內容為分享DWPose與Openpose的姿勢偵測比較。
 DWPpose Github website:
@@ -124,6 +204,46 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/1.jpg" />
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/2.jpg" />
 <img src="https://img.youtube.com/vi/dFWDBEL1rMQ/3.jpg" /></a><br />
+先祝各位大大們8月8號父親節快樂。感謝這位大大的建議。大家好
+今天來跟大家分享DW-POSE。因為目前將DW-pose安裝到stable diffusion web UI中的controlnet上，對初學者還是有點複雜。所以今天只分享DW-pose與openpose的比較
+等安裝較為簡單之後，再來分享如何安裝在stable diffusion web UI上。先來到DW-Pose Github 網頁。大致上看一下
+有興趣的,網址在影片下方說明欄中。這邊有一個安裝說明。
+
+其實安裝DW-Pose for controlnet看起來是很簡單
+不過要先安裝conda。很多初學者對conda應該很陌生吧
+老阿貝覺得，如果能像裝extension的流程那樣。就非常建議將目前的openpose full改換成DW-pose
+因為偵測的能力強上不少。目前對初學者來說
+建議可以等比較簡單的時候再來安裝。老阿貝雖然在stable diffusion web UI上有安裝成功
+不過在測試上還是有一些怪怪的問題。所以今天的分享會以這一個獨立的DW-pose 來做測試會比較對得起DW-Pose。先來看看官方的測試結果。這些圖片大致上是在說DW-Pose在一些圖片的偵測上比openpose還要好，特別在手的部分。
+
+當然這是官方所發表的圖片
+是不是真的這樣要自己測看看才知道。那就來測看看囉。那就來測看看囉。先放入一張圖。這邊有Openpose和DW Pose可以選擇。先來選擇openpose。預處理器就選擇Openpose Full。點RUN來跑看看。
+
+這是一個超級簡化的web UI
+他也有prompt可以輸入。因為他是連圖片一起生成
+所以時間會比較久。加速加速加速。來看一下手部這邊。右手的部分openpose並沒有偵測出來。所以生成的圖片右手這邊就怪怪的。先來把這張openpose 生成的圖用其他分頁開起來。再來使用DW Pose跑看看。
+
+本來想介紹一下這個介面
+不過以後好像用不到，就快速跳過吧。這一個是DW Pose所生成的圖
+手指的部分的確有像他們宣稱那樣。把剛剛openpose所生成的圖叫出來比較一下。Openpose缺少左手部分。D W Pose在這張圖的偵測上非常的完整。來看一下官方的宣傳圖片。簡直是一模一樣。那麼會不會這個獨立的web UI把openpose弱化了呢?
+
+也是來實際測看看就知道囉。因為這個獨立的web UI吃掉大多數顯示卡記憶體
+所以要先關閉再開啟stable diffusion web UI。OK
+來controlnet這邊試看看。選擇同一張圖。選擇openpose。這邊一樣選擇openpose full。點預覽按鈕。來把圖片放到其他分頁比較看看。
+
+這一個是stable diffusion web UI controlnet openpose所生成的圖。這一個是DW Pose web UI openpose所生成的圖。以下所生成的圖片給各位參考參考。openpose不是沒放上去喔
+而是完全偵測不到。效果都比openpose還好
+不過在安裝上面希望可以像extension那樣簡單。畢竟大部分的使用者都是來學AI繪圖
+安裝的部分如果能盡量的簡單會比較好。如果安裝變比較簡單
+再來做個影片跟大家分享。以上就是今天的分享
+如果影片對你有幫助。
+
+再記的幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=dFWDBEL1rMQ
 本影片內容為分享DWPose與Openpose的姿勢偵測比較。
 DWPpose Github website:
@@ -172,6 +292,60 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" />
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" />
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a>
+有大大問說 stable diffusion web UI更新後不合用
+沒用複製的方式來備份，可以退回上一個版本或是特定的版本嗎。可以唷
+使用git指令，可以在不同版本間做切換。不過這種切換
+多多少少會產生一些小小的問題。這樣的小問題
+對懂git操作的人來說可能上個網查個資料就可以解決。但對不懂git的初學者 
+小小的問題就會卡住很久很久。而且每個人的電腦環境和stable diffusion環境也不相同
+使用git切換所產生的問題真的比較複雜。舉例來說
+假設您是升級到1.5.1，也把extension升級，然後使用git降級，開啟Stable diffusion web UI後，執行過程出現錯誤。就有可能是某個extension有支援SD 1.5.1版某個功能
+結果SD降級後，那個extension沒跟著降，呼叫不到1.5.1版的某個函數就出現錯誤。
+
+這一種的錯誤沒有完整的錯誤訊息或是在電腦面前操作，很難猜到是出現甚麼問題。或是您用git切換版本到不同的分支上
+使用git pull要更新，也會出現無法更新的問題。對初學者來說
+這些小問題可能就會讓他無法使用SD。又有些錯誤訊息會被youtube認為有可能含有injection
+攻擊字眼，這些錯誤訊息的留言就會被自動刪除。沒看到完整的錯誤訊息，就像隔空抓藥一樣
+只能用猜的解決所產生的問題，有點不切實際。所以有關SD web UI升級的影片
+老阿貝都會多次建議用複製的方式備份比較沒問題。老阿貝自己也是用複製的方式來備份不同的版本
+像這樣，搭配把大檔案移到其他槽共用，沒什問題簡單又方便喔。進入正題囉。
+
+Stable diffusion web UI最底下這邊就是您目前的版本。先將stable diffusion關閉。打開檔案總管
+來到您安裝stable diffusion目錄底下。點這邊
+輸入CMD後按下鍵盤的enter鍵。就會出現這目錄底下的命令提示字元。輸入git reflog。輸入完後
+按下enter鍵。這個指令可以查詢使用git安裝的歷史版本。
+
+最上面那一行有 HEAD的那一版就是目前所使用的版本。跟我們剛剛在web UI 最底下看到的版本一樣。前面這一串是這個版本的代碼。假設我現在要使用git跳到v1.4.1版。這邊是v1.4.1版的代碼。輸入
+git checkpoint。再來代碼這邊點滑鼠左鍵兩下
+會自動選取整個代碼。再點滑鼠右鍵一下
+會將選取的代碼複製起來。
+
+再點滑鼠右鍵一下
+會自動貼上剛剛複製的代碼。按下enter鍵
+stable diffusion web UI就會切換到v1.4.1版。按鍵盤的up鍵
+可以叫出上一個執行過的指令。再按一次up鍵
+叫出git reflog指令。按下enter鍵來查詢是否v1.4.1版為目前最上頭的HEAD版本。OK
+沒問題。來執行stable diffusion web UI。這邊已經顯示目前執行的版本為v1.4.1版
+這樣就切換成功。
+
+這邊產生了一個錯誤，看看錯誤訊息是因為sd-webui-refiner這一個extension只支援v1.5.1版本
+所以當您降級到v1.4.1版而出現問題。如果只貼了這一段錯誤訊息
+ModeleNotFoundError:No module named 'sgm'也沒有說明降級的前因後果
+老阿貝是完全猜不出來問題點在哪邊。來看看這個錯誤是否會影響到stable diffusion web UI開啟。看起來是不會
+如果不會的話可以放著不管或是直接將這個extension移除。OK
+版本正確，切換過程是蠻簡單的，不過就是要應付所出現的問題。像老阿貝這麼懶或是初學者 
+建議還是將大檔案移出來用複製的方式來備份喔。再來試一次將版本移到v1.5.1。
+
+輸入git checkout。複製並貼上1.5.1版代碼。先來把剛剛開啟的stable diffusion關閉。按下enter鍵。這樣就切換到V1.5.1版囉。來執行stable diffusion看看。沒問題
+已經是 v1.5.1版。以上就是今天的分享
+如果影片對你有幫助。
+
+有空再記得幫老阿貝
+訂閱、分享加按小鈴鐺。難得有閒心情又好的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=IEj5mEAWBlw
 本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語
 
@@ -214,6 +388,60 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" />
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" />
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a>
+有大大問說 stable diffusion web UI更新後不合用
+沒用複製的方式來備份，可以退回上一個版本或是特定的版本嗎。可以唷
+使用git指令，可以在不同版本間做切換。不過這種切換
+多多少少會產生一些小小的問題。這樣的小問題
+對懂git操作的人來說可能上個網查個資料就可以解決。但對不懂git的初學者 
+小小的問題就會卡住很久很久。而且每個人的電腦環境和stable diffusion環境也不相同
+使用git切換所產生的問題真的比較複雜。舉例來說
+假設您是升級到1.5.1，也把extension升級，然後使用git降級，開啟Stable diffusion web UI後，執行過程出現錯誤。就有可能是某個extension有支援SD 1.5.1版某個功能
+結果SD降級後，那個extension沒跟著降，呼叫不到1.5.1版的某個函數就出現錯誤。
+
+這一種的錯誤沒有完整的錯誤訊息或是在電腦面前操作，很難猜到是出現甚麼問題。或是您用git切換版本到不同的分支上
+使用git pull要更新，也會出現無法更新的問題。對初學者來說
+這些小問題可能就會讓他無法使用SD。又有些錯誤訊息會被youtube認為有可能含有injection
+攻擊字眼，這些錯誤訊息的留言就會被自動刪除。沒看到完整的錯誤訊息，就像隔空抓藥一樣
+只能用猜的解決所產生的問題，有點不切實際。所以有關SD web UI升級的影片
+老阿貝都會多次建議用複製的方式備份比較沒問題。老阿貝自己也是用複製的方式來備份不同的版本
+像這樣，搭配把大檔案移到其他槽共用，沒什問題簡單又方便喔。進入正題囉。
+
+Stable diffusion web UI最底下這邊就是您目前的版本。先將stable diffusion關閉。打開檔案總管
+來到您安裝stable diffusion目錄底下。點這邊
+輸入CMD後按下鍵盤的enter鍵。就會出現這目錄底下的命令提示字元。輸入git reflog。輸入完後
+按下enter鍵。這個指令可以查詢使用git安裝的歷史版本。
+
+最上面那一行有 HEAD的那一版就是目前所使用的版本。跟我們剛剛在web UI 最底下看到的版本一樣。前面這一串是這個版本的代碼。假設我現在要使用git跳到v1.4.1版。這邊是v1.4.1版的代碼。輸入
+git checkpoint。再來代碼這邊點滑鼠左鍵兩下
+會自動選取整個代碼。再點滑鼠右鍵一下
+會將選取的代碼複製起來。
+
+再點滑鼠右鍵一下
+會自動貼上剛剛複製的代碼。按下enter鍵
+stable diffusion web UI就會切換到v1.4.1版。按鍵盤的up鍵
+可以叫出上一個執行過的指令。再按一次up鍵
+叫出git reflog指令。按下enter鍵來查詢是否v1.4.1版為目前最上頭的HEAD版本。OK
+沒問題。來執行stable diffusion web UI。這邊已經顯示目前執行的版本為v1.4.1版
+這樣就切換成功。
+
+這邊產生了一個錯誤，看看錯誤訊息是因為sd-webui-refiner這一個extension只支援v1.5.1版本
+所以當您降級到v1.4.1版而出現問題。如果只貼了這一段錯誤訊息
+ModeleNotFoundError:No module named 'sgm'也沒有說明降級的前因後果
+老阿貝是完全猜不出來問題點在哪邊。來看看這個錯誤是否會影響到stable diffusion web UI開啟。看起來是不會
+如果不會的話可以放著不管或是直接將這個extension移除。OK
+版本正確，切換過程是蠻簡單的，不過就是要應付所出現的問題。像老阿貝這麼懶或是初學者 
+建議還是將大檔案移出來用複製的方式來備份喔。再來試一次將版本移到v1.5.1。
+
+輸入git checkout。複製並貼上1.5.1版代碼。先來把剛剛開啟的stable diffusion關閉。按下enter鍵。這樣就切換到V1.5.1版囉。來執行stable diffusion看看。沒問題
+已經是 v1.5.1版。以上就是今天的分享
+如果影片對你有幫助。
+
+有空再記得幫老阿貝
+訂閱、分享加按小鈴鐺。難得有閒心情又好的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=IEj5mEAWBlw
 本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語
 
@@ -255,6 +483,60 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" />
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" />
 <img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a><br />
+有大大問說 stable diffusion web UI更新後不合用
+沒用複製的方式來備份，可以退回上一個版本或是特定的版本嗎。可以唷
+使用git指令，可以在不同版本間做切換。不過這種切換
+多多少少會產生一些小小的問題。這樣的小問題
+對懂git操作的人來說可能上個網查個資料就可以解決。但對不懂git的初學者 
+小小的問題就會卡住很久很久。而且每個人的電腦環境和stable diffusion環境也不相同
+使用git切換所產生的問題真的比較複雜。舉例來說
+假設您是升級到1.5.1，也把extension升級，然後使用git降級，開啟Stable diffusion web UI後，執行過程出現錯誤。就有可能是某個extension有支援SD 1.5.1版某個功能
+結果SD降級後，那個extension沒跟著降，呼叫不到1.5.1版的某個函數就出現錯誤。
+
+這一種的錯誤沒有完整的錯誤訊息或是在電腦面前操作，很難猜到是出現甚麼問題。或是您用git切換版本到不同的分支上
+使用git pull要更新，也會出現無法更新的問題。對初學者來說
+這些小問題可能就會讓他無法使用SD。又有些錯誤訊息會被youtube認為有可能含有injection
+攻擊字眼，這些錯誤訊息的留言就會被自動刪除。沒看到完整的錯誤訊息，就像隔空抓藥一樣
+只能用猜的解決所產生的問題，有點不切實際。所以有關SD web UI升級的影片
+老阿貝都會多次建議用複製的方式備份比較沒問題。老阿貝自己也是用複製的方式來備份不同的版本
+像這樣，搭配把大檔案移到其他槽共用，沒什問題簡單又方便喔。進入正題囉。
+
+Stable diffusion web UI最底下這邊就是您目前的版本。先將stable diffusion關閉。打開檔案總管
+來到您安裝stable diffusion目錄底下。點這邊
+輸入CMD後按下鍵盤的enter鍵。就會出現這目錄底下的命令提示字元。輸入git reflog。輸入完後
+按下enter鍵。這個指令可以查詢使用git安裝的歷史版本。
+
+最上面那一行有 HEAD的那一版就是目前所使用的版本。跟我們剛剛在web UI 最底下看到的版本一樣。前面這一串是這個版本的代碼。假設我現在要使用git跳到v1.4.1版。這邊是v1.4.1版的代碼。輸入
+git checkpoint。再來代碼這邊點滑鼠左鍵兩下
+會自動選取整個代碼。再點滑鼠右鍵一下
+會將選取的代碼複製起來。
+
+再點滑鼠右鍵一下
+會自動貼上剛剛複製的代碼。按下enter鍵
+stable diffusion web UI就會切換到v1.4.1版。按鍵盤的up鍵
+可以叫出上一個執行過的指令。再按一次up鍵
+叫出git reflog指令。按下enter鍵來查詢是否v1.4.1版為目前最上頭的HEAD版本。OK
+沒問題。來執行stable diffusion web UI。這邊已經顯示目前執行的版本為v1.4.1版
+這樣就切換成功。
+
+這邊產生了一個錯誤，看看錯誤訊息是因為sd-webui-refiner這一個extension只支援v1.5.1版本
+所以當您降級到v1.4.1版而出現問題。如果只貼了這一段錯誤訊息
+ModeleNotFoundError:No module named 'sgm'也沒有說明降級的前因後果
+老阿貝是完全猜不出來問題點在哪邊。來看看這個錯誤是否會影響到stable diffusion web UI開啟。看起來是不會
+如果不會的話可以放著不管或是直接將這個extension移除。OK
+版本正確，切換過程是蠻簡單的，不過就是要應付所出現的問題。像老阿貝這麼懶或是初學者 
+建議還是將大檔案移出來用複製的方式來備份喔。再來試一次將版本移到v1.5.1。
+
+輸入git checkout。複製並貼上1.5.1版代碼。先來把剛剛開啟的stable diffusion關閉。按下enter鍵。這樣就切換到V1.5.1版囉。來執行stable diffusion看看。沒問題
+已經是 v1.5.1版。以上就是今天的分享
+如果影片對你有幫助。
+
+有空再記得幫老阿貝
+訂閱、分享加按小鈴鐺。難得有閒心情又好的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=IEj5mEAWBlw
 本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語
 
@@ -302,6 +584,66 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/1.jpg" />
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/2.jpg" />
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/3.jpg" /></a>
+大家好
+今天來分享如何提高圖片的細節。把圖片的細節從這樣
+變成這樣。有看出來嗎?有看出來的話
+就給它繼續看下去囉。圖片生成所使用的大模型(chilled remix)為這位大大所建議
+影片下方會有此模型的下載連結，有興趣的可以下載來試看看。感謝這位大大的建議。先來生成一張合適的圖。這邊老阿貝會使用到增加細節的Lora 
+Lora的連結會放在影片的下方。prompt設定完後
+老阿貝會先用512*512生成一張來看看是否有符合所要的。OK
+看起來有符合心中想要的圖片風格。再來老阿貝會生成十張圖片來選擇最好的圖片
+因為是用512*512尺寸，所以圖片生成的速度還可以接受。來選妃囉。有一些SD AI繪圖初學者會問
+別人的圖片為什麼細節那麼漂亮。
+
+漂亮的圖片除了prompt下的好外
+很多都是選出來的。看起來每個妃都好像心情不好的感覺。加個smile
+讓大家心情好一點。再來跑個10張圖。看起來心情是有好一點。Ok
+就這張。把這張的Seed種子叫出來。現在來把解析度提高
+打開高清修復。選擇放大演算法
+這邊選擇這一個。其他的參數都用預設值。生成的圖片數量調回1。點生成按鈕。這樣就會得到一張1024*1024 的圖片。
+
+如果prompt沒問題的話
+這樣尺寸的圖片通常就會有不錯的細節。如果您是初學者的話，在SD1.5的模型上
+記得不要一開始就生成尺寸超過1000*1000以上的圖片。要先用低尺寸快速的生成一堆圖
+圖選定後，再直接拉高尺寸。拉高尺寸的方式也不是只有高清修復
+只是在文生圖上且拉高尺寸不高的情況下，用高清修復這選項來做比較簡便。將生成的圖片送到img2img圖生圖中。先將正向提示詞與反向提示詞都刪除。再選擇一個適當的checkpoint。因為現在需要的是人形的細節
+所以老阿貝選擇這一個checkpoint。Realistic vision checkpoint下載網址會放在影片下方
+有需要的，請自行下載。移到畫面的下方。選擇DPM++ SDE Karrnas 這一個。Sampling steps設定35。為什麼要選擇這一個Sampling method呢?
+
+因為它在細節上處理比較好。如果你沒有特定的Sampling method喜好
+處理細節方面可以選擇這一個，缺點是生成的速度比較慢一點。再來點Resize by。嗯..........
+這邊先確定好再給數值。先把Denoising strength 重繪幅度調至0.2~0.3左右。點開controlnet。將enable打勾。選擇Tile。點controlNet is more important。這邊確定您的預處理器為tile_resample。Model為contronet tile。沒問題後。將畫面往上拉。
+
+先來生成一張圖。和原圖來比較看看。如果還不是很滿意的話。再來調整重繪幅度。這邊的調整每張圖的情況都不一樣
+雖然老阿貝剛剛說調整的數值為0.2~0.3。但老阿貝也有調整過0.4以上
+都是看圖來做調整，所以剛剛才沒調整尺寸。等圖片大部分的細節是我們想要的時候
+再來調整放大的尺寸。那什麼狀況下
+圖片才會是我們想要的呢?這就要靠您經驗的累積或個人還是客戶的喜好來做調整。沒有固定的數值。圖片和參數都確定完後
+就可以來調整放大尺寸。這邊放大3倍好了。將畫面往下拉。
+
+點這邊。選擇Ultimate SD upscale。因為我們放大3倍後尺寸變為 3072*3072
+如果直接放大的話顯示卡記憶體會不夠。因此使用Ultimate SD upscale這個功能
+將圖片切開並個別放大後，再組合起來。這樣顯示卡的記憶體就不會被吃光。點這邊。選擇這一個。放大倍率選擇3倍。選擇4x UltraSharp放大演算法。這樣就完成了放大參數的設定
+將畫面往上拉。點生成圖片按鈕。現在顯示卡記憶體的使用量為9.5G
+等會將圖片切分後，顯示卡記憶體使用量就會下降。切分圖片後的處理
+顯示卡記憶體約佔 4.5~5.2G左右。
+
+OK
+來看一下成果。嗯........
+來改用相簿打開放大縮小比較方便。看起來細節還不錯
+感覺也比較立體一點。如果不滿意
+還是可以再做細節的調整。這毛衣的質感也有做出來。這邊邊的細毛也顯示的不錯。好像能看透的感覺。眼睛瞳孔的處理也還可以。讓圖片增加細節的部分，其中一個做法大概是這樣
+當然還有其他的做法，有空再來分享。再來看一下同樣的prompt
+不同大模型所生成的圖片。嘴唇的細節
+很可以。彷彿有鬍鬚的感覺。毛衣的細節也處理得不錯。
+
+老阿貝曾經把放大數值設到最大
+不過生成一張圖要20個小時。如果電腦有空真想讓它跑看看。以上就是今天的分享
+如果影片對您有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=KxXw91C0E7c
 本影片內容為分享AI繪圖 stable diffusion使用controlnet tile resample來讓圖片得到更多的細節
 
@@ -356,6 +698,66 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/1.jpg" />
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/2.jpg" />
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/3.jpg" /></a>
+大家好
+今天來分享如何提高圖片的細節。把圖片的細節從這樣
+變成這樣。有看出來嗎?有看出來的話
+就給它繼續看下去囉。圖片生成所使用的大模型(chilled remix)為這位大大所建議
+影片下方會有此模型的下載連結，有興趣的可以下載來試看看。感謝這位大大的建議。先來生成一張合適的圖。這邊老阿貝會使用到增加細節的Lora 
+Lora的連結會放在影片的下方。prompt設定完後
+老阿貝會先用512*512生成一張來看看是否有符合所要的。OK
+看起來有符合心中想要的圖片風格。再來老阿貝會生成十張圖片來選擇最好的圖片
+因為是用512*512尺寸，所以圖片生成的速度還可以接受。來選妃囉。有一些SD AI繪圖初學者會問
+別人的圖片為什麼細節那麼漂亮。
+
+漂亮的圖片除了prompt下的好外
+很多都是選出來的。看起來每個妃都好像心情不好的感覺。加個smile
+讓大家心情好一點。再來跑個10張圖。看起來心情是有好一點。Ok
+就這張。把這張的Seed種子叫出來。現在來把解析度提高
+打開高清修復。選擇放大演算法
+這邊選擇這一個。其他的參數都用預設值。生成的圖片數量調回1。點生成按鈕。這樣就會得到一張1024*1024 的圖片。
+
+如果prompt沒問題的話
+這樣尺寸的圖片通常就會有不錯的細節。如果您是初學者的話，在SD1.5的模型上
+記得不要一開始就生成尺寸超過1000*1000以上的圖片。要先用低尺寸快速的生成一堆圖
+圖選定後，再直接拉高尺寸。拉高尺寸的方式也不是只有高清修復
+只是在文生圖上且拉高尺寸不高的情況下，用高清修復這選項來做比較簡便。將生成的圖片送到img2img圖生圖中。先將正向提示詞與反向提示詞都刪除。再選擇一個適當的checkpoint。因為現在需要的是人形的細節
+所以老阿貝選擇這一個checkpoint。Realistic vision checkpoint下載網址會放在影片下方
+有需要的，請自行下載。移到畫面的下方。選擇DPM++ SDE Karrnas 這一個。Sampling steps設定35。為什麼要選擇這一個Sampling method呢?
+
+因為它在細節上處理比較好。如果你沒有特定的Sampling method喜好
+處理細節方面可以選擇這一個，缺點是生成的速度比較慢一點。再來點Resize by。嗯..........
+這邊先確定好再給數值。先把Denoising strength 重繪幅度調至0.2~0.3左右。點開controlnet。將enable打勾。選擇Tile。點controlNet is more important。這邊確定您的預處理器為tile_resample。Model為contronet tile。沒問題後。將畫面往上拉。
+
+先來生成一張圖。和原圖來比較看看。如果還不是很滿意的話。再來調整重繪幅度。這邊的調整每張圖的情況都不一樣
+雖然老阿貝剛剛說調整的數值為0.2~0.3。但老阿貝也有調整過0.4以上
+都是看圖來做調整，所以剛剛才沒調整尺寸。等圖片大部分的細節是我們想要的時候
+再來調整放大的尺寸。那什麼狀況下
+圖片才會是我們想要的呢?這就要靠您經驗的累積或個人還是客戶的喜好來做調整。沒有固定的數值。圖片和參數都確定完後
+就可以來調整放大尺寸。這邊放大3倍好了。將畫面往下拉。
+
+點這邊。選擇Ultimate SD upscale。因為我們放大3倍後尺寸變為 3072*3072
+如果直接放大的話顯示卡記憶體會不夠。因此使用Ultimate SD upscale這個功能
+將圖片切開並個別放大後，再組合起來。這樣顯示卡的記憶體就不會被吃光。點這邊。選擇這一個。放大倍率選擇3倍。選擇4x UltraSharp放大演算法。這樣就完成了放大參數的設定
+將畫面往上拉。點生成圖片按鈕。現在顯示卡記憶體的使用量為9.5G
+等會將圖片切分後，顯示卡記憶體使用量就會下降。切分圖片後的處理
+顯示卡記憶體約佔 4.5~5.2G左右。
+
+OK
+來看一下成果。嗯........
+來改用相簿打開放大縮小比較方便。看起來細節還不錯
+感覺也比較立體一點。如果不滿意
+還是可以再做細節的調整。這毛衣的質感也有做出來。這邊邊的細毛也顯示的不錯。好像能看透的感覺。眼睛瞳孔的處理也還可以。讓圖片增加細節的部分，其中一個做法大概是這樣
+當然還有其他的做法，有空再來分享。再來看一下同樣的prompt
+不同大模型所生成的圖片。嘴唇的細節
+很可以。彷彿有鬍鬚的感覺。毛衣的細節也處理得不錯。
+
+老阿貝曾經把放大數值設到最大
+不過生成一張圖要20個小時。如果電腦有空真想讓它跑看看。以上就是今天的分享
+如果影片對您有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=KxXw91C0E7c
 本影片內容為分享AI繪圖 stable diffusion使用controlnet tile resample來讓圖片得到更多的細節
 
@@ -409,6 +811,66 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/1.jpg" />
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/2.jpg" />
 <img src="https://img.youtube.com/vi/KxXw91C0E7c/3.jpg" /></a><br />
+大家好
+今天來分享如何提高圖片的細節。把圖片的細節從這樣
+變成這樣。有看出來嗎?有看出來的話
+就給它繼續看下去囉。圖片生成所使用的大模型(chilled remix)為這位大大所建議
+影片下方會有此模型的下載連結，有興趣的可以下載來試看看。感謝這位大大的建議。先來生成一張合適的圖。這邊老阿貝會使用到增加細節的Lora 
+Lora的連結會放在影片的下方。prompt設定完後
+老阿貝會先用512*512生成一張來看看是否有符合所要的。OK
+看起來有符合心中想要的圖片風格。再來老阿貝會生成十張圖片來選擇最好的圖片
+因為是用512*512尺寸，所以圖片生成的速度還可以接受。來選妃囉。有一些SD AI繪圖初學者會問
+別人的圖片為什麼細節那麼漂亮。
+
+漂亮的圖片除了prompt下的好外
+很多都是選出來的。看起來每個妃都好像心情不好的感覺。加個smile
+讓大家心情好一點。再來跑個10張圖。看起來心情是有好一點。Ok
+就這張。把這張的Seed種子叫出來。現在來把解析度提高
+打開高清修復。選擇放大演算法
+這邊選擇這一個。其他的參數都用預設值。生成的圖片數量調回1。點生成按鈕。這樣就會得到一張1024*1024 的圖片。
+
+如果prompt沒問題的話
+這樣尺寸的圖片通常就會有不錯的細節。如果您是初學者的話，在SD1.5的模型上
+記得不要一開始就生成尺寸超過1000*1000以上的圖片。要先用低尺寸快速的生成一堆圖
+圖選定後，再直接拉高尺寸。拉高尺寸的方式也不是只有高清修復
+只是在文生圖上且拉高尺寸不高的情況下，用高清修復這選項來做比較簡便。將生成的圖片送到img2img圖生圖中。先將正向提示詞與反向提示詞都刪除。再選擇一個適當的checkpoint。因為現在需要的是人形的細節
+所以老阿貝選擇這一個checkpoint。Realistic vision checkpoint下載網址會放在影片下方
+有需要的，請自行下載。移到畫面的下方。選擇DPM++ SDE Karrnas 這一個。Sampling steps設定35。為什麼要選擇這一個Sampling method呢?
+
+因為它在細節上處理比較好。如果你沒有特定的Sampling method喜好
+處理細節方面可以選擇這一個，缺點是生成的速度比較慢一點。再來點Resize by。嗯..........
+這邊先確定好再給數值。先把Denoising strength 重繪幅度調至0.2~0.3左右。點開controlnet。將enable打勾。選擇Tile。點controlNet is more important。這邊確定您的預處理器為tile_resample。Model為contronet tile。沒問題後。將畫面往上拉。
+
+先來生成一張圖。和原圖來比較看看。如果還不是很滿意的話。再來調整重繪幅度。這邊的調整每張圖的情況都不一樣
+雖然老阿貝剛剛說調整的數值為0.2~0.3。但老阿貝也有調整過0.4以上
+都是看圖來做調整，所以剛剛才沒調整尺寸。等圖片大部分的細節是我們想要的時候
+再來調整放大的尺寸。那什麼狀況下
+圖片才會是我們想要的呢?這就要靠您經驗的累積或個人還是客戶的喜好來做調整。沒有固定的數值。圖片和參數都確定完後
+就可以來調整放大尺寸。這邊放大3倍好了。將畫面往下拉。
+
+點這邊。選擇Ultimate SD upscale。因為我們放大3倍後尺寸變為 3072*3072
+如果直接放大的話顯示卡記憶體會不夠。因此使用Ultimate SD upscale這個功能
+將圖片切開並個別放大後，再組合起來。這樣顯示卡的記憶體就不會被吃光。點這邊。選擇這一個。放大倍率選擇3倍。選擇4x UltraSharp放大演算法。這樣就完成了放大參數的設定
+將畫面往上拉。點生成圖片按鈕。現在顯示卡記憶體的使用量為9.5G
+等會將圖片切分後，顯示卡記憶體使用量就會下降。切分圖片後的處理
+顯示卡記憶體約佔 4.5~5.2G左右。
+
+OK
+來看一下成果。嗯........
+來改用相簿打開放大縮小比較方便。看起來細節還不錯
+感覺也比較立體一點。如果不滿意
+還是可以再做細節的調整。這毛衣的質感也有做出來。這邊邊的細毛也顯示的不錯。好像能看透的感覺。眼睛瞳孔的處理也還可以。讓圖片增加細節的部分，其中一個做法大概是這樣
+當然還有其他的做法，有空再來分享。再來看一下同樣的prompt
+不同大模型所生成的圖片。嘴唇的細節
+很可以。彷彿有鬍鬚的感覺。毛衣的細節也處理得不錯。
+
+老阿貝曾經把放大數值設到最大
+不過生成一張圖要20個小時。如果電腦有空真想讓它跑看看。以上就是今天的分享
+如果影片對您有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=KxXw91C0E7c
 本影片內容為分享AI繪圖 stable diffusion使用controlnet tile resample來讓圖片得到更多的細節
 
@@ -1253,6 +1715,67 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/1.jpg" />
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/2.jpg" />
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/3.jpg" /></a>
+大家好
+今天先來跟大家分享QR Code二維碼在stable diffusion的製作。這個製作方式大概已經出現有一段時間了。相信很多大大們也都已經看過網路上的製作方式。老阿貝的製作方式和大家製作的原理差不多
+不過只要三個步驟就可完成。第一個步驟
+下載 controlnet brightness model。一樣來到影片的下方。點controlnet sd15 brightness model下載網址。要下載的是這一個檔案。點這裡來開始下載。儲存到您的stable diffusion安裝目錄。底下的extensions資料夾。找到這個資料夾並點開它。再找到models資料夾。點進去。把下載的檔案儲存在這個位置。
+
+因為老阿貝之前有下載過了
+所以就不再下載。下載完畢後。回到stable diffusion web UI檢查controlnet是否有抓到。點開controlnet。點重新整理按鈕。點model下拉式選單。找到剛剛下載的model檔名。有找到的話就沒問題了
+沒找到的話請檢查是否放錯路徑。第二步驟
+用網路上的工具生成QR Code二維碼。一樣在影片的下方
+點QR Code二維碼生成網站。這個選項可以選擇生成不同種類的二維碼。老阿貝要生成的是網址種類的二維碼
+所以就是預設的選項。Code Type也是用預設值
+QR Code這一個。這邊輸入您要生成二維碼的網址。偵錯等級設為high。
+
+底下的設定全部用預設值就可以了。點Generate Code按鈕。在QR code二維碼圖片上按滑鼠右鍵
+選擇另存圖片。選擇您想要儲存的目錄底下並按存檔。第三步驟
+用stable diffusion加上controlnet生成QR code二維碼。回到stable diffusion web UI。回到stable diffusion web UI。先來選擇checkpoint model。這邊的選擇非常的重要
+進可能選卡通或動漫的checkpoint 
+這樣二維碼掃碼成功率比較高。如果您選擇的是chilloutmix這類的
+二維碼掃碼成功率比較低一點。老阿貝選擇anything這一個checkpoint model。剩下其他的設定使用預設值就可以了。輸入簡單起手畫面。輸入1girl。輸入簡單的反向提示詞。
+
+輸入完畢，將畫面往下拉。選擇您常用的sampling method。調整您常用的sampling steps。底下的參數全部用預設值就可以了。來到controlnet這邊。點這裡
+將剛剛生成的QR Code二維碼載入。再將畫面往下拉。Ｍodel選擇剛剛下載的brightness。再來的三個設定是重點。control weight設定0.65左右。starting Control Step設定成0.35左右。Ending Control Step設定成0.75左右。這邊的左右會被sampling method和checkpoint model影響。如果生成的QR Code二維碼掃碼成功率不高的話
+可以調整這三個選項。Control weight可以理解成原QR code所占透明度比例。
+
+假如設為0，原QR code圖就完全透明
+只剩下圖片，像這樣。QR code二維碼並沒有和圖片融入。那如果把值設為1。就只剩下QR code二維碼。理解過後
+各位就應該會知道為什麼Control Weight要設0.65。因為生成這類的QR code二維碼
+最主要的還是要能掃碼出來。所以原QR code圖片可視的比例會比背景圖多一點點。不過這邊的設定會根據您所選的checkpoint model和Sampling  method不同而稍微變動。自己多調整幾次
+有經驗後，就大概知道應該設多少了。再來是Starting Control Step 和Enging Control Step這兩個設定。這兩個設定跟上面的Sampling Steps設定有關係。這邊的Sampling Steps設定15。所以當controlnet的Starting Control Step設定為0.35時
+因15乘上0.35=5
+就表示controlnet在Sampling Step 5的時候將原QR code圖介入開始作用。同理可證
+Ending Control Step設定為0.75時
+controlnet 在sampling step為11之後不再作用。這三個設定在controlnet上非非非常的重要
+一定要知道設定的作用在哪裡。
+
+這樣您才會知道如何去調整這些參數。再來底下的這些設定目前就先用預設值即可
+跑圖後有需要再調整。跑出這樣的圖
+有沒有猜到哪一個設定忘了調整。如果你第一個想到的就是這個
+恭喜您，有天分喔.....調整完後再來跑一張圖看看。調整完後再來跑一張圖看看。這樣stable diffusion就成功生成QR code二維碼的圖片。再來就是拿手機試著掃碼看看。老阿貝試著掃這張QR code二維碼
+是可以成功的。成功後
+可以一次跑多張圖來選擇自己喜歡的。點開來看看。這邊老阿貝就沒掃碼測試了 
+應該是有的靈敏度很高，有的就比較低。來把女孩改成汽車試看看。看起來還不錯
+不過這張QR code二維碼，掃碼靈敏度就比較低。手機要拿遠拿近，不斷的調整才掃得出來。
+
+可以像剛剛那樣多跑幾張圖來選
+影片片頭的那些二維碼就是多跑圖選出來的。掃碼靈敏度還算不錯。老阿貝
+你這樣給人家省步驟， 會不會沒省步驟做出來的比較好。純理論上來說差別不大
+但有沒有比較好，應該要實做來比較看看才知道。先來看看這兩張QR Code二維碼。看得出來哪一張QR code二維碼是省步驟做的
+又哪一張QR code二維碼不是省步驟做的嗎?答案揭曉
+左邊的圖是省步驟做出來的二維碼圖。只用了一個controlnet。右邊的QR Code二維碼
+是沒省步驟做成的。使用了兩個controlnet。如果你對Stable diffusion夠了解的話
+就能知道這兩個做法沒有哪一個做法比較厲害
+思考的出發點和適用性不同而已。所謂條條道路通羅馬
+希望各位在學習上都能找到適合自己的那條路。以上就是今天的分享
+如果影片對您有幫助的話。再記的幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。
+
+謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=PQ6WDM5ALb4
 stable diffusion QR Code二維碼生成教學
 
@@ -1301,6 +1824,67 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/1.jpg" />
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/2.jpg" />
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/3.jpg" /></a>
+大家好
+今天先來跟大家分享QR Code二維碼在stable diffusion的製作。這個製作方式大概已經出現有一段時間了。相信很多大大們也都已經看過網路上的製作方式。老阿貝的製作方式和大家製作的原理差不多
+不過只要三個步驟就可完成。第一個步驟
+下載 controlnet brightness model。一樣來到影片的下方。點controlnet sd15 brightness model下載網址。要下載的是這一個檔案。點這裡來開始下載。儲存到您的stable diffusion安裝目錄。底下的extensions資料夾。找到這個資料夾並點開它。再找到models資料夾。點進去。把下載的檔案儲存在這個位置。
+
+因為老阿貝之前有下載過了
+所以就不再下載。下載完畢後。回到stable diffusion web UI檢查controlnet是否有抓到。點開controlnet。點重新整理按鈕。點model下拉式選單。找到剛剛下載的model檔名。有找到的話就沒問題了
+沒找到的話請檢查是否放錯路徑。第二步驟
+用網路上的工具生成QR Code二維碼。一樣在影片的下方
+點QR Code二維碼生成網站。這個選項可以選擇生成不同種類的二維碼。老阿貝要生成的是網址種類的二維碼
+所以就是預設的選項。Code Type也是用預設值
+QR Code這一個。這邊輸入您要生成二維碼的網址。偵錯等級設為high。
+
+底下的設定全部用預設值就可以了。點Generate Code按鈕。在QR code二維碼圖片上按滑鼠右鍵
+選擇另存圖片。選擇您想要儲存的目錄底下並按存檔。第三步驟
+用stable diffusion加上controlnet生成QR code二維碼。回到stable diffusion web UI。回到stable diffusion web UI。先來選擇checkpoint model。這邊的選擇非常的重要
+進可能選卡通或動漫的checkpoint 
+這樣二維碼掃碼成功率比較高。如果您選擇的是chilloutmix這類的
+二維碼掃碼成功率比較低一點。老阿貝選擇anything這一個checkpoint model。剩下其他的設定使用預設值就可以了。輸入簡單起手畫面。輸入1girl。輸入簡單的反向提示詞。
+
+輸入完畢，將畫面往下拉。選擇您常用的sampling method。調整您常用的sampling steps。底下的參數全部用預設值就可以了。來到controlnet這邊。點這裡
+將剛剛生成的QR Code二維碼載入。再將畫面往下拉。Ｍodel選擇剛剛下載的brightness。再來的三個設定是重點。control weight設定0.65左右。starting Control Step設定成0.35左右。Ending Control Step設定成0.75左右。這邊的左右會被sampling method和checkpoint model影響。如果生成的QR Code二維碼掃碼成功率不高的話
+可以調整這三個選項。Control weight可以理解成原QR code所占透明度比例。
+
+假如設為0，原QR code圖就完全透明
+只剩下圖片，像這樣。QR code二維碼並沒有和圖片融入。那如果把值設為1。就只剩下QR code二維碼。理解過後
+各位就應該會知道為什麼Control Weight要設0.65。因為生成這類的QR code二維碼
+最主要的還是要能掃碼出來。所以原QR code圖片可視的比例會比背景圖多一點點。不過這邊的設定會根據您所選的checkpoint model和Sampling  method不同而稍微變動。自己多調整幾次
+有經驗後，就大概知道應該設多少了。再來是Starting Control Step 和Enging Control Step這兩個設定。這兩個設定跟上面的Sampling Steps設定有關係。這邊的Sampling Steps設定15。所以當controlnet的Starting Control Step設定為0.35時
+因15乘上0.35=5
+就表示controlnet在Sampling Step 5的時候將原QR code圖介入開始作用。同理可證
+Ending Control Step設定為0.75時
+controlnet 在sampling step為11之後不再作用。這三個設定在controlnet上非非非常的重要
+一定要知道設定的作用在哪裡。
+
+這樣您才會知道如何去調整這些參數。再來底下的這些設定目前就先用預設值即可
+跑圖後有需要再調整。跑出這樣的圖
+有沒有猜到哪一個設定忘了調整。如果你第一個想到的就是這個
+恭喜您，有天分喔.....調整完後再來跑一張圖看看。調整完後再來跑一張圖看看。這樣stable diffusion就成功生成QR code二維碼的圖片。再來就是拿手機試著掃碼看看。老阿貝試著掃這張QR code二維碼
+是可以成功的。成功後
+可以一次跑多張圖來選擇自己喜歡的。點開來看看。這邊老阿貝就沒掃碼測試了 
+應該是有的靈敏度很高，有的就比較低。來把女孩改成汽車試看看。看起來還不錯
+不過這張QR code二維碼，掃碼靈敏度就比較低。手機要拿遠拿近，不斷的調整才掃得出來。
+
+可以像剛剛那樣多跑幾張圖來選
+影片片頭的那些二維碼就是多跑圖選出來的。掃碼靈敏度還算不錯。老阿貝
+你這樣給人家省步驟， 會不會沒省步驟做出來的比較好。純理論上來說差別不大
+但有沒有比較好，應該要實做來比較看看才知道。先來看看這兩張QR Code二維碼。看得出來哪一張QR code二維碼是省步驟做的
+又哪一張QR code二維碼不是省步驟做的嗎?答案揭曉
+左邊的圖是省步驟做出來的二維碼圖。只用了一個controlnet。右邊的QR Code二維碼
+是沒省步驟做成的。使用了兩個controlnet。如果你對Stable diffusion夠了解的話
+就能知道這兩個做法沒有哪一個做法比較厲害
+思考的出發點和適用性不同而已。所謂條條道路通羅馬
+希望各位在學習上都能找到適合自己的那條路。以上就是今天的分享
+如果影片對您有幫助的話。再記的幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。
+
+謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=PQ6WDM5ALb4
 stable diffusion QR Code二維碼生成教學
 
@@ -1348,6 +1932,67 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/1.jpg" />
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/2.jpg" />
 <img src="https://img.youtube.com/vi/PQ6WDM5ALb4/3.jpg" /></a><br />
+大家好
+今天先來跟大家分享QR Code二維碼在stable diffusion的製作。這個製作方式大概已經出現有一段時間了。相信很多大大們也都已經看過網路上的製作方式。老阿貝的製作方式和大家製作的原理差不多
+不過只要三個步驟就可完成。第一個步驟
+下載 controlnet brightness model。一樣來到影片的下方。點controlnet sd15 brightness model下載網址。要下載的是這一個檔案。點這裡來開始下載。儲存到您的stable diffusion安裝目錄。底下的extensions資料夾。找到這個資料夾並點開它。再找到models資料夾。點進去。把下載的檔案儲存在這個位置。
+
+因為老阿貝之前有下載過了
+所以就不再下載。下載完畢後。回到stable diffusion web UI檢查controlnet是否有抓到。點開controlnet。點重新整理按鈕。點model下拉式選單。找到剛剛下載的model檔名。有找到的話就沒問題了
+沒找到的話請檢查是否放錯路徑。第二步驟
+用網路上的工具生成QR Code二維碼。一樣在影片的下方
+點QR Code二維碼生成網站。這個選項可以選擇生成不同種類的二維碼。老阿貝要生成的是網址種類的二維碼
+所以就是預設的選項。Code Type也是用預設值
+QR Code這一個。這邊輸入您要生成二維碼的網址。偵錯等級設為high。
+
+底下的設定全部用預設值就可以了。點Generate Code按鈕。在QR code二維碼圖片上按滑鼠右鍵
+選擇另存圖片。選擇您想要儲存的目錄底下並按存檔。第三步驟
+用stable diffusion加上controlnet生成QR code二維碼。回到stable diffusion web UI。回到stable diffusion web UI。先來選擇checkpoint model。這邊的選擇非常的重要
+進可能選卡通或動漫的checkpoint 
+這樣二維碼掃碼成功率比較高。如果您選擇的是chilloutmix這類的
+二維碼掃碼成功率比較低一點。老阿貝選擇anything這一個checkpoint model。剩下其他的設定使用預設值就可以了。輸入簡單起手畫面。輸入1girl。輸入簡單的反向提示詞。
+
+輸入完畢，將畫面往下拉。選擇您常用的sampling method。調整您常用的sampling steps。底下的參數全部用預設值就可以了。來到controlnet這邊。點這裡
+將剛剛生成的QR Code二維碼載入。再將畫面往下拉。Ｍodel選擇剛剛下載的brightness。再來的三個設定是重點。control weight設定0.65左右。starting Control Step設定成0.35左右。Ending Control Step設定成0.75左右。這邊的左右會被sampling method和checkpoint model影響。如果生成的QR Code二維碼掃碼成功率不高的話
+可以調整這三個選項。Control weight可以理解成原QR code所占透明度比例。
+
+假如設為0，原QR code圖就完全透明
+只剩下圖片，像這樣。QR code二維碼並沒有和圖片融入。那如果把值設為1。就只剩下QR code二維碼。理解過後
+各位就應該會知道為什麼Control Weight要設0.65。因為生成這類的QR code二維碼
+最主要的還是要能掃碼出來。所以原QR code圖片可視的比例會比背景圖多一點點。不過這邊的設定會根據您所選的checkpoint model和Sampling  method不同而稍微變動。自己多調整幾次
+有經驗後，就大概知道應該設多少了。再來是Starting Control Step 和Enging Control Step這兩個設定。這兩個設定跟上面的Sampling Steps設定有關係。這邊的Sampling Steps設定15。所以當controlnet的Starting Control Step設定為0.35時
+因15乘上0.35=5
+就表示controlnet在Sampling Step 5的時候將原QR code圖介入開始作用。同理可證
+Ending Control Step設定為0.75時
+controlnet 在sampling step為11之後不再作用。這三個設定在controlnet上非非非常的重要
+一定要知道設定的作用在哪裡。
+
+這樣您才會知道如何去調整這些參數。再來底下的這些設定目前就先用預設值即可
+跑圖後有需要再調整。跑出這樣的圖
+有沒有猜到哪一個設定忘了調整。如果你第一個想到的就是這個
+恭喜您，有天分喔.....調整完後再來跑一張圖看看。調整完後再來跑一張圖看看。這樣stable diffusion就成功生成QR code二維碼的圖片。再來就是拿手機試著掃碼看看。老阿貝試著掃這張QR code二維碼
+是可以成功的。成功後
+可以一次跑多張圖來選擇自己喜歡的。點開來看看。這邊老阿貝就沒掃碼測試了 
+應該是有的靈敏度很高，有的就比較低。來把女孩改成汽車試看看。看起來還不錯
+不過這張QR code二維碼，掃碼靈敏度就比較低。手機要拿遠拿近，不斷的調整才掃得出來。
+
+可以像剛剛那樣多跑幾張圖來選
+影片片頭的那些二維碼就是多跑圖選出來的。掃碼靈敏度還算不錯。老阿貝
+你這樣給人家省步驟， 會不會沒省步驟做出來的比較好。純理論上來說差別不大
+但有沒有比較好，應該要實做來比較看看才知道。先來看看這兩張QR Code二維碼。看得出來哪一張QR code二維碼是省步驟做的
+又哪一張QR code二維碼不是省步驟做的嗎?答案揭曉
+左邊的圖是省步驟做出來的二維碼圖。只用了一個controlnet。右邊的QR Code二維碼
+是沒省步驟做成的。使用了兩個controlnet。如果你對Stable diffusion夠了解的話
+就能知道這兩個做法沒有哪一個做法比較厲害
+思考的出發點和適用性不同而已。所謂條條道路通羅馬
+希望各位在學習上都能找到適合自己的那條路。以上就是今天的分享
+如果影片對您有幫助的話。再記的幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。
+
+謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=PQ6WDM5ALb4
 stable diffusion QR Code二維碼生成教學
 
@@ -1771,6 +2416,45 @@ Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsica
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" />
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" />
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a>
+大家好，今天來跟大家分享 inpaint畫布縮放塗抹小小extension
+Canvas Zoom。canvas zoom的功能目前有收錄在stable diffusion web UI A1111 v1.4.1版本中。如果您已更新版本為1.4.1或以上
+在extensions底下這裡。可以找到這個小工具。讓我們先來看看為何需要這個小工具。這個stable diffusion web UI為v1.3.2版本
+沒有內建canvas zoom。來到圖生圖這邊。點inpaint局部重繪。拉一張圖進來。假設我要塗抹耳朵這個小細節
+因為沒有放大的功能所以只能這樣塗抹來產生MASK。
+
+這個版本目前提供的工具就只有這些。實在是非常的陽春且不夠用。拖拉這邊也沒有辦法放大圖形。這一個stable diffusion web UI是已經升級為1.4.1版
+已經內建canvas zoom and pan extension。一樣拖拉一張圖進來。在這邊多出一個canvas zoom 小工具。目前有五個功能。alt+滑鼠的滾輪可以進行縮放。ctrl+滑鼠的滾輪可以調整筆刷大小。按下鍵盤S鍵為full screen模式。
+
+按下鍵盤R鍵回到預設位置。按下鍵盤F鍵不放移動滑鼠可拖拉圖片位置。目前stable diffusion web UI升級為v1.4.1版的canvas zoom提供這5個小功能。來試一下剛剛的小耳朵塗抹MASK。先將圖片放大。再縮小筆刷尺寸。這樣就可以進行更精細塗抹MASK。有這幾個小工具跟之前比起來已經非常的方便。但還是有個小缺點。舉例來說
+假設要將這張圖做outpaint。
+
+以基本功來說先到圖生圖這邊。拉一張圖進來。把canvas畫布延伸出去。將Denoising strength重繪幅度調為0。抓取canvas 畫布尺寸。開始跑圖。會得到這一張兩邊都是拓展出去塗黑的圖。將這張圖送到inpaint處理。這樣就產生一個問題
+因為我們要做MASK遮罩的地方也是黑色。所以當要塗抹一樣是黑色時 
+無法看出來是否有塗抹到。
+
+因此我們需要一個能夠調整塗抹顏色的設定。目前stable diffusion web UI尚未支援這個設定
+只能安裝canvas zoom extension來支援。先來安裝canvas zoom extension。一樣來到影片下方
+點開canvas zoom 下載網址。點code下拉式選單。點複製按鈕。回到stable diffusion web UI。點extensions。點install from URL。點這邊
+並將剛剛複製的安裝網址貼上。
+
+點install按鈕。當出現這段文字時表示下載完成。點installed。點Apply and restart UI。重新啟動後
+canvas zoom extension就安裝完成。來看看有安裝canvas zoom extension和stable diffusion web UI的差別。一樣快速的跑一張左右擴展的圖片。有裝canvas zoom extension在右上角多一個可選擇塗抹MASK的顏色。這樣就解決掉塗抹區域顏色是黑色的問題。Ok
+來設個參數測試一下。
+
+跟預想的不一樣
+來查一下哪邊的設定沒設到。sampling method要改成這個。嗯......
+有點像了，再來把denoising strength重繪幅度調高。OK這樣就差不多完成了
+想必stable diffusion web UI以後的升級應該也會支援多顏色選取塗抹MASK這個功能。目前如果你需要運用到這樣的功能
+可以先安裝canvas zoom extension。canvas zoom extension也比stable diffusion web UI的5個功能多出來這些小功能。除了C鍵可以將MASK變成透明外
+其他的用處不大或目前有bug尚未處理好。有興趣的大大們可以按來試看看。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。
+
+有閒又有空的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=ZoJUQj9Hayo
 canvas-zoom extension 下載網址
 https://github.com/richrobber2/canvas-zoom/tree/main
@@ -1813,6 +2497,45 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" />
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" />
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a>
+大家好，今天來跟大家分享 inpaint畫布縮放塗抹小小extension
+Canvas Zoom。canvas zoom的功能目前有收錄在stable diffusion web UI A1111 v1.4.1版本中。如果您已更新版本為1.4.1或以上
+在extensions底下這裡。可以找到這個小工具。讓我們先來看看為何需要這個小工具。這個stable diffusion web UI為v1.3.2版本
+沒有內建canvas zoom。來到圖生圖這邊。點inpaint局部重繪。拉一張圖進來。假設我要塗抹耳朵這個小細節
+因為沒有放大的功能所以只能這樣塗抹來產生MASK。
+
+這個版本目前提供的工具就只有這些。實在是非常的陽春且不夠用。拖拉這邊也沒有辦法放大圖形。這一個stable diffusion web UI是已經升級為1.4.1版
+已經內建canvas zoom and pan extension。一樣拖拉一張圖進來。在這邊多出一個canvas zoom 小工具。目前有五個功能。alt+滑鼠的滾輪可以進行縮放。ctrl+滑鼠的滾輪可以調整筆刷大小。按下鍵盤S鍵為full screen模式。
+
+按下鍵盤R鍵回到預設位置。按下鍵盤F鍵不放移動滑鼠可拖拉圖片位置。目前stable diffusion web UI升級為v1.4.1版的canvas zoom提供這5個小功能。來試一下剛剛的小耳朵塗抹MASK。先將圖片放大。再縮小筆刷尺寸。這樣就可以進行更精細塗抹MASK。有這幾個小工具跟之前比起來已經非常的方便。但還是有個小缺點。舉例來說
+假設要將這張圖做outpaint。
+
+以基本功來說先到圖生圖這邊。拉一張圖進來。把canvas畫布延伸出去。將Denoising strength重繪幅度調為0。抓取canvas 畫布尺寸。開始跑圖。會得到這一張兩邊都是拓展出去塗黑的圖。將這張圖送到inpaint處理。這樣就產生一個問題
+因為我們要做MASK遮罩的地方也是黑色。所以當要塗抹一樣是黑色時 
+無法看出來是否有塗抹到。
+
+因此我們需要一個能夠調整塗抹顏色的設定。目前stable diffusion web UI尚未支援這個設定
+只能安裝canvas zoom extension來支援。先來安裝canvas zoom extension。一樣來到影片下方
+點開canvas zoom 下載網址。點code下拉式選單。點複製按鈕。回到stable diffusion web UI。點extensions。點install from URL。點這邊
+並將剛剛複製的安裝網址貼上。
+
+點install按鈕。當出現這段文字時表示下載完成。點installed。點Apply and restart UI。重新啟動後
+canvas zoom extension就安裝完成。來看看有安裝canvas zoom extension和stable diffusion web UI的差別。一樣快速的跑一張左右擴展的圖片。有裝canvas zoom extension在右上角多一個可選擇塗抹MASK的顏色。這樣就解決掉塗抹區域顏色是黑色的問題。Ok
+來設個參數測試一下。
+
+跟預想的不一樣
+來查一下哪邊的設定沒設到。sampling method要改成這個。嗯......
+有點像了，再來把denoising strength重繪幅度調高。OK這樣就差不多完成了
+想必stable diffusion web UI以後的升級應該也會支援多顏色選取塗抹MASK這個功能。目前如果你需要運用到這樣的功能
+可以先安裝canvas zoom extension。canvas zoom extension也比stable diffusion web UI的5個功能多出來這些小功能。除了C鍵可以將MASK變成透明外
+其他的用處不大或目前有bug尚未處理好。有興趣的大大們可以按來試看看。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。
+
+有閒又有空的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=ZoJUQj9Hayo
 canvas-zoom extension 下載網址
 https://github.com/richrobber2/canvas-zoom/tree/main
@@ -1854,6 +2577,45 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" />
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" />
 <img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a><br />
+大家好，今天來跟大家分享 inpaint畫布縮放塗抹小小extension
+Canvas Zoom。canvas zoom的功能目前有收錄在stable diffusion web UI A1111 v1.4.1版本中。如果您已更新版本為1.4.1或以上
+在extensions底下這裡。可以找到這個小工具。讓我們先來看看為何需要這個小工具。這個stable diffusion web UI為v1.3.2版本
+沒有內建canvas zoom。來到圖生圖這邊。點inpaint局部重繪。拉一張圖進來。假設我要塗抹耳朵這個小細節
+因為沒有放大的功能所以只能這樣塗抹來產生MASK。
+
+這個版本目前提供的工具就只有這些。實在是非常的陽春且不夠用。拖拉這邊也沒有辦法放大圖形。這一個stable diffusion web UI是已經升級為1.4.1版
+已經內建canvas zoom and pan extension。一樣拖拉一張圖進來。在這邊多出一個canvas zoom 小工具。目前有五個功能。alt+滑鼠的滾輪可以進行縮放。ctrl+滑鼠的滾輪可以調整筆刷大小。按下鍵盤S鍵為full screen模式。
+
+按下鍵盤R鍵回到預設位置。按下鍵盤F鍵不放移動滑鼠可拖拉圖片位置。目前stable diffusion web UI升級為v1.4.1版的canvas zoom提供這5個小功能。來試一下剛剛的小耳朵塗抹MASK。先將圖片放大。再縮小筆刷尺寸。這樣就可以進行更精細塗抹MASK。有這幾個小工具跟之前比起來已經非常的方便。但還是有個小缺點。舉例來說
+假設要將這張圖做outpaint。
+
+以基本功來說先到圖生圖這邊。拉一張圖進來。把canvas畫布延伸出去。將Denoising strength重繪幅度調為0。抓取canvas 畫布尺寸。開始跑圖。會得到這一張兩邊都是拓展出去塗黑的圖。將這張圖送到inpaint處理。這樣就產生一個問題
+因為我們要做MASK遮罩的地方也是黑色。所以當要塗抹一樣是黑色時 
+無法看出來是否有塗抹到。
+
+因此我們需要一個能夠調整塗抹顏色的設定。目前stable diffusion web UI尚未支援這個設定
+只能安裝canvas zoom extension來支援。先來安裝canvas zoom extension。一樣來到影片下方
+點開canvas zoom 下載網址。點code下拉式選單。點複製按鈕。回到stable diffusion web UI。點extensions。點install from URL。點這邊
+並將剛剛複製的安裝網址貼上。
+
+點install按鈕。當出現這段文字時表示下載完成。點installed。點Apply and restart UI。重新啟動後
+canvas zoom extension就安裝完成。來看看有安裝canvas zoom extension和stable diffusion web UI的差別。一樣快速的跑一張左右擴展的圖片。有裝canvas zoom extension在右上角多一個可選擇塗抹MASK的顏色。這樣就解決掉塗抹區域顏色是黑色的問題。Ok
+來設個參數測試一下。
+
+跟預想的不一樣
+來查一下哪邊的設定沒設到。sampling method要改成這個。嗯......
+有點像了，再來把denoising strength重繪幅度調高。OK這樣就差不多完成了
+想必stable diffusion web UI以後的升級應該也會支援多顏色選取塗抹MASK這個功能。目前如果你需要運用到這樣的功能
+可以先安裝canvas zoom extension。canvas zoom extension也比stable diffusion web UI的5個功能多出來這些小功能。除了C鍵可以將MASK變成透明外
+其他的用處不大或目前有bug尚未處理好。有興趣的大大們可以按來試看看。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。
+
+有閒又有空的話
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=ZoJUQj9Hayo
 canvas-zoom extension 下載網址
 https://github.com/richrobber2/canvas-zoom/tree/main
@@ -1901,6 +2663,40 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/1.jpg" />
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/2.jpg" />
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/3.jpg" /></a>
+一開始先用SD跑一張圖。圖的尺寸是888x1024。SD參數只設定--xformers
+顯示卡為2060 12GB。顯卡記憶體最大會吃到8.1G左右。
+
+Ok
+就以這張圖為基礎來和SDXL做比較。將正反prompt 和參數原封不動搬到SDXL Demo
+題外話，今天更新SDXL發現0.9不見了。這另人有點想像的空間 
+不過也沒有寫1.0啦，官方都還沒出來。這樣的圖形尺寸 顯示卡記憶體最大就吃到11G左右。
+
+每一張圖的生成時間大約26秒。SD的圖片生成時間大約為14秒。圖片不行
+再跑一次。還是不行
+再跑一次。
+
+好吧
+這張勉強可以。來比較看看吧。左邊是SD使用chilloutmix
+沒有加任何的LORA跑出來的圖片。右邊是同樣的正反prompt和參數用SDXL跑出來的圖片。
+
+來把這兩張圖片都用SDXL的Refine
+以不同的數值再跑一遍。因為SDXL的Refine設定為0時會出現錯誤
+所以測試的數值是從0.1~1。終於跑完了
+來看一下有何不同。感覺有點像是圖生圖的Denoising strength和CFG Scale綜合體，感覺啦，老阿貝沒去看Refine的文件說明。
+
+就是以一個普通人來做圖片的測試這樣而已。老阿貝還有在網路上面看到有人用牛排來測試
+於是老阿貝也模仿了一下。您們可以猜猜看哪個是SD，哪個又是SDXL生成的。答案揭曉
+左邊是SDXL，右邊是SD。
+
+聽說SDXL官方會在7月中旬左右會推出1.0版
+應該就是下個禮拜，到時候再來測看看變化多大囉。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空的，再麻煩看一下廣告。
+
+謝謝大家，祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=0LKj3We0s1s
 本影片內容為分享AI繪圖 stable diffusion和SDXL在圖片、顯示卡記憶體、Refube、圖片生成時間簡單比較。
 
@@ -1942,6 +2738,40 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/1.jpg" />
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/2.jpg" />
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/3.jpg" /></a>
+一開始先用SD跑一張圖。圖的尺寸是888x1024。SD參數只設定--xformers
+顯示卡為2060 12GB。顯卡記憶體最大會吃到8.1G左右。
+
+Ok
+就以這張圖為基礎來和SDXL做比較。將正反prompt 和參數原封不動搬到SDXL Demo
+題外話，今天更新SDXL發現0.9不見了。這另人有點想像的空間 
+不過也沒有寫1.0啦，官方都還沒出來。這樣的圖形尺寸 顯示卡記憶體最大就吃到11G左右。
+
+每一張圖的生成時間大約26秒。SD的圖片生成時間大約為14秒。圖片不行
+再跑一次。還是不行
+再跑一次。
+
+好吧
+這張勉強可以。來比較看看吧。左邊是SD使用chilloutmix
+沒有加任何的LORA跑出來的圖片。右邊是同樣的正反prompt和參數用SDXL跑出來的圖片。
+
+來把這兩張圖片都用SDXL的Refine
+以不同的數值再跑一遍。因為SDXL的Refine設定為0時會出現錯誤
+所以測試的數值是從0.1~1。終於跑完了
+來看一下有何不同。感覺有點像是圖生圖的Denoising strength和CFG Scale綜合體，感覺啦，老阿貝沒去看Refine的文件說明。
+
+就是以一個普通人來做圖片的測試這樣而已。老阿貝還有在網路上面看到有人用牛排來測試
+於是老阿貝也模仿了一下。您們可以猜猜看哪個是SD，哪個又是SDXL生成的。答案揭曉
+左邊是SDXL，右邊是SD。
+
+聽說SDXL官方會在7月中旬左右會推出1.0版
+應該就是下個禮拜，到時候再來測看看變化多大囉。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空的，再麻煩看一下廣告。
+
+謝謝大家，祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=0LKj3We0s1s
 本影片內容為分享AI繪圖 stable diffusion和SDXL在圖片、顯示卡記憶體、Refube、圖片生成時間簡單比較。
 
@@ -1982,6 +2812,40 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/1.jpg" />
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/2.jpg" />
 <img src="https://img.youtube.com/vi/0LKj3We0s1s/3.jpg" /></a><br />
+一開始先用SD跑一張圖。圖的尺寸是888x1024。SD參數只設定--xformers
+顯示卡為2060 12GB。顯卡記憶體最大會吃到8.1G左右。
+
+Ok
+就以這張圖為基礎來和SDXL做比較。將正反prompt 和參數原封不動搬到SDXL Demo
+題外話，今天更新SDXL發現0.9不見了。這另人有點想像的空間 
+不過也沒有寫1.0啦，官方都還沒出來。這樣的圖形尺寸 顯示卡記憶體最大就吃到11G左右。
+
+每一張圖的生成時間大約26秒。SD的圖片生成時間大約為14秒。圖片不行
+再跑一次。還是不行
+再跑一次。
+
+好吧
+這張勉強可以。來比較看看吧。左邊是SD使用chilloutmix
+沒有加任何的LORA跑出來的圖片。右邊是同樣的正反prompt和參數用SDXL跑出來的圖片。
+
+來把這兩張圖片都用SDXL的Refine
+以不同的數值再跑一遍。因為SDXL的Refine設定為0時會出現錯誤
+所以測試的數值是從0.1~1。終於跑完了
+來看一下有何不同。感覺有點像是圖生圖的Denoising strength和CFG Scale綜合體，感覺啦，老阿貝沒去看Refine的文件說明。
+
+就是以一個普通人來做圖片的測試這樣而已。老阿貝還有在網路上面看到有人用牛排來測試
+於是老阿貝也模仿了一下。您們可以猜猜看哪個是SD，哪個又是SDXL生成的。答案揭曉
+左邊是SDXL，右邊是SD。
+
+聽說SDXL官方會在7月中旬左右會推出1.0版
+應該就是下個禮拜，到時候再來測看看變化多大囉。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空的，再麻煩看一下廣告。
+
+謝謝大家，祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=0LKj3We0s1s
 本影片內容為分享AI繪圖 stable diffusion和SDXL在圖片、顯示卡記憶體、Refube、圖片生成時間簡單比較。
 
@@ -2028,6 +2892,53 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/1.jpg" />
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/2.jpg" />
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/3.jpg" /></a>
+第一部分
+SDXL extensions安裝。安裝需要C槽約19GB的空間。一樣來到影片下方。點SDXL web UI extension下載網址。點code下拉式選單。點複製安裝網址按鈕。回到stable diffusion web UI。點extensions。點install from URL。
+
+點這邊
+並將剛剛複製的安裝網址貼上。點install按鈕。等待下載。當出現這段英文時
+表示下載完畢。點installed。點Apply and restart UI。點SDXL 0.9 Demo。這邊有說明一定要用GPU來跑。再來就是一個步驟一個步驟的做下去。
+
+第一
+要先登入Hugging face。第一和第二一起做就可以了
+第二
+接受license Agreement。點here。將畫面往下拉。點log in。輸入您的賬號和密碼。輸入完畢後點Login按鈕。如果你有出現這個畫面
+請隨便填入資料即可。填完後
+把這個打勾，再點這邊。
+
+看到這個畫面就表示完成第二個步驟。回到stable diffusion web UI。第三個步驟是要我們創建一個token。點here。點new token按鈕。name隨便輸入一個名稱。Role就read不動。點這個按鈕生成token。點複製token按鈕。
+
+回到stable diffusion web UI。點settings。將畫面往下拉
+在左邊選項找到SDXL 0.9 Demo。把剛剛複製的token在這邊貼上。點Apply settings。關閉stable diffusion。再開啟stable diffusion。這樣就會開始下載SDXL 0.9 Demo
+大約會下載19GB
+老阿貝這邊等了約40分鐘左右。下載19GB會放在C槽
+請確定C槽所剩餘的空間。
+
+這邊只加速時間
+不剪接影片讓您可以比對下載的過程。原作者有說
+下載過程如果有發生錯誤，請重新啟動stable diffusion。不過老阿貝的下載過程還蠻順利的
+沒有發生任何錯誤。原作者的系統是使用Ubuntu
+老阿貝使用的是windows 10。OK
+出現這樣的畫面就表示下載並安裝完成。回到瀏覽器
+點refresh重新載入stable diffusion web UI。點SDXL 0.9 Demo。出現這樣的畫面
+恭喜您，安裝成功。第二部分
+基本操作說明。
+
+這樣的界面大家應該都很熟悉了
+來看一下他的預設和之前的SD 有何不同。寬高尺寸預設值為1024x1024
+果然是XL等級。再來這邊多了一個Refine。refine模型可以理解成圖生圖模式 
+上面的文生圖在SDXL稱為Base模型。輸入1girl 跑一張圖來看看顯示卡記憶體使用量。使用量會超過10G以上
+所以如果您的顯示卡為8G，記得把參數設為--medvram或--lowvram。老阿貝有試者安裝在AMD顯卡的電腦上
+但都不成功。老阿貝不成功不代表你們也不成功
+所以有興趣，有閒又有空的可以試著安裝看看。來看一下同樣的尺寸在之前的SD上頭會占多少顯示卡記憶體空間。
+
+大概7點多G左右。今天主要介紹如何安裝
+以後再來介紹SDXL更詳細的說明。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=aLYSoujnH8I
 SDXL webUI extension 下載網址
 https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img
@@ -2070,6 +2981,53 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/1.jpg" />
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/2.jpg" />
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/3.jpg" /></a>
+第一部分
+SDXL extensions安裝。安裝需要C槽約19GB的空間。一樣來到影片下方。點SDXL web UI extension下載網址。點code下拉式選單。點複製安裝網址按鈕。回到stable diffusion web UI。點extensions。點install from URL。
+
+點這邊
+並將剛剛複製的安裝網址貼上。點install按鈕。等待下載。當出現這段英文時
+表示下載完畢。點installed。點Apply and restart UI。點SDXL 0.9 Demo。這邊有說明一定要用GPU來跑。再來就是一個步驟一個步驟的做下去。
+
+第一
+要先登入Hugging face。第一和第二一起做就可以了
+第二
+接受license Agreement。點here。將畫面往下拉。點log in。輸入您的賬號和密碼。輸入完畢後點Login按鈕。如果你有出現這個畫面
+請隨便填入資料即可。填完後
+把這個打勾，再點這邊。
+
+看到這個畫面就表示完成第二個步驟。回到stable diffusion web UI。第三個步驟是要我們創建一個token。點here。點new token按鈕。name隨便輸入一個名稱。Role就read不動。點這個按鈕生成token。點複製token按鈕。
+
+回到stable diffusion web UI。點settings。將畫面往下拉
+在左邊選項找到SDXL 0.9 Demo。把剛剛複製的token在這邊貼上。點Apply settings。關閉stable diffusion。再開啟stable diffusion。這樣就會開始下載SDXL 0.9 Demo
+大約會下載19GB
+老阿貝這邊等了約40分鐘左右。下載19GB會放在C槽
+請確定C槽所剩餘的空間。
+
+這邊只加速時間
+不剪接影片讓您可以比對下載的過程。原作者有說
+下載過程如果有發生錯誤，請重新啟動stable diffusion。不過老阿貝的下載過程還蠻順利的
+沒有發生任何錯誤。原作者的系統是使用Ubuntu
+老阿貝使用的是windows 10。OK
+出現這樣的畫面就表示下載並安裝完成。回到瀏覽器
+點refresh重新載入stable diffusion web UI。點SDXL 0.9 Demo。出現這樣的畫面
+恭喜您，安裝成功。第二部分
+基本操作說明。
+
+這樣的界面大家應該都很熟悉了
+來看一下他的預設和之前的SD 有何不同。寬高尺寸預設值為1024x1024
+果然是XL等級。再來這邊多了一個Refine。refine模型可以理解成圖生圖模式 
+上面的文生圖在SDXL稱為Base模型。輸入1girl 跑一張圖來看看顯示卡記憶體使用量。使用量會超過10G以上
+所以如果您的顯示卡為8G，記得把參數設為--medvram或--lowvram。老阿貝有試者安裝在AMD顯卡的電腦上
+但都不成功。老阿貝不成功不代表你們也不成功
+所以有興趣，有閒又有空的可以試著安裝看看。來看一下同樣的尺寸在之前的SD上頭會占多少顯示卡記憶體空間。
+
+大概7點多G左右。今天主要介紹如何安裝
+以後再來介紹SDXL更詳細的說明。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=aLYSoujnH8I
 SDXL webUI extension 下載網址
 https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img
@@ -2111,6 +3069,53 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/1.jpg" />
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/2.jpg" />
 <img src="https://img.youtube.com/vi/aLYSoujnH8I/3.jpg" /></a><br />
+第一部分
+SDXL extensions安裝。安裝需要C槽約19GB的空間。一樣來到影片下方。點SDXL web UI extension下載網址。點code下拉式選單。點複製安裝網址按鈕。回到stable diffusion web UI。點extensions。點install from URL。
+
+點這邊
+並將剛剛複製的安裝網址貼上。點install按鈕。等待下載。當出現這段英文時
+表示下載完畢。點installed。點Apply and restart UI。點SDXL 0.9 Demo。這邊有說明一定要用GPU來跑。再來就是一個步驟一個步驟的做下去。
+
+第一
+要先登入Hugging face。第一和第二一起做就可以了
+第二
+接受license Agreement。點here。將畫面往下拉。點log in。輸入您的賬號和密碼。輸入完畢後點Login按鈕。如果你有出現這個畫面
+請隨便填入資料即可。填完後
+把這個打勾，再點這邊。
+
+看到這個畫面就表示完成第二個步驟。回到stable diffusion web UI。第三個步驟是要我們創建一個token。點here。點new token按鈕。name隨便輸入一個名稱。Role就read不動。點這個按鈕生成token。點複製token按鈕。
+
+回到stable diffusion web UI。點settings。將畫面往下拉
+在左邊選項找到SDXL 0.9 Demo。把剛剛複製的token在這邊貼上。點Apply settings。關閉stable diffusion。再開啟stable diffusion。這樣就會開始下載SDXL 0.9 Demo
+大約會下載19GB
+老阿貝這邊等了約40分鐘左右。下載19GB會放在C槽
+請確定C槽所剩餘的空間。
+
+這邊只加速時間
+不剪接影片讓您可以比對下載的過程。原作者有說
+下載過程如果有發生錯誤，請重新啟動stable diffusion。不過老阿貝的下載過程還蠻順利的
+沒有發生任何錯誤。原作者的系統是使用Ubuntu
+老阿貝使用的是windows 10。OK
+出現這樣的畫面就表示下載並安裝完成。回到瀏覽器
+點refresh重新載入stable diffusion web UI。點SDXL 0.9 Demo。出現這樣的畫面
+恭喜您，安裝成功。第二部分
+基本操作說明。
+
+這樣的界面大家應該都很熟悉了
+來看一下他的預設和之前的SD 有何不同。寬高尺寸預設值為1024x1024
+果然是XL等級。再來這邊多了一個Refine。refine模型可以理解成圖生圖模式 
+上面的文生圖在SDXL稱為Base模型。輸入1girl 跑一張圖來看看顯示卡記憶體使用量。使用量會超過10G以上
+所以如果您的顯示卡為8G，記得把參數設為--medvram或--lowvram。老阿貝有試者安裝在AMD顯卡的電腦上
+但都不成功。老阿貝不成功不代表你們也不成功
+所以有興趣，有閒又有空的可以試著安裝看看。來看一下同樣的尺寸在之前的SD上頭會占多少顯示卡記憶體空間。
+
+大概7點多G左右。今天主要介紹如何安裝
+以後再來介紹SDXL更詳細的說明。以上就是今天的分享
+如果影片對您有幫助的話。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=aLYSoujnH8I
 SDXL webUI extension 下載網址
 https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img
@@ -2489,6 +3494,41 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" />
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" />
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a>
+有人問C槽的空間越來越少 
+要怎麼找出罪魁禍首呢?今天來推薦一個老阿貝用了十幾年的軟體
+可以精準的列出每個檔案或資料夾所佔的空間。這個軟體的名稱叫做treesize。有免費版跟付費版
+查看使用空間，免費版就很好用了。一樣來到影片的下方。點Treesize free 官方下載網址。點Free Download。
+
+再點Free Download。這邊有兩個版本可以選擇
+一個是安裝版本，另外一個是免安裝版。老阿貝習慣用免安裝版。點Download。點continue with Treesize Free。選擇您要儲存的位置。點存檔。
+
+下載完畢後
+點在資料夾中顯示。將下載後的壓縮檔解壓縮出來。將下載後的壓縮檔解壓縮出來。壓縮檔用不到了
+可以先刪除掉。打開解壓縮出來的資料夾。點兩下treesizefree執行檔。因為是從官方網站直接下載
+不會有問題，所以可以取消這個打勾。
+
+取消後
+下一次執行就不會再跳出這個對話框。先來把介面改成中文。點Options。點Language。選擇繁體中文。這軟體的操作方式很簡單。點首頁。
+
+點選擇路徑。這邊看您是要選擇硬碟槽。還是資料夾都可以。老阿貝選擇硬碟試看看。這樣就會列出這顆硬碟每個資料所佔的容量。像DragGan佔了3.1GB。點這邊可以看資料夾裡頭的內容。
+
+checkpoints資料夾就佔了3GB。就這樣一層一層的去檢查。就可以找出哪一些檔案或資料夾佔據了太多的空間。再把佔據比較多空間的移到其他槽
+如果軟體有支援設定路徑，就將路徑設定過去。如果沒有支援
+可以用mklink方式連結過去。treesize介面的操作就跟檔案總管差不多。點滑鼠右鍵出現的功能列
+是不是和檔案總管一模一樣。
+
+您可以直接在這邊點開啟
+用檔案總管做管理。也可以在這邊直接點滑鼠右鍵來進行您想要的管理功能
+像是刪除檔案。有些資料夾要有其他的權限才可以使用
+如果你有系統管理員權限，可以點這邊取得系統管理員權限。取得後會自動重開軟體。這個軟體其他的操作就跟檔案總管一樣
+這邊就不浪費時間多說了。以上就是今天的分享
+如果影片對你有幫助的話。再記得幫忙老阿貝
+訂閱、分享加按小鈴鐺。
+
+有閒又有空也幫忙看一下廣告優。謝謝大家，祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=iiQR3xANFQQ
 Treesize free官方下載網址
 https://www.jam-software.com/treesize_free
@@ -2534,6 +3574,41 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" />
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" />
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a>
+有人問C槽的空間越來越少 
+要怎麼找出罪魁禍首呢?今天來推薦一個老阿貝用了十幾年的軟體
+可以精準的列出每個檔案或資料夾所佔的空間。這個軟體的名稱叫做treesize。有免費版跟付費版
+查看使用空間，免費版就很好用了。一樣來到影片的下方。點Treesize free 官方下載網址。點Free Download。
+
+再點Free Download。這邊有兩個版本可以選擇
+一個是安裝版本，另外一個是免安裝版。老阿貝習慣用免安裝版。點Download。點continue with Treesize Free。選擇您要儲存的位置。點存檔。
+
+下載完畢後
+點在資料夾中顯示。將下載後的壓縮檔解壓縮出來。將下載後的壓縮檔解壓縮出來。壓縮檔用不到了
+可以先刪除掉。打開解壓縮出來的資料夾。點兩下treesizefree執行檔。因為是從官方網站直接下載
+不會有問題，所以可以取消這個打勾。
+
+取消後
+下一次執行就不會再跳出這個對話框。先來把介面改成中文。點Options。點Language。選擇繁體中文。這軟體的操作方式很簡單。點首頁。
+
+點選擇路徑。這邊看您是要選擇硬碟槽。還是資料夾都可以。老阿貝選擇硬碟試看看。這樣就會列出這顆硬碟每個資料所佔的容量。像DragGan佔了3.1GB。點這邊可以看資料夾裡頭的內容。
+
+checkpoints資料夾就佔了3GB。就這樣一層一層的去檢查。就可以找出哪一些檔案或資料夾佔據了太多的空間。再把佔據比較多空間的移到其他槽
+如果軟體有支援設定路徑，就將路徑設定過去。如果沒有支援
+可以用mklink方式連結過去。treesize介面的操作就跟檔案總管差不多。點滑鼠右鍵出現的功能列
+是不是和檔案總管一模一樣。
+
+您可以直接在這邊點開啟
+用檔案總管做管理。也可以在這邊直接點滑鼠右鍵來進行您想要的管理功能
+像是刪除檔案。有些資料夾要有其他的權限才可以使用
+如果你有系統管理員權限，可以點這邊取得系統管理員權限。取得後會自動重開軟體。這個軟體其他的操作就跟檔案總管一樣
+這邊就不浪費時間多說了。以上就是今天的分享
+如果影片對你有幫助的話。再記得幫忙老阿貝
+訂閱、分享加按小鈴鐺。
+
+有閒又有空也幫忙看一下廣告優。謝謝大家，祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=iiQR3xANFQQ
 Treesize free官方下載網址
 https://www.jam-software.com/treesize_free
@@ -2578,6 +3653,41 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" />
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" />
 <img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a><br />
+有人問C槽的空間越來越少 
+要怎麼找出罪魁禍首呢?今天來推薦一個老阿貝用了十幾年的軟體
+可以精準的列出每個檔案或資料夾所佔的空間。這個軟體的名稱叫做treesize。有免費版跟付費版
+查看使用空間，免費版就很好用了。一樣來到影片的下方。點Treesize free 官方下載網址。點Free Download。
+
+再點Free Download。這邊有兩個版本可以選擇
+一個是安裝版本，另外一個是免安裝版。老阿貝習慣用免安裝版。點Download。點continue with Treesize Free。選擇您要儲存的位置。點存檔。
+
+下載完畢後
+點在資料夾中顯示。將下載後的壓縮檔解壓縮出來。將下載後的壓縮檔解壓縮出來。壓縮檔用不到了
+可以先刪除掉。打開解壓縮出來的資料夾。點兩下treesizefree執行檔。因為是從官方網站直接下載
+不會有問題，所以可以取消這個打勾。
+
+取消後
+下一次執行就不會再跳出這個對話框。先來把介面改成中文。點Options。點Language。選擇繁體中文。這軟體的操作方式很簡單。點首頁。
+
+點選擇路徑。這邊看您是要選擇硬碟槽。還是資料夾都可以。老阿貝選擇硬碟試看看。這樣就會列出這顆硬碟每個資料所佔的容量。像DragGan佔了3.1GB。點這邊可以看資料夾裡頭的內容。
+
+checkpoints資料夾就佔了3GB。就這樣一層一層的去檢查。就可以找出哪一些檔案或資料夾佔據了太多的空間。再把佔據比較多空間的移到其他槽
+如果軟體有支援設定路徑，就將路徑設定過去。如果沒有支援
+可以用mklink方式連結過去。treesize介面的操作就跟檔案總管差不多。點滑鼠右鍵出現的功能列
+是不是和檔案總管一模一樣。
+
+您可以直接在這邊點開啟
+用檔案總管做管理。也可以在這邊直接點滑鼠右鍵來進行您想要的管理功能
+像是刪除檔案。有些資料夾要有其他的權限才可以使用
+如果你有系統管理員權限，可以點這邊取得系統管理員權限。取得後會自動重開軟體。這個軟體其他的操作就跟檔案總管一樣
+這邊就不浪費時間多說了。以上就是今天的分享
+如果影片對你有幫助的話。再記得幫忙老阿貝
+訂閱、分享加按小鈴鐺。
+
+有閒又有空也幫忙看一下廣告優。謝謝大家，祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=iiQR3xANFQQ
 Treesize free官方下載網址
 https://www.jam-software.com/treesize_free
@@ -3010,6 +4120,44 @@ stable diffusion AI繪圖免費雲端使用:
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/1.jpg" />
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/2.jpg" />
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/3.jpg" /></a>
+以下是老阿貝試玩DragGan分享。玩了一會後
+終於知道MASK的功用。簡單的來說，MASK起來的區域是可作用的區域
+MASK以外的區域比較不受變動的影響。像這張圖MASK區域在裙子下方
+當裙子變短時，其它的區域不會有變化。OK
+到這邊就可以了。再短下去也不會是你們所想像的那樣
+而是會變成恐怖片。
+
+想要看恐怖片的人
+可以自己裝來玩看看。這邊想要讓他的頭轉正。這邊想要讓衣服變短袖。結果是失敗。那可以把肚子露出來嗎。別傻了
+還是失敗。
+
+這個DragGan缺少一個很重要的功能......就是沒有UNDO和REDO。失敗了就整個要重來
+來換張相片。結果換到負值出現錯誤
+還有這個DragGan字實在是太小了，跟官方網頁的不一樣。不知要怎麼樣才可以把字調大。OK
+就選這一位苦主。
+
+第二位苦主效果有好一點。再來找下一位受害者。熟悉一些小技巧後
+圖片變得越來越不錯囉。來看一下原圖。還不賴吧。貓這樣轉頭是基本動作。
+
+換其它的圖片試看看。來試看看人臉。閉眼睛閉好久才完成。好不容易閉起來的眼睛又打開了
+其實可以使用MASK遮罩就可以避免這個問題。這邊本來想要讓他的髮線往下一點
+不過怎麼弄都失敗。最後放棄了。
+
+DragGan沒有UNDO
+真是步步都驚險。再來是這一位苦主。後面整個壞掉了
+不知道救不救的回來。算了，只好重來
+DragGAN真的是步步驚心。一步錯、步步錯、全都錯。DragGan開眼閉眼真的很花時間。
+
+哇!!!!!
+又一步錯了。好像還救的回來。哇.....DragGan沒有UNDO
+真是一大敗筆。還是其實它有，只是老阿貝不知道而已
+有知道的大大再分享一下DragGan的UNDO倒底在哪裡。以上就是今天不專業DragGan Drag your Gan試用分享。
+
+有閒有空的就繼續看下去囉。阿如果有看到廣告
+再麻煩支持一下。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=mV1VxgFdNT4
 本影片內容為老阿貝DragGan試玩教學與心得分享，各位大大有知道DragGan的UNDO在哪裡的，再麻煩分享一下。
 感溫。
@@ -3062,6 +4210,44 @@ Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/1.jpg" />
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/2.jpg" />
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/3.jpg" /></a>
+以下是老阿貝試玩DragGan分享。玩了一會後
+終於知道MASK的功用。簡單的來說，MASK起來的區域是可作用的區域
+MASK以外的區域比較不受變動的影響。像這張圖MASK區域在裙子下方
+當裙子變短時，其它的區域不會有變化。OK
+到這邊就可以了。再短下去也不會是你們所想像的那樣
+而是會變成恐怖片。
+
+想要看恐怖片的人
+可以自己裝來玩看看。這邊想要讓他的頭轉正。這邊想要讓衣服變短袖。結果是失敗。那可以把肚子露出來嗎。別傻了
+還是失敗。
+
+這個DragGan缺少一個很重要的功能......就是沒有UNDO和REDO。失敗了就整個要重來
+來換張相片。結果換到負值出現錯誤
+還有這個DragGan字實在是太小了，跟官方網頁的不一樣。不知要怎麼樣才可以把字調大。OK
+就選這一位苦主。
+
+第二位苦主效果有好一點。再來找下一位受害者。熟悉一些小技巧後
+圖片變得越來越不錯囉。來看一下原圖。還不賴吧。貓這樣轉頭是基本動作。
+
+換其它的圖片試看看。來試看看人臉。閉眼睛閉好久才完成。好不容易閉起來的眼睛又打開了
+其實可以使用MASK遮罩就可以避免這個問題。這邊本來想要讓他的髮線往下一點
+不過怎麼弄都失敗。最後放棄了。
+
+DragGan沒有UNDO
+真是步步都驚險。再來是這一位苦主。後面整個壞掉了
+不知道救不救的回來。算了，只好重來
+DragGAN真的是步步驚心。一步錯、步步錯、全都錯。DragGan開眼閉眼真的很花時間。
+
+哇!!!!!
+又一步錯了。好像還救的回來。哇.....DragGan沒有UNDO
+真是一大敗筆。還是其實它有，只是老阿貝不知道而已
+有知道的大大再分享一下DragGan的UNDO倒底在哪裡。以上就是今天不專業DragGan Drag your Gan試用分享。
+
+有閒有空的就繼續看下去囉。阿如果有看到廣告
+再麻煩支持一下。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=mV1VxgFdNT4
 本影片內容為老阿貝DragGan試玩教學與心得分享，各位大大有知道DragGan的UNDO在哪裡的，再麻煩分享一下。
 感溫。
@@ -3113,6 +4299,44 @@ Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/1.jpg" />
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/2.jpg" />
 <img src="https://img.youtube.com/vi/mV1VxgFdNT4/3.jpg" /></a><br />
+以下是老阿貝試玩DragGan分享。玩了一會後
+終於知道MASK的功用。簡單的來說，MASK起來的區域是可作用的區域
+MASK以外的區域比較不受變動的影響。像這張圖MASK區域在裙子下方
+當裙子變短時，其它的區域不會有變化。OK
+到這邊就可以了。再短下去也不會是你們所想像的那樣
+而是會變成恐怖片。
+
+想要看恐怖片的人
+可以自己裝來玩看看。這邊想要讓他的頭轉正。這邊想要讓衣服變短袖。結果是失敗。那可以把肚子露出來嗎。別傻了
+還是失敗。
+
+這個DragGan缺少一個很重要的功能......就是沒有UNDO和REDO。失敗了就整個要重來
+來換張相片。結果換到負值出現錯誤
+還有這個DragGan字實在是太小了，跟官方網頁的不一樣。不知要怎麼樣才可以把字調大。OK
+就選這一位苦主。
+
+第二位苦主效果有好一點。再來找下一位受害者。熟悉一些小技巧後
+圖片變得越來越不錯囉。來看一下原圖。還不賴吧。貓這樣轉頭是基本動作。
+
+換其它的圖片試看看。來試看看人臉。閉眼睛閉好久才完成。好不容易閉起來的眼睛又打開了
+其實可以使用MASK遮罩就可以避免這個問題。這邊本來想要讓他的髮線往下一點
+不過怎麼弄都失敗。最後放棄了。
+
+DragGan沒有UNDO
+真是步步都驚險。再來是這一位苦主。後面整個壞掉了
+不知道救不救的回來。算了，只好重來
+DragGAN真的是步步驚心。一步錯、步步錯、全都錯。DragGan開眼閉眼真的很花時間。
+
+哇!!!!!
+又一步錯了。好像還救的回來。哇.....DragGan沒有UNDO
+真是一大敗筆。還是其實它有，只是老阿貝不知道而已
+有知道的大大再分享一下DragGan的UNDO倒底在哪裡。以上就是今天不專業DragGan Drag your Gan試用分享。
+
+有閒有空的就繼續看下去囉。阿如果有看到廣告
+再麻煩支持一下。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。
+
+====
 https://www.youtube.com/watch?v=mV1VxgFdNT4
 本影片內容為老阿貝DragGan試玩教學與心得分享，各位大大有知道DragGan的UNDO在哪裡的，再麻煩分享一下。
 感溫。
