@@ -1,0 +1,2645 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[老阿貝聊AI繪圖]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj</url>
+      <title>老阿貝聊AI繪圖</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[老阿貝聊AI繪圖]]></copyright>
+    <itunes:author><![CDATA[老阿貝聊AI繪圖]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[老阿貝聊AI繪圖]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
+<item>
+      <title><![CDATA[DWPOSE VS Openpose 比較。DWPOSE比較好，但目前安裝比較麻煩。[YT+]]]></title>
+      <itunes:title><![CDATA[DWPOSE VS Openpose 比較。DWPOSE比較好，但目前安裝比較麻煩。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=dFWDBEL1rMQ"><img src="https://img.youtube.com/vi/dFWDBEL1rMQ/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/0.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/1.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/2.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/3.jpg" /></a>
+https://www.youtube.com/watch?v=dFWDBEL1rMQ
+本影片內容為分享DWPose與Openpose的姿勢偵測比較。
+DWPpose Github website:
+https://github.com/IDEA-Research/DWPose
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=dFWDBEL1rMQ"><img src="https://img.youtube.com/vi/dFWDBEL1rMQ/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/0.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/1.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/2.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/3.jpg" /></a>
+https://www.youtube.com/watch?v=dFWDBEL1rMQ
+本影片內容為分享DWPose與Openpose的姿勢偵測比較。
+DWPpose Github website:
+https://github.com/IDEA-Research/DWPose
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=dFWDBEL1rMQ"><img src="https://img.youtube.com/vi/dFWDBEL1rMQ/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/0.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/1.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/2.jpg" />
+<img src="https://img.youtube.com/vi/dFWDBEL1rMQ/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=dFWDBEL1rMQ
+本影片內容為分享DWPose與Openpose的姿勢偵測比較。
+DWPpose Github website:
+https://github.com/IDEA-Research/DWPose
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/dFWDBEL1rMQ/maxresdefault.jpg"/>
+      <pubDate>2023-08-07T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[使用git指令，跳至Stable diffusion任意版本。[YT+]]]></title>
+      <itunes:title><![CDATA[使用git指令，跳至Stable diffusion任意版本。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/0.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a>
+https://www.youtube.com/watch?v=IEj5mEAWBlw
+本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/0.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a>
+https://www.youtube.com/watch?v=IEj5mEAWBlw
+本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/0.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" />
+<img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=IEj5mEAWBlw
+本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg"/>
+      <pubDate>2023-08-04T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[stable diffusion讓圖片有更多的細節教學分享。[YT+]]]></title>
+      <itunes:title><![CDATA[stable diffusion讓圖片有更多的細節教學分享。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=KxXw91C0E7c"><img src="https://img.youtube.com/vi/KxXw91C0E7c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/0.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/1.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/2.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/3.jpg" /></a>
+https://www.youtube.com/watch?v=KxXw91C0E7c
+本影片內容為分享AI繪圖 stable diffusion使用controlnet tile resample來讓圖片得到更多的細節
+
+chilled remix下載網址
+https://huggingface.co/sazyou-roukaku/chilled_remix/tree/main
+
+XXMix_9realistic下載網址
+https://civitai.com/models/47274?modelVersionId=102222
+
+Detail Tweaker LoRA (细节调整LoRA)
+https://civitai.com/models/58390?modelVersionId=62833
+
+Realistic Vision下載網址
+https://civitai.com/models/4201
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=KxXw91C0E7c"><img src="https://img.youtube.com/vi/KxXw91C0E7c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/0.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/1.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/2.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/3.jpg" /></a>
+https://www.youtube.com/watch?v=KxXw91C0E7c
+本影片內容為分享AI繪圖 stable diffusion使用controlnet tile resample來讓圖片得到更多的細節
+
+chilled remix下載網址
+https://huggingface.co/sazyou-roukaku/chilled_remix/tree/main
+
+XXMix_9realistic下載網址
+https://civitai.com/models/47274?modelVersionId=102222
+
+Detail Tweaker LoRA (细节调整LoRA)
+https://civitai.com/models/58390?modelVersionId=62833
+
+Realistic Vision下載網址
+https://civitai.com/models/4201
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=KxXw91C0E7c"><img src="https://img.youtube.com/vi/KxXw91C0E7c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/0.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/1.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/2.jpg" />
+<img src="https://img.youtube.com/vi/KxXw91C0E7c/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=KxXw91C0E7c
+本影片內容為分享AI繪圖 stable diffusion使用controlnet tile resample來讓圖片得到更多的細節
+
+chilled remix下載網址
+https://huggingface.co/sazyou-roukaku/chilled_remix/tree/main
+
+XXMix_9realistic下載網址
+https://civitai.com/models/47274?modelVersionId=102222
+
+Detail Tweaker LoRA (细节调整LoRA)
+https://civitai.com/models/58390?modelVersionId=62833
+
+Realistic Vision下載網址
+https://civitai.com/models/4201
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/KxXw91C0E7c/maxresdefault.jpg"/>
+      <pubDate>2023-08-03T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[SD webUI SDXL讓Refiner更容易使用的extension.[YT+]]]></title>
+      <itunes:title><![CDATA[SD webUI SDXL讓Refiner更容易使用的extension.[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/0.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/1.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/2.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/3.jpg" /></a>
+https://www.youtube.com/watch?v=wFnnc8fGUdc
+sd-webui-refiner下載網址:
+https://github.com/wcde/sd-webui-refiner
+
+原圖下載
+https://drive.google.com/file/d/1n08ET8_j8sSpJPvnX8ZIXSMc1ciJtqGC/view?usp=sharing
+
+XYZ plot圖下載
+https://drive.google.com/file/d/1vc7dFeuDLL0F0yc_4GIUR5gM2zUQe0G5/view?usp=sharing
+
+影片章節:
+00:07 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題
+02:02 第二部分 SD web UI Refiner下載與安裝
+03:24 第三部分 SD web UI Refiner簡易使用教學
+05:25 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/0.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/1.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/2.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/3.jpg" /></a>
+https://www.youtube.com/watch?v=wFnnc8fGUdc
+sd-webui-refiner下載網址:
+https://github.com/wcde/sd-webui-refiner
+
+原圖下載
+https://drive.google.com/file/d/1n08ET8_j8sSpJPvnX8ZIXSMc1ciJtqGC/view?usp=sharing
+
+XYZ plot圖下載
+https://drive.google.com/file/d/1vc7dFeuDLL0F0yc_4GIUR5gM2zUQe0G5/view?usp=sharing
+
+影片章節:
+00:07 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題
+02:02 第二部分 SD web UI Refiner下載與安裝
+03:24 第三部分 SD web UI Refiner簡易使用教學
+05:25 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/0.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/1.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/2.jpg" />
+<img src="https://img.youtube.com/vi/wFnnc8fGUdc/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=wFnnc8fGUdc
+sd-webui-refiner下載網址:
+https://github.com/wcde/sd-webui-refiner
+
+原圖下載
+https://drive.google.com/file/d/1n08ET8_j8sSpJPvnX8ZIXSMc1ciJtqGC/view?usp=sharing
+
+XYZ plot圖下載
+https://drive.google.com/file/d/1vc7dFeuDLL0F0yc_4GIUR5gM2zUQe0G5/view?usp=sharing
+
+影片章節:
+00:07 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題
+02:02 第二部分 SD web UI Refiner下載與安裝
+03:24 第三部分 SD web UI Refiner簡易使用教學
+05:25 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg"/>
+      <pubDate>2023-07-31T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[SDXL 1.0如何更新，支援SDXL 1.0 的checkpoint與Lora資源哪邊下載?不同參數下所佔顯示卡記憶體測試。stable diffusion SDXL Video RAM Test.[YT+]]]></title>
+      <itunes:title><![CDATA[SDXL 1.0如何更新，支援SDXL 1.0 的checkpoint與Lora資源哪邊下載?不同參數下所佔顯示卡記憶體測試。stable diffusion SDXL Video RAM Test.[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=tTX5o8v8vQg"><img src="https://img.youtube.com/vi/tTX5o8v8vQg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/0.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/1.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/2.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/3.jpg" /></a>
+https://www.youtube.com/watch?v=tTX5o8v8vQg
+civitAi網站
+https://civitai.com/
+
+SDXL 1.0需要加上的參數
+--no-half-vae
+
+影片章節
+00:08 第一部分 如何將Stable diffusion更新到能支援SDXL 1.0 
+02:52 第二部分 如何取得SDXL checkepoint與Lora資源
+04:58 第三部分 SDXL 1.0簡單試用
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+The first part is how to update Stable diffusion to support SDXL 1.0. Let’s take a look at the current version of the stable diffusion web UI. Pull down. the screen to show the version: 1.4.1 is the old Abbe. The current version of the stable diffusion web UI. needs to support SDXL , you must update the stable diffusion web UI to version 1.5. or that old saying. Before upgrading the revised stable diffusion web UI, you. must first copy the old version of the SD web UI as a backup. . The updated SD web UI deletes and then changes the name of the copied backup folder\back to the original name. The. advantage of this is that you can buy an insurance. The disadvantage is that your hard disk space needs to be enough. Assuming you have bought insurance, you. will first install stable diffusion . Close.
+
+and open the file manager,. go to the directory where you installed the stable diffusion web UI,. click here. , enter CMD and press the enter key. , this will open the command prompt under this directory. Enter git pull and press the enter key. , it will directly connect Grab the SD web UI files that need to be updated online and do the update. If. you are interested in what file to update, you can pull up the screen to check it. If you are not interested, just close this command prompt. The official has mentioned that you need to add a The parameters. are the same, go to the bottom of the video.
+
+, copy this section of parameters,. switch back to the file manager,. click the right mouse button on the batch file to start SD, select edit, and paste. the parameters just copied here. After pasting, you can save it and save it. Close the file. to open the stable diffusion web UI. In addition to the normal startup, there will be some model sha256 caculating checks. After the inspection, the stable diffusion web UI will be opened normally. to check whether the version has been updated to 1.5. If so, congratulations, you can start Models that support SDXL. The second part How to get SDXL checkpoint and Lora resources.
+
+to open AI drawing Good friend civitai.com. There. is a filter option here,. click SDXL 1.0. , it will help us filter out all SDXL 1.0 models. This checkpoint is an official. checkpoint, and there will be two 1.0 versions available for download. This is the SDXL 1.0 base model,. and this one is the SDXL 1.0 Refiner model. What is the difference between these two models? According to the official statement, refiner can generate more pictures Let’s. take a look at the pictures provided on the Internet for.
+
+more details. The.
+
+next one should be prepared for the 4K image quality. Ok, back to civitai,. this is an unofficial SDXL checkpoint,. and it has already supported SDXL 1.0.
+
+There is a merge checkpoint here. It is the official version of merge. The author claims that it is better than the SDXL 1.0 Base model. Then it is the Lora of SDXL 1.0. At present, there are these three Loras. Click to have a look, and. you will find that the Lora files of SDXL 1.0 are quite large. Each of them is about About 1.7G. seems to be running out of hard disk space. As the name suggests, SDXL is XL. size 1024x1024. XL. Models are also XL above GB.
+
+The third part of SDXL 1.0 is a simple trial.
+
+Go back to the stable diffusion web UI. and select SDXL 1.0 base model for the stable diffusion checkpoint.
+
+The prompt parameters of the steak map generated by version 0.9.
+
+use the default value first.
+
+If such a map is run out,. it is a problem with SD VAE. Please select SD VAE to be closed or automatically.
+
+closed and then run it again to see.
+
+if you use SDXL 0.9 to run the picture.
+
+SDXL checkpoint file. About 6G or so, the loading time is obviously much longer.
+
+Then run a picture with SDXL 1.0 refiner,.
+
+and run a picture with chiloutmix for comparison. Seeing such a picture, do you know which side needs to be adjusted? It’s the size. Chilloutmix belongs to SD 1.5 , the training size is usually 512*512,. so here you can use high-definition restoration to enlarge the picture size.
+
+to see the comparison of these four models.
+
+As for which of the four is better, I will leave it to you to compare. Old Abe prefers to eat the middle Let 's. see how much the memory of the display card will be eaten up under different parameters. The current one has no limit on the vram parameter. The memory of the display card can be eaten up to about 11.4G,.
+
+and then we will test the stable diffusion. Adding the --medvram parameter. shows that the memory card memory is consumed up to about 8.1G. In this picture, if the memory card memory is not set or the --medvram parameter is set, each it takes about 1.5~1.6 seconds and then the.
+
+display card is used. The memory parameter is set to --lowvram,. which will consume up to 5.7G of the display card memory. , but the speed drops to 13 seconds per it, which is more than 8 times slower than the previous two settings. Here you can see the display card memory. How important is it to stable diffusion. Finally, let’s take a look at how much graphics card memory will be taken up if you don’t limit the graphics card memory and use chilloutmix checkpoint to run the graph. All settings and parameters of the picture are the. same. . The screen on the side is cut, but the running speed of each image is about 1.5 seconds, which is about the same as the SDXL 1.0 base model. The. current update supports SDXL 1.0. In addition to the memory consumption is too high, there are still some problems that need to be solved. For example, Lora often crashes. , Halfway through the picture, it will stop there and. wait for the suggestions if you need it. You can wait to see if the official will make any corrections. The above is today’s sharing. If the video is helpful to you,. remember to subscribe, share and add to the old Abe. Press the small bell. if you are free and free, please take a look at the advertisement. Thank you everyone, I wish you health and happiness Old Abe stepped down and bowed.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=tTX5o8v8vQg"><img src="https://img.youtube.com/vi/tTX5o8v8vQg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/0.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/1.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/2.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/3.jpg" /></a>
+https://www.youtube.com/watch?v=tTX5o8v8vQg
+civitAi網站
+https://civitai.com/
+
+SDXL 1.0需要加上的參數
+--no-half-vae
+
+影片章節
+00:08 第一部分 如何將Stable diffusion更新到能支援SDXL 1.0 
+02:52 第二部分 如何取得SDXL checkepoint與Lora資源
+04:58 第三部分 SDXL 1.0簡單試用
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+The first part is how to update Stable diffusion to support SDXL 1.0. Let’s take a look at the current version of the stable diffusion web UI. Pull down. the screen to show the version: 1.4.1 is the old Abbe. The current version of the stable diffusion web UI. needs to support SDXL , you must update the stable diffusion web UI to version 1.5. or that old saying. Before upgrading the revised stable diffusion web UI, you. must first copy the old version of the SD web UI as a backup. . The updated SD web UI deletes and then changes the name of the copied backup folder\back to the original name. The. advantage of this is that you can buy an insurance. The disadvantage is that your hard disk space needs to be enough. Assuming you have bought insurance, you. will first install stable diffusion . Close.
+
+and open the file manager,. go to the directory where you installed the stable diffusion web UI,. click here. , enter CMD and press the enter key. , this will open the command prompt under this directory. Enter git pull and press the enter key. , it will directly connect Grab the SD web UI files that need to be updated online and do the update. If. you are interested in what file to update, you can pull up the screen to check it. If you are not interested, just close this command prompt. The official has mentioned that you need to add a The parameters. are the same, go to the bottom of the video.
+
+, copy this section of parameters,. switch back to the file manager,. click the right mouse button on the batch file to start SD, select edit, and paste. the parameters just copied here. After pasting, you can save it and save it. Close the file. to open the stable diffusion web UI. In addition to the normal startup, there will be some model sha256 caculating checks. After the inspection, the stable diffusion web UI will be opened normally. to check whether the version has been updated to 1.5. If so, congratulations, you can start Models that support SDXL. The second part How to get SDXL checkpoint and Lora resources.
+
+to open AI drawing Good friend civitai.com. There. is a filter option here,. click SDXL 1.0. , it will help us filter out all SDXL 1.0 models. This checkpoint is an official. checkpoint, and there will be two 1.0 versions available for download. This is the SDXL 1.0 base model,. and this one is the SDXL 1.0 Refiner model. What is the difference between these two models? According to the official statement, refiner can generate more pictures Let’s. take a look at the pictures provided on the Internet for.
+
+more details. The.
+
+next one should be prepared for the 4K image quality. Ok, back to civitai,. this is an unofficial SDXL checkpoint,. and it has already supported SDXL 1.0.
+
+There is a merge checkpoint here. It is the official version of merge. The author claims that it is better than the SDXL 1.0 Base model. Then it is the Lora of SDXL 1.0. At present, there are these three Loras. Click to have a look, and. you will find that the Lora files of SDXL 1.0 are quite large. Each of them is about About 1.7G. seems to be running out of hard disk space. As the name suggests, SDXL is XL. size 1024x1024. XL. Models are also XL above GB.
+
+The third part of SDXL 1.0 is a simple trial.
+
+Go back to the stable diffusion web UI. and select SDXL 1.0 base model for the stable diffusion checkpoint.
+
+The prompt parameters of the steak map generated by version 0.9.
+
+use the default value first.
+
+If such a map is run out,. it is a problem with SD VAE. Please select SD VAE to be closed or automatically.
+
+closed and then run it again to see.
+
+if you use SDXL 0.9 to run the picture.
+
+SDXL checkpoint file. About 6G or so, the loading time is obviously much longer.
+
+Then run a picture with SDXL 1.0 refiner,.
+
+and run a picture with chiloutmix for comparison. Seeing such a picture, do you know which side needs to be adjusted? It’s the size. Chilloutmix belongs to SD 1.5 , the training size is usually 512*512,. so here you can use high-definition restoration to enlarge the picture size.
+
+to see the comparison of these four models.
+
+As for which of the four is better, I will leave it to you to compare. Old Abe prefers to eat the middle Let 's. see how much the memory of the display card will be eaten up under different parameters. The current one has no limit on the vram parameter. The memory of the display card can be eaten up to about 11.4G,.
+
+and then we will test the stable diffusion. Adding the --medvram parameter. shows that the memory card memory is consumed up to about 8.1G. In this picture, if the memory card memory is not set or the --medvram parameter is set, each it takes about 1.5~1.6 seconds and then the.
+
+display card is used. The memory parameter is set to --lowvram,. which will consume up to 5.7G of the display card memory. , but the speed drops to 13 seconds per it, which is more than 8 times slower than the previous two settings. Here you can see the display card memory. How important is it to stable diffusion. Finally, let’s take a look at how much graphics card memory will be taken up if you don’t limit the graphics card memory and use chilloutmix checkpoint to run the graph. All settings and parameters of the picture are the. same. . The screen on the side is cut, but the running speed of each image is about 1.5 seconds, which is about the same as the SDXL 1.0 base model. The. current update supports SDXL 1.0. In addition to the memory consumption is too high, there are still some problems that need to be solved. For example, Lora often crashes. , Halfway through the picture, it will stop there and. wait for the suggestions if you need it. You can wait to see if the official will make any corrections. The above is today’s sharing. If the video is helpful to you,. remember to subscribe, share and add to the old Abe. Press the small bell. if you are free and free, please take a look at the advertisement. Thank you everyone, I wish you health and happiness Old Abe stepped down and bowed.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=tTX5o8v8vQg"><img src="https://img.youtube.com/vi/tTX5o8v8vQg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/0.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/1.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/2.jpg" />
+<img src="https://img.youtube.com/vi/tTX5o8v8vQg/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=tTX5o8v8vQg
+civitAi網站
+https://civitai.com/
+
+SDXL 1.0需要加上的參數
+--no-half-vae
+
+影片章節
+00:08 第一部分 如何將Stable diffusion更新到能支援SDXL 1.0 
+02:52 第二部分 如何取得SDXL checkepoint與Lora資源
+04:58 第三部分 SDXL 1.0簡單試用
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+The first part is how to update Stable diffusion to support SDXL 1.0. Let’s take a look at the current version of the stable diffusion web UI. Pull down. the screen to show the version: 1.4.1 is the old Abbe. The current version of the stable diffusion web UI. needs to support SDXL , you must update the stable diffusion web UI to version 1.5. or that old saying. Before upgrading the revised stable diffusion web UI, you. must first copy the old version of the SD web UI as a backup. . The updated SD web UI deletes and then changes the name of the copied backup folder\back to the original name. The. advantage of this is that you can buy an insurance. The disadvantage is that your hard disk space needs to be enough. Assuming you have bought insurance, you. will first install stable diffusion . Close.
+
+and open the file manager,. go to the directory where you installed the stable diffusion web UI,. click here. , enter CMD and press the enter key. , this will open the command prompt under this directory. Enter git pull and press the enter key. , it will directly connect Grab the SD web UI files that need to be updated online and do the update. If. you are interested in what file to update, you can pull up the screen to check it. If you are not interested, just close this command prompt. The official has mentioned that you need to add a The parameters. are the same, go to the bottom of the video.
+
+, copy this section of parameters,. switch back to the file manager,. click the right mouse button on the batch file to start SD, select edit, and paste. the parameters just copied here. After pasting, you can save it and save it. Close the file. to open the stable diffusion web UI. In addition to the normal startup, there will be some model sha256 caculating checks. After the inspection, the stable diffusion web UI will be opened normally. to check whether the version has been updated to 1.5. If so, congratulations, you can start Models that support SDXL. The second part How to get SDXL checkpoint and Lora resources.
+
+to open AI drawing Good friend civitai.com. There. is a filter option here,. click SDXL 1.0. , it will help us filter out all SDXL 1.0 models. This checkpoint is an official. checkpoint, and there will be two 1.0 versions available for download. This is the SDXL 1.0 base model,. and this one is the SDXL 1.0 Refiner model. What is the difference between these two models? According to the official statement, refiner can generate more pictures Let’s. take a look at the pictures provided on the Internet for.
+
+more details. The.
+
+next one should be prepared for the 4K image quality. Ok, back to civitai,. this is an unofficial SDXL checkpoint,. and it has already supported SDXL 1.0.
+
+There is a merge checkpoint here. It is the official version of merge. The author claims that it is better than the SDXL 1.0 Base model. Then it is the Lora of SDXL 1.0. At present, there are these three Loras. Click to have a look, and. you will find that the Lora files of SDXL 1.0 are quite large. Each of them is about About 1.7G. seems to be running out of hard disk space. As the name suggests, SDXL is XL. size 1024x1024. XL. Models are also XL above GB.
+
+The third part of SDXL 1.0 is a simple trial.
+
+Go back to the stable diffusion web UI. and select SDXL 1.0 base model for the stable diffusion checkpoint.
+
+The prompt parameters of the steak map generated by version 0.9.
+
+use the default value first.
+
+If such a map is run out,. it is a problem with SD VAE. Please select SD VAE to be closed or automatically.
+
+closed and then run it again to see.
+
+if you use SDXL 0.9 to run the picture.
+
+SDXL checkpoint file. About 6G or so, the loading time is obviously much longer.
+
+Then run a picture with SDXL 1.0 refiner,.
+
+and run a picture with chiloutmix for comparison. Seeing such a picture, do you know which side needs to be adjusted? It’s the size. Chilloutmix belongs to SD 1.5 , the training size is usually 512*512,. so here you can use high-definition restoration to enlarge the picture size.
+
+to see the comparison of these four models.
+
+As for which of the four is better, I will leave it to you to compare. Old Abe prefers to eat the middle Let 's. see how much the memory of the display card will be eaten up under different parameters. The current one has no limit on the vram parameter. The memory of the display card can be eaten up to about 11.4G,.
+
+and then we will test the stable diffusion. Adding the --medvram parameter. shows that the memory card memory is consumed up to about 8.1G. In this picture, if the memory card memory is not set or the --medvram parameter is set, each it takes about 1.5~1.6 seconds and then the.
+
+display card is used. The memory parameter is set to --lowvram,. which will consume up to 5.7G of the display card memory. , but the speed drops to 13 seconds per it, which is more than 8 times slower than the previous two settings. Here you can see the display card memory. How important is it to stable diffusion. Finally, let’s take a look at how much graphics card memory will be taken up if you don’t limit the graphics card memory and use chilloutmix checkpoint to run the graph. All settings and parameters of the picture are the. same. . The screen on the side is cut, but the running speed of each image is about 1.5 seconds, which is about the same as the SDXL 1.0 base model. The. current update supports SDXL 1.0. In addition to the memory consumption is too high, there are still some problems that need to be solved. For example, Lora often crashes. , Halfway through the picture, it will stop there and. wait for the suggestions if you need it. You can wait to see if the official will make any corrections. The above is today’s sharing. If the video is helpful to you,. remember to subscribe, share and add to the old Abe. Press the small bell. if you are free and free, please take a look at the advertisement. Thank you everyone, I wish you health and happiness Old Abe stepped down and bowed.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/tTX5o8v8vQg/maxresdefault.jpg"/>
+      <pubDate>2023-07-27T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[Stable diffusion QR Code二維碼生成教學。[YT+]]]></title>
+      <itunes:title><![CDATA[Stable diffusion QR Code二維碼生成教學。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=PQ6WDM5ALb4"><img src="https://img.youtube.com/vi/PQ6WDM5ALb4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/0.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/1.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/2.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/3.jpg" /></a>
+https://www.youtube.com/watch?v=PQ6WDM5ALb4
+stable diffusion QR Code二維碼生成教學
+
+controlnet sd15 brightness model下載
+(control_v1p_sd15_brightness.safetensors)
+https://huggingface.co/ioclab/ioc-controlnet/tree/main/models
+
+QR Code二維碼生成網站
+https://keremerkan.net/qr-code-and-2d-code-generator/?ref=learn.thinkdiffusion.com
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+Hello everyone, today I will share with you the production method of QR Code in stable diffusion. This production method has probably appeared for a while. I believe many of you have seen the production method on the Internet. The production method of the old Abbe and everyone’s production method The principle is similar, but it only takes three steps to complete. The first step is to download the controlnet brightness model. Go to the bottom of the video and click. the controlnet sd15 brightness model download URL. This file is to be downloaded. Click. here to start downloading. and save it to your stable diffusion. Find this. folder in the extensions folder under the installation directory. and click it,. then find the models folder. and click in. to store the downloaded file in this location.
+
+, because the old Abbe has downloaded it before, so it will not be downloaded and returned to stable. after the download is complete. Diffusion web UI to check whether the controlnet is caught. Open the controlnet. and click the rearrange button. Click the model drop-down menu. to find the file name. of the model you just downloaded. Click the QR Code. QR code generation website option at the bottom of the video. to choose to generate different types of QR codes. Old Abe wants to generate a URL type of QR code, so it is the default. The option. Code Type also uses the default value QR Code. This is. where you enter the URL you want to generate a QR code. Set the error detection level to high.
+
+and use the default value for all the settings below. Click. the Generate Code button. on the QR code QR code Right-click on the picture and select Save as,. select the directory you want to save and press Save. The third step is to use stable diffusion and controlnet to generate a QR code. Return to the stable diffusion web UI. . Return to the stable diffusion web UI. to select first. The choice of checkpoint model. is very important. You may choose the checkpoint of cartoons or animations, so the success rate of QR code scanning is relatively high. If you choose chilloutmix, the success rate of QR code scanning is relatively low. Old Abe chooses anything This is a checkpoint model,. and the rest of the settings can be set using the default values. Enter a simple starting screen. , enter 1girl. , enter a simple reverse prompt word.
+
+, and then pull down the screen. to select your commonly used sampling method. to adjust your commonly used sampling steps. All the parameters below are set to the default values. Come to controlnet. and click here to load the QR Code you just generated,. then pull down the screen. to select the brightness you just downloaded. The next three settings are the key. control weight Set. the starting Control Step to about 0.65, set the Starting Control Step to about 0.35,. and set the Ending Control Step to about 0.75. The left and right sides will be affected by the sampling method and checkpoint model. If the success rate of the generated QR Code is not high, you can adjust these three options. Control weight can be understood as the transparency ratio of the original QR code.
+
+If it is set to 0, the original QR code image will be completely transparent and. only the image will remain. If the QR code is not integrated with the image,. if the value is set to 1,. only the image will be left . After understanding the rest of the QR code,. you should know why the Control Weight should be set to 0.65,. because the most important thing to generate this type of QR code is to be able to scan the code,. so the visible ratio of the original QR code image will be higher than the background. There are a little more pictures. , but the settings here will change slightly according to the checkpoint model and sampling method you choose. After you have more experience, you will know roughly how much you should set. Next is the Starting Control Step and Enging Control Step. These two settings. are related to the Sampling Steps setting above. The Sampling Steps here is set to 15,. so when the Starting Control Step of the controlnet is set to 0.35, because 15 times 0.35=5, it means that the controlnet is at Sampling Step 5. Intervene the original QR code image and start to work. The same reason can be proved. When the Ending Control Step is set to 0.75, the controlnet will no longer work after the sampling step is 11. These three settings are very important on the controlnet. You must know where the settings are.
+
+. Only then will you know how to adjust these parameters,. and then come to the settings below. At present, you can run the graph with the default value first, and then adjust it if necessary. Have you. guessed which setting and forgot to adjust it. ? The first thing that comes to mind is this Congratulations, you are talented..... After the adjustment, run a picture. to see it. . The. next step is to use the mobile phone to try to scan the code to see. the old Abe. Try to scan this QR code and it will be successful. After success, you can run multiple pictures at a time to choose your favorite. click to see. here The old Abe didn’t scan the code to test. It should be that some have high sensitivity, and some have relatively low sensitivity. Change the girl into a car and try it. It looks good, but this QR code has a relatively low scanning sensitivity. Mobile phone You have to get far and close, and you can scan it through constant adjustment. You.
+
+can run a few more pictures to select the QR codes of the movie titles just like you did just now. The. scanning sensitivity is not bad,. old Abe. People save steps, will it be better to make it without saving steps. ? In theory, there is not much difference, but whether it is better, you should do it and compare it to know. First, let’s take a look at these two QR Codes. Can you tell which QR code is made with less steps and which QR code is not made with less steps? The answer is. revealed. The picture on the left is a QR code made. with less steps. The QR Code on the right side of a controlnet is made without saving steps. . Two controlnets are used. If you know enough about stable diffusion, you can know that neither of these two methods is more powerful. The starting point and applicability of the thinking are just different. The so-called all roads lead to Rome. I hope you can find the road that suits you in your studies. The. above is today’s sharing. If the video is helpful to you, please. remember to help the old Abe to subscribe, share and press the little bell. . Please take a look at the ad for me.
+
+, thank you everyone, I wish you health and happiness, old Abe stepped down and bowed.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=PQ6WDM5ALb4"><img src="https://img.youtube.com/vi/PQ6WDM5ALb4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/0.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/1.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/2.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/3.jpg" /></a>
+https://www.youtube.com/watch?v=PQ6WDM5ALb4
+stable diffusion QR Code二維碼生成教學
+
+controlnet sd15 brightness model下載
+(control_v1p_sd15_brightness.safetensors)
+https://huggingface.co/ioclab/ioc-controlnet/tree/main/models
+
+QR Code二維碼生成網站
+https://keremerkan.net/qr-code-and-2d-code-generator/?ref=learn.thinkdiffusion.com
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+Hello everyone, today I will share with you the production method of QR Code in stable diffusion. This production method has probably appeared for a while. I believe many of you have seen the production method on the Internet. The production method of the old Abbe and everyone’s production method The principle is similar, but it only takes three steps to complete. The first step is to download the controlnet brightness model. Go to the bottom of the video and click. the controlnet sd15 brightness model download URL. This file is to be downloaded. Click. here to start downloading. and save it to your stable diffusion. Find this. folder in the extensions folder under the installation directory. and click it,. then find the models folder. and click in. to store the downloaded file in this location.
+
+, because the old Abbe has downloaded it before, so it will not be downloaded and returned to stable. after the download is complete. Diffusion web UI to check whether the controlnet is caught. Open the controlnet. and click the rearrange button. Click the model drop-down menu. to find the file name. of the model you just downloaded. Click the QR Code. QR code generation website option at the bottom of the video. to choose to generate different types of QR codes. Old Abe wants to generate a URL type of QR code, so it is the default. The option. Code Type also uses the default value QR Code. This is. where you enter the URL you want to generate a QR code. Set the error detection level to high.
+
+and use the default value for all the settings below. Click. the Generate Code button. on the QR code QR code Right-click on the picture and select Save as,. select the directory you want to save and press Save. The third step is to use stable diffusion and controlnet to generate a QR code. Return to the stable diffusion web UI. . Return to the stable diffusion web UI. to select first. The choice of checkpoint model. is very important. You may choose the checkpoint of cartoons or animations, so the success rate of QR code scanning is relatively high. If you choose chilloutmix, the success rate of QR code scanning is relatively low. Old Abe chooses anything This is a checkpoint model,. and the rest of the settings can be set using the default values. Enter a simple starting screen. , enter 1girl. , enter a simple reverse prompt word.
+
+, and then pull down the screen. to select your commonly used sampling method. to adjust your commonly used sampling steps. All the parameters below are set to the default values. Come to controlnet. and click here to load the QR Code you just generated,. then pull down the screen. to select the brightness you just downloaded. The next three settings are the key. control weight Set. the starting Control Step to about 0.65, set the Starting Control Step to about 0.35,. and set the Ending Control Step to about 0.75. The left and right sides will be affected by the sampling method and checkpoint model. If the success rate of the generated QR Code is not high, you can adjust these three options. Control weight can be understood as the transparency ratio of the original QR code.
+
+If it is set to 0, the original QR code image will be completely transparent and. only the image will remain. If the QR code is not integrated with the image,. if the value is set to 1,. only the image will be left . After understanding the rest of the QR code,. you should know why the Control Weight should be set to 0.65,. because the most important thing to generate this type of QR code is to be able to scan the code,. so the visible ratio of the original QR code image will be higher than the background. There are a little more pictures. , but the settings here will change slightly according to the checkpoint model and sampling method you choose. After you have more experience, you will know roughly how much you should set. Next is the Starting Control Step and Enging Control Step. These two settings. are related to the Sampling Steps setting above. The Sampling Steps here is set to 15,. so when the Starting Control Step of the controlnet is set to 0.35, because 15 times 0.35=5, it means that the controlnet is at Sampling Step 5. Intervene the original QR code image and start to work. The same reason can be proved. When the Ending Control Step is set to 0.75, the controlnet will no longer work after the sampling step is 11. These three settings are very important on the controlnet. You must know where the settings are.
+
+. Only then will you know how to adjust these parameters,. and then come to the settings below. At present, you can run the graph with the default value first, and then adjust it if necessary. Have you. guessed which setting and forgot to adjust it. ? The first thing that comes to mind is this Congratulations, you are talented..... After the adjustment, run a picture. to see it. . The. next step is to use the mobile phone to try to scan the code to see. the old Abe. Try to scan this QR code and it will be successful. After success, you can run multiple pictures at a time to choose your favorite. click to see. here The old Abe didn’t scan the code to test. It should be that some have high sensitivity, and some have relatively low sensitivity. Change the girl into a car and try it. It looks good, but this QR code has a relatively low scanning sensitivity. Mobile phone You have to get far and close, and you can scan it through constant adjustment. You.
+
+can run a few more pictures to select the QR codes of the movie titles just like you did just now. The. scanning sensitivity is not bad,. old Abe. People save steps, will it be better to make it without saving steps. ? In theory, there is not much difference, but whether it is better, you should do it and compare it to know. First, let’s take a look at these two QR Codes. Can you tell which QR code is made with less steps and which QR code is not made with less steps? The answer is. revealed. The picture on the left is a QR code made. with less steps. The QR Code on the right side of a controlnet is made without saving steps. . Two controlnets are used. If you know enough about stable diffusion, you can know that neither of these two methods is more powerful. The starting point and applicability of the thinking are just different. The so-called all roads lead to Rome. I hope you can find the road that suits you in your studies. The. above is today’s sharing. If the video is helpful to you, please. remember to help the old Abe to subscribe, share and press the little bell. . Please take a look at the ad for me.
+
+, thank you everyone, I wish you health and happiness, old Abe stepped down and bowed.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=PQ6WDM5ALb4"><img src="https://img.youtube.com/vi/PQ6WDM5ALb4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/0.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/1.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/2.jpg" />
+<img src="https://img.youtube.com/vi/PQ6WDM5ALb4/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=PQ6WDM5ALb4
+stable diffusion QR Code二維碼生成教學
+
+controlnet sd15 brightness model下載
+(control_v1p_sd15_brightness.safetensors)
+https://huggingface.co/ioclab/ioc-controlnet/tree/main/models
+
+QR Code二維碼生成網站
+https://keremerkan.net/qr-code-and-2d-code-generator/?ref=learn.thinkdiffusion.com
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+Hello everyone, today I will share with you the production method of QR Code in stable diffusion. This production method has probably appeared for a while. I believe many of you have seen the production method on the Internet. The production method of the old Abbe and everyone’s production method The principle is similar, but it only takes three steps to complete. The first step is to download the controlnet brightness model. Go to the bottom of the video and click. the controlnet sd15 brightness model download URL. This file is to be downloaded. Click. here to start downloading. and save it to your stable diffusion. Find this. folder in the extensions folder under the installation directory. and click it,. then find the models folder. and click in. to store the downloaded file in this location.
+
+, because the old Abbe has downloaded it before, so it will not be downloaded and returned to stable. after the download is complete. Diffusion web UI to check whether the controlnet is caught. Open the controlnet. and click the rearrange button. Click the model drop-down menu. to find the file name. of the model you just downloaded. Click the QR Code. QR code generation website option at the bottom of the video. to choose to generate different types of QR codes. Old Abe wants to generate a URL type of QR code, so it is the default. The option. Code Type also uses the default value QR Code. This is. where you enter the URL you want to generate a QR code. Set the error detection level to high.
+
+and use the default value for all the settings below. Click. the Generate Code button. on the QR code QR code Right-click on the picture and select Save as,. select the directory you want to save and press Save. The third step is to use stable diffusion and controlnet to generate a QR code. Return to the stable diffusion web UI. . Return to the stable diffusion web UI. to select first. The choice of checkpoint model. is very important. You may choose the checkpoint of cartoons or animations, so the success rate of QR code scanning is relatively high. If you choose chilloutmix, the success rate of QR code scanning is relatively low. Old Abe chooses anything This is a checkpoint model,. and the rest of the settings can be set using the default values. Enter a simple starting screen. , enter 1girl. , enter a simple reverse prompt word.
+
+, and then pull down the screen. to select your commonly used sampling method. to adjust your commonly used sampling steps. All the parameters below are set to the default values. Come to controlnet. and click here to load the QR Code you just generated,. then pull down the screen. to select the brightness you just downloaded. The next three settings are the key. control weight Set. the starting Control Step to about 0.65, set the Starting Control Step to about 0.35,. and set the Ending Control Step to about 0.75. The left and right sides will be affected by the sampling method and checkpoint model. If the success rate of the generated QR Code is not high, you can adjust these three options. Control weight can be understood as the transparency ratio of the original QR code.
+
+If it is set to 0, the original QR code image will be completely transparent and. only the image will remain. If the QR code is not integrated with the image,. if the value is set to 1,. only the image will be left . After understanding the rest of the QR code,. you should know why the Control Weight should be set to 0.65,. because the most important thing to generate this type of QR code is to be able to scan the code,. so the visible ratio of the original QR code image will be higher than the background. There are a little more pictures. , but the settings here will change slightly according to the checkpoint model and sampling method you choose. After you have more experience, you will know roughly how much you should set. Next is the Starting Control Step and Enging Control Step. These two settings. are related to the Sampling Steps setting above. The Sampling Steps here is set to 15,. so when the Starting Control Step of the controlnet is set to 0.35, because 15 times 0.35=5, it means that the controlnet is at Sampling Step 5. Intervene the original QR code image and start to work. The same reason can be proved. When the Ending Control Step is set to 0.75, the controlnet will no longer work after the sampling step is 11. These three settings are very important on the controlnet. You must know where the settings are.
+
+. Only then will you know how to adjust these parameters,. and then come to the settings below. At present, you can run the graph with the default value first, and then adjust it if necessary. Have you. guessed which setting and forgot to adjust it. ? The first thing that comes to mind is this Congratulations, you are talented..... After the adjustment, run a picture. to see it. . The. next step is to use the mobile phone to try to scan the code to see. the old Abe. Try to scan this QR code and it will be successful. After success, you can run multiple pictures at a time to choose your favorite. click to see. here The old Abe didn’t scan the code to test. It should be that some have high sensitivity, and some have relatively low sensitivity. Change the girl into a car and try it. It looks good, but this QR code has a relatively low scanning sensitivity. Mobile phone You have to get far and close, and you can scan it through constant adjustment. You.
+
+can run a few more pictures to select the QR codes of the movie titles just like you did just now. The. scanning sensitivity is not bad,. old Abe. People save steps, will it be better to make it without saving steps. ? In theory, there is not much difference, but whether it is better, you should do it and compare it to know. First, let’s take a look at these two QR Codes. Can you tell which QR code is made with less steps and which QR code is not made with less steps? The answer is. revealed. The picture on the left is a QR code made. with less steps. The QR Code on the right side of a controlnet is made without saving steps. . Two controlnets are used. If you know enough about stable diffusion, you can know that neither of these two methods is more powerful. The starting point and applicability of the thinking are just different. The so-called all roads lead to Rome. I hope you can find the road that suits you in your studies. The. above is today’s sharing. If the video is helpful to you, please. remember to help the old Abe to subscribe, share and press the little bell. . Please take a look at the ad for me.
+
+, thank you everyone, I wish you health and happiness, old Abe stepped down and bowed.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/PQ6WDM5ALb4/maxresdefault.jpg"/>
+      <pubDate>2023-07-26T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[Openpose editor for controlnet in stable diffusion WebUI extension安裝與教學。[YT+]]]></title>
+      <itunes:title><![CDATA[Openpose editor for controlnet in stable diffusion WebUI extension安裝與教學。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=FkUUijthaXo"><img src="https://img.youtube.com/vi/FkUUijthaXo/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/0.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/1.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/2.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/3.jpg" /></a>
+https://www.youtube.com/watch?v=FkUUijthaXo
+影片段落
+00:00 前言
+00:32 第一部分 Openpose editor for controlnet in stable diffusion WebUI extension安裝
+02:30 第二部分 Openpose editor for controlnet in stable diffusion WebUI 使用教學
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+
+Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/
+
+來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303
+
+藝人： http://incompetech.com/
+====
+        
+Hello everyone, today I will share with you the openpose editor that I think is relatively easy to use. The. previous video has introduced three kinds of openpose editors. There. are openpose editor. 3D openpose. and posex here. These three openposes have their own advantages and disadvantages. However, when the controlnet is updated to After version 1.1 and above, there is another simple and easy-to-use openpose. Let us first install this openpose. The first part is to install Openpose Editor for ControlNet. Click to open controlnet. Click here to open a picture. and tick these four options (some versions Just tick openpose and it will appear).
+
+Click the preview button. When the preview appears, there will be an edit button here. If you don’t see this button, please update your controlnet. If you don’t have a bar in the middle of this button, it means you have already installed this extension. If you see the same edit button with a bar in the middle, continue to do it,. click the edit bar button,. click the link here,. the code drop-down menu, click. the copy and install URL button,. close this page, and. return to the stable diffusion web UI. point Close the X here, pull.
+
+up the screen, click extensions. , click install from URL. , click here, paste the installation URL you just copied,. click install. , when this string of text appears, it means the download is complete. ,. click Apply and restart UI button. to try it out Is the installation successful? Just like the process just now,. first load a picture. and select openpose, then tick the two options and. click the preview button. If there is no edit button with a bar, congratulations, you have successfully installed.
+
+the second part. Openpose Editor for ControlNet in Stable Diffusion WebUI Use the teaching.
+
+point edit button.
+
+Here is a simple operation instruction. Press the space bar or F key and drag the mouse to move the canvas The. mouse wheel is to zoom in and out. The right mouse button is to hide the key points. like this. But after hiding, I don’t know how to open it,. and I can’t find undo or redo,. so I simply close it and open it. again. Here is the size adjustment of the canvas. You can reset the canvas size and zoom,.
+
+or you can adjust the canvas size yourself. Here is another one. The button to upload pictures can upload multiple groups of pictures. The bottom side allows you to manage your uploaded pictures. Here you can delete the uploaded pictures. Here you can change the zoom ratio of the picture. to make your picture size more in line with the posture detected by controlnet. . You can use the mouse to select the whole pose and. put it in a place that is more in line with the picture. Next, add characters here,. you can add multiple different poses.
+
+The eyes can hide or show the poses of the characters.
+
+The same point X is to close. the adjustment of the key points. It is exactly the same as other openposes. Use the mouse to click on the key points of the pose.
+
+and drag it here to adjust the pose of the character a little bit.
+
+After the adjustment is completed, click Send pose to controlnet. to complete the pose. The operation of the highest openpose editor. is also very simple. Let. ’s run a picture and try to see it. Tick enable and.
+
+prompt the forward. prompt word.
+
+. Prompt words. in the forward direction, first check the size of the picture while reversing. Click on the picture. to load the picture just now.
+
+Click on the size button. to remember the width and height. Click on the Wensheng picture. to enter the size. just now. After the input is complete, push forward The prompt words should be pushed out, and. it seems that there is no problem. . Click send to txt2img. and click the translation software to translate English into Chinese. Delete unnecessary or repeated keywords. Add the hint words on the starting screen. and add the reverse prompt words. Select your favorite sampling method.
+
+, adjust the sampling steps,. and type Hook the face repair. and check that the parameters. are OK, then run a picture to test. it seems to meet the desired posture,. but the head is cut off and the height is set a little higher. so that this problem can be easily solved. What the old Abbe wanted was to add these prompts in the outdoor park first,. and then adjust the poses of the characters a little. . This changed the operation. Compared with the previous three openpose editors, it is more integrated with controlnet. The operation is also very simple. , and then you can adjust the pose.
+
+settings casually. The pose of the seed. character is a bit weird. Adjust it again. and adjust the pose casually. so that it will be normal. If you just want to adjust the pose of the character simply, at present, the old Abe most recommends this openpose editor extension. The three shared before should be able to retire. Above This is today’s sharing. If today’s video sharing is helpful to you,. please remember to. subscribe and share with the old Abe. . If you are free and free, please help to watch the advertisement. Thank you, everyone, I wish you health and happiness. a bow.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=FkUUijthaXo"><img src="https://img.youtube.com/vi/FkUUijthaXo/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/0.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/1.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/2.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/3.jpg" /></a>
+https://www.youtube.com/watch?v=FkUUijthaXo
+影片段落
+00:00 前言
+00:32 第一部分 Openpose editor for controlnet in stable diffusion WebUI extension安裝
+02:30 第二部分 Openpose editor for controlnet in stable diffusion WebUI 使用教學
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+
+Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/
+
+來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303
+
+藝人： http://incompetech.com/
+====
+        
+Hello everyone, today I will share with you the openpose editor that I think is relatively easy to use. The. previous video has introduced three kinds of openpose editors. There. are openpose editor. 3D openpose. and posex here. These three openposes have their own advantages and disadvantages. However, when the controlnet is updated to After version 1.1 and above, there is another simple and easy-to-use openpose. Let us first install this openpose. The first part is to install Openpose Editor for ControlNet. Click to open controlnet. Click here to open a picture. and tick these four options (some versions Just tick openpose and it will appear).
+
+Click the preview button. When the preview appears, there will be an edit button here. If you don’t see this button, please update your controlnet. If you don’t have a bar in the middle of this button, it means you have already installed this extension. If you see the same edit button with a bar in the middle, continue to do it,. click the edit bar button,. click the link here,. the code drop-down menu, click. the copy and install URL button,. close this page, and. return to the stable diffusion web UI. point Close the X here, pull.
+
+up the screen, click extensions. , click install from URL. , click here, paste the installation URL you just copied,. click install. , when this string of text appears, it means the download is complete. ,. click Apply and restart UI button. to try it out Is the installation successful? Just like the process just now,. first load a picture. and select openpose, then tick the two options and. click the preview button. If there is no edit button with a bar, congratulations, you have successfully installed.
+
+the second part. Openpose Editor for ControlNet in Stable Diffusion WebUI Use the teaching.
+
+point edit button.
+
+Here is a simple operation instruction. Press the space bar or F key and drag the mouse to move the canvas The. mouse wheel is to zoom in and out. The right mouse button is to hide the key points. like this. But after hiding, I don’t know how to open it,. and I can’t find undo or redo,. so I simply close it and open it. again. Here is the size adjustment of the canvas. You can reset the canvas size and zoom,.
+
+or you can adjust the canvas size yourself. Here is another one. The button to upload pictures can upload multiple groups of pictures. The bottom side allows you to manage your uploaded pictures. Here you can delete the uploaded pictures. Here you can change the zoom ratio of the picture. to make your picture size more in line with the posture detected by controlnet. . You can use the mouse to select the whole pose and. put it in a place that is more in line with the picture. Next, add characters here,. you can add multiple different poses.
+
+The eyes can hide or show the poses of the characters.
+
+The same point X is to close. the adjustment of the key points. It is exactly the same as other openposes. Use the mouse to click on the key points of the pose.
+
+and drag it here to adjust the pose of the character a little bit.
+
+After the adjustment is completed, click Send pose to controlnet. to complete the pose. The operation of the highest openpose editor. is also very simple. Let. ’s run a picture and try to see it. Tick enable and.
+
+prompt the forward. prompt word.
+
+. Prompt words. in the forward direction, first check the size of the picture while reversing. Click on the picture. to load the picture just now.
+
+Click on the size button. to remember the width and height. Click on the Wensheng picture. to enter the size. just now. After the input is complete, push forward The prompt words should be pushed out, and. it seems that there is no problem. . Click send to txt2img. and click the translation software to translate English into Chinese. Delete unnecessary or repeated keywords. Add the hint words on the starting screen. and add the reverse prompt words. Select your favorite sampling method.
+
+, adjust the sampling steps,. and type Hook the face repair. and check that the parameters. are OK, then run a picture to test. it seems to meet the desired posture,. but the head is cut off and the height is set a little higher. so that this problem can be easily solved. What the old Abbe wanted was to add these prompts in the outdoor park first,. and then adjust the poses of the characters a little. . This changed the operation. Compared with the previous three openpose editors, it is more integrated with controlnet. The operation is also very simple. , and then you can adjust the pose.
+
+settings casually. The pose of the seed. character is a bit weird. Adjust it again. and adjust the pose casually. so that it will be normal. If you just want to adjust the pose of the character simply, at present, the old Abe most recommends this openpose editor extension. The three shared before should be able to retire. Above This is today’s sharing. If today’s video sharing is helpful to you,. please remember to. subscribe and share with the old Abe. . If you are free and free, please help to watch the advertisement. Thank you, everyone, I wish you health and happiness. a bow.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=FkUUijthaXo"><img src="https://img.youtube.com/vi/FkUUijthaXo/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/0.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/1.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/2.jpg" />
+<img src="https://img.youtube.com/vi/FkUUijthaXo/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=FkUUijthaXo
+影片段落
+00:00 前言
+00:32 第一部分 Openpose editor for controlnet in stable diffusion WebUI extension安裝
+02:30 第二部分 Openpose editor for controlnet in stable diffusion WebUI 使用教學
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+
+Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/
+
+來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303
+
+藝人： http://incompetech.com/
+====
+        
+Hello everyone, today I will share with you the openpose editor that I think is relatively easy to use. The. previous video has introduced three kinds of openpose editors. There. are openpose editor. 3D openpose. and posex here. These three openposes have their own advantages and disadvantages. However, when the controlnet is updated to After version 1.1 and above, there is another simple and easy-to-use openpose. Let us first install this openpose. The first part is to install Openpose Editor for ControlNet. Click to open controlnet. Click here to open a picture. and tick these four options (some versions Just tick openpose and it will appear).
+
+Click the preview button. When the preview appears, there will be an edit button here. If you don’t see this button, please update your controlnet. If you don’t have a bar in the middle of this button, it means you have already installed this extension. If you see the same edit button with a bar in the middle, continue to do it,. click the edit bar button,. click the link here,. the code drop-down menu, click. the copy and install URL button,. close this page, and. return to the stable diffusion web UI. point Close the X here, pull.
+
+up the screen, click extensions. , click install from URL. , click here, paste the installation URL you just copied,. click install. , when this string of text appears, it means the download is complete. ,. click Apply and restart UI button. to try it out Is the installation successful? Just like the process just now,. first load a picture. and select openpose, then tick the two options and. click the preview button. If there is no edit button with a bar, congratulations, you have successfully installed.
+
+the second part. Openpose Editor for ControlNet in Stable Diffusion WebUI Use the teaching.
+
+point edit button.
+
+Here is a simple operation instruction. Press the space bar or F key and drag the mouse to move the canvas The. mouse wheel is to zoom in and out. The right mouse button is to hide the key points. like this. But after hiding, I don’t know how to open it,. and I can’t find undo or redo,. so I simply close it and open it. again. Here is the size adjustment of the canvas. You can reset the canvas size and zoom,.
+
+or you can adjust the canvas size yourself. Here is another one. The button to upload pictures can upload multiple groups of pictures. The bottom side allows you to manage your uploaded pictures. Here you can delete the uploaded pictures. Here you can change the zoom ratio of the picture. to make your picture size more in line with the posture detected by controlnet. . You can use the mouse to select the whole pose and. put it in a place that is more in line with the picture. Next, add characters here,. you can add multiple different poses.
+
+The eyes can hide or show the poses of the characters.
+
+The same point X is to close. the adjustment of the key points. It is exactly the same as other openposes. Use the mouse to click on the key points of the pose.
+
+and drag it here to adjust the pose of the character a little bit.
+
+After the adjustment is completed, click Send pose to controlnet. to complete the pose. The operation of the highest openpose editor. is also very simple. Let. ’s run a picture and try to see it. Tick enable and.
+
+prompt the forward. prompt word.
+
+. Prompt words. in the forward direction, first check the size of the picture while reversing. Click on the picture. to load the picture just now.
+
+Click on the size button. to remember the width and height. Click on the Wensheng picture. to enter the size. just now. After the input is complete, push forward The prompt words should be pushed out, and. it seems that there is no problem. . Click send to txt2img. and click the translation software to translate English into Chinese. Delete unnecessary or repeated keywords. Add the hint words on the starting screen. and add the reverse prompt words. Select your favorite sampling method.
+
+, adjust the sampling steps,. and type Hook the face repair. and check that the parameters. are OK, then run a picture to test. it seems to meet the desired posture,. but the head is cut off and the height is set a little higher. so that this problem can be easily solved. What the old Abbe wanted was to add these prompts in the outdoor park first,. and then adjust the poses of the characters a little. . This changed the operation. Compared with the previous three openpose editors, it is more integrated with controlnet. The operation is also very simple. , and then you can adjust the pose.
+
+settings casually. The pose of the seed. character is a bit weird. Adjust it again. and adjust the pose casually. so that it will be normal. If you just want to adjust the pose of the character simply, at present, the old Abe most recommends this openpose editor extension. The three shared before should be able to retire. Above This is today’s sharing. If today’s video sharing is helpful to you,. please remember to. subscribe and share with the old Abe. . If you are free and free, please help to watch the advertisement. Thank you, everyone, I wish you health and happiness. a bow.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/FkUUijthaXo/maxresdefault.jpg"/>
+      <pubDate>2023-07-24T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[stable diffusion inpaint canvas extension，讓塗抹MASK更加靈活方便。[YT+]]]></title>
+      <itunes:title><![CDATA[stable diffusion inpaint canvas extension，讓塗抹MASK更加靈活方便。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/0.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a>
+https://www.youtube.com/watch?v=ZoJUQj9Hayo
+canvas-zoom extension 下載網址
+https://github.com/richrobber2/canvas-zoom/tree/main
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/0.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a>
+https://www.youtube.com/watch?v=ZoJUQj9Hayo
+canvas-zoom extension 下載網址
+https://github.com/richrobber2/canvas-zoom/tree/main
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/0.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" />
+<img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=ZoJUQj9Hayo
+canvas-zoom extension 下載網址
+https://github.com/richrobber2/canvas-zoom/tree/main
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg"/>
+      <pubDate>2023-07-21T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[SD vs SDXL Which one is better?[YT+]]]></title>
+      <itunes:title><![CDATA[SD vs SDXL Which one is better?[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=0LKj3We0s1s"><img src="https://img.youtube.com/vi/0LKj3We0s1s/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/0.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/1.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/2.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/3.jpg" /></a>
+https://www.youtube.com/watch?v=0LKj3We0s1s
+本影片內容為分享AI繪圖 stable diffusion和SDXL在圖片、顯示卡記憶體、Refube、圖片生成時間簡單比較。
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+At the beginning, run a picture with SD. The size of the picture is 888x1024. SD parameters are only set --xformers graphics card is 2060, 12GB. graphics card memory can eat up to about 8.1G.
+
+Ok, let’s compare it with SDXL based on this picture. The positive and negative prompts and parameters have been moved to SDXL Demo as a digression. I updated SDXL today and found that 0.9 is gone. This is a bit of room for imagination, but I haven’t written 1.0. The official has not released. such a graphic size. The display card has the largest memory.
+
+The generation time of each picture is about 26 seconds, and the. generation time of the SD picture is about 14 seconds. If. the picture is not working, run it again. or run it again.
+
+Well, this one can barely be compared. The left is SD using chilloutmix. On the right side. of the picture without adding any LORA. is the same positive and negative prompt and parameters. Use SDXL to run the picture.
+
+Use SDXL Refine to run these two pictures again with different values. ​​because SDXL Refine is set to 0. There will be errors, so the value of the test is from 0.1 to 1. Finally, let’s see the difference. . It feels a bit like the combination of Denoising strength and CFG Scale in the picture. .
+
+It’s just an ordinary person to do the picture test, that’s all. Old Abe also saw someone using steak to test on the Internet, so the old Abe also imitated it. You can guess which one is SD and which one is SDXL The generated. answer is revealed. On the left is SDXL, and on the right is SD.
+
+I heard that SDXL will officially launch version 1.0 around mid-July. It should be next week. Then we will test and see how much the change has changed. The above is today’s sharing. If the video is helpful to you,. please remember to subscribe and share with the old Abe. If you. are free and free, please take a look at the advertisement.
+
+.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=0LKj3We0s1s"><img src="https://img.youtube.com/vi/0LKj3We0s1s/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/0.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/1.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/2.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/3.jpg" /></a>
+https://www.youtube.com/watch?v=0LKj3We0s1s
+本影片內容為分享AI繪圖 stable diffusion和SDXL在圖片、顯示卡記憶體、Refube、圖片生成時間簡單比較。
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+At the beginning, run a picture with SD. The size of the picture is 888x1024. SD parameters are only set --xformers graphics card is 2060, 12GB. graphics card memory can eat up to about 8.1G.
+
+Ok, let’s compare it with SDXL based on this picture. The positive and negative prompts and parameters have been moved to SDXL Demo as a digression. I updated SDXL today and found that 0.9 is gone. This is a bit of room for imagination, but I haven’t written 1.0. The official has not released. such a graphic size. The display card has the largest memory.
+
+The generation time of each picture is about 26 seconds, and the. generation time of the SD picture is about 14 seconds. If. the picture is not working, run it again. or run it again.
+
+Well, this one can barely be compared. The left is SD using chilloutmix. On the right side. of the picture without adding any LORA. is the same positive and negative prompt and parameters. Use SDXL to run the picture.
+
+Use SDXL Refine to run these two pictures again with different values. ​​because SDXL Refine is set to 0. There will be errors, so the value of the test is from 0.1 to 1. Finally, let’s see the difference. . It feels a bit like the combination of Denoising strength and CFG Scale in the picture. .
+
+It’s just an ordinary person to do the picture test, that’s all. Old Abe also saw someone using steak to test on the Internet, so the old Abe also imitated it. You can guess which one is SD and which one is SDXL The generated. answer is revealed. On the left is SDXL, and on the right is SD.
+
+I heard that SDXL will officially launch version 1.0 around mid-July. It should be next week. Then we will test and see how much the change has changed. The above is today’s sharing. If the video is helpful to you,. please remember to subscribe and share with the old Abe. If you. are free and free, please take a look at the advertisement.
+
+.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=0LKj3We0s1s"><img src="https://img.youtube.com/vi/0LKj3We0s1s/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/0.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/1.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/2.jpg" />
+<img src="https://img.youtube.com/vi/0LKj3We0s1s/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=0LKj3We0s1s
+本影片內容為分享AI繪圖 stable diffusion和SDXL在圖片、顯示卡記憶體、Refube、圖片生成時間簡單比較。
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+At the beginning, run a picture with SD. The size of the picture is 888x1024. SD parameters are only set --xformers graphics card is 2060, 12GB. graphics card memory can eat up to about 8.1G.
+
+Ok, let’s compare it with SDXL based on this picture. The positive and negative prompts and parameters have been moved to SDXL Demo as a digression. I updated SDXL today and found that 0.9 is gone. This is a bit of room for imagination, but I haven’t written 1.0. The official has not released. such a graphic size. The display card has the largest memory.
+
+The generation time of each picture is about 26 seconds, and the. generation time of the SD picture is about 14 seconds. If. the picture is not working, run it again. or run it again.
+
+Well, this one can barely be compared. The left is SD using chilloutmix. On the right side. of the picture without adding any LORA. is the same positive and negative prompt and parameters. Use SDXL to run the picture.
+
+Use SDXL Refine to run these two pictures again with different values. ​​because SDXL Refine is set to 0. There will be errors, so the value of the test is from 0.1 to 1. Finally, let’s see the difference. . It feels a bit like the combination of Denoising strength and CFG Scale in the picture. .
+
+It’s just an ordinary person to do the picture test, that’s all. Old Abe also saw someone using steak to test on the Internet, so the old Abe also imitated it. You can guess which one is SD and which one is SDXL The generated. answer is revealed. On the left is SDXL, and on the right is SD.
+
+I heard that SDXL will officially launch version 1.0 around mid-July. It should be next week. Then we will test and see how much the change has changed. The above is today’s sharing. If the video is helpful to you,. please remember to subscribe and share with the old Abe. If you. are free and free, please take a look at the advertisement.
+
+.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/0LKj3We0s1s/maxresdefault.jpg"/>
+      <pubDate>2023-07-12T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[SDXL webui No need for comfyui Stable diffusion AUTOMATIC1111 web UI extension安裝教學。不用comfyui。[YT+]]]></title>
+      <itunes:title><![CDATA[SDXL webui No need for comfyui Stable diffusion AUTOMATIC1111 web UI extension安裝教學。不用comfyui。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=aLYSoujnH8I"><img src="https://img.youtube.com/vi/aLYSoujnH8I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/0.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/1.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/2.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/3.jpg" /></a>
+https://www.youtube.com/watch?v=aLYSoujnH8I
+SDXL webUI extension 下載網址
+https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+The first part SDXL extensions installation. requires about 19GB of space in the C slot. Go to the bottom of the video. and click SDXL web UI extension to download the URL. Click the code drop-down menu. and click the copy and install URL button. Back to the stable diffusion web UI. , click extensions,. click install from URL,.
+
+and click here Paste the newly copied installation URL and. click the install button. to wait for the download. When this sentence appears in English, it means that the download is complete. Click Installed. , click Apply and restart UI. , and click SDXL 0.9 Demo. There is an explanation here that you must use the GPU to run it. It’s just a step by step. To follow the steps,.
+
+first, you need to log in to the Hugging face. First and second, you can do it together. Second, accept the license agreement,. click here. , pull down the screen,. click log in. , enter your account number and password,. and then click the Login button. If you have When this screen appears, please fill in the information at will,. then tick this, and then click here.
+
+to see this screen, which means that the second step is completed. and return to the stable diffusion web UI. The third step is to create a token. point Here,. click the new token button. name, enter a name,. Role, and then read. Click this button to generate a token. . Click the copy token button.
+
+to return to the stable diffusion web UI. Click settings. , pull down the screen and find the SDXL 0.9 Demo option on the left. Put. the token you just copied here. Paste. Apply settings,. turn off stable diffusion. and then turn on stable diffusion. , and then start to download SDXL 0.9 Demo, about 19GB will be downloaded. The old Abe waited for about 40 minutes to download 19GB and. it will be placed in C slot. Please confirm the remaining space in C slot.
+
+Here it only speeds up the time and does not edit the video so that you can compare the download process. The original author said that if there is an error in the download process, please restart the stable diffusion. However, the download process of the old Abe is quite smooth without any errors. The original author said The system uses Ubuntu, and the old Abbe uses windows 10. OK, if this screen appears, it means the download and installation is complete. Go back to the browser and click refresh to reload the stable diffusion web UI. Click SDXL 0.9 Demo. Congratulations, the installation is successful. on the first day The second part is the basic operation instructions.
+
+Everyone should be familiar with this interface. Let. ’s take a look at the difference between. its preset and the previous SD. It can be understood that the Wensheng graph above is called the Base model in SDXL. Enter 1girl to run a graph to see the memory usage of the display card. The memory usage. will exceed 10G. So if your display card is 8G, remember to set the parameters Set to --medvram or --lowvram. Old Abe has tried installing it on a computer with an AMD graphics card, but it. didn't work Install and. see how much video card memory space the same size will occupy on the previous SD,.
+
+about 7G or so. Today I will mainly introduce how to install it, and then I will introduce SDXL in more detail. The above is today’s sharing if video. If it is helpful to you,. please remember to subscribe, share and press the small bell for the old Abe. If you are free and free, please help to read the advertisement. Thank you, I wish you health and happiness. The old Abe stepped down and bowed.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=aLYSoujnH8I"><img src="https://img.youtube.com/vi/aLYSoujnH8I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/0.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/1.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/2.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/3.jpg" /></a>
+https://www.youtube.com/watch?v=aLYSoujnH8I
+SDXL webUI extension 下載網址
+https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+The first part SDXL extensions installation. requires about 19GB of space in the C slot. Go to the bottom of the video. and click SDXL web UI extension to download the URL. Click the code drop-down menu. and click the copy and install URL button. Back to the stable diffusion web UI. , click extensions,. click install from URL,.
+
+and click here Paste the newly copied installation URL and. click the install button. to wait for the download. When this sentence appears in English, it means that the download is complete. Click Installed. , click Apply and restart UI. , and click SDXL 0.9 Demo. There is an explanation here that you must use the GPU to run it. It’s just a step by step. To follow the steps,.
+
+first, you need to log in to the Hugging face. First and second, you can do it together. Second, accept the license agreement,. click here. , pull down the screen,. click log in. , enter your account number and password,. and then click the Login button. If you have When this screen appears, please fill in the information at will,. then tick this, and then click here.
+
+to see this screen, which means that the second step is completed. and return to the stable diffusion web UI. The third step is to create a token. point Here,. click the new token button. name, enter a name,. Role, and then read. Click this button to generate a token. . Click the copy token button.
+
+to return to the stable diffusion web UI. Click settings. , pull down the screen and find the SDXL 0.9 Demo option on the left. Put. the token you just copied here. Paste. Apply settings,. turn off stable diffusion. and then turn on stable diffusion. , and then start to download SDXL 0.9 Demo, about 19GB will be downloaded. The old Abe waited for about 40 minutes to download 19GB and. it will be placed in C slot. Please confirm the remaining space in C slot.
+
+Here it only speeds up the time and does not edit the video so that you can compare the download process. The original author said that if there is an error in the download process, please restart the stable diffusion. However, the download process of the old Abe is quite smooth without any errors. The original author said The system uses Ubuntu, and the old Abbe uses windows 10. OK, if this screen appears, it means the download and installation is complete. Go back to the browser and click refresh to reload the stable diffusion web UI. Click SDXL 0.9 Demo. Congratulations, the installation is successful. on the first day The second part is the basic operation instructions.
+
+Everyone should be familiar with this interface. Let. ’s take a look at the difference between. its preset and the previous SD. It can be understood that the Wensheng graph above is called the Base model in SDXL. Enter 1girl to run a graph to see the memory usage of the display card. The memory usage. will exceed 10G. So if your display card is 8G, remember to set the parameters Set to --medvram or --lowvram. Old Abe has tried installing it on a computer with an AMD graphics card, but it. didn't work Install and. see how much video card memory space the same size will occupy on the previous SD,.
+
+about 7G or so. Today I will mainly introduce how to install it, and then I will introduce SDXL in more detail. The above is today’s sharing if video. If it is helpful to you,. please remember to subscribe, share and press the small bell for the old Abe. If you are free and free, please help to read the advertisement. Thank you, I wish you health and happiness. The old Abe stepped down and bowed.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=aLYSoujnH8I"><img src="https://img.youtube.com/vi/aLYSoujnH8I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/0.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/1.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/2.jpg" />
+<img src="https://img.youtube.com/vi/aLYSoujnH8I/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=aLYSoujnH8I
+SDXL webUI extension 下載網址
+https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+The first part SDXL extensions installation. requires about 19GB of space in the C slot. Go to the bottom of the video. and click SDXL web UI extension to download the URL. Click the code drop-down menu. and click the copy and install URL button. Back to the stable diffusion web UI. , click extensions,. click install from URL,.
+
+and click here Paste the newly copied installation URL and. click the install button. to wait for the download. When this sentence appears in English, it means that the download is complete. Click Installed. , click Apply and restart UI. , and click SDXL 0.9 Demo. There is an explanation here that you must use the GPU to run it. It’s just a step by step. To follow the steps,.
+
+first, you need to log in to the Hugging face. First and second, you can do it together. Second, accept the license agreement,. click here. , pull down the screen,. click log in. , enter your account number and password,. and then click the Login button. If you have When this screen appears, please fill in the information at will,. then tick this, and then click here.
+
+to see this screen, which means that the second step is completed. and return to the stable diffusion web UI. The third step is to create a token. point Here,. click the new token button. name, enter a name,. Role, and then read. Click this button to generate a token. . Click the copy token button.
+
+to return to the stable diffusion web UI. Click settings. , pull down the screen and find the SDXL 0.9 Demo option on the left. Put. the token you just copied here. Paste. Apply settings,. turn off stable diffusion. and then turn on stable diffusion. , and then start to download SDXL 0.9 Demo, about 19GB will be downloaded. The old Abe waited for about 40 minutes to download 19GB and. it will be placed in C slot. Please confirm the remaining space in C slot.
+
+Here it only speeds up the time and does not edit the video so that you can compare the download process. The original author said that if there is an error in the download process, please restart the stable diffusion. However, the download process of the old Abe is quite smooth without any errors. The original author said The system uses Ubuntu, and the old Abbe uses windows 10. OK, if this screen appears, it means the download and installation is complete. Go back to the browser and click refresh to reload the stable diffusion web UI. Click SDXL 0.9 Demo. Congratulations, the installation is successful. on the first day The second part is the basic operation instructions.
+
+Everyone should be familiar with this interface. Let. ’s take a look at the difference between. its preset and the previous SD. It can be understood that the Wensheng graph above is called the Base model in SDXL. Enter 1girl to run a graph to see the memory usage of the display card. The memory usage. will exceed 10G. So if your display card is 8G, remember to set the parameters Set to --medvram or --lowvram. Old Abe has tried installing it on a computer with an AMD graphics card, but it. didn't work Install and. see how much video card memory space the same size will occupy on the previous SD,.
+
+about 7G or so. Today I will mainly introduce how to install it, and then I will introduce SDXL in more detail. The above is today’s sharing if video. If it is helpful to you,. please remember to subscribe, share and press the small bell for the old Abe. If you are free and free, please help to read the advertisement. Thank you, I wish you health and happiness. The old Abe stepped down and bowed.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/aLYSoujnH8I/maxresdefault.jpg"/>
+      <pubDate>2023-07-11T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[(SD extension)比Aspect-Ratio-Selector更直覺好用的尺寸比列調整。[YT+]]]></title>
+      <itunes:title><![CDATA[(SD extension)比Aspect-Ratio-Selector更直覺好用的尺寸比列調整。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/0.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/1.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/2.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/3.jpg" /></a>
+https://www.youtube.com/watch?v=Tfj4lid1vgg
+aspect-ratio-helper SD extension下載網址
+https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
+
+影片章節
+00:00 前言
+00:32 第一部分 aspect ratio helper extension安裝
+01:27 第二部分 aspect-ratio-helper使用方式
+03:47 第三部分 自訂圖形寬高尺寸比例
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/0.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/1.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/2.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/3.jpg" /></a>
+https://www.youtube.com/watch?v=Tfj4lid1vgg
+aspect-ratio-helper SD extension下載網址
+https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
+
+影片章節
+00:00 前言
+00:32 第一部分 aspect ratio helper extension安裝
+01:27 第二部分 aspect-ratio-helper使用方式
+03:47 第三部分 自訂圖形寬高尺寸比例
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/0.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/1.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/2.jpg" />
+<img src="https://img.youtube.com/vi/Tfj4lid1vgg/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=Tfj4lid1vgg
+aspect-ratio-helper SD extension下載網址
+https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
+
+影片章節
+00:00 前言
+00:32 第一部分 aspect ratio helper extension安裝
+01:27 第二部分 aspect-ratio-helper使用方式
+03:47 第三部分 自訂圖形寬高尺寸比例
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg"/>
+      <pubDate>2023-07-08T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[硬碟空間不足，如何快速找出罪魁禍首?[YT+]]]></title>
+      <itunes:title><![CDATA[硬碟空間不足，如何快速找出罪魁禍首?[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/0.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a>
+https://www.youtube.com/watch?v=iiQR3xANFQQ
+Treesize free官方下載網址
+https://www.jam-software.com/treesize_free
+
+本影片內容為分享AI繪圖 stable diffusion 各個模型models分類方法
+包含textual inversion、hypernetworks、checkpoint和lora。
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+Someone asked how to find the culprit because the space in the C slot is getting less and less. Today, I recommend a software that the old Abbe has used for more than ten years. It can accurately list the space occupied by each file or folder. . The name is treesize,. there are free version and paid version to check the usage space, the free version is easy to use,. just go to the bottom of the video, click. Treesize free official download website,. click Free Download.
+
+, then click Free Download,. there are two versions here, you can choose one to install Version, the other one is the free installation version. The old Abe used to use the free installation version. Click Download. , click continue with Treesize Free,. select the location you want to save. , click save.
+
+, click display in the folder after. downloading, and extract. the downloaded compressed file. The downloaded compressed file is decompressed and. the compressed file is no longer needed. You can delete it first,. open the decompressed file folder,. and double-click the treesizefree executable file. Since it is directly downloaded from the official website, there will be no problem, so you can cancel this tick.
+
+after canceling. This dialog box will not pop up again next time you execute it. First, change the interface to Chinese. Click Options. and Language. to select traditional Chinese. The operation method of this software is very simple. Click the home page.
+
+and select the path. to see whether you want to choose a hard disk slot. or a folder . You can. choose the hard disk and try it out,. and the capacity of each data on this hard disk will be listed. For. example, DragGan occupies 3.1GB. Here you can see the contents of the folder.
+
+The checkpoints folder occupies 3GB. . In this way, by checking layer by layer. , you can find out which files or folders occupy too much space,. and then move the ones that occupy more space to other slots. If the software supports setting the path, set the path in the past. If there is no support, you can use it. The operation of the treesize interface. is similar to that of the file explorer when you click. the right mouse button. Is the function bar that appears exactly the same as the file explorer?
+
+You can directly click here to open and use the file explorer for management. You can also directly click the right mouse button here. To perform the management functions you want, such as deleting files,. some folders require other permissions to use. If you have system administrator permissions, you can click here to obtain system administrator permissions. After obtaining the system administrator permissions, the software will automatically restart. Others The operation is the same as that of the file manager. I won’t waste time here. The above is today’s sharing. If the video is helpful to you,. remember to help the old Abe to subscribe, share and press the small bell.
+
+If you are free and free, please help to watch it Advertisement Excellent. Thank you everyone, I wish you health and happiness, old Abe stepped down and bowed.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/0.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a>
+https://www.youtube.com/watch?v=iiQR3xANFQQ
+Treesize free官方下載網址
+https://www.jam-software.com/treesize_free
+
+本影片內容為分享AI繪圖 stable diffusion 各個模型models分類方法
+包含textual inversion、hypernetworks、checkpoint和lora。
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+Someone asked how to find the culprit because the space in the C slot is getting less and less. Today, I recommend a software that the old Abbe has used for more than ten years. It can accurately list the space occupied by each file or folder. . The name is treesize,. there are free version and paid version to check the usage space, the free version is easy to use,. just go to the bottom of the video, click. Treesize free official download website,. click Free Download.
+
+, then click Free Download,. there are two versions here, you can choose one to install Version, the other one is the free installation version. The old Abe used to use the free installation version. Click Download. , click continue with Treesize Free,. select the location you want to save. , click save.
+
+, click display in the folder after. downloading, and extract. the downloaded compressed file. The downloaded compressed file is decompressed and. the compressed file is no longer needed. You can delete it first,. open the decompressed file folder,. and double-click the treesizefree executable file. Since it is directly downloaded from the official website, there will be no problem, so you can cancel this tick.
+
+after canceling. This dialog box will not pop up again next time you execute it. First, change the interface to Chinese. Click Options. and Language. to select traditional Chinese. The operation method of this software is very simple. Click the home page.
+
+and select the path. to see whether you want to choose a hard disk slot. or a folder . You can. choose the hard disk and try it out,. and the capacity of each data on this hard disk will be listed. For. example, DragGan occupies 3.1GB. Here you can see the contents of the folder.
+
+The checkpoints folder occupies 3GB. . In this way, by checking layer by layer. , you can find out which files or folders occupy too much space,. and then move the ones that occupy more space to other slots. If the software supports setting the path, set the path in the past. If there is no support, you can use it. The operation of the treesize interface. is similar to that of the file explorer when you click. the right mouse button. Is the function bar that appears exactly the same as the file explorer?
+
+You can directly click here to open and use the file explorer for management. You can also directly click the right mouse button here. To perform the management functions you want, such as deleting files,. some folders require other permissions to use. If you have system administrator permissions, you can click here to obtain system administrator permissions. After obtaining the system administrator permissions, the software will automatically restart. Others The operation is the same as that of the file manager. I won’t waste time here. The above is today’s sharing. If the video is helpful to you,. remember to help the old Abe to subscribe, share and press the small bell.
+
+If you are free and free, please help to watch it Advertisement Excellent. Thank you everyone, I wish you health and happiness, old Abe stepped down and bowed.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/0.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" />
+<img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=iiQR3xANFQQ
+Treesize free官方下載網址
+https://www.jam-software.com/treesize_free
+
+本影片內容為分享AI繪圖 stable diffusion 各個模型models分類方法
+包含textual inversion、hypernetworks、checkpoint和lora。
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+Someone asked how to find the culprit because the space in the C slot is getting less and less. Today, I recommend a software that the old Abbe has used for more than ten years. It can accurately list the space occupied by each file or folder. . The name is treesize,. there are free version and paid version to check the usage space, the free version is easy to use,. just go to the bottom of the video, click. Treesize free official download website,. click Free Download.
+
+, then click Free Download,. there are two versions here, you can choose one to install Version, the other one is the free installation version. The old Abe used to use the free installation version. Click Download. , click continue with Treesize Free,. select the location you want to save. , click save.
+
+, click display in the folder after. downloading, and extract. the downloaded compressed file. The downloaded compressed file is decompressed and. the compressed file is no longer needed. You can delete it first,. open the decompressed file folder,. and double-click the treesizefree executable file. Since it is directly downloaded from the official website, there will be no problem, so you can cancel this tick.
+
+after canceling. This dialog box will not pop up again next time you execute it. First, change the interface to Chinese. Click Options. and Language. to select traditional Chinese. The operation method of this software is very simple. Click the home page.
+
+and select the path. to see whether you want to choose a hard disk slot. or a folder . You can. choose the hard disk and try it out,. and the capacity of each data on this hard disk will be listed. For. example, DragGan occupies 3.1GB. Here you can see the contents of the folder.
+
+The checkpoints folder occupies 3GB. . In this way, by checking layer by layer. , you can find out which files or folders occupy too much space,. and then move the ones that occupy more space to other slots. If the software supports setting the path, set the path in the past. If there is no support, you can use it. The operation of the treesize interface. is similar to that of the file explorer when you click. the right mouse button. Is the function bar that appears exactly the same as the file explorer?
+
+You can directly click here to open and use the file explorer for management. You can also directly click the right mouse button here. To perform the management functions you want, such as deleting files,. some folders require other permissions to use. If you have system administrator permissions, you can click here to obtain system administrator permissions. After obtaining the system administrator permissions, the software will automatically restart. Others The operation is the same as that of the file manager. I won’t waste time here. The above is today’s sharing. If the video is helpful to you,. remember to help the old Abe to subscribe, share and press the small bell.
+
+If you are free and free, please help to watch it Advertisement Excellent. Thank you everyone, I wish you health and happiness, old Abe stepped down and bowed.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg"/>
+      <pubDate>2023-07-06T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[stable diffusion客製化UI lobe theme(原kitchen-theme)安裝、設定與使用教學。[YT+]]]></title>
+      <itunes:title><![CDATA[stable diffusion客製化UI lobe theme(原kitchen-theme)安裝、設定與使用教學。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/0.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/1.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/2.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/3.jpg" /></a>
+https://www.youtube.com/watch?v=_HGiB9CNzvs
+sd-webui-lobe-theme(原kitchen-theme)下載網址
+https://github.com/canisminor1990/sd-webui-lobe-theme
+
+影片章節
+00:27 第一部分 客製化stable diffusion操作介面
+03:27 第二部分 lobe-theme(原kitchen-theme)的安裝與設定
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+First of all, I would like to thank these two great recommendations. Yuwu3308 already recommended it a month ago,. but at that time, the old Abe tested it, and there was still a problem with compatibility, so I didn’t share the video. . Capacitance has been improved a lot. I made a special video to share with you. The main function of this extension is to allow you to easily customize the original operation interface of the stable diffusion web UI. The. first part is to customize the operation interface of stable diffusion. This screen is opened The logo and text of the stable diffusion web UI can be customized. After entering the stable diffusion operation interface, move the mouse to the far left, and a screen like this will pop up,. and then move the mouse to the right, and a screen like this will appear. Move the mouse to this You can change the size of the left and right sides. Pull down the screen to generate and run the image. The block will be fixed. This function is quite recommended, but it is written in the description that this function. is still in the experimental stage. Next, the logo and text in the upper left corner can be used. Change it yourself.
+
+to compare it with the original interface. Let’s take a look first. The top column. is now placed on the right side. Move the mouse to the outside. The slider bar will be closed. and then moved again. Because of the settings here, after setting It will not be changed often and then it will be hidden. It is also very convenient to change it. You don’t need to pull the screen to the top. If you need to fix it, don’t let it hide. You can also click the small icon here to fix it. It’s. very convenient. Come again It is the extra networks here,. some commonly used models modules. will be placed on the far right of the screen and the operation method on the left is exactly the same. , which is quite convenient. Adding LORA does not need to move the screen up and down all the time.
+
+. The block of this running picture. will move with the movement of the screen. Sometimes it needs to be moved up and down in the adjustment of some parameters. Now this block can be placed here independently,. and then the block here is. replaced. That’s right,. I just forgot to say that when the screen is moved up and down,. this side is fixed. so that we can look at the running picture and do other parameter settings. This function is greatly promoted, but it is currently experimental, I don’t know What's the problem. ? You can drag and drop to set the size of the screen like this. There is no way. with the native one. The native user interface is more like stacking all the functions down and down. There is a day and night switch button here that allows you to switch between white and white. The button with a black background. allows you to directly open the civit AI webpage.
+
+The button next to it is a feedback to the author.
+
+The second part of lobe-theme (formerly kitchen-theme) installation and settings.
+
+are the same. Go to the bottom of the video. and click the lobe theme download URL. and click the code Click the copy button in. the drop-down menu. to close the lobe theme github page,. go back to the stable diffusion web UI. , click extensions. , click install from URL,. click here and right-click, paste the installation URL you just copied,. and click install. When these words appear, it means the download is complete. Click installed. , click Apply and restart UI,.
+
+when such a screen appears, it means the installation is successful. At the beginning,. the operation method of this screen is like this. The old Abbe finds it inconvenient to move the mouse over and it will appear. It will be more convenient. Click the setting button here. to set it. Change the displayed language. to Chinese first,. pull down the setting screen,. click Apply and restart Interface,. and then click the lobe theme setting button. , so that all settings are in Chinese culture. Reduce the animation and check it according to your preference. Currently only You can choose the color you like as the main color. when you see the gradient animation.
+
+The old Abbe likes to be plain, so I choose the white. Logo type. If you don’t like the default one, you can choose to customize it. Here you can put the logo you want. . These three formats are supported. to try the simplest Emoji emoticon. What is Emoji emoticon? This is what. we want to get the emoji URL. Suppose we want this emoji. Use the mouse to select the emoji, drag it to the side and release it, and you will get it. Select the URL of the. emoji and copy it back. to the stable diffusion lobe theme setting screen,. paste the URL you just copied,. and the emoji emoticon will appear,. then you can customize the title,.
+
+use the SVG icon to tick.
+
+, load the font, and beautify it Check. the zooming and scrolling of the display mode of the prompt text box. I don’t know if it’s a bug. These two old Abbes can’t test it out. If you can, please leave a message and share it. Checking the syntax highlighting of the prompt is better for identifying the prompt word. editor. . Old Abbe thinks it’s a little redundant, so I don’t tick it.
+
+This is the prompt word editor. If you know this useful place, please leave a message and share it. If.
+
+you don’t tick it,.
+
+it’s double-column mode. Check. the double-column mode, which is to divide it into two columns. Different blocks. do not affect each other when the screen is moved up or down. This function is easy to use, so you have to tick it.
+
+and then hide the footer. What is a footer? This is a strange translation. This is the screen without the hidden footer. This is the hidden page. Whether. you want to hide the footer or not is up to you guys. Quickly set the sidebar and check it to enable it. This is the silder bar on the right. Check it. to expand by default. You can untick it.
+
+Floating means moving the mouse to open it, and moving it out hides it and fixes it. Click the open or close button. to select the floating. default width is the open width of the sidebar. The setting of the right sidebar is similar to the above. The difference.
+
+is that there is a picture on the right sidebar, so you can set the size of the picture here. . Click Apply and restart the interface. to test it out. If you are not satisfied with the width, you can go to the edge. Press and hold the mouse to drag the width. to be the same on both sides. You can drag the width. The above is today’s sharing. Thanks again for the two great recommendations. If the video is right If you are helpful, remember to. subscribe, share and press the small bell for the old. Abe.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/0.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/1.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/2.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/3.jpg" /></a>
+https://www.youtube.com/watch?v=_HGiB9CNzvs
+sd-webui-lobe-theme(原kitchen-theme)下載網址
+https://github.com/canisminor1990/sd-webui-lobe-theme
+
+影片章節
+00:27 第一部分 客製化stable diffusion操作介面
+03:27 第二部分 lobe-theme(原kitchen-theme)的安裝與設定
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+First of all, I would like to thank these two great recommendations. Yuwu3308 already recommended it a month ago,. but at that time, the old Abe tested it, and there was still a problem with compatibility, so I didn’t share the video. . Capacitance has been improved a lot. I made a special video to share with you. The main function of this extension is to allow you to easily customize the original operation interface of the stable diffusion web UI. The. first part is to customize the operation interface of stable diffusion. This screen is opened The logo and text of the stable diffusion web UI can be customized. After entering the stable diffusion operation interface, move the mouse to the far left, and a screen like this will pop up,. and then move the mouse to the right, and a screen like this will appear. Move the mouse to this You can change the size of the left and right sides. Pull down the screen to generate and run the image. The block will be fixed. This function is quite recommended, but it is written in the description that this function. is still in the experimental stage. Next, the logo and text in the upper left corner can be used. Change it yourself.
+
+to compare it with the original interface. Let’s take a look first. The top column. is now placed on the right side. Move the mouse to the outside. The slider bar will be closed. and then moved again. Because of the settings here, after setting It will not be changed often and then it will be hidden. It is also very convenient to change it. You don’t need to pull the screen to the top. If you need to fix it, don’t let it hide. You can also click the small icon here to fix it. It’s. very convenient. Come again It is the extra networks here,. some commonly used models modules. will be placed on the far right of the screen and the operation method on the left is exactly the same. , which is quite convenient. Adding LORA does not need to move the screen up and down all the time.
+
+. The block of this running picture. will move with the movement of the screen. Sometimes it needs to be moved up and down in the adjustment of some parameters. Now this block can be placed here independently,. and then the block here is. replaced. That’s right,. I just forgot to say that when the screen is moved up and down,. this side is fixed. so that we can look at the running picture and do other parameter settings. This function is greatly promoted, but it is currently experimental, I don’t know What's the problem. ? You can drag and drop to set the size of the screen like this. There is no way. with the native one. The native user interface is more like stacking all the functions down and down. There is a day and night switch button here that allows you to switch between white and white. The button with a black background. allows you to directly open the civit AI webpage.
+
+The button next to it is a feedback to the author.
+
+The second part of lobe-theme (formerly kitchen-theme) installation and settings.
+
+are the same. Go to the bottom of the video. and click the lobe theme download URL. and click the code Click the copy button in. the drop-down menu. to close the lobe theme github page,. go back to the stable diffusion web UI. , click extensions. , click install from URL,. click here and right-click, paste the installation URL you just copied,. and click install. When these words appear, it means the download is complete. Click installed. , click Apply and restart UI,.
+
+when such a screen appears, it means the installation is successful. At the beginning,. the operation method of this screen is like this. The old Abbe finds it inconvenient to move the mouse over and it will appear. It will be more convenient. Click the setting button here. to set it. Change the displayed language. to Chinese first,. pull down the setting screen,. click Apply and restart Interface,. and then click the lobe theme setting button. , so that all settings are in Chinese culture. Reduce the animation and check it according to your preference. Currently only You can choose the color you like as the main color. when you see the gradient animation.
+
+The old Abbe likes to be plain, so I choose the white. Logo type. If you don’t like the default one, you can choose to customize it. Here you can put the logo you want. . These three formats are supported. to try the simplest Emoji emoticon. What is Emoji emoticon? This is what. we want to get the emoji URL. Suppose we want this emoji. Use the mouse to select the emoji, drag it to the side and release it, and you will get it. Select the URL of the. emoji and copy it back. to the stable diffusion lobe theme setting screen,. paste the URL you just copied,. and the emoji emoticon will appear,. then you can customize the title,.
+
+use the SVG icon to tick.
+
+, load the font, and beautify it Check. the zooming and scrolling of the display mode of the prompt text box. I don’t know if it’s a bug. These two old Abbes can’t test it out. If you can, please leave a message and share it. Checking the syntax highlighting of the prompt is better for identifying the prompt word. editor. . Old Abbe thinks it’s a little redundant, so I don’t tick it.
+
+This is the prompt word editor. If you know this useful place, please leave a message and share it. If.
+
+you don’t tick it,.
+
+it’s double-column mode. Check. the double-column mode, which is to divide it into two columns. Different blocks. do not affect each other when the screen is moved up or down. This function is easy to use, so you have to tick it.
+
+and then hide the footer. What is a footer? This is a strange translation. This is the screen without the hidden footer. This is the hidden page. Whether. you want to hide the footer or not is up to you guys. Quickly set the sidebar and check it to enable it. This is the silder bar on the right. Check it. to expand by default. You can untick it.
+
+Floating means moving the mouse to open it, and moving it out hides it and fixes it. Click the open or close button. to select the floating. default width is the open width of the sidebar. The setting of the right sidebar is similar to the above. The difference.
+
+is that there is a picture on the right sidebar, so you can set the size of the picture here. . Click Apply and restart the interface. to test it out. If you are not satisfied with the width, you can go to the edge. Press and hold the mouse to drag the width. to be the same on both sides. You can drag the width. The above is today’s sharing. Thanks again for the two great recommendations. If the video is right If you are helpful, remember to. subscribe, share and press the small bell for the old. Abe.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/0.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/1.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/2.jpg" />
+<img src="https://img.youtube.com/vi/_HGiB9CNzvs/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=_HGiB9CNzvs
+sd-webui-lobe-theme(原kitchen-theme)下載網址
+https://github.com/canisminor1990/sd-webui-lobe-theme
+
+影片章節
+00:27 第一部分 客製化stable diffusion操作介面
+03:27 第二部分 lobe-theme(原kitchen-theme)的安裝與設定
+
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+====
+        
+First of all, I would like to thank these two great recommendations. Yuwu3308 already recommended it a month ago,. but at that time, the old Abe tested it, and there was still a problem with compatibility, so I didn’t share the video. . Capacitance has been improved a lot. I made a special video to share with you. The main function of this extension is to allow you to easily customize the original operation interface of the stable diffusion web UI. The. first part is to customize the operation interface of stable diffusion. This screen is opened The logo and text of the stable diffusion web UI can be customized. After entering the stable diffusion operation interface, move the mouse to the far left, and a screen like this will pop up,. and then move the mouse to the right, and a screen like this will appear. Move the mouse to this You can change the size of the left and right sides. Pull down the screen to generate and run the image. The block will be fixed. This function is quite recommended, but it is written in the description that this function. is still in the experimental stage. Next, the logo and text in the upper left corner can be used. Change it yourself.
+
+to compare it with the original interface. Let’s take a look first. The top column. is now placed on the right side. Move the mouse to the outside. The slider bar will be closed. and then moved again. Because of the settings here, after setting It will not be changed often and then it will be hidden. It is also very convenient to change it. You don’t need to pull the screen to the top. If you need to fix it, don’t let it hide. You can also click the small icon here to fix it. It’s. very convenient. Come again It is the extra networks here,. some commonly used models modules. will be placed on the far right of the screen and the operation method on the left is exactly the same. , which is quite convenient. Adding LORA does not need to move the screen up and down all the time.
+
+. The block of this running picture. will move with the movement of the screen. Sometimes it needs to be moved up and down in the adjustment of some parameters. Now this block can be placed here independently,. and then the block here is. replaced. That’s right,. I just forgot to say that when the screen is moved up and down,. this side is fixed. so that we can look at the running picture and do other parameter settings. This function is greatly promoted, but it is currently experimental, I don’t know What's the problem. ? You can drag and drop to set the size of the screen like this. There is no way. with the native one. The native user interface is more like stacking all the functions down and down. There is a day and night switch button here that allows you to switch between white and white. The button with a black background. allows you to directly open the civit AI webpage.
+
+The button next to it is a feedback to the author.
+
+The second part of lobe-theme (formerly kitchen-theme) installation and settings.
+
+are the same. Go to the bottom of the video. and click the lobe theme download URL. and click the code Click the copy button in. the drop-down menu. to close the lobe theme github page,. go back to the stable diffusion web UI. , click extensions. , click install from URL,. click here and right-click, paste the installation URL you just copied,. and click install. When these words appear, it means the download is complete. Click installed. , click Apply and restart UI,.
+
+when such a screen appears, it means the installation is successful. At the beginning,. the operation method of this screen is like this. The old Abbe finds it inconvenient to move the mouse over and it will appear. It will be more convenient. Click the setting button here. to set it. Change the displayed language. to Chinese first,. pull down the setting screen,. click Apply and restart Interface,. and then click the lobe theme setting button. , so that all settings are in Chinese culture. Reduce the animation and check it according to your preference. Currently only You can choose the color you like as the main color. when you see the gradient animation.
+
+The old Abbe likes to be plain, so I choose the white. Logo type. If you don’t like the default one, you can choose to customize it. Here you can put the logo you want. . These three formats are supported. to try the simplest Emoji emoticon. What is Emoji emoticon? This is what. we want to get the emoji URL. Suppose we want this emoji. Use the mouse to select the emoji, drag it to the side and release it, and you will get it. Select the URL of the. emoji and copy it back. to the stable diffusion lobe theme setting screen,. paste the URL you just copied,. and the emoji emoticon will appear,. then you can customize the title,.
+
+use the SVG icon to tick.
+
+, load the font, and beautify it Check. the zooming and scrolling of the display mode of the prompt text box. I don’t know if it’s a bug. These two old Abbes can’t test it out. If you can, please leave a message and share it. Checking the syntax highlighting of the prompt is better for identifying the prompt word. editor. . Old Abbe thinks it’s a little redundant, so I don’t tick it.
+
+This is the prompt word editor. If you know this useful place, please leave a message and share it. If.
+
+you don’t tick it,.
+
+it’s double-column mode. Check. the double-column mode, which is to divide it into two columns. Different blocks. do not affect each other when the screen is moved up or down. This function is easy to use, so you have to tick it.
+
+and then hide the footer. What is a footer? This is a strange translation. This is the screen without the hidden footer. This is the hidden page. Whether. you want to hide the footer or not is up to you guys. Quickly set the sidebar and check it to enable it. This is the silder bar on the right. Check it. to expand by default. You can untick it.
+
+Floating means moving the mouse to open it, and moving it out hides it and fixes it. Click the open or close button. to select the floating. default width is the open width of the sidebar. The setting of the right sidebar is similar to the above. The difference.
+
+is that there is a picture on the right sidebar, so you can set the size of the picture here. . Click Apply and restart the interface. to test it out. If you are not satisfied with the width, you can go to the edge. Press and hold the mouse to drag the width. to be the same on both sides. You can drag the width. The above is today’s sharing. Thanks again for the two great recommendations. If the video is right If you are helpful, remember to. subscribe, share and press the small bell for the old. Abe.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg"/>
+      <pubDate>2023-07-04T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[DragGan Drag you Gan showtime ，老阿貝DragGan試玩後實用技巧教學與分享。[YT+]]]></title>
+      <itunes:title><![CDATA[DragGan Drag you Gan showtime ，老阿貝DragGan試玩後實用技巧教學與分享。[YT+]]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=mV1VxgFdNT4"><img src="https://img.youtube.com/vi/mV1VxgFdNT4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/0.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/1.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/2.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/3.jpg" /></a>
+https://www.youtube.com/watch?v=mV1VxgFdNT4
+本影片內容為老阿貝DragGan試玩教學與心得分享，各位大大有知道DragGan的UNDO在哪裡的，再麻煩分享一下。
+感溫。
+
+DragGan相關影片:
+DragGAN Nvidia windows版本https://youtu.be/c1rdHISzAmo
+DragGAN 使用colab試用Drag Your GAN 。https://youtu.be/eamtjuwc4uI
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+
+Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/
+
+來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301
+
+藝人： http://incompetech.com/
+====
+        
+The following is the old Abe’s trial play of DragGan. After playing for a while, he finally knows the function of MASK. Simply put, the area where MASK is activated is the effective area. . Under the skirt, when the skirt is shortened, the other areas will not change. It’s. OK to go to this side. If. it is shortened, it will not be what you imagined, but it will become a horror movie.
+
+People who want to watch horror movies can pretend it by themselves. Let’s have a look. This side wants to turn his head straight, and. this side wants to make his clothes short-sleeved,. but he fails. . Can he show his belly? Don’t be stupid, or fail.
+
+This DragGan lacks a very important function..... .If. there is no UNDO and REDO. , if you fail, you have to start over and change the photo. , but it turns out to be a negative value, and there is an error. The DragGan word is too small. It is different from the official website. I don’t know. how to make the word bigger. OK, I’ll choose this victim,.
+
+the second victim will have a better effect,. and then I’ll find the next victim. After familiarizing myself with some tricks, the picture will become better and better. Let’s take a look at the original picture. It’s not bad, right? Change the action.
+
+to other pictures. and try to see the human face. . I closed my eyes for a long time and. it took a long time to complete. Finally, the closed eyes opened again. In fact, you can use the mask to avoid this problem. I. originally wanted to let his hairline go down. But no matter how I tried it, I failed. and finally gave up on.
+
+DragGan without UNDO. Every step was thrilling. Then,. the back of this suffering master was completely broken. I don’t know if I can save it. I just came. back, so I had to start DragGAN again. It was really shocking every step of the way. One wrong step, one wrong step, all wrong. DragGan really takes time to open and close eyes.
+
+!!!!! Another wrong step. seems to be saved. Wow... DragGan does not have UNDO, is it really a big failure. or does it actually have, It’s just that the old Abe doesn’t know, but if. anyone knows, let me share with you where is DragGan’s UNDO.
+
+. The above is not professional today. . Thank you for your support. , I wish you health and happiness, old Abe stepped down and bowed.]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/watch?v=mV1VxgFdNT4"><img src="https://img.youtube.com/vi/mV1VxgFdNT4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/0.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/1.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/2.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/3.jpg" /></a>
+https://www.youtube.com/watch?v=mV1VxgFdNT4
+本影片內容為老阿貝DragGan試玩教學與心得分享，各位大大有知道DragGan的UNDO在哪裡的，再麻煩分享一下。
+感溫。
+
+DragGan相關影片:
+DragGAN Nvidia windows版本https://youtu.be/c1rdHISzAmo
+DragGAN 使用colab試用Drag Your GAN 。https://youtu.be/eamtjuwc4uI
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+
+Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/
+
+來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301
+
+藝人： http://incompetech.com/
+====
+        
+The following is the old Abe’s trial play of DragGan. After playing for a while, he finally knows the function of MASK. Simply put, the area where MASK is activated is the effective area. . Under the skirt, when the skirt is shortened, the other areas will not change. It’s. OK to go to this side. If. it is shortened, it will not be what you imagined, but it will become a horror movie.
+
+People who want to watch horror movies can pretend it by themselves. Let’s have a look. This side wants to turn his head straight, and. this side wants to make his clothes short-sleeved,. but he fails. . Can he show his belly? Don’t be stupid, or fail.
+
+This DragGan lacks a very important function..... .If. there is no UNDO and REDO. , if you fail, you have to start over and change the photo. , but it turns out to be a negative value, and there is an error. The DragGan word is too small. It is different from the official website. I don’t know. how to make the word bigger. OK, I’ll choose this victim,.
+
+the second victim will have a better effect,. and then I’ll find the next victim. After familiarizing myself with some tricks, the picture will become better and better. Let’s take a look at the original picture. It’s not bad, right? Change the action.
+
+to other pictures. and try to see the human face. . I closed my eyes for a long time and. it took a long time to complete. Finally, the closed eyes opened again. In fact, you can use the mask to avoid this problem. I. originally wanted to let his hairline go down. But no matter how I tried it, I failed. and finally gave up on.
+
+DragGan without UNDO. Every step was thrilling. Then,. the back of this suffering master was completely broken. I don’t know if I can save it. I just came. back, so I had to start DragGAN again. It was really shocking every step of the way. One wrong step, one wrong step, all wrong. DragGan really takes time to open and close eyes.
+
+!!!!! Another wrong step. seems to be saved. Wow... DragGan does not have UNDO, is it really a big failure. or does it actually have, It’s just that the old Abe doesn’t know, but if. anyone knows, let me share with you where is DragGan’s UNDO.
+
+. The above is not professional today. . Thank you for your support. , I wish you health and happiness, old Abe stepped down and bowed.]]>
+      </description>
+      <content:encoded><![CDATA[<pre><a href="https://www.youtube.com/watch?v=mV1VxgFdNT4"><img src="https://img.youtube.com/vi/mV1VxgFdNT4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/0.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/1.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/2.jpg" />
+<img src="https://img.youtube.com/vi/mV1VxgFdNT4/3.jpg" /></a><br />
+https://www.youtube.com/watch?v=mV1VxgFdNT4
+本影片內容為老阿貝DragGan試玩教學與心得分享，各位大大有知道DragGan的UNDO在哪裡的，再麻煩分享一下。
+感溫。
+
+DragGan相關影片:
+DragGAN Nvidia windows版本https://youtu.be/c1rdHISzAmo
+DragGAN 使用colab試用Drag Your GAN 。https://youtu.be/eamtjuwc4uI
+
+其他老阿貝分享的影片:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY
+
+Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/
+
+來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301
+
+藝人： http://incompetech.com/
+====
+        
+The following is the old Abe’s trial play of DragGan. After playing for a while, he finally knows the function of MASK. Simply put, the area where MASK is activated is the effective area. . Under the skirt, when the skirt is shortened, the other areas will not change. It’s. OK to go to this side. If. it is shortened, it will not be what you imagined, but it will become a horror movie.
+
+People who want to watch horror movies can pretend it by themselves. Let’s have a look. This side wants to turn his head straight, and. this side wants to make his clothes short-sleeved,. but he fails. . Can he show his belly? Don’t be stupid, or fail.
+
+This DragGan lacks a very important function..... .If. there is no UNDO and REDO. , if you fail, you have to start over and change the photo. , but it turns out to be a negative value, and there is an error. The DragGan word is too small. It is different from the official website. I don’t know. how to make the word bigger. OK, I’ll choose this victim,.
+
+the second victim will have a better effect,. and then I’ll find the next victim. After familiarizing myself with some tricks, the picture will become better and better. Let’s take a look at the original picture. It’s not bad, right? Change the action.
+
+to other pictures. and try to see the human face. . I closed my eyes for a long time and. it took a long time to complete. Finally, the closed eyes opened again. In fact, you can use the mask to avoid this problem. I. originally wanted to let his hairline go down. But no matter how I tried it, I failed. and finally gave up on.
+
+DragGan without UNDO. Every step was thrilling. Then,. the back of this suffering master was completely broken. I don’t know if I can save it. I just came. back, so I had to start DragGAN again. It was really shocking every step of the way. One wrong step, one wrong step, all wrong. DragGan really takes time to open and close eyes.
+
+!!!!! Another wrong step. seems to be saved. Wow... DragGan does not have UNDO, is it really a big failure. or does it actually have, It’s just that the old Abe doesn’t know, but if. anyone knows, let me share with you where is DragGan’s UNDO.
+
+. The above is not professional today. . Thank you for your support. , I wish you health and happiness, old Abe stepped down and bowed.</pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/mV1VxgFdNT4/maxresdefault.jpg"/>
+      <pubDate>2023-06-29T00:00:00.000Z</pubDate>
+    </item></channel>
+</rss>
