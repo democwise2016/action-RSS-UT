@@ -30,6 +30,160 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學。變2.5D也可以喔!]]></title>
+      <itunes:title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學。變2.5D也可以喔!]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/0.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/1.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/2.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有位大大問說
+能不能初期把真人照片轉成動漫的風格，而且動漫的照片能看著像真人的原圖。這個做法應該很多種
+今天分享的是老阿貝覺得比較快又方便的方式。如果有其他大大有更好的方式
+記的也要留言跟大家分享分享喔。先打開stable diffusion web UI。選擇動漫風格的checkpoint。老阿貝這邊選用anything v5這一個checkpoint。再來輸入起手畫面tags。如果有初學者不知道輸入兩個底線wildcard萬用卡的使用
+可以參考資訊卡上面的影片。反向提示詞這邊也要輸入。再來要取得圖片的寬高尺寸。點img2img圖生圖。將圖片拉進來。取得圖片尺寸的方式有很多
+您也可以在檔案總管那邊點內容來查看。點自動偵測尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">將寬與高記起來。回到txt2img文生圖。輸入剛剛記下來的寬與高。選擇您常用的sampling method。輸入您常用的sampling steps。再來要輸入有關這張圖片的tags提示詞
+您可以使用人工判別輸入和使用反推提示詞小工具來自動取得。老阿貝選用Tagger這一個小工具來幫忙反推tags
+如果有初學者不知道Tagger，可以參考資訊卡上面Tagger的影片。把圖片拖拉進來
+Tagger就會自動根據這張圖片的特徵反推tags。將反推tags全選複製起來。回到txt2img。將剛剛複製的tags在這邊貼上。因為Tagger有時候會判斷錯誤或重複貼不一樣的tags
+所以老阿貝習慣再人工檢查一次，如果你信任Tagger的話，可以直接跳過這個過程。因為上面的正向題示詞都是密密麻麻的文字
+所以老阿貝習慣用這個小工具來輔助。不知道這小工具的初學者
+上方的資訊卡中有這小工具的安裝與使用方式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">因為有中英對照
+就大致上看一下有沒有和原圖片衝突的tags。檢查完畢後。將畫面往下拉。點開Controlnet。將圖片拉進來。Enable打勾。Pixel Perfect打勾。Allow Preview要不要打勾都可以。Control Type選擇Depth。可以點預覽按鈕測試一下。看起來沒有問題。雖然有選擇尺寸的寬與高
+不過老阿貝還是習慣 把這一個打勾。中間的參數先用預設值即可。這些都設定完畢後，就可以來生成一張圖看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">看起來效果還不錯。來把原圖和生成的圖放到分頁比較看看。嗯....
+這邊沒有辦法點滑鼠右鍵把圖放到分頁。可以用拖拉的方式。看起來還原度還可以
+就是上半身比基尼的顏色不對。這個可以調整正向提示詞中有關bikini的tags。找一下bikini。將這邊的bikini top only
+改成 white bikini top only，並且給它加點權重。改好後來跑張圖看看。不過怎麼變成這樣呢。剛剛有動到什麼Tags嗎?怪怪的
+將權重調低再跑一次看看。還是一樣
+各位看倌有看出來是哪邊出問題嗎?剛剛要把圖片放到分頁上時
+不小心點到了圖片就變成遮罩了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">原來老阿貝也會犯初學者的錯誤。折騰了老半天
+上半身還是藍色的比基尼。應該是權重下的不夠重。再把white bikini top only權重調高。再檢查一下有沒有和這個tags有衝突的
+沒問題後就可以再來跑一張圖看看。恭喜恭喜
+這樣就成功了。這個是將寫實的相片轉為動漫風格的圖片
+那如果要轉成老阿貝喜歡的2.5D圖片該怎麼做呢?概念上是這樣
+因為2.5D圖片效果是介於寫實與動漫之間。所以可以給SD一張寫實的圖片當做參考
+參數的部分就介於中間值。來試看看囉。將畫面往下拉到controlnet這邊。點開第二個controlnet。Enable打勾。Control type選擇Reference參考。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Control weight拉到0.5~0.7左右。weight越多就越偏向寫實風格。因為主要還是要以動漫風格為主
+所以Control的starting和ending step設在中間左右即可。再來老阿貝習慣把Resize and Fill打勾。Style Fidelty往下拉一些，讓controlnet能多參考提示詞。參數大致上設定好後
+可以先生成一張圖片，不滿意再來調整。又出怪怪的圖。來查看一下哪邊忘記設定。原來是忘記給controlnet參考的圖片。是不是圖片大約在2.5D左右
+如果不滿意還可以去調整提示詞或其他的參數。像是雀斑太多
+臉陰影太暗這些。就交給各位大大去練習練習囉。這些參數設定好之後
+就可以拉其它的圖進來轉換成動漫風格的圖片。操作方式跟前面的流程一模一樣
+就不多做解說。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊是先取消2.5D的controlnet參考。尺寸1024x1024對2060來說還是大了點
+圖跑得有點慢。跑出來的圖大概是這樣。剩下的就是細部的調整和抽到合適的卡。打開controlnet reference來生成2.5D圖片。打開controlnet reference來生成2.5D圖片。來看一下這三者的差別。就看你喜歡哪種風格囉
+剩下的就是看圖片調整提示詞和權重以及Controlnet參數，像是和原圖來比胸部太大，薄紗太薄之類的。老阿貝記得之前也有人問過
+如果拿一般的相片來使用的話效果會一樣嗎?理論上效果差不多
+來試看看就知道了。這樣還算可以吧
+以上就是今天的分享。如果影片對您有幫助
+記得幫老阿貝。訂閱、分享加按小鈴鐺。有閒又有空的話
+也幫忙看一下廣告。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=81Z2thKv_4U</p><p>影片中使用的圖片</p><p>https://drive.google.com/file/d/1KpUdKIETOd3jkiuL2ZxI_n4MxA2uecQw/view?usp=sharing</p><p>https://drive.google.com/file/d/1cprGkwoO9_4PUxjGPqk-DfPi-NPvw40T/view?usp=sharing</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/0.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/1.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/2.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有位大大問說
+能不能初期把真人照片轉成動漫的風格，而且動漫的照片能看著像真人的原圖。這個做法應該很多種
+今天分享的是老阿貝覺得比較快又方便的方式。如果有其他大大有更好的方式
+記的也要留言跟大家分享分享喔。先打開stable diffusion web UI。選擇動漫風格的checkpoint。老阿貝這邊選用anything v5這一個checkpoint。再來輸入起手畫面tags。如果有初學者不知道輸入兩個底線wildcard萬用卡的使用
+可以參考資訊卡上面的影片。反向提示詞這邊也要輸入。再來要取得圖片的寬高尺寸。點img2img圖生圖。將圖片拉進來。取得圖片尺寸的方式有很多
+您也可以在檔案總管那邊點內容來查看。點自動偵測尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">將寬與高記起來。回到txt2img文生圖。輸入剛剛記下來的寬與高。選擇您常用的sampling method。輸入您常用的sampling steps。再來要輸入有關這張圖片的tags提示詞
+您可以使用人工判別輸入和使用反推提示詞小工具來自動取得。老阿貝選用Tagger這一個小工具來幫忙反推tags
+如果有初學者不知道Tagger，可以參考資訊卡上面Tagger的影片。把圖片拖拉進來
+Tagger就會自動根據這張圖片的特徵反推tags。將反推tags全選複製起來。回到txt2img。將剛剛複製的tags在這邊貼上。因為Tagger有時候會判斷錯誤或重複貼不一樣的tags
+所以老阿貝習慣再人工檢查一次，如果你信任Tagger的話，可以直接跳過這個過程。因為上面的正向題示詞都是密密麻麻的文字
+所以老阿貝習慣用這個小工具來輔助。不知道這小工具的初學者
+上方的資訊卡中有這小工具的安裝與使用方式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">因為有中英對照
+就大致上看一下有沒有和原圖片衝突的tags。檢查完畢後。將畫面往下拉。點開Controlnet。將圖片拉進來。Enable打勾。Pixel Perfect打勾。Allow Preview要不要打勾都可以。Control Type選擇Depth。可以點預覽按鈕測試一下。看起來沒有問題。雖然有選擇尺寸的寬與高
+不過老阿貝還是習慣 把這一個打勾。中間的參數先用預設值即可。這些都設定完畢後，就可以來生成一張圖看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">看起來效果還不錯。來把原圖和生成的圖放到分頁比較看看。嗯....
+這邊沒有辦法點滑鼠右鍵把圖放到分頁。可以用拖拉的方式。看起來還原度還可以
+就是上半身比基尼的顏色不對。這個可以調整正向提示詞中有關bikini的tags。找一下bikini。將這邊的bikini top only
+改成 white bikini top only，並且給它加點權重。改好後來跑張圖看看。不過怎麼變成這樣呢。剛剛有動到什麼Tags嗎?怪怪的
+將權重調低再跑一次看看。還是一樣
+各位看倌有看出來是哪邊出問題嗎?剛剛要把圖片放到分頁上時
+不小心點到了圖片就變成遮罩了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">原來老阿貝也會犯初學者的錯誤。折騰了老半天
+上半身還是藍色的比基尼。應該是權重下的不夠重。再把white bikini top only權重調高。再檢查一下有沒有和這個tags有衝突的
+沒問題後就可以再來跑一張圖看看。恭喜恭喜
+這樣就成功了。這個是將寫實的相片轉為動漫風格的圖片
+那如果要轉成老阿貝喜歡的2.5D圖片該怎麼做呢?概念上是這樣
+因為2.5D圖片效果是介於寫實與動漫之間。所以可以給SD一張寫實的圖片當做參考
+參數的部分就介於中間值。來試看看囉。將畫面往下拉到controlnet這邊。點開第二個controlnet。Enable打勾。Control type選擇Reference參考。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Control weight拉到0.5~0.7左右。weight越多就越偏向寫實風格。因為主要還是要以動漫風格為主
+所以Control的starting和ending step設在中間左右即可。再來老阿貝習慣把Resize and Fill打勾。Style Fidelty往下拉一些，讓controlnet能多參考提示詞。參數大致上設定好後
+可以先生成一張圖片，不滿意再來調整。又出怪怪的圖。來查看一下哪邊忘記設定。原來是忘記給controlnet參考的圖片。是不是圖片大約在2.5D左右
+如果不滿意還可以去調整提示詞或其他的參數。像是雀斑太多
+臉陰影太暗這些。就交給各位大大去練習練習囉。這些參數設定好之後
+就可以拉其它的圖進來轉換成動漫風格的圖片。操作方式跟前面的流程一模一樣
+就不多做解說。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊是先取消2.5D的controlnet參考。尺寸1024x1024對2060來說還是大了點
+圖跑得有點慢。跑出來的圖大概是這樣。剩下的就是細部的調整和抽到合適的卡。打開controlnet reference來生成2.5D圖片。打開controlnet reference來生成2.5D圖片。來看一下這三者的差別。就看你喜歡哪種風格囉
+剩下的就是看圖片調整提示詞和權重以及Controlnet參數，像是和原圖來比胸部太大，薄紗太薄之類的。老阿貝記得之前也有人問過
+如果拿一般的相片來使用的話效果會一樣嗎?理論上效果差不多
+來試看看就知道了。這樣還算可以吧
+以上就是今天的分享。如果影片對您有幫助
+記得幫老阿貝。訂閱、分享加按小鈴鐺。有閒又有空的話
+也幫忙看一下廣告。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=81Z2thKv_4U</p><p>影片中使用的圖片</p><p>https://drive.google.com/file/d/1KpUdKIETOd3jkiuL2ZxI_n4MxA2uecQw/view?usp=sharing</p><p>https://drive.google.com/file/d/1cprGkwoO9_4PUxjGPqk-DfPi-NPvw40T/view?usp=sharing</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/0.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/1.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/2.jpg" /></a><a href="https://www.youtube.com/watch?v=81Z2thKv_4U"><img src="https://img.youtube.com/vi/81Z2thKv_4U/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有位大大問說
+能不能初期把真人照片轉成動漫的風格，而且動漫的照片能看著像真人的原圖。這個做法應該很多種
+今天分享的是老阿貝覺得比較快又方便的方式。如果有其他大大有更好的方式
+記的也要留言跟大家分享分享喔。先打開stable diffusion web UI。選擇動漫風格的checkpoint。老阿貝這邊選用anything v5這一個checkpoint。再來輸入起手畫面tags。如果有初學者不知道輸入兩個底線wildcard萬用卡的使用
+可以參考資訊卡上面的影片。反向提示詞這邊也要輸入。再來要取得圖片的寬高尺寸。點img2img圖生圖。將圖片拉進來。取得圖片尺寸的方式有很多
+您也可以在檔案總管那邊點內容來查看。點自動偵測尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">將寬與高記起來。回到txt2img文生圖。輸入剛剛記下來的寬與高。選擇您常用的sampling method。輸入您常用的sampling steps。再來要輸入有關這張圖片的tags提示詞
+您可以使用人工判別輸入和使用反推提示詞小工具來自動取得。老阿貝選用Tagger這一個小工具來幫忙反推tags
+如果有初學者不知道Tagger，可以參考資訊卡上面Tagger的影片。把圖片拖拉進來
+Tagger就會自動根據這張圖片的特徵反推tags。將反推tags全選複製起來。回到txt2img。將剛剛複製的tags在這邊貼上。因為Tagger有時候會判斷錯誤或重複貼不一樣的tags
+所以老阿貝習慣再人工檢查一次，如果你信任Tagger的話，可以直接跳過這個過程。因為上面的正向題示詞都是密密麻麻的文字
+所以老阿貝習慣用這個小工具來輔助。不知道這小工具的初學者
+上方的資訊卡中有這小工具的安裝與使用方式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">因為有中英對照
+就大致上看一下有沒有和原圖片衝突的tags。檢查完畢後。將畫面往下拉。點開Controlnet。將圖片拉進來。Enable打勾。Pixel Perfect打勾。Allow Preview要不要打勾都可以。Control Type選擇Depth。可以點預覽按鈕測試一下。看起來沒有問題。雖然有選擇尺寸的寬與高
+不過老阿貝還是習慣 把這一個打勾。中間的參數先用預設值即可。這些都設定完畢後，就可以來生成一張圖看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">看起來效果還不錯。來把原圖和生成的圖放到分頁比較看看。嗯....
+這邊沒有辦法點滑鼠右鍵把圖放到分頁。可以用拖拉的方式。看起來還原度還可以
+就是上半身比基尼的顏色不對。這個可以調整正向提示詞中有關bikini的tags。找一下bikini。將這邊的bikini top only
+改成 white bikini top only，並且給它加點權重。改好後來跑張圖看看。不過怎麼變成這樣呢。剛剛有動到什麼Tags嗎?怪怪的
+將權重調低再跑一次看看。還是一樣
+各位看倌有看出來是哪邊出問題嗎?剛剛要把圖片放到分頁上時
+不小心點到了圖片就變成遮罩了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">原來老阿貝也會犯初學者的錯誤。折騰了老半天
+上半身還是藍色的比基尼。應該是權重下的不夠重。再把white bikini top only權重調高。再檢查一下有沒有和這個tags有衝突的
+沒問題後就可以再來跑一張圖看看。恭喜恭喜
+這樣就成功了。這個是將寫實的相片轉為動漫風格的圖片
+那如果要轉成老阿貝喜歡的2.5D圖片該怎麼做呢?概念上是這樣
+因為2.5D圖片效果是介於寫實與動漫之間。所以可以給SD一張寫實的圖片當做參考
+參數的部分就介於中間值。來試看看囉。將畫面往下拉到controlnet這邊。點開第二個controlnet。Enable打勾。Control type選擇Reference參考。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Control weight拉到0.5~0.7左右。weight越多就越偏向寫實風格。因為主要還是要以動漫風格為主
+所以Control的starting和ending step設在中間左右即可。再來老阿貝習慣把Resize and Fill打勾。Style Fidelty往下拉一些，讓controlnet能多參考提示詞。參數大致上設定好後
+可以先生成一張圖片，不滿意再來調整。又出怪怪的圖。來查看一下哪邊忘記設定。原來是忘記給controlnet參考的圖片。是不是圖片大約在2.5D左右
+如果不滿意還可以去調整提示詞或其他的參數。像是雀斑太多
+臉陰影太暗這些。就交給各位大大去練習練習囉。這些參數設定好之後
+就可以拉其它的圖進來轉換成動漫風格的圖片。操作方式跟前面的流程一模一樣
+就不多做解說。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊是先取消2.5D的controlnet參考。尺寸1024x1024對2060來說還是大了點
+圖跑得有點慢。跑出來的圖大概是這樣。剩下的就是細部的調整和抽到合適的卡。打開controlnet reference來生成2.5D圖片。打開controlnet reference來生成2.5D圖片。來看一下這三者的差別。就看你喜歡哪種風格囉
+剩下的就是看圖片調整提示詞和權重以及Controlnet參數，像是和原圖來比胸部太大，薄紗太薄之類的。老阿貝記得之前也有人問過
+如果拿一般的相片來使用的話效果會一樣嗎?理論上效果差不多
+來試看看就知道了。這樣還算可以吧
+以上就是今天的分享。如果影片對您有幫助
+記得幫老阿貝。訂閱、分享加按小鈴鐺。有閒又有空的話
+也幫忙看一下廣告。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=81Z2thKv_4U</p><p>影片中使用的圖片</p><p>https://drive.google.com/file/d/1KpUdKIETOd3jkiuL2ZxI_n4MxA2uecQw/view?usp=sharing</p><p>https://drive.google.com/file/d/1cprGkwoO9_4PUxjGPqk-DfPi-NPvw40T/view?usp=sharing</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/81Z2thKv_4U/maxresdefault.jpg"/>
+      <pubDate>2023-08-10T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[請直接先更新controlnet就可以使用DWPose for sd webui Controlnet。令人驚訝的手部姿勢偵測，值得推薦給大家。]]></title>
       <itunes:title><![CDATA[請直接先更新controlnet就可以使用DWPose for sd webui Controlnet。令人驚訝的手部姿勢偵測，值得推薦給大家。]]></itunes:title>
       <itunes:author><![CDATA[老阿貝]]></itunes:author>
@@ -1701,168 +1855,5 @@ Off的功用。Off就是stable diffusion預設的模式
 <p>https://www.youtube.com/watch?v=iiQR3xANFQQ</p><p>Treesize free官方下載網址</p><p>https://www.jam-software.com/treesize_free</p><p></p><p>本影片內容為分享AI繪圖 stable diffusion 各個模型models分類方法</p><p>包含textual inversion、hypernetworks、checkpoint和lora。</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg"/>
       <pubDate>2023-07-06T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[stable diffusion客製化UI lobe theme(原kitchen-theme)安裝、設定與使用教學。]]></title>
-      <itunes:title><![CDATA[stable diffusion客製化UI lobe theme(原kitchen-theme)安裝、設定與使用教學。]]></itunes:title>
-      <itunes:author><![CDATA[老阿貝]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/0.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/1.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/2.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">首先先感謝這兩位大大的推薦
-一個月前yuwu3308就已經有推薦。不過那時候老阿貝測起來，在相容性上面還是有問題
-所以就沒有做影片分享。最近牧瀬紅莉栖又有推薦
-發現相容性已改善不少，特做影片與大家分享。這個extension最主要的功用是讓您可以簡易的客製化stable diffusion web UI原有的操作介面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 客製化stable diffusion操作介面</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-客製化stable diffusion操作介面。這畫面是開啟stable diffusion web UI
-的Logo和文字可以客製化。進入stable diffusion操作界面後
-將滑鼠移到最左邊，會跳出這樣的畫面。再將滑鼠移到最右邊
-會出現這樣的畫面。將滑鼠移到這邊
-可以改變左右這兩者尺寸大小。將畫面往下拉
-generate跑圖的那個區塊會固定住。這功能算是蠻推薦的
-不過說明上寫這個功能目前還在實驗階段。再來是左上角的logo和文字可以自行更改。來和原生介面比較看看。先來看看最上面的這一列。現在被放到右側這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">滑鼠移到外頭
-slider bar會收起。再移過去又會打開。因為這邊的設定，設定好後不會常變動
-再來做成隱藏的方式要更動也很方便，不用再把畫面拉到最上面。如果您需要固定 ，不要讓它隱藏
-也可以點這邊的小圖示來固定它。真是方便。再來是這邊的extra networks。這一些常用的models模組。會被放到畫面的最右側
-跟左側的操作方式一模一樣。這也蠻方便的，加個LORA
-就不用一直將畫面移上又移下的。再來是這個跑圖的區塊。它會隨著畫面的移動而移動 
-在一些參數的調整上有時也需要移上又移下的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在這個區塊可以獨立出來放在這裡。再來是這邊的區塊。被放在這個地方。對了剛剛忘記說
-當畫面移上又移下時。這邊是固定住的。可以讓我們看著跑出來的圖做其他的參數設定
-這功能大推，不過目前屬實驗性質，不知道有什麼問題。像這樣可以拖拉設定畫面的尺寸
-原生的就沒辦法。原生的使用者介面比較像是把所有的功能一股腦的往下一直疊。再來是這邊有一個日夜切換的按鈕
-可以讓你切換白黑背景。這個按鈕可以讓您直接開啟civit AI網頁。旁邊的這個按鈕是給作者的反饋。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 lobe-theme(原kitchen-theme)的安裝與設定</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
-lobe-theme(原kitchen-theme)的安裝與設定。一樣來到影片的下方。點lobe theme下載網址。點code下拉式選單。點複製按鈕。關閉lobe theme github網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並按滑鼠右鍵
-把剛剛複製的安裝網址貼上。點install。當出現這些文字時
-就表示下載完畢。點installed。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Apply and restar UI。當出現這樣的畫面表示安裝成功。一開始是這樣的畫面。操作方式是這樣。老阿貝覺得不方便
-滑鼠移過去出現會比較方便。來點這邊的設定按鈕。這邊可以設定顯示的語言。先來改成中文。把設定的畫面往下拉。點Apply and restart Interface。再點lobe theme設定按鈕。這樣就全部都是中文化的設定了。減少動畫看您的喜好來打勾或不打勾
-目前只看到顏色的漸變動畫。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主顏色可以選您喜歡的顏色。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">中性色老阿貝喜歡樸素一點
-所以就選白色。Logo類型，如果不喜歡預設的
-可以選自訂。這邊可以放您想要的logo。有支援這三種格式。來試試最簡單的Emoji表情符號。什麼是Emoji表情符號呢?就是這個。我們要取得表情符號網址。假設要這一個表情符號。用滑鼠將表情符號選起來拖拉到旁邊放開
-就會得到這個表情符號的網址。再把網址選取複製起來。回到stable diffusion lobe theme設定畫面。把剛剛複製的網址貼上。這樣Emoji表情符號就出現了。再來可以自定義標題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">使用SVG圖標打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">載入字型美化打勾。提示詞文本框顯示模式的縮放與滾動，不知道是不是BUG
-這兩個老阿貝測試不出來，有測出來的再麻煩留言分享一下。prompt語法高亮打勾比較好辨識。提示詞編輯器這個老阿貝覺得有點多餘所以不打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個就是提示詞編輯器。有知道這個好用的地方
-再麻煩留言分享一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來是雙列模式打勾。雙列模式就是這邊把它分成兩列不同的區塊。當畫面移上或移下時
-互不影響。這功能好用
-所以要打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來是隱藏頁腳。什麼是頁腳
-好奇怪的翻譯。這個就是沒有隱藏頁腳的畫面。這個就是有隱藏頁腳的畫面。要不要隱藏頁腳就看各位大大囉。快捷設訂側邊欄要打勾啟用
-這個是右邊的silder bar。打勾。默認展開可以取消打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">懸浮就是滑鼠移進去打開，移出來隱藏
-固定就是去點打開或關閉的按鈕。這邊選擇懸浮。默認寬度就是側邊欄打開的寬度。這是右邊的側邊欄設定
-跟上面的都差不多。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比較不一樣的是右側邊欄有圖
-所以這邊可以設定圖的尺寸。設定完畢後點應用並重啟介面。來測試看看。如果你不滿意這樣的寬度
-可以到邊緣處，按住滑鼠來拖拉寬度。兩邊都一樣可以拖拉寬度。以上就是今天的分享
-再次感謝這兩位大大的推薦。如果影片對您有幫助的話
-再記得幫老阿貝。訂閱、分享加按小鈴鐺
-有閒有空也幫忙看一下廣告。謝謝大家，祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=_HGiB9CNzvs</p><p>sd-webui-lobe-theme(原kitchen-theme)下載網址</p><p>https://github.com/canisminor1990/sd-webui-lobe-theme</p><p></p><p>影片章節</p><p>00:27 第一部分 客製化stable diffusion操作介面</p><p>03:27 第二部分 lobe-theme(原kitchen-theme)的安裝與設定</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/0.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/1.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/2.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">首先先感謝這兩位大大的推薦
-一個月前yuwu3308就已經有推薦。不過那時候老阿貝測起來，在相容性上面還是有問題
-所以就沒有做影片分享。最近牧瀬紅莉栖又有推薦
-發現相容性已改善不少，特做影片與大家分享。這個extension最主要的功用是讓您可以簡易的客製化stable diffusion web UI原有的操作介面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 客製化stable diffusion操作介面</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-客製化stable diffusion操作介面。這畫面是開啟stable diffusion web UI
-的Logo和文字可以客製化。進入stable diffusion操作界面後
-將滑鼠移到最左邊，會跳出這樣的畫面。再將滑鼠移到最右邊
-會出現這樣的畫面。將滑鼠移到這邊
-可以改變左右這兩者尺寸大小。將畫面往下拉
-generate跑圖的那個區塊會固定住。這功能算是蠻推薦的
-不過說明上寫這個功能目前還在實驗階段。再來是左上角的logo和文字可以自行更改。來和原生介面比較看看。先來看看最上面的這一列。現在被放到右側這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">滑鼠移到外頭
-slider bar會收起。再移過去又會打開。因為這邊的設定，設定好後不會常變動
-再來做成隱藏的方式要更動也很方便，不用再把畫面拉到最上面。如果您需要固定 ，不要讓它隱藏
-也可以點這邊的小圖示來固定它。真是方便。再來是這邊的extra networks。這一些常用的models模組。會被放到畫面的最右側
-跟左側的操作方式一模一樣。這也蠻方便的，加個LORA
-就不用一直將畫面移上又移下的。再來是這個跑圖的區塊。它會隨著畫面的移動而移動 
-在一些參數的調整上有時也需要移上又移下的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在這個區塊可以獨立出來放在這裡。再來是這邊的區塊。被放在這個地方。對了剛剛忘記說
-當畫面移上又移下時。這邊是固定住的。可以讓我們看著跑出來的圖做其他的參數設定
-這功能大推，不過目前屬實驗性質，不知道有什麼問題。像這樣可以拖拉設定畫面的尺寸
-原生的就沒辦法。原生的使用者介面比較像是把所有的功能一股腦的往下一直疊。再來是這邊有一個日夜切換的按鈕
-可以讓你切換白黑背景。這個按鈕可以讓您直接開啟civit AI網頁。旁邊的這個按鈕是給作者的反饋。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 lobe-theme(原kitchen-theme)的安裝與設定</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
-lobe-theme(原kitchen-theme)的安裝與設定。一樣來到影片的下方。點lobe theme下載網址。點code下拉式選單。點複製按鈕。關閉lobe theme github網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並按滑鼠右鍵
-把剛剛複製的安裝網址貼上。點install。當出現這些文字時
-就表示下載完畢。點installed。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Apply and restar UI。當出現這樣的畫面表示安裝成功。一開始是這樣的畫面。操作方式是這樣。老阿貝覺得不方便
-滑鼠移過去出現會比較方便。來點這邊的設定按鈕。這邊可以設定顯示的語言。先來改成中文。把設定的畫面往下拉。點Apply and restart Interface。再點lobe theme設定按鈕。這樣就全部都是中文化的設定了。減少動畫看您的喜好來打勾或不打勾
-目前只看到顏色的漸變動畫。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主顏色可以選您喜歡的顏色。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">中性色老阿貝喜歡樸素一點
-所以就選白色。Logo類型，如果不喜歡預設的
-可以選自訂。這邊可以放您想要的logo。有支援這三種格式。來試試最簡單的Emoji表情符號。什麼是Emoji表情符號呢?就是這個。我們要取得表情符號網址。假設要這一個表情符號。用滑鼠將表情符號選起來拖拉到旁邊放開
-就會得到這個表情符號的網址。再把網址選取複製起來。回到stable diffusion lobe theme設定畫面。把剛剛複製的網址貼上。這樣Emoji表情符號就出現了。再來可以自定義標題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">使用SVG圖標打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">載入字型美化打勾。提示詞文本框顯示模式的縮放與滾動，不知道是不是BUG
-這兩個老阿貝測試不出來，有測出來的再麻煩留言分享一下。prompt語法高亮打勾比較好辨識。提示詞編輯器這個老阿貝覺得有點多餘所以不打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個就是提示詞編輯器。有知道這個好用的地方
-再麻煩留言分享一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來是雙列模式打勾。雙列模式就是這邊把它分成兩列不同的區塊。當畫面移上或移下時
-互不影響。這功能好用
-所以要打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來是隱藏頁腳。什麼是頁腳
-好奇怪的翻譯。這個就是沒有隱藏頁腳的畫面。這個就是有隱藏頁腳的畫面。要不要隱藏頁腳就看各位大大囉。快捷設訂側邊欄要打勾啟用
-這個是右邊的silder bar。打勾。默認展開可以取消打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">懸浮就是滑鼠移進去打開，移出來隱藏
-固定就是去點打開或關閉的按鈕。這邊選擇懸浮。默認寬度就是側邊欄打開的寬度。這是右邊的側邊欄設定
-跟上面的都差不多。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比較不一樣的是右側邊欄有圖
-所以這邊可以設定圖的尺寸。設定完畢後點應用並重啟介面。來測試看看。如果你不滿意這樣的寬度
-可以到邊緣處，按住滑鼠來拖拉寬度。兩邊都一樣可以拖拉寬度。以上就是今天的分享
-再次感謝這兩位大大的推薦。如果影片對您有幫助的話
-再記得幫老阿貝。訂閱、分享加按小鈴鐺
-有閒有空也幫忙看一下廣告。謝謝大家，祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=_HGiB9CNzvs</p><p>sd-webui-lobe-theme(原kitchen-theme)下載網址</p><p>https://github.com/canisminor1990/sd-webui-lobe-theme</p><p></p><p>影片章節</p><p>00:27 第一部分 客製化stable diffusion操作介面</p><p>03:27 第二部分 lobe-theme(原kitchen-theme)的安裝與設定</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/0.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/1.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/2.jpg" /></a><a href="https://www.youtube.com/watch?v=_HGiB9CNzvs"><img src="https://img.youtube.com/vi/_HGiB9CNzvs/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">首先先感謝這兩位大大的推薦
-一個月前yuwu3308就已經有推薦。不過那時候老阿貝測起來，在相容性上面還是有問題
-所以就沒有做影片分享。最近牧瀬紅莉栖又有推薦
-發現相容性已改善不少，特做影片與大家分享。這個extension最主要的功用是讓您可以簡易的客製化stable diffusion web UI原有的操作介面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 客製化stable diffusion操作介面</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-客製化stable diffusion操作介面。這畫面是開啟stable diffusion web UI
-的Logo和文字可以客製化。進入stable diffusion操作界面後
-將滑鼠移到最左邊，會跳出這樣的畫面。再將滑鼠移到最右邊
-會出現這樣的畫面。將滑鼠移到這邊
-可以改變左右這兩者尺寸大小。將畫面往下拉
-generate跑圖的那個區塊會固定住。這功能算是蠻推薦的
-不過說明上寫這個功能目前還在實驗階段。再來是左上角的logo和文字可以自行更改。來和原生介面比較看看。先來看看最上面的這一列。現在被放到右側這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">滑鼠移到外頭
-slider bar會收起。再移過去又會打開。因為這邊的設定，設定好後不會常變動
-再來做成隱藏的方式要更動也很方便，不用再把畫面拉到最上面。如果您需要固定 ，不要讓它隱藏
-也可以點這邊的小圖示來固定它。真是方便。再來是這邊的extra networks。這一些常用的models模組。會被放到畫面的最右側
-跟左側的操作方式一模一樣。這也蠻方便的，加個LORA
-就不用一直將畫面移上又移下的。再來是這個跑圖的區塊。它會隨著畫面的移動而移動 
-在一些參數的調整上有時也需要移上又移下的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在這個區塊可以獨立出來放在這裡。再來是這邊的區塊。被放在這個地方。對了剛剛忘記說
-當畫面移上又移下時。這邊是固定住的。可以讓我們看著跑出來的圖做其他的參數設定
-這功能大推，不過目前屬實驗性質，不知道有什麼問題。像這樣可以拖拉設定畫面的尺寸
-原生的就沒辦法。原生的使用者介面比較像是把所有的功能一股腦的往下一直疊。再來是這邊有一個日夜切換的按鈕
-可以讓你切換白黑背景。這個按鈕可以讓您直接開啟civit AI網頁。旁邊的這個按鈕是給作者的反饋。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 lobe-theme(原kitchen-theme)的安裝與設定</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
-lobe-theme(原kitchen-theme)的安裝與設定。一樣來到影片的下方。點lobe theme下載網址。點code下拉式選單。點複製按鈕。關閉lobe theme github網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並按滑鼠右鍵
-把剛剛複製的安裝網址貼上。點install。當出現這些文字時
-就表示下載完畢。點installed。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Apply and restar UI。當出現這樣的畫面表示安裝成功。一開始是這樣的畫面。操作方式是這樣。老阿貝覺得不方便
-滑鼠移過去出現會比較方便。來點這邊的設定按鈕。這邊可以設定顯示的語言。先來改成中文。把設定的畫面往下拉。點Apply and restart Interface。再點lobe theme設定按鈕。這樣就全部都是中文化的設定了。減少動畫看您的喜好來打勾或不打勾
-目前只看到顏色的漸變動畫。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主顏色可以選您喜歡的顏色。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">中性色老阿貝喜歡樸素一點
-所以就選白色。Logo類型，如果不喜歡預設的
-可以選自訂。這邊可以放您想要的logo。有支援這三種格式。來試試最簡單的Emoji表情符號。什麼是Emoji表情符號呢?就是這個。我們要取得表情符號網址。假設要這一個表情符號。用滑鼠將表情符號選起來拖拉到旁邊放開
-就會得到這個表情符號的網址。再把網址選取複製起來。回到stable diffusion lobe theme設定畫面。把剛剛複製的網址貼上。這樣Emoji表情符號就出現了。再來可以自定義標題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">使用SVG圖標打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">載入字型美化打勾。提示詞文本框顯示模式的縮放與滾動，不知道是不是BUG
-這兩個老阿貝測試不出來，有測出來的再麻煩留言分享一下。prompt語法高亮打勾比較好辨識。提示詞編輯器這個老阿貝覺得有點多餘所以不打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個就是提示詞編輯器。有知道這個好用的地方
-再麻煩留言分享一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來是雙列模式打勾。雙列模式就是這邊把它分成兩列不同的區塊。當畫面移上或移下時
-互不影響。這功能好用
-所以要打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來是隱藏頁腳。什麼是頁腳
-好奇怪的翻譯。這個就是沒有隱藏頁腳的畫面。這個就是有隱藏頁腳的畫面。要不要隱藏頁腳就看各位大大囉。快捷設訂側邊欄要打勾啟用
-這個是右邊的silder bar。打勾。默認展開可以取消打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">懸浮就是滑鼠移進去打開，移出來隱藏
-固定就是去點打開或關閉的按鈕。這邊選擇懸浮。默認寬度就是側邊欄打開的寬度。這是右邊的側邊欄設定
-跟上面的都差不多。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比較不一樣的是右側邊欄有圖
-所以這邊可以設定圖的尺寸。設定完畢後點應用並重啟介面。來測試看看。如果你不滿意這樣的寬度
-可以到邊緣處，按住滑鼠來拖拉寬度。兩邊都一樣可以拖拉寬度。以上就是今天的分享
-再次感謝這兩位大大的推薦。如果影片對您有幫助的話
-再記得幫老阿貝。訂閱、分享加按小鈴鐺
-有閒有空也幫忙看一下廣告。謝謝大家，祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=_HGiB9CNzvs</p><p>sd-webui-lobe-theme(原kitchen-theme)下載網址</p><p>https://github.com/canisminor1990/sd-webui-lobe-theme</p><p></p><p>影片章節</p><p>00:27 第一部分 客製化stable diffusion操作介面</p><p>03:27 第二部分 lobe-theme(原kitchen-theme)的安裝與設定</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/_HGiB9CNzvs/maxresdefault.jpg"/>
-      <pubDate>2023-07-04T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
