@@ -30,6 +30,154 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學part 2。謝謝老爹和youaaron5799兩位大大所提供的方法。感恩。]]></title>
+      <itunes:title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學part 2。謝謝老爹和youaaron5799兩位大大所提供的方法。感恩。]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+首先先感謝這兩位大大提供將寫實的圖片轉成動漫風格的方法。今天就來實做一下這兩個方法
+因為只是按照字面上老阿貝了解的意思來實作。如果有會錯意的話
+再麻煩底下留言反應。先來複刻老爹的做法試看看。這邊是說跟萱萱大大學的圖生圖俄羅斯套娃的方法。第一步驟
+選擇動漫的模型。Ok
+選好了。第二步驟把圖片放上。放好了。第三步驟
+把提示詞弄上。弄好了。第四步驟是重點喔
+將denoising strengthㄊ調到0.15~0.2，不要太高 越低越跟原圖相同, 點產生。這邊是老阿貝加上去的，為了避免圖片變形
+先點自動調整尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再將Denoising strength重繪幅度 調到0.15。然後呢?
+點回來看一下，喔，點產生圖片。第五個步驟
+此時你會產生一張有點動漫的圖 但是只是有一點點,然後 點選產生圖片下方的 "send to img2img"(圖生圖),然後再點產生以此類推。如果沒會錯意的話
+先點送到圖生圖按鈕，然後再點產生按鈕這樣一直循環下去。這樣點要拉來拉去的不方便
+先把畫面縮小。這樣方便多了。不斷的套娃輪迴也沒甚麼好看的
+來加速一下時間。圖有在變化
+不過覺得有黑點怪怪的。應該是提示詞那邊要檢查一下。將有關痣或雀斑的tag刪除。順便再加上高畫質的tag和perfect skin來避免剛剛的情況。也順便加上反向提示詞。確認沒問題後
+再來試看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">感覺效果還真的不錯。很想一直按下去看看會有什麼結果
+不過這樣一直做重複的動作，老阿貝覺得好想睡覺。干脆來寫個程式讓它可以自動點。寫好了
+這樣方便多了。其實這樣的效果感覺真的不錯
+缺點就是套來套去的是有點花時間。看者電腦這樣套來套去的
+突然想到，有的功能叫做loopback不就是做這個動作嗎。哎呀
+怎麼現在才想到。來試看看loopback。將畫面拉到最下方。點script下拉式選單。Loopback在這邊。先來把圖換成一開始的圖片。再把Denoising strength重繪幅度調到0。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果使用這邊的重繪幅度，會出現很奇怪的點。來打開loopback介面。Loopback最高只能套32次。這邊的重繪幅度調整為0.15。重繪幅度曲線選擇Aggressive。設定完畢後，來生成圖片看看。這樣實在方便多了
+只可惜最多只能輪迴32次。如果要超過32次的話，可以使用疊加的方式
+就是將第一次生成最後一張圖，丟回去圖生圖中變成的第一張圖再去用loopback輪迴。來將老阿貝手動輪迴和loopback自動輪迴的圖片放在一起比較看看。這樣看起來還是手動輪迴的效果比較好
+可能loopback那邊還要再做參數的調整。再次的謝謝老爹提供的方式。再來試看看youaaron的作法。我的作法比較簡單, 以懶為出發點。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不加任何正負題詞。直接在文生圖加載2個controlnet。lineart realistic和tile colorfix + sharp。先來做這個步驟。打開controlnet。又忘了要開哪一個type
+返回影片下方看一下。點lineart。選擇 lineart realistic。Enable打勾。Pixel perfect打勾。選擇Resize and fit。將圖拉進來。開第二個controlnet。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">先把圖拉進來。點這個按鈕將圖的尺寸送到寬與高的參數上頭。這個controlnet是用tile的color fix+sharp。把該打勾的勾一勾。選擇Tile。選擇color fix + sharp。選擇resize and fill。這樣做的好處是不必擔心會有大區塊顏色跑偏。然後整体構圖及細節由lineart鎖死,所以和原圖相似度極高, 風格效果全交由大模型決定。我個人偏好meichidarkmix系列, 要偏向2d就用v1.5版。老阿貝好像沒有這個checkpoint。來確認一下。果然沒有
+先來下載。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">下載完畢後
+選擇v1.5版模型。再配上個人喜好的vae色調會更好。老阿貝的SD VAE選擇不多
+就使用原來這一個。沒了。檢查一下有沒有問題
+沒問題就來生成圖片。效果也是很好
+因為被lineart鎖住了，所以所有的景物都沒變。若要做2.5D或以上一點點的 
+用這個懶人做法真的很快。這作法唯一的小小缺點就是沒有辦法直接變成2D的動漫圖片，因為整個輪廓被鎖住，要發揮的空間就變比較少。但對要轉2.5D的圖且輪廓精準度非常要求的情況下
+這真的是一個好方法。以上就是以老阿貝的理解方式，複刻兩位大大所提供的兩種方法。如果有理解錯誤的話
+再麻煩留言提醒。倘若各位大大還有其他的方式
+也歡迎留言跟大家分享喔。以上就是今天的影片內容
+如果影片對您有幫助。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=A6LA45Pegd4</p><p>影片中使用的圖片</p><p>https://drive.google.com/file/d/1KpUdKIETOd3jkiuL2ZxI_n4MxA2uecQw/view?usp=sharing</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+首先先感謝這兩位大大提供將寫實的圖片轉成動漫風格的方法。今天就來實做一下這兩個方法
+因為只是按照字面上老阿貝了解的意思來實作。如果有會錯意的話
+再麻煩底下留言反應。先來複刻老爹的做法試看看。這邊是說跟萱萱大大學的圖生圖俄羅斯套娃的方法。第一步驟
+選擇動漫的模型。Ok
+選好了。第二步驟把圖片放上。放好了。第三步驟
+把提示詞弄上。弄好了。第四步驟是重點喔
+將denoising strengthㄊ調到0.15~0.2，不要太高 越低越跟原圖相同, 點產生。這邊是老阿貝加上去的，為了避免圖片變形
+先點自動調整尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再將Denoising strength重繪幅度 調到0.15。然後呢?
+點回來看一下，喔，點產生圖片。第五個步驟
+此時你會產生一張有點動漫的圖 但是只是有一點點,然後 點選產生圖片下方的 "send to img2img"(圖生圖),然後再點產生以此類推。如果沒會錯意的話
+先點送到圖生圖按鈕，然後再點產生按鈕這樣一直循環下去。這樣點要拉來拉去的不方便
+先把畫面縮小。這樣方便多了。不斷的套娃輪迴也沒甚麼好看的
+來加速一下時間。圖有在變化
+不過覺得有黑點怪怪的。應該是提示詞那邊要檢查一下。將有關痣或雀斑的tag刪除。順便再加上高畫質的tag和perfect skin來避免剛剛的情況。也順便加上反向提示詞。確認沒問題後
+再來試看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">感覺效果還真的不錯。很想一直按下去看看會有什麼結果
+不過這樣一直做重複的動作，老阿貝覺得好想睡覺。干脆來寫個程式讓它可以自動點。寫好了
+這樣方便多了。其實這樣的效果感覺真的不錯
+缺點就是套來套去的是有點花時間。看者電腦這樣套來套去的
+突然想到，有的功能叫做loopback不就是做這個動作嗎。哎呀
+怎麼現在才想到。來試看看loopback。將畫面拉到最下方。點script下拉式選單。Loopback在這邊。先來把圖換成一開始的圖片。再把Denoising strength重繪幅度調到0。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果使用這邊的重繪幅度，會出現很奇怪的點。來打開loopback介面。Loopback最高只能套32次。這邊的重繪幅度調整為0.15。重繪幅度曲線選擇Aggressive。設定完畢後，來生成圖片看看。這樣實在方便多了
+只可惜最多只能輪迴32次。如果要超過32次的話，可以使用疊加的方式
+就是將第一次生成最後一張圖，丟回去圖生圖中變成的第一張圖再去用loopback輪迴。來將老阿貝手動輪迴和loopback自動輪迴的圖片放在一起比較看看。這樣看起來還是手動輪迴的效果比較好
+可能loopback那邊還要再做參數的調整。再次的謝謝老爹提供的方式。再來試看看youaaron的作法。我的作法比較簡單, 以懶為出發點。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不加任何正負題詞。直接在文生圖加載2個controlnet。lineart realistic和tile colorfix + sharp。先來做這個步驟。打開controlnet。又忘了要開哪一個type
+返回影片下方看一下。點lineart。選擇 lineart realistic。Enable打勾。Pixel perfect打勾。選擇Resize and fit。將圖拉進來。開第二個controlnet。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">先把圖拉進來。點這個按鈕將圖的尺寸送到寬與高的參數上頭。這個controlnet是用tile的color fix+sharp。把該打勾的勾一勾。選擇Tile。選擇color fix + sharp。選擇resize and fill。這樣做的好處是不必擔心會有大區塊顏色跑偏。然後整体構圖及細節由lineart鎖死,所以和原圖相似度極高, 風格效果全交由大模型決定。我個人偏好meichidarkmix系列, 要偏向2d就用v1.5版。老阿貝好像沒有這個checkpoint。來確認一下。果然沒有
+先來下載。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">下載完畢後
+選擇v1.5版模型。再配上個人喜好的vae色調會更好。老阿貝的SD VAE選擇不多
+就使用原來這一個。沒了。檢查一下有沒有問題
+沒問題就來生成圖片。效果也是很好
+因為被lineart鎖住了，所以所有的景物都沒變。若要做2.5D或以上一點點的 
+用這個懶人做法真的很快。這作法唯一的小小缺點就是沒有辦法直接變成2D的動漫圖片，因為整個輪廓被鎖住，要發揮的空間就變比較少。但對要轉2.5D的圖且輪廓精準度非常要求的情況下
+這真的是一個好方法。以上就是以老阿貝的理解方式，複刻兩位大大所提供的兩種方法。如果有理解錯誤的話
+再麻煩留言提醒。倘若各位大大還有其他的方式
+也歡迎留言跟大家分享喔。以上就是今天的影片內容
+如果影片對您有幫助。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=A6LA45Pegd4</p><p>影片中使用的圖片</p><p>https://drive.google.com/file/d/1KpUdKIETOd3jkiuL2ZxI_n4MxA2uecQw/view?usp=sharing</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=A6LA45Pegd4"><img src="https://img.youtube.com/vi/A6LA45Pegd4/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+首先先感謝這兩位大大提供將寫實的圖片轉成動漫風格的方法。今天就來實做一下這兩個方法
+因為只是按照字面上老阿貝了解的意思來實作。如果有會錯意的話
+再麻煩底下留言反應。先來複刻老爹的做法試看看。這邊是說跟萱萱大大學的圖生圖俄羅斯套娃的方法。第一步驟
+選擇動漫的模型。Ok
+選好了。第二步驟把圖片放上。放好了。第三步驟
+把提示詞弄上。弄好了。第四步驟是重點喔
+將denoising strengthㄊ調到0.15~0.2，不要太高 越低越跟原圖相同, 點產生。這邊是老阿貝加上去的，為了避免圖片變形
+先點自動調整尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再將Denoising strength重繪幅度 調到0.15。然後呢?
+點回來看一下，喔，點產生圖片。第五個步驟
+此時你會產生一張有點動漫的圖 但是只是有一點點,然後 點選產生圖片下方的 "send to img2img"(圖生圖),然後再點產生以此類推。如果沒會錯意的話
+先點送到圖生圖按鈕，然後再點產生按鈕這樣一直循環下去。這樣點要拉來拉去的不方便
+先把畫面縮小。這樣方便多了。不斷的套娃輪迴也沒甚麼好看的
+來加速一下時間。圖有在變化
+不過覺得有黑點怪怪的。應該是提示詞那邊要檢查一下。將有關痣或雀斑的tag刪除。順便再加上高畫質的tag和perfect skin來避免剛剛的情況。也順便加上反向提示詞。確認沒問題後
+再來試看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">感覺效果還真的不錯。很想一直按下去看看會有什麼結果
+不過這樣一直做重複的動作，老阿貝覺得好想睡覺。干脆來寫個程式讓它可以自動點。寫好了
+這樣方便多了。其實這樣的效果感覺真的不錯
+缺點就是套來套去的是有點花時間。看者電腦這樣套來套去的
+突然想到，有的功能叫做loopback不就是做這個動作嗎。哎呀
+怎麼現在才想到。來試看看loopback。將畫面拉到最下方。點script下拉式選單。Loopback在這邊。先來把圖換成一開始的圖片。再把Denoising strength重繪幅度調到0。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果使用這邊的重繪幅度，會出現很奇怪的點。來打開loopback介面。Loopback最高只能套32次。這邊的重繪幅度調整為0.15。重繪幅度曲線選擇Aggressive。設定完畢後，來生成圖片看看。這樣實在方便多了
+只可惜最多只能輪迴32次。如果要超過32次的話，可以使用疊加的方式
+就是將第一次生成最後一張圖，丟回去圖生圖中變成的第一張圖再去用loopback輪迴。來將老阿貝手動輪迴和loopback自動輪迴的圖片放在一起比較看看。這樣看起來還是手動輪迴的效果比較好
+可能loopback那邊還要再做參數的調整。再次的謝謝老爹提供的方式。再來試看看youaaron的作法。我的作法比較簡單, 以懶為出發點。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不加任何正負題詞。直接在文生圖加載2個controlnet。lineart realistic和tile colorfix + sharp。先來做這個步驟。打開controlnet。又忘了要開哪一個type
+返回影片下方看一下。點lineart。選擇 lineart realistic。Enable打勾。Pixel perfect打勾。選擇Resize and fit。將圖拉進來。開第二個controlnet。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">先把圖拉進來。點這個按鈕將圖的尺寸送到寬與高的參數上頭。這個controlnet是用tile的color fix+sharp。把該打勾的勾一勾。選擇Tile。選擇color fix + sharp。選擇resize and fill。這樣做的好處是不必擔心會有大區塊顏色跑偏。然後整体構圖及細節由lineart鎖死,所以和原圖相似度極高, 風格效果全交由大模型決定。我個人偏好meichidarkmix系列, 要偏向2d就用v1.5版。老阿貝好像沒有這個checkpoint。來確認一下。果然沒有
+先來下載。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">下載完畢後
+選擇v1.5版模型。再配上個人喜好的vae色調會更好。老阿貝的SD VAE選擇不多
+就使用原來這一個。沒了。檢查一下有沒有問題
+沒問題就來生成圖片。效果也是很好
+因為被lineart鎖住了，所以所有的景物都沒變。若要做2.5D或以上一點點的 
+用這個懶人做法真的很快。這作法唯一的小小缺點就是沒有辦法直接變成2D的動漫圖片，因為整個輪廓被鎖住，要發揮的空間就變比較少。但對要轉2.5D的圖且輪廓精準度非常要求的情況下
+這真的是一個好方法。以上就是以老阿貝的理解方式，複刻兩位大大所提供的兩種方法。如果有理解錯誤的話
+再麻煩留言提醒。倘若各位大大還有其他的方式
+也歡迎留言跟大家分享喔。以上就是今天的影片內容
+如果影片對您有幫助。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+也幫忙看一下廣告。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=A6LA45Pegd4</p><p>影片中使用的圖片</p><p>https://drive.google.com/file/d/1KpUdKIETOd3jkiuL2ZxI_n4MxA2uecQw/view?usp=sharing</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/A6LA45Pegd4/maxresdefault.jpg"/>
+      <pubDate>2023-08-11T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學。變2.5D也可以喔!]]></title>
       <itunes:title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學。變2.5D也可以喔!]]></itunes:title>
       <itunes:author><![CDATA[老阿貝]]></itunes:author>
@@ -1764,96 +1912,5 @@ Off的功用。Off就是stable diffusion預設的模式
 <p>https://www.youtube.com/watch?v=Tfj4lid1vgg</p><p>aspect-ratio-helper SD extension下載網址</p><p>https://github.com/thomasasfk/sd-webui-aspect-ratio-helper</p><p></p><p>影片章節</p><p>00:00 前言</p><p>00:32 第一部分 aspect ratio helper extension安裝</p><p>01:27 第二部分 aspect-ratio-helper使用方式</p><p>03:47 第三部分 自訂圖形寬高尺寸比例</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg"/>
       <pubDate>2023-07-08T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[硬碟空間不足，如何快速找出罪魁禍首?]]></title>
-      <itunes:title><![CDATA[硬碟空間不足，如何快速找出罪魁禍首?]]></itunes:title>
-      <itunes:author><![CDATA[老阿貝]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有人問C槽的空間越來越少 
-要怎麼找出罪魁禍首呢?今天來推薦一個老阿貝用了十幾年的軟體
-可以精準的列出每個檔案或資料夾所佔的空間。這個軟體的名稱叫做treesize。有免費版跟付費版
-查看使用空間，免費版就很好用了。一樣來到影片的下方。點Treesize free 官方下載網址。點Free Download。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點Free Download。這邊有兩個版本可以選擇
-一個是安裝版本，另外一個是免安裝版。老阿貝習慣用免安裝版。點Download。點continue with Treesize Free。選擇您要儲存的位置。點存檔。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">下載完畢後
-點在資料夾中顯示。將下載後的壓縮檔解壓縮出來。將下載後的壓縮檔解壓縮出來。壓縮檔用不到了
-可以先刪除掉。打開解壓縮出來的資料夾。點兩下treesizefree執行檔。因為是從官方網站直接下載
-不會有問題，所以可以取消這個打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">取消後
-下一次執行就不會再跳出這個對話框。先來把介面改成中文。點Options。點Language。選擇繁體中文。這軟體的操作方式很簡單。點首頁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點選擇路徑。這邊看您是要選擇硬碟槽。還是資料夾都可以。老阿貝選擇硬碟試看看。這樣就會列出這顆硬碟每個資料所佔的容量。像DragGan佔了3.1GB。點這邊可以看資料夾裡頭的內容。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">checkpoints資料夾就佔了3GB。就這樣一層一層的去檢查。就可以找出哪一些檔案或資料夾佔據了太多的空間。再把佔據比較多空間的移到其他槽
-如果軟體有支援設定路徑，就將路徑設定過去。如果沒有支援
-可以用mklink方式連結過去。treesize介面的操作就跟檔案總管差不多。點滑鼠右鍵出現的功能列
-是不是和檔案總管一模一樣。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">您可以直接在這邊點開啟
-用檔案總管做管理。也可以在這邊直接點滑鼠右鍵來進行您想要的管理功能
-像是刪除檔案。有些資料夾要有其他的權限才可以使用
-如果你有系統管理員權限，可以點這邊取得系統管理員權限。取得後會自動重開軟體。這個軟體其他的操作就跟檔案總管一樣
-這邊就不浪費時間多說了。以上就是今天的分享
-如果影片對你有幫助的話。再記得幫忙老阿貝
-訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有閒又有空也幫忙看一下廣告優。謝謝大家，祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=iiQR3xANFQQ</p><p>Treesize free官方下載網址</p><p>https://www.jam-software.com/treesize_free</p><p></p><p>本影片內容為分享AI繪圖 stable diffusion 各個模型models分類方法</p><p>包含textual inversion、hypernetworks、checkpoint和lora。</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有人問C槽的空間越來越少 
-要怎麼找出罪魁禍首呢?今天來推薦一個老阿貝用了十幾年的軟體
-可以精準的列出每個檔案或資料夾所佔的空間。這個軟體的名稱叫做treesize。有免費版跟付費版
-查看使用空間，免費版就很好用了。一樣來到影片的下方。點Treesize free 官方下載網址。點Free Download。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點Free Download。這邊有兩個版本可以選擇
-一個是安裝版本，另外一個是免安裝版。老阿貝習慣用免安裝版。點Download。點continue with Treesize Free。選擇您要儲存的位置。點存檔。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">下載完畢後
-點在資料夾中顯示。將下載後的壓縮檔解壓縮出來。將下載後的壓縮檔解壓縮出來。壓縮檔用不到了
-可以先刪除掉。打開解壓縮出來的資料夾。點兩下treesizefree執行檔。因為是從官方網站直接下載
-不會有問題，所以可以取消這個打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">取消後
-下一次執行就不會再跳出這個對話框。先來把介面改成中文。點Options。點Language。選擇繁體中文。這軟體的操作方式很簡單。點首頁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點選擇路徑。這邊看您是要選擇硬碟槽。還是資料夾都可以。老阿貝選擇硬碟試看看。這樣就會列出這顆硬碟每個資料所佔的容量。像DragGan佔了3.1GB。點這邊可以看資料夾裡頭的內容。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">checkpoints資料夾就佔了3GB。就這樣一層一層的去檢查。就可以找出哪一些檔案或資料夾佔據了太多的空間。再把佔據比較多空間的移到其他槽
-如果軟體有支援設定路徑，就將路徑設定過去。如果沒有支援
-可以用mklink方式連結過去。treesize介面的操作就跟檔案總管差不多。點滑鼠右鍵出現的功能列
-是不是和檔案總管一模一樣。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">您可以直接在這邊點開啟
-用檔案總管做管理。也可以在這邊直接點滑鼠右鍵來進行您想要的管理功能
-像是刪除檔案。有些資料夾要有其他的權限才可以使用
-如果你有系統管理員權限，可以點這邊取得系統管理員權限。取得後會自動重開軟體。這個軟體其他的操作就跟檔案總管一樣
-這邊就不浪費時間多說了。以上就是今天的分享
-如果影片對你有幫助的話。再記得幫忙老阿貝
-訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有閒又有空也幫忙看一下廣告優。謝謝大家，祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=iiQR3xANFQQ</p><p>Treesize free官方下載網址</p><p>https://www.jam-software.com/treesize_free</p><p></p><p>本影片內容為分享AI繪圖 stable diffusion 各個模型models分類方法</p><p>包含textual inversion、hypernetworks、checkpoint和lora。</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=iiQR3xANFQQ"><img src="https://img.youtube.com/vi/iiQR3xANFQQ/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有人問C槽的空間越來越少 
-要怎麼找出罪魁禍首呢?今天來推薦一個老阿貝用了十幾年的軟體
-可以精準的列出每個檔案或資料夾所佔的空間。這個軟體的名稱叫做treesize。有免費版跟付費版
-查看使用空間，免費版就很好用了。一樣來到影片的下方。點Treesize free 官方下載網址。點Free Download。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點Free Download。這邊有兩個版本可以選擇
-一個是安裝版本，另外一個是免安裝版。老阿貝習慣用免安裝版。點Download。點continue with Treesize Free。選擇您要儲存的位置。點存檔。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">下載完畢後
-點在資料夾中顯示。將下載後的壓縮檔解壓縮出來。將下載後的壓縮檔解壓縮出來。壓縮檔用不到了
-可以先刪除掉。打開解壓縮出來的資料夾。點兩下treesizefree執行檔。因為是從官方網站直接下載
-不會有問題，所以可以取消這個打勾。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">取消後
-下一次執行就不會再跳出這個對話框。先來把介面改成中文。點Options。點Language。選擇繁體中文。這軟體的操作方式很簡單。點首頁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點選擇路徑。這邊看您是要選擇硬碟槽。還是資料夾都可以。老阿貝選擇硬碟試看看。這樣就會列出這顆硬碟每個資料所佔的容量。像DragGan佔了3.1GB。點這邊可以看資料夾裡頭的內容。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">checkpoints資料夾就佔了3GB。就這樣一層一層的去檢查。就可以找出哪一些檔案或資料夾佔據了太多的空間。再把佔據比較多空間的移到其他槽
-如果軟體有支援設定路徑，就將路徑設定過去。如果沒有支援
-可以用mklink方式連結過去。treesize介面的操作就跟檔案總管差不多。點滑鼠右鍵出現的功能列
-是不是和檔案總管一模一樣。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">您可以直接在這邊點開啟
-用檔案總管做管理。也可以在這邊直接點滑鼠右鍵來進行您想要的管理功能
-像是刪除檔案。有些資料夾要有其他的權限才可以使用
-如果你有系統管理員權限，可以點這邊取得系統管理員權限。取得後會自動重開軟體。這個軟體其他的操作就跟檔案總管一樣
-這邊就不浪費時間多說了。以上就是今天的分享
-如果影片對你有幫助的話。再記得幫忙老阿貝
-訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有閒又有空也幫忙看一下廣告優。謝謝大家，祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=iiQR3xANFQQ</p><p>Treesize free官方下載網址</p><p>https://www.jam-software.com/treesize_free</p><p></p><p>本影片內容為分享AI繪圖 stable diffusion 各個模型models分類方法</p><p>包含textual inversion、hypernetworks、checkpoint和lora。</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/iiQR3xANFQQ/maxresdefault.jpg"/>
-      <pubDate>2023-07-06T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
