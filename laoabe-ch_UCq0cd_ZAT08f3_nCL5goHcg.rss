@@ -30,6 +30,178 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[只要點點點就能產生提示詞，OldSix Prompt比Easy Prompt Selector更加的好用。stable diffusion prompt提示詞extension插件分享與教學。]]></title>
+      <itunes:title><![CDATA[只要點點點就能產生提示詞，OldSix Prompt比Easy Prompt Selector更加的好用。stable diffusion prompt提示詞extension插件分享與教學。]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># oldsix prompt簡單介紹</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享一個好用的提示詞產生器。相信大部分的人應該都已經知道Easy Prompt Selector這個提示詞產生器。這個提示詞產生器對初學者來說非常的好用。它的用法就是點你想要的提示詞就可以了。不過它目前有一個小小的缺點
+就是你在這邊完全看不出來你點了些什麼。想要知道點了甚麼
+就需要把畫面往上拉到prompt那邊來看。有時候這邊點了一堆
+查看起來比較不方便。現在有另外一個提示詞產生器，叫做SixGod_K
+除了改善了這個缺點外還增加了一些好用的功能。他的用法跟Easy Prompt Selector一模一樣
+也是點您想要的提示詞就可以了。不一樣的地方
+相信大家已經看出來。您點過的提示詞它會用綠底色表示出來 
+這樣就修改了Easy Prompt Selector剛剛所說的小缺點。在這邊就可以知道您到底點了什麼
+不用再將畫面往上拉到prompt那邊查看。除了點點點提示詞的小功能外
+sixgod_K還提供了隨機靈感這個小功能。老阿貝覺得sixgod_k提示詞小小extension對初學者或是進階者來說都不錯用。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 SixGod_K extension安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+SixGod_K extension安裝。一樣來到影片下方。點oldsix prompt安裝網址。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Code下拉式選單。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點複製安裝網址按鈕。關閉網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並將剛剛複製的安裝網址貼上。點install按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">當出現這一行文字時就表示下載完成。點installed。點Apply and restart UI。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">當stable diffusion web UI重開後。這邊有出現SixGod_K選項時
+恭喜您安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 SixGod_K簡易教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+SixGod_K簡易教學。點開sixgod_k選項。sixgod_k分兩種用法。第一種就是隨機靈感。它可以隨機產生不同的正向提示詞。第二種是傳統手動點選方式。可以按照您的需求來點選。先來試看看隨機靈感。它可以讓你沒有靈感的時候
+隨機產生正向提示詞來產生圖片來激發你的靈感。這邊是預覽框 
+點下面的隨機靈感關鍵詞按鈕可在預覽框中產生隨機正相提示詞。隨機產生的正向提示詞是不能在這邊做修改。您可以一直點隨機靈感關鍵詞按鈕
+找到您順眼的正向提示詞。您可以一直點隨機靈感關鍵詞按鈕
+找到您順眼的正向提示詞。開頭占位提示詞就是會將裡頭的提示詞放在預覽框提示詞的前面。一般來說這邊會放起手畫面提示詞。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">讓老阿貝先來選一個普通的起手畫面提示詞。將這個提示詞全選並剪下來。在這邊貼上。這樣起手畫面提示詞就會放在最前面。結尾占位提示詞就是放在預覽框提示詞的後面
+在這邊一般都會放Lora之類的小模型。讓老阿貝先來選一個Lora。Ok就這一個
+比較看得出來效果。調整一下權重。全選並剪下。來這邊貼上。讓老阿貝再看一下它提供的靈感關鍵詞。如果覺得ok的話可以點這個按鈕。不過老阿貝覺得不OK
+還是換其他的試看看。Ok
+就這一個吧。點這個按鈕
+它就會將目前的設定送到上面的prompt框中。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來看一下
+Lora放在最後面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">起手畫面放在最前面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來設定反向提示詞。設定完後就可以來跑一張圖看看。看起來還可以。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">放在後面的Lora測試沒問題
+來把Lora拿掉。如果這個靈感覺得不好的話。只要再點隨機靈感關鍵詞按鈕。再點發送到提示詞框。點生成圖片。這樣就可以迅速的幫我們生成不一樣的圖片。在您的靈感枯竭之時
+或許可以幫助到您。反正設定好之後就是這三個鍵
+一直按到生成的圖片讓您有靈感為止。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來介紹 分類組合隨機這個功能。所謂的分類就是指底下的這些分類。點分類
+會將分類的名稱發送到上面這裡。如果要刪除分類
+點這邊的分類名稱就會刪除。這就是新增和刪除分類的操作方式。分類組合隨機的功能就是將想要的分類新增上來
+隨機的抽取分類裡面的內容來生成不同的正向提示詞。來新增一些分類試看看。分類新增完畢後
+點分類組合隨機按鈕就可生成提示詞。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">覺得不滿意的話可以一直點一直點一直點。點到滿意為止。點完後一樣點底下的這個按鈕。就可以再來生成圖片。如果不滿意的話
+也就是那三個按鈕一直點一直點一直點
+點到滿意為止。最後這個功能使用的方式最為簡單
+跟easy prompt selector一樣。先來點這兩個按鈕
+清除正反向提示詞。再點這個按鈕清除底下所選取的項目。點這邊收起隨機靈感。一開始應該是從正面起手開始
+不過這個版本更新後負面起手這個地方會放到正相提示詞框裡頭。像這樣，這應該只是一個小bug
+我們就先手動將這邊的負面提示詞移到底下。再來是新增起手畫面，也就是這邊的正面起手。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">都是想加入什麼就點什麼
+而且您點選後會都幫您標示出來。這邊就像我影片一開始所說的
+看這一整段有時比較難快速的分辨到底新增了哪些提示詞。像這樣點起來幫您做標示就很清楚了。您可以依照1 2 3 4的分類點選自己喜歡的
+這邊就不多做示範。要特別提出來的是
+抽卡機這個分類。它已經幫您準備好了各式各樣的服裝搭配
+像老阿貝不會搭配服裝就很有用。也是只要點選看起來不錯的搭配就可以了。點完之後， 就可以按生成圖片的按鈕看結果了。這個extension對初學者來說簡單、方便又好用
+對不是初學者的人來說，有時候無聊點一點隨機靈感和抽卡機，有時也會有不錯的收穫。以上就是今天的分享。如果影片內容對您有幫助的話。再記的幫老阿貝
+訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">倘若有閒又有空
+也幫忙看一下廣告。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=qBOw4U-6tF4</p><p>oldsix prompt安裝網址</p><p>https://github.com/thisjam/sd-webui-oldsix-prompt</p><p></p><p>影片章節</p><p>00:00 oldsix prompt簡單介紹</p><p>01:24 第一部分 SixGod_K extension安裝</p><p>02:15 第二部分 SixGod_K簡易教學</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># oldsix prompt簡單介紹</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享一個好用的提示詞產生器。相信大部分的人應該都已經知道Easy Prompt Selector這個提示詞產生器。這個提示詞產生器對初學者來說非常的好用。它的用法就是點你想要的提示詞就可以了。不過它目前有一個小小的缺點
+就是你在這邊完全看不出來你點了些什麼。想要知道點了甚麼
+就需要把畫面往上拉到prompt那邊來看。有時候這邊點了一堆
+查看起來比較不方便。現在有另外一個提示詞產生器，叫做SixGod_K
+除了改善了這個缺點外還增加了一些好用的功能。他的用法跟Easy Prompt Selector一模一樣
+也是點您想要的提示詞就可以了。不一樣的地方
+相信大家已經看出來。您點過的提示詞它會用綠底色表示出來 
+這樣就修改了Easy Prompt Selector剛剛所說的小缺點。在這邊就可以知道您到底點了什麼
+不用再將畫面往上拉到prompt那邊查看。除了點點點提示詞的小功能外
+sixgod_K還提供了隨機靈感這個小功能。老阿貝覺得sixgod_k提示詞小小extension對初學者或是進階者來說都不錯用。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 SixGod_K extension安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+SixGod_K extension安裝。一樣來到影片下方。點oldsix prompt安裝網址。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Code下拉式選單。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點複製安裝網址按鈕。關閉網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並將剛剛複製的安裝網址貼上。點install按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">當出現這一行文字時就表示下載完成。點installed。點Apply and restart UI。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">當stable diffusion web UI重開後。這邊有出現SixGod_K選項時
+恭喜您安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 SixGod_K簡易教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+SixGod_K簡易教學。點開sixgod_k選項。sixgod_k分兩種用法。第一種就是隨機靈感。它可以隨機產生不同的正向提示詞。第二種是傳統手動點選方式。可以按照您的需求來點選。先來試看看隨機靈感。它可以讓你沒有靈感的時候
+隨機產生正向提示詞來產生圖片來激發你的靈感。這邊是預覽框 
+點下面的隨機靈感關鍵詞按鈕可在預覽框中產生隨機正相提示詞。隨機產生的正向提示詞是不能在這邊做修改。您可以一直點隨機靈感關鍵詞按鈕
+找到您順眼的正向提示詞。您可以一直點隨機靈感關鍵詞按鈕
+找到您順眼的正向提示詞。開頭占位提示詞就是會將裡頭的提示詞放在預覽框提示詞的前面。一般來說這邊會放起手畫面提示詞。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">讓老阿貝先來選一個普通的起手畫面提示詞。將這個提示詞全選並剪下來。在這邊貼上。這樣起手畫面提示詞就會放在最前面。結尾占位提示詞就是放在預覽框提示詞的後面
+在這邊一般都會放Lora之類的小模型。讓老阿貝先來選一個Lora。Ok就這一個
+比較看得出來效果。調整一下權重。全選並剪下。來這邊貼上。讓老阿貝再看一下它提供的靈感關鍵詞。如果覺得ok的話可以點這個按鈕。不過老阿貝覺得不OK
+還是換其他的試看看。Ok
+就這一個吧。點這個按鈕
+它就會將目前的設定送到上面的prompt框中。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來看一下
+Lora放在最後面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">起手畫面放在最前面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來設定反向提示詞。設定完後就可以來跑一張圖看看。看起來還可以。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">放在後面的Lora測試沒問題
+來把Lora拿掉。如果這個靈感覺得不好的話。只要再點隨機靈感關鍵詞按鈕。再點發送到提示詞框。點生成圖片。這樣就可以迅速的幫我們生成不一樣的圖片。在您的靈感枯竭之時
+或許可以幫助到您。反正設定好之後就是這三個鍵
+一直按到生成的圖片讓您有靈感為止。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來介紹 分類組合隨機這個功能。所謂的分類就是指底下的這些分類。點分類
+會將分類的名稱發送到上面這裡。如果要刪除分類
+點這邊的分類名稱就會刪除。這就是新增和刪除分類的操作方式。分類組合隨機的功能就是將想要的分類新增上來
+隨機的抽取分類裡面的內容來生成不同的正向提示詞。來新增一些分類試看看。分類新增完畢後
+點分類組合隨機按鈕就可生成提示詞。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">覺得不滿意的話可以一直點一直點一直點。點到滿意為止。點完後一樣點底下的這個按鈕。就可以再來生成圖片。如果不滿意的話
+也就是那三個按鈕一直點一直點一直點
+點到滿意為止。最後這個功能使用的方式最為簡單
+跟easy prompt selector一樣。先來點這兩個按鈕
+清除正反向提示詞。再點這個按鈕清除底下所選取的項目。點這邊收起隨機靈感。一開始應該是從正面起手開始
+不過這個版本更新後負面起手這個地方會放到正相提示詞框裡頭。像這樣，這應該只是一個小bug
+我們就先手動將這邊的負面提示詞移到底下。再來是新增起手畫面，也就是這邊的正面起手。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">都是想加入什麼就點什麼
+而且您點選後會都幫您標示出來。這邊就像我影片一開始所說的
+看這一整段有時比較難快速的分辨到底新增了哪些提示詞。像這樣點起來幫您做標示就很清楚了。您可以依照1 2 3 4的分類點選自己喜歡的
+這邊就不多做示範。要特別提出來的是
+抽卡機這個分類。它已經幫您準備好了各式各樣的服裝搭配
+像老阿貝不會搭配服裝就很有用。也是只要點選看起來不錯的搭配就可以了。點完之後， 就可以按生成圖片的按鈕看結果了。這個extension對初學者來說簡單、方便又好用
+對不是初學者的人來說，有時候無聊點一點隨機靈感和抽卡機，有時也會有不錯的收穫。以上就是今天的分享。如果影片內容對您有幫助的話。再記的幫老阿貝
+訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">倘若有閒又有空
+也幫忙看一下廣告。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=qBOw4U-6tF4</p><p>oldsix prompt安裝網址</p><p>https://github.com/thisjam/sd-webui-oldsix-prompt</p><p></p><p>影片章節</p><p>00:00 oldsix prompt簡單介紹</p><p>01:24 第一部分 SixGod_K extension安裝</p><p>02:15 第二部分 SixGod_K簡易教學</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=qBOw4U-6tF4"><img src="https://img.youtube.com/vi/qBOw4U-6tF4/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># oldsix prompt簡單介紹</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享一個好用的提示詞產生器。相信大部分的人應該都已經知道Easy Prompt Selector這個提示詞產生器。這個提示詞產生器對初學者來說非常的好用。它的用法就是點你想要的提示詞就可以了。不過它目前有一個小小的缺點
+就是你在這邊完全看不出來你點了些什麼。想要知道點了甚麼
+就需要把畫面往上拉到prompt那邊來看。有時候這邊點了一堆
+查看起來比較不方便。現在有另外一個提示詞產生器，叫做SixGod_K
+除了改善了這個缺點外還增加了一些好用的功能。他的用法跟Easy Prompt Selector一模一樣
+也是點您想要的提示詞就可以了。不一樣的地方
+相信大家已經看出來。您點過的提示詞它會用綠底色表示出來 
+這樣就修改了Easy Prompt Selector剛剛所說的小缺點。在這邊就可以知道您到底點了什麼
+不用再將畫面往上拉到prompt那邊查看。除了點點點提示詞的小功能外
+sixgod_K還提供了隨機靈感這個小功能。老阿貝覺得sixgod_k提示詞小小extension對初學者或是進階者來說都不錯用。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 SixGod_K extension安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+SixGod_K extension安裝。一樣來到影片下方。點oldsix prompt安裝網址。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Code下拉式選單。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點複製安裝網址按鈕。關閉網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並將剛剛複製的安裝網址貼上。點install按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">當出現這一行文字時就表示下載完成。點installed。點Apply and restart UI。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">當stable diffusion web UI重開後。這邊有出現SixGod_K選項時
+恭喜您安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 SixGod_K簡易教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+SixGod_K簡易教學。點開sixgod_k選項。sixgod_k分兩種用法。第一種就是隨機靈感。它可以隨機產生不同的正向提示詞。第二種是傳統手動點選方式。可以按照您的需求來點選。先來試看看隨機靈感。它可以讓你沒有靈感的時候
+隨機產生正向提示詞來產生圖片來激發你的靈感。這邊是預覽框 
+點下面的隨機靈感關鍵詞按鈕可在預覽框中產生隨機正相提示詞。隨機產生的正向提示詞是不能在這邊做修改。您可以一直點隨機靈感關鍵詞按鈕
+找到您順眼的正向提示詞。您可以一直點隨機靈感關鍵詞按鈕
+找到您順眼的正向提示詞。開頭占位提示詞就是會將裡頭的提示詞放在預覽框提示詞的前面。一般來說這邊會放起手畫面提示詞。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">讓老阿貝先來選一個普通的起手畫面提示詞。將這個提示詞全選並剪下來。在這邊貼上。這樣起手畫面提示詞就會放在最前面。結尾占位提示詞就是放在預覽框提示詞的後面
+在這邊一般都會放Lora之類的小模型。讓老阿貝先來選一個Lora。Ok就這一個
+比較看得出來效果。調整一下權重。全選並剪下。來這邊貼上。讓老阿貝再看一下它提供的靈感關鍵詞。如果覺得ok的話可以點這個按鈕。不過老阿貝覺得不OK
+還是換其他的試看看。Ok
+就這一個吧。點這個按鈕
+它就會將目前的設定送到上面的prompt框中。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來看一下
+Lora放在最後面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">起手畫面放在最前面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來設定反向提示詞。設定完後就可以來跑一張圖看看。看起來還可以。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">放在後面的Lora測試沒問題
+來把Lora拿掉。如果這個靈感覺得不好的話。只要再點隨機靈感關鍵詞按鈕。再點發送到提示詞框。點生成圖片。這樣就可以迅速的幫我們生成不一樣的圖片。在您的靈感枯竭之時
+或許可以幫助到您。反正設定好之後就是這三個鍵
+一直按到生成的圖片讓您有靈感為止。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來介紹 分類組合隨機這個功能。所謂的分類就是指底下的這些分類。點分類
+會將分類的名稱發送到上面這裡。如果要刪除分類
+點這邊的分類名稱就會刪除。這就是新增和刪除分類的操作方式。分類組合隨機的功能就是將想要的分類新增上來
+隨機的抽取分類裡面的內容來生成不同的正向提示詞。來新增一些分類試看看。分類新增完畢後
+點分類組合隨機按鈕就可生成提示詞。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">覺得不滿意的話可以一直點一直點一直點。點到滿意為止。點完後一樣點底下的這個按鈕。就可以再來生成圖片。如果不滿意的話
+也就是那三個按鈕一直點一直點一直點
+點到滿意為止。最後這個功能使用的方式最為簡單
+跟easy prompt selector一樣。先來點這兩個按鈕
+清除正反向提示詞。再點這個按鈕清除底下所選取的項目。點這邊收起隨機靈感。一開始應該是從正面起手開始
+不過這個版本更新後負面起手這個地方會放到正相提示詞框裡頭。像這樣，這應該只是一個小bug
+我們就先手動將這邊的負面提示詞移到底下。再來是新增起手畫面，也就是這邊的正面起手。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">都是想加入什麼就點什麼
+而且您點選後會都幫您標示出來。這邊就像我影片一開始所說的
+看這一整段有時比較難快速的分辨到底新增了哪些提示詞。像這樣點起來幫您做標示就很清楚了。您可以依照1 2 3 4的分類點選自己喜歡的
+這邊就不多做示範。要特別提出來的是
+抽卡機這個分類。它已經幫您準備好了各式各樣的服裝搭配
+像老阿貝不會搭配服裝就很有用。也是只要點選看起來不錯的搭配就可以了。點完之後， 就可以按生成圖片的按鈕看結果了。這個extension對初學者來說簡單、方便又好用
+對不是初學者的人來說，有時候無聊點一點隨機靈感和抽卡機，有時也會有不錯的收穫。以上就是今天的分享。如果影片內容對您有幫助的話。再記的幫老阿貝
+訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">倘若有閒又有空
+也幫忙看一下廣告。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=qBOw4U-6tF4</p><p>oldsix prompt安裝網址</p><p>https://github.com/thisjam/sd-webui-oldsix-prompt</p><p></p><p>影片章節</p><p>00:00 oldsix prompt簡單介紹</p><p>01:24 第一部分 SixGod_K extension安裝</p><p>02:15 第二部分 SixGod_K簡易教學</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/qBOw4U-6tF4/maxresdefault.jpg"/>
+      <pubDate>2023-08-17T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學part 2。謝謝老爹和youaaron5799兩位大大所提供的方法。感恩。]]></title>
       <itunes:title><![CDATA[Stable diffusion 圖片寫實變動漫簡易教學part 2。謝謝老爹和youaaron5799兩位大大所提供的方法。感恩。]]></itunes:title>
       <itunes:author><![CDATA[老阿貝]]></itunes:author>
@@ -1791,126 +1963,5 @@ SDXL extensions安裝。安裝需要C槽約19GB的空間。一樣來到影片下
 <p>https://www.youtube.com/watch?v=aLYSoujnH8I</p><p>SDXL webUI extension 下載網址</p><p>https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/aLYSoujnH8I/maxresdefault.jpg"/>
       <pubDate>2023-07-11T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[(SD extension)比Aspect-Ratio-Selector更直覺好用的尺寸比列調整。]]></title>
-      <itunes:title><![CDATA[(SD extension)比Aspect-Ratio-Selector更直覺好用的尺寸比列調整。]]></itunes:title>
-      <itunes:author><![CDATA[老阿貝]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
-今天來跟大家分享一個調整圖形尺寸比例的小小extension。相信大家都已經有用過這一個調整寬高尺寸的extension。這個extension雖然方便
-但還是要將畫面移上又移下。今天介紹這一個
-它的介面就放在調整寬高尺寸的旁邊。需要調整圖形寬高固定的比例時
-非常的方便。除了預設的比例，您也可以加入您想要的比例 
-如果有這方面需求的話，非常推薦這個extension。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 aspect ratio helper extension安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-aspect ratio helper extension安裝。一樣來到影片的下方。點aspect ratio helper下載網址。點Code下拉式選單。點複製按鈕。關閉網頁。回到stable diffusion web UI。點Extensions。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點install from URL。在這邊將安裝網址貼上。點install按鈕。畫面出現這一段文字表示下載完成。點installed。再點Apply and restart UI。將畫面往下拉
-來到圖片的寬高尺寸這邊。如果您這邊有出現這個按鈕
-就表示安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 aspect-ratio-helper使用方式</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
-aspect-ratio-helper使用方式。這個extension使用方式非常的簡單。您可以選擇寬或高輸入您想要的數值。輸入完畢後
-選擇您要的比例。這樣另一邊的數值便會自動依比例填上。如果您更改這邊的數值
-那麼另外一邊的數值也會依所選的比例做連動。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">操作方式就是這麼的簡單。底下這個按鈕大家應該都知道了
-就是寬高互換按鈕。再來說說選項的第一個
-Off的功用。Off就是stable diffusion預設的模式
-寬就是寬，高就是高，兩者沒有比例連動的關係。再來是這個鎖頭符號的功用。它可以將目前的寬高比例鎖住，鎖住後
-寬高的數值變動時，將會依鎖住的比例作連動。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">像這樣的寬高比例是1比1.192。將寬度改為1500
-高度就會變動成1500乘上比例1.192。更改的數值會有稍微的不同
-像是剛剛改成1500，SD會自動修正為1504。這便是文生圖aspect-ratio-helper的用法。在圖生圖那邊會多出一個圖形比例的選項。來載入一張圖做說明。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這張圖是288乘上440
-寬高比例是1.528。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在的高與寬是512乘512
-當點了圖形比例後會自動將目前的圖形比例依照輸入的數值做更動。也就是512除上1.528
-變成335點多，實際數值就是336。要特別注意的是這功能是轉換圖形的比例
-而不是顯示圖形原來的寬與高。要顯示圖形原來的寬與高要點這個按鈕。這樣才是圖形原來的寬與高數值。第三部分
-自訂圖形寬高尺寸比例。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 自訂圖形寬高尺寸比例</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果預設的圖形尺寸比例沒有您想要的。可以點Settings。在左手邊的選項中找到 aspect ratio helper。點它。在這設定的上面這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">可以輸入您想要的圖形尺寸比例。先加一個英文逗號
-再輸入比例，例如1:1.55。輸入完畢後
-點Apply settings按鈕。再點Reload UI。來檢查一下自訂的圖形尺寸比例是否設定完成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">OK，這樣就設定完成了
-老阿貝覺得這個extension比之前更直覺也更方便。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以上就是今天的分享
-如果影片對您有幫助的話。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。如果有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=Tfj4lid1vgg</p><p>aspect-ratio-helper SD extension下載網址</p><p>https://github.com/thomasasfk/sd-webui-aspect-ratio-helper</p><p></p><p>影片章節</p><p>00:00 前言</p><p>00:32 第一部分 aspect ratio helper extension安裝</p><p>01:27 第二部分 aspect-ratio-helper使用方式</p><p>03:47 第三部分 自訂圖形寬高尺寸比例</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
-今天來跟大家分享一個調整圖形尺寸比例的小小extension。相信大家都已經有用過這一個調整寬高尺寸的extension。這個extension雖然方便
-但還是要將畫面移上又移下。今天介紹這一個
-它的介面就放在調整寬高尺寸的旁邊。需要調整圖形寬高固定的比例時
-非常的方便。除了預設的比例，您也可以加入您想要的比例 
-如果有這方面需求的話，非常推薦這個extension。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 aspect ratio helper extension安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-aspect ratio helper extension安裝。一樣來到影片的下方。點aspect ratio helper下載網址。點Code下拉式選單。點複製按鈕。關閉網頁。回到stable diffusion web UI。點Extensions。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點install from URL。在這邊將安裝網址貼上。點install按鈕。畫面出現這一段文字表示下載完成。點installed。再點Apply and restart UI。將畫面往下拉
-來到圖片的寬高尺寸這邊。如果您這邊有出現這個按鈕
-就表示安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 aspect-ratio-helper使用方式</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
-aspect-ratio-helper使用方式。這個extension使用方式非常的簡單。您可以選擇寬或高輸入您想要的數值。輸入完畢後
-選擇您要的比例。這樣另一邊的數值便會自動依比例填上。如果您更改這邊的數值
-那麼另外一邊的數值也會依所選的比例做連動。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">操作方式就是這麼的簡單。底下這個按鈕大家應該都知道了
-就是寬高互換按鈕。再來說說選項的第一個
-Off的功用。Off就是stable diffusion預設的模式
-寬就是寬，高就是高，兩者沒有比例連動的關係。再來是這個鎖頭符號的功用。它可以將目前的寬高比例鎖住，鎖住後
-寬高的數值變動時，將會依鎖住的比例作連動。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">像這樣的寬高比例是1比1.192。將寬度改為1500
-高度就會變動成1500乘上比例1.192。更改的數值會有稍微的不同
-像是剛剛改成1500，SD會自動修正為1504。這便是文生圖aspect-ratio-helper的用法。在圖生圖那邊會多出一個圖形比例的選項。來載入一張圖做說明。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這張圖是288乘上440
-寬高比例是1.528。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在的高與寬是512乘512
-當點了圖形比例後會自動將目前的圖形比例依照輸入的數值做更動。也就是512除上1.528
-變成335點多，實際數值就是336。要特別注意的是這功能是轉換圖形的比例
-而不是顯示圖形原來的寬與高。要顯示圖形原來的寬與高要點這個按鈕。這樣才是圖形原來的寬與高數值。第三部分
-自訂圖形寬高尺寸比例。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 自訂圖形寬高尺寸比例</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果預設的圖形尺寸比例沒有您想要的。可以點Settings。在左手邊的選項中找到 aspect ratio helper。點它。在這設定的上面這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">可以輸入您想要的圖形尺寸比例。先加一個英文逗號
-再輸入比例，例如1:1.55。輸入完畢後
-點Apply settings按鈕。再點Reload UI。來檢查一下自訂的圖形尺寸比例是否設定完成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">OK，這樣就設定完成了
-老阿貝覺得這個extension比之前更直覺也更方便。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以上就是今天的分享
-如果影片對您有幫助的話。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。如果有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=Tfj4lid1vgg</p><p>aspect-ratio-helper SD extension下載網址</p><p>https://github.com/thomasasfk/sd-webui-aspect-ratio-helper</p><p></p><p>影片章節</p><p>00:00 前言</p><p>00:32 第一部分 aspect ratio helper extension安裝</p><p>01:27 第二部分 aspect-ratio-helper使用方式</p><p>03:47 第三部分 自訂圖形寬高尺寸比例</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Tfj4lid1vgg"><img src="https://img.youtube.com/vi/Tfj4lid1vgg/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
-今天來跟大家分享一個調整圖形尺寸比例的小小extension。相信大家都已經有用過這一個調整寬高尺寸的extension。這個extension雖然方便
-但還是要將畫面移上又移下。今天介紹這一個
-它的介面就放在調整寬高尺寸的旁邊。需要調整圖形寬高固定的比例時
-非常的方便。除了預設的比例，您也可以加入您想要的比例 
-如果有這方面需求的話，非常推薦這個extension。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 aspect ratio helper extension安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-aspect ratio helper extension安裝。一樣來到影片的下方。點aspect ratio helper下載網址。點Code下拉式選單。點複製按鈕。關閉網頁。回到stable diffusion web UI。點Extensions。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點install from URL。在這邊將安裝網址貼上。點install按鈕。畫面出現這一段文字表示下載完成。點installed。再點Apply and restart UI。將畫面往下拉
-來到圖片的寬高尺寸這邊。如果您這邊有出現這個按鈕
-就表示安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 aspect-ratio-helper使用方式</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
-aspect-ratio-helper使用方式。這個extension使用方式非常的簡單。您可以選擇寬或高輸入您想要的數值。輸入完畢後
-選擇您要的比例。這樣另一邊的數值便會自動依比例填上。如果您更改這邊的數值
-那麼另外一邊的數值也會依所選的比例做連動。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">操作方式就是這麼的簡單。底下這個按鈕大家應該都知道了
-就是寬高互換按鈕。再來說說選項的第一個
-Off的功用。Off就是stable diffusion預設的模式
-寬就是寬，高就是高，兩者沒有比例連動的關係。再來是這個鎖頭符號的功用。它可以將目前的寬高比例鎖住，鎖住後
-寬高的數值變動時，將會依鎖住的比例作連動。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">像這樣的寬高比例是1比1.192。將寬度改為1500
-高度就會變動成1500乘上比例1.192。更改的數值會有稍微的不同
-像是剛剛改成1500，SD會自動修正為1504。這便是文生圖aspect-ratio-helper的用法。在圖生圖那邊會多出一個圖形比例的選項。來載入一張圖做說明。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這張圖是288乘上440
-寬高比例是1.528。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在的高與寬是512乘512
-當點了圖形比例後會自動將目前的圖形比例依照輸入的數值做更動。也就是512除上1.528
-變成335點多，實際數值就是336。要特別注意的是這功能是轉換圖形的比例
-而不是顯示圖形原來的寬與高。要顯示圖形原來的寬與高要點這個按鈕。這樣才是圖形原來的寬與高數值。第三部分
-自訂圖形寬高尺寸比例。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 自訂圖形寬高尺寸比例</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果預設的圖形尺寸比例沒有您想要的。可以點Settings。在左手邊的選項中找到 aspect ratio helper。點它。在這設定的上面這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">可以輸入您想要的圖形尺寸比例。先加一個英文逗號
-再輸入比例，例如1:1.55。輸入完畢後
-點Apply settings按鈕。再點Reload UI。來檢查一下自訂的圖形尺寸比例是否設定完成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">OK，這樣就設定完成了
-老阿貝覺得這個extension比之前更直覺也更方便。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以上就是今天的分享
-如果影片對您有幫助的話。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。如果有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=Tfj4lid1vgg</p><p>aspect-ratio-helper SD extension下載網址</p><p>https://github.com/thomasasfk/sd-webui-aspect-ratio-helper</p><p></p><p>影片章節</p><p>00:00 前言</p><p>00:32 第一部分 aspect ratio helper extension安裝</p><p>01:27 第二部分 aspect-ratio-helper使用方式</p><p>03:47 第三部分 自訂圖形寬高尺寸比例</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/Tfj4lid1vgg/maxresdefault.jpg"/>
-      <pubDate>2023-07-08T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
