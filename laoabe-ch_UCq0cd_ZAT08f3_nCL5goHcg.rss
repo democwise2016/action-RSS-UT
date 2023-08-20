@@ -30,6 +30,196 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[stable diffusion可以完全取代Image Browser的extension。]]></title>
+      <itunes:title><![CDATA[stable diffusion可以完全取代Image Browser的extension。]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享一個圖片瀏覽extension。叫做無邊圖像瀏覽。它大部分的功能跟我們之前介紹的image Browser大同小異。不過在視覺上或者使用起來都比Image Browser更加的好用。讓我們先將這兩者拿來比較看看。無邊圖像瀏覽與Image Browser的比較。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 預覽版面的比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+預覽版面的比較。點開無邊圖像瀏覽。點文生圖。這邊就是無邊圖像瀏覽的版面。來看一下Image Browser的圖片瀏覽版面。Image Browser的瀏覽版面比較小
+也沒有辦法變大。基本的圖片瀏覽方式就是在這一頁上下移動。這兩個瀏覽的版面
+老阿貝比較喜歡版面大一點的那一個。在Image Browser因為採用頁面管理方式
+如果要看到其他的圖片，就必須點上一頁或下一頁這種切換頁面的方式來達成。無邊圖像瀏覽則採用所謂的walk mode瀏覽方式。只要滾動滑鼠的中鍵
+就可以隨意無限制的往上或往下瀏覽。老阿貝的stable diffusion輸出是放在普通的硬碟上
+也幾乎感覺不到圖片的讀取延遲。這樣的瀏覽方式更加的人性化。第二部分
+單一圖片觀看的比較。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 單一圖片觀看的比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來看看Image Browser單一圖片的觀看功能。點一張圖片。會先給你這樣的單一圖片觀看畫面。如果需要看比較大的圖
+可以再點圖片放大。點這邊的圖示可以在原始尺寸和適合這視窗的尺寸切換。這邊的功能是會用這張圖的原始尺寸填滿畫面。左右兩邊可以選擇上一張圖或者是下一張圖。這就是Image Browser單一圖片瀏覽的功能。來看看無邊圖片瀏覽
+單一圖片瀏覽的功能。一樣點一張圖。使用滑鼠中間的滾輪可以放大縮小。壓住滑鼠左鍵可以拖拉圖片
+這在放大的時候非常的好用。點這邊可以向右旋轉圖片。這邊可以向左旋轉圖片。放大。縮小。下一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上一張圖。而且在放大圖片的時候
+點上一張或下一張圖會維持放大的尺寸。這功能在比較圖片細節的時候非常的好用。來試一次給大家看。如果有這樣的功能
+放大之後的細節是不是就很容易可以比較得出來。用滑鼠點切換圖片是為了讓各位知道老阿貝在做甚麼
+平常都用鍵盤的左右鍵來切換比較快速。OH
+對了，忘記說到一個功能。點這邊可以顯示這張圖的資訊。當你切換圖片的時候資訊也會跟者換。可以複製提示
+也可以複製正向提示。這邊有一個功能選項。都是中文說明，各位應該都看得懂
+這邊就不一一解釋。這邊的 like
+類似我的最愛。點它就會把這張圖註記為like
+搜尋的時候就可以用到。點這邊為開啟或關閉。按住滑鼠左鍵可以拖拉。這個是功能選項。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 預覽縮圖尺寸調整比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
+預覽縮圖尺寸調整比較。在Image Browser中。假設要調整這些預覽縮圖的尺寸。您必須到上方的settings。在左邊找到Image Browser選項。縮圖的尺寸設定在這邊。設定好你要的尺寸後
+將畫面往上移。點Apply settings按鈕。再點Reload UI按鈕
+當stable diffusion web UI重開後就完成更改。因為要花點時間Reload
+這邊老阿貝就不示範。來看看無邊圖像瀏覽縮圖尺寸的調整。點更多。直接拖拉這裡
+就會即時變動縮圖的尺寸。這樣比較方便、好用又人性化。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第四部分 圖片的排序比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第四部分
+圖片的排序比較。先來看看Image Browser。這邊可以做圖片的排序。點下拉式選單。這邊有很多排序的選項。點好選項後
+圖片就會自動幫你排序。能排序的種類也是五花八門。點這邊的按鈕可以由上而下或由下而上做排序的切換。OK
+讓我們來看一下無邊圖像瀏覽的排序。點更多。這邊有一個排序方法的下拉式選單。可排序的項目明顯得比Image Browser少。點選後。還必須點這邊的刷新才會幫你做排序的動作。很明顯這個動作好像比較多餘一點。看起來排序功能Image Browser略勝一籌。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第五部分 圖片的搜尋比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第五部分
+圖片的搜尋比較。先來看看Image browser的圖片搜尋。上面這個可以搜尋圖片檔案的名稱。這個可以搜尋圖片prompt的內容。假設要搜尋檔案名稱有
+0 8 1 2。輸入完畢後按下enter就會開始搜尋。以下這個搜尋也是一樣
+輸入想搜尋的文字按下enter後就開始搜尋。右邊的這個選項可以選擇要不要或只搜尋反向提示詞。文字有沒有區分大小寫。要不要使用正規表示法來搜尋文字。看來再搜尋這方面Image browser下足了功夫。來看看無邊圖片瀏覽的搜尋。這邊總共分成兩類搜尋。先來看看模糊搜尋。模糊搜尋就是搜尋圖片中的prompt內容。和Image Browser這個一樣。再來看看另一個圖片搜尋。這邊有完全匹配、匹配任意、排除掉
+這三個輸入框。打勾這個like
+就可以搜尋出設為like的圖片。這邊都是看你想要怎樣搜尋就點哪個搜尋條件。有自定義、模型 、Lora、正面提示、尺寸、採樣器這幾個搜尋條件。可以搭配這幾個不同的搜尋條件來找到您要的檔案。搜尋的功能也是蠻多的
+就和Image Browser不分上下囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第七部分 Image Browser沒有的功能</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第六部分
+刪除檔案的比較。點Image Browser。他的刪除檔案方式比較麻煩。選擇一個你要刪除的圖片。這邊設定要刪除的張數。再按Delete的按鈕。他沒有辦法在這邊按下ctrl鍵來複選要刪除的檔案。只有很簡單的設定連續刪除幾個檔案。實在是很奇怪的設計。也沒有辦法在圖片上面點滑鼠右鍵選擇刪除。來看看無邊圖片瀏覽刪除檔案的方式。它可以讓您壓住ctrl鍵
+點選你要刪除的圖片。也可以讓你壓住shift鍵
+連續選取你要刪除的圖片。在圖片上面點滑鼠右鍵會跳出功能列
+讓您選擇所要的功能。例如刪除。再來只要按下OK按鈕就會刪除你所選取的圖片。不管有沒有選取多張圖片
+都可以使用功能列的功能。這樣使用起來比較人性化。看來無邊圖像瀏覽在這方面領先很多。第七部分
+Image Browser沒有的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊有一個圖像對比。這功能通常不會直接點這邊使用。點文生圖。點生成圖片日期資料夾。用滑鼠拖拉其中一張圖片
+會出現圖片比對的功能。拉到這邊放上第一張要比對的圖片。一樣畫葫蘆把第二張要比對的圖片拉進來。可以按確定來開始比較。也可以選擇在新標籤打開來開始比較。先點這一個來看。大家應該都知道這樣的使用方式。點這邊可以切換到整個畫面。點鍵盤的ESC鍵可以跳出全畫面。點這邊可以關閉。來試看看在新標籤打開。這邊會開啟一個新的標籤。剛剛的圖片瀏覽在這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖形比對相當的方便。老阿貝覺得以瀏覽生成圖片的功能
+無邊圖像瀏覽已經可以取代image Browser。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Oh,對了....
+如果您想要把圖片送到controlnet。他的位置在這邊。旁邊的功能因為都是中文，淺顯易懂
+老阿貝就不一一說明。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後，無邊圖像瀏覽extension安裝方式
+跟一般extension的安裝方式一模一樣
+會放在影片結束的後面。不會安裝的
+再到影片的後面觀看。以上就是今天的分享。如果影片內容對您有幫助
+再記的幫老阿貝。訂閱、分享加按小鈴鐺。倘若有閒又有空
+也幫忙看一下廣告優。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 最後一部分 無邊圖像瀏覽安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後一部分
+無邊圖像瀏覽安裝。一樣來到影片的下方。點infinite image browsing github 安裝網址。點Code下拉式選單。點複製安裝網址按鈕。關閉github網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並將剛剛複製的github網址貼上。點install 按鈕。當底下出現這些文字時表示從github下載完成。點installed。點Apply and restart UI。當stable diffusion web UI重開完畢後。有看到無邊圖像瀏覽這個選項
+恭喜您，安裝成功。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=iDIaPQcPGRA</p><p>sd-webui-infinite-image-browsing安裝網址</p><p>https://github.com/zanllp/sd-webui-infinite-image-browsing</p><p></p><p>影片章節</p><p>00:21 第一部分 預覽版面的比較</p><p>01:22 第二部分 單一圖片觀看的比較</p><p>03:54 第三部分 預覽縮圖尺寸調整比較</p><p>04:51 第四部分 圖片的排序比較</p><p>05:57 第五部分 圖片的搜尋比較</p><p>07:50 第七部分 Image Browser沒有的功能</p><p>10:52 最後一部分 無邊圖像瀏覽安裝</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p><p></p><p>Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/</p><p></p><p>來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303</p><p></p><p>藝人： http://incompetech.com/</p><p></p><p></p><p>Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/</p><p></p><p>來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301</p><p></p><p>藝人： http://incompetech.com/</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享一個圖片瀏覽extension。叫做無邊圖像瀏覽。它大部分的功能跟我們之前介紹的image Browser大同小異。不過在視覺上或者使用起來都比Image Browser更加的好用。讓我們先將這兩者拿來比較看看。無邊圖像瀏覽與Image Browser的比較。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 預覽版面的比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+預覽版面的比較。點開無邊圖像瀏覽。點文生圖。這邊就是無邊圖像瀏覽的版面。來看一下Image Browser的圖片瀏覽版面。Image Browser的瀏覽版面比較小
+也沒有辦法變大。基本的圖片瀏覽方式就是在這一頁上下移動。這兩個瀏覽的版面
+老阿貝比較喜歡版面大一點的那一個。在Image Browser因為採用頁面管理方式
+如果要看到其他的圖片，就必須點上一頁或下一頁這種切換頁面的方式來達成。無邊圖像瀏覽則採用所謂的walk mode瀏覽方式。只要滾動滑鼠的中鍵
+就可以隨意無限制的往上或往下瀏覽。老阿貝的stable diffusion輸出是放在普通的硬碟上
+也幾乎感覺不到圖片的讀取延遲。這樣的瀏覽方式更加的人性化。第二部分
+單一圖片觀看的比較。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 單一圖片觀看的比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來看看Image Browser單一圖片的觀看功能。點一張圖片。會先給你這樣的單一圖片觀看畫面。如果需要看比較大的圖
+可以再點圖片放大。點這邊的圖示可以在原始尺寸和適合這視窗的尺寸切換。這邊的功能是會用這張圖的原始尺寸填滿畫面。左右兩邊可以選擇上一張圖或者是下一張圖。這就是Image Browser單一圖片瀏覽的功能。來看看無邊圖片瀏覽
+單一圖片瀏覽的功能。一樣點一張圖。使用滑鼠中間的滾輪可以放大縮小。壓住滑鼠左鍵可以拖拉圖片
+這在放大的時候非常的好用。點這邊可以向右旋轉圖片。這邊可以向左旋轉圖片。放大。縮小。下一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上一張圖。而且在放大圖片的時候
+點上一張或下一張圖會維持放大的尺寸。這功能在比較圖片細節的時候非常的好用。來試一次給大家看。如果有這樣的功能
+放大之後的細節是不是就很容易可以比較得出來。用滑鼠點切換圖片是為了讓各位知道老阿貝在做甚麼
+平常都用鍵盤的左右鍵來切換比較快速。OH
+對了，忘記說到一個功能。點這邊可以顯示這張圖的資訊。當你切換圖片的時候資訊也會跟者換。可以複製提示
+也可以複製正向提示。這邊有一個功能選項。都是中文說明，各位應該都看得懂
+這邊就不一一解釋。這邊的 like
+類似我的最愛。點它就會把這張圖註記為like
+搜尋的時候就可以用到。點這邊為開啟或關閉。按住滑鼠左鍵可以拖拉。這個是功能選項。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 預覽縮圖尺寸調整比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
+預覽縮圖尺寸調整比較。在Image Browser中。假設要調整這些預覽縮圖的尺寸。您必須到上方的settings。在左邊找到Image Browser選項。縮圖的尺寸設定在這邊。設定好你要的尺寸後
+將畫面往上移。點Apply settings按鈕。再點Reload UI按鈕
+當stable diffusion web UI重開後就完成更改。因為要花點時間Reload
+這邊老阿貝就不示範。來看看無邊圖像瀏覽縮圖尺寸的調整。點更多。直接拖拉這裡
+就會即時變動縮圖的尺寸。這樣比較方便、好用又人性化。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第四部分 圖片的排序比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第四部分
+圖片的排序比較。先來看看Image Browser。這邊可以做圖片的排序。點下拉式選單。這邊有很多排序的選項。點好選項後
+圖片就會自動幫你排序。能排序的種類也是五花八門。點這邊的按鈕可以由上而下或由下而上做排序的切換。OK
+讓我們來看一下無邊圖像瀏覽的排序。點更多。這邊有一個排序方法的下拉式選單。可排序的項目明顯得比Image Browser少。點選後。還必須點這邊的刷新才會幫你做排序的動作。很明顯這個動作好像比較多餘一點。看起來排序功能Image Browser略勝一籌。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第五部分 圖片的搜尋比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第五部分
+圖片的搜尋比較。先來看看Image browser的圖片搜尋。上面這個可以搜尋圖片檔案的名稱。這個可以搜尋圖片prompt的內容。假設要搜尋檔案名稱有
+0 8 1 2。輸入完畢後按下enter就會開始搜尋。以下這個搜尋也是一樣
+輸入想搜尋的文字按下enter後就開始搜尋。右邊的這個選項可以選擇要不要或只搜尋反向提示詞。文字有沒有區分大小寫。要不要使用正規表示法來搜尋文字。看來再搜尋這方面Image browser下足了功夫。來看看無邊圖片瀏覽的搜尋。這邊總共分成兩類搜尋。先來看看模糊搜尋。模糊搜尋就是搜尋圖片中的prompt內容。和Image Browser這個一樣。再來看看另一個圖片搜尋。這邊有完全匹配、匹配任意、排除掉
+這三個輸入框。打勾這個like
+就可以搜尋出設為like的圖片。這邊都是看你想要怎樣搜尋就點哪個搜尋條件。有自定義、模型 、Lora、正面提示、尺寸、採樣器這幾個搜尋條件。可以搭配這幾個不同的搜尋條件來找到您要的檔案。搜尋的功能也是蠻多的
+就和Image Browser不分上下囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第七部分 Image Browser沒有的功能</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第六部分
+刪除檔案的比較。點Image Browser。他的刪除檔案方式比較麻煩。選擇一個你要刪除的圖片。這邊設定要刪除的張數。再按Delete的按鈕。他沒有辦法在這邊按下ctrl鍵來複選要刪除的檔案。只有很簡單的設定連續刪除幾個檔案。實在是很奇怪的設計。也沒有辦法在圖片上面點滑鼠右鍵選擇刪除。來看看無邊圖片瀏覽刪除檔案的方式。它可以讓您壓住ctrl鍵
+點選你要刪除的圖片。也可以讓你壓住shift鍵
+連續選取你要刪除的圖片。在圖片上面點滑鼠右鍵會跳出功能列
+讓您選擇所要的功能。例如刪除。再來只要按下OK按鈕就會刪除你所選取的圖片。不管有沒有選取多張圖片
+都可以使用功能列的功能。這樣使用起來比較人性化。看來無邊圖像瀏覽在這方面領先很多。第七部分
+Image Browser沒有的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊有一個圖像對比。這功能通常不會直接點這邊使用。點文生圖。點生成圖片日期資料夾。用滑鼠拖拉其中一張圖片
+會出現圖片比對的功能。拉到這邊放上第一張要比對的圖片。一樣畫葫蘆把第二張要比對的圖片拉進來。可以按確定來開始比較。也可以選擇在新標籤打開來開始比較。先點這一個來看。大家應該都知道這樣的使用方式。點這邊可以切換到整個畫面。點鍵盤的ESC鍵可以跳出全畫面。點這邊可以關閉。來試看看在新標籤打開。這邊會開啟一個新的標籤。剛剛的圖片瀏覽在這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖形比對相當的方便。老阿貝覺得以瀏覽生成圖片的功能
+無邊圖像瀏覽已經可以取代image Browser。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Oh,對了....
+如果您想要把圖片送到controlnet。他的位置在這邊。旁邊的功能因為都是中文，淺顯易懂
+老阿貝就不一一說明。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後，無邊圖像瀏覽extension安裝方式
+跟一般extension的安裝方式一模一樣
+會放在影片結束的後面。不會安裝的
+再到影片的後面觀看。以上就是今天的分享。如果影片內容對您有幫助
+再記的幫老阿貝。訂閱、分享加按小鈴鐺。倘若有閒又有空
+也幫忙看一下廣告優。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 最後一部分 無邊圖像瀏覽安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後一部分
+無邊圖像瀏覽安裝。一樣來到影片的下方。點infinite image browsing github 安裝網址。點Code下拉式選單。點複製安裝網址按鈕。關閉github網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並將剛剛複製的github網址貼上。點install 按鈕。當底下出現這些文字時表示從github下載完成。點installed。點Apply and restart UI。當stable diffusion web UI重開完畢後。有看到無邊圖像瀏覽這個選項
+恭喜您，安裝成功。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=iDIaPQcPGRA</p><p>sd-webui-infinite-image-browsing安裝網址</p><p>https://github.com/zanllp/sd-webui-infinite-image-browsing</p><p></p><p>影片章節</p><p>00:21 第一部分 預覽版面的比較</p><p>01:22 第二部分 單一圖片觀看的比較</p><p>03:54 第三部分 預覽縮圖尺寸調整比較</p><p>04:51 第四部分 圖片的排序比較</p><p>05:57 第五部分 圖片的搜尋比較</p><p>07:50 第七部分 Image Browser沒有的功能</p><p>10:52 最後一部分 無邊圖像瀏覽安裝</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p><p></p><p>Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/</p><p></p><p>來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303</p><p></p><p>藝人： http://incompetech.com/</p><p></p><p></p><p>Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/</p><p></p><p>來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301</p><p></p><p>藝人： http://incompetech.com/</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=iDIaPQcPGRA"><img src="https://img.youtube.com/vi/iDIaPQcPGRA/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享一個圖片瀏覽extension。叫做無邊圖像瀏覽。它大部分的功能跟我們之前介紹的image Browser大同小異。不過在視覺上或者使用起來都比Image Browser更加的好用。讓我們先將這兩者拿來比較看看。無邊圖像瀏覽與Image Browser的比較。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 預覽版面的比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+預覽版面的比較。點開無邊圖像瀏覽。點文生圖。這邊就是無邊圖像瀏覽的版面。來看一下Image Browser的圖片瀏覽版面。Image Browser的瀏覽版面比較小
+也沒有辦法變大。基本的圖片瀏覽方式就是在這一頁上下移動。這兩個瀏覽的版面
+老阿貝比較喜歡版面大一點的那一個。在Image Browser因為採用頁面管理方式
+如果要看到其他的圖片，就必須點上一頁或下一頁這種切換頁面的方式來達成。無邊圖像瀏覽則採用所謂的walk mode瀏覽方式。只要滾動滑鼠的中鍵
+就可以隨意無限制的往上或往下瀏覽。老阿貝的stable diffusion輸出是放在普通的硬碟上
+也幾乎感覺不到圖片的讀取延遲。這樣的瀏覽方式更加的人性化。第二部分
+單一圖片觀看的比較。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 單一圖片觀看的比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來看看Image Browser單一圖片的觀看功能。點一張圖片。會先給你這樣的單一圖片觀看畫面。如果需要看比較大的圖
+可以再點圖片放大。點這邊的圖示可以在原始尺寸和適合這視窗的尺寸切換。這邊的功能是會用這張圖的原始尺寸填滿畫面。左右兩邊可以選擇上一張圖或者是下一張圖。這就是Image Browser單一圖片瀏覽的功能。來看看無邊圖片瀏覽
+單一圖片瀏覽的功能。一樣點一張圖。使用滑鼠中間的滾輪可以放大縮小。壓住滑鼠左鍵可以拖拉圖片
+這在放大的時候非常的好用。點這邊可以向右旋轉圖片。這邊可以向左旋轉圖片。放大。縮小。下一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上一張圖。而且在放大圖片的時候
+點上一張或下一張圖會維持放大的尺寸。這功能在比較圖片細節的時候非常的好用。來試一次給大家看。如果有這樣的功能
+放大之後的細節是不是就很容易可以比較得出來。用滑鼠點切換圖片是為了讓各位知道老阿貝在做甚麼
+平常都用鍵盤的左右鍵來切換比較快速。OH
+對了，忘記說到一個功能。點這邊可以顯示這張圖的資訊。當你切換圖片的時候資訊也會跟者換。可以複製提示
+也可以複製正向提示。這邊有一個功能選項。都是中文說明，各位應該都看得懂
+這邊就不一一解釋。這邊的 like
+類似我的最愛。點它就會把這張圖註記為like
+搜尋的時候就可以用到。點這邊為開啟或關閉。按住滑鼠左鍵可以拖拉。這個是功能選項。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 預覽縮圖尺寸調整比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
+預覽縮圖尺寸調整比較。在Image Browser中。假設要調整這些預覽縮圖的尺寸。您必須到上方的settings。在左邊找到Image Browser選項。縮圖的尺寸設定在這邊。設定好你要的尺寸後
+將畫面往上移。點Apply settings按鈕。再點Reload UI按鈕
+當stable diffusion web UI重開後就完成更改。因為要花點時間Reload
+這邊老阿貝就不示範。來看看無邊圖像瀏覽縮圖尺寸的調整。點更多。直接拖拉這裡
+就會即時變動縮圖的尺寸。這樣比較方便、好用又人性化。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第四部分 圖片的排序比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第四部分
+圖片的排序比較。先來看看Image Browser。這邊可以做圖片的排序。點下拉式選單。這邊有很多排序的選項。點好選項後
+圖片就會自動幫你排序。能排序的種類也是五花八門。點這邊的按鈕可以由上而下或由下而上做排序的切換。OK
+讓我們來看一下無邊圖像瀏覽的排序。點更多。這邊有一個排序方法的下拉式選單。可排序的項目明顯得比Image Browser少。點選後。還必須點這邊的刷新才會幫你做排序的動作。很明顯這個動作好像比較多餘一點。看起來排序功能Image Browser略勝一籌。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第五部分 圖片的搜尋比較</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第五部分
+圖片的搜尋比較。先來看看Image browser的圖片搜尋。上面這個可以搜尋圖片檔案的名稱。這個可以搜尋圖片prompt的內容。假設要搜尋檔案名稱有
+0 8 1 2。輸入完畢後按下enter就會開始搜尋。以下這個搜尋也是一樣
+輸入想搜尋的文字按下enter後就開始搜尋。右邊的這個選項可以選擇要不要或只搜尋反向提示詞。文字有沒有區分大小寫。要不要使用正規表示法來搜尋文字。看來再搜尋這方面Image browser下足了功夫。來看看無邊圖片瀏覽的搜尋。這邊總共分成兩類搜尋。先來看看模糊搜尋。模糊搜尋就是搜尋圖片中的prompt內容。和Image Browser這個一樣。再來看看另一個圖片搜尋。這邊有完全匹配、匹配任意、排除掉
+這三個輸入框。打勾這個like
+就可以搜尋出設為like的圖片。這邊都是看你想要怎樣搜尋就點哪個搜尋條件。有自定義、模型 、Lora、正面提示、尺寸、採樣器這幾個搜尋條件。可以搭配這幾個不同的搜尋條件來找到您要的檔案。搜尋的功能也是蠻多的
+就和Image Browser不分上下囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第七部分 Image Browser沒有的功能</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第六部分
+刪除檔案的比較。點Image Browser。他的刪除檔案方式比較麻煩。選擇一個你要刪除的圖片。這邊設定要刪除的張數。再按Delete的按鈕。他沒有辦法在這邊按下ctrl鍵來複選要刪除的檔案。只有很簡單的設定連續刪除幾個檔案。實在是很奇怪的設計。也沒有辦法在圖片上面點滑鼠右鍵選擇刪除。來看看無邊圖片瀏覽刪除檔案的方式。它可以讓您壓住ctrl鍵
+點選你要刪除的圖片。也可以讓你壓住shift鍵
+連續選取你要刪除的圖片。在圖片上面點滑鼠右鍵會跳出功能列
+讓您選擇所要的功能。例如刪除。再來只要按下OK按鈕就會刪除你所選取的圖片。不管有沒有選取多張圖片
+都可以使用功能列的功能。這樣使用起來比較人性化。看來無邊圖像瀏覽在這方面領先很多。第七部分
+Image Browser沒有的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊有一個圖像對比。這功能通常不會直接點這邊使用。點文生圖。點生成圖片日期資料夾。用滑鼠拖拉其中一張圖片
+會出現圖片比對的功能。拉到這邊放上第一張要比對的圖片。一樣畫葫蘆把第二張要比對的圖片拉進來。可以按確定來開始比較。也可以選擇在新標籤打開來開始比較。先點這一個來看。大家應該都知道這樣的使用方式。點這邊可以切換到整個畫面。點鍵盤的ESC鍵可以跳出全畫面。點這邊可以關閉。來試看看在新標籤打開。這邊會開啟一個新的標籤。剛剛的圖片瀏覽在這邊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖形比對相當的方便。老阿貝覺得以瀏覽生成圖片的功能
+無邊圖像瀏覽已經可以取代image Browser。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Oh,對了....
+如果您想要把圖片送到controlnet。他的位置在這邊。旁邊的功能因為都是中文，淺顯易懂
+老阿貝就不一一說明。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後，無邊圖像瀏覽extension安裝方式
+跟一般extension的安裝方式一模一樣
+會放在影片結束的後面。不會安裝的
+再到影片的後面觀看。以上就是今天的分享。如果影片內容對您有幫助
+再記的幫老阿貝。訂閱、分享加按小鈴鐺。倘若有閒又有空
+也幫忙看一下廣告優。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 最後一部分 無邊圖像瀏覽安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後一部分
+無邊圖像瀏覽安裝。一樣來到影片的下方。點infinite image browsing github 安裝網址。點Code下拉式選單。點複製安裝網址按鈕。關閉github網頁。回到stable diffusion web UI。點extensions。點install from URL。點這邊並將剛剛複製的github網址貼上。點install 按鈕。當底下出現這些文字時表示從github下載完成。點installed。點Apply and restart UI。當stable diffusion web UI重開完畢後。有看到無邊圖像瀏覽這個選項
+恭喜您，安裝成功。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=iDIaPQcPGRA</p><p>sd-webui-infinite-image-browsing安裝網址</p><p>https://github.com/zanllp/sd-webui-infinite-image-browsing</p><p></p><p>影片章節</p><p>00:21 第一部分 預覽版面的比較</p><p>01:22 第二部分 單一圖片觀看的比較</p><p>03:54 第三部分 預覽縮圖尺寸調整比較</p><p>04:51 第四部分 圖片的排序比較</p><p>05:57 第五部分 圖片的搜尋比較</p><p>07:50 第七部分 Image Browser沒有的功能</p><p>10:52 最後一部分 無邊圖像瀏覽安裝</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p><p></p><p>Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/</p><p></p><p>來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303</p><p></p><p>藝人： http://incompetech.com/</p><p></p><p></p><p>Kevin MacLeod創作的「Canon in D Major」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/</p><p></p><p>來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301</p><p></p><p>藝人： http://incompetech.com/</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/iDIaPQcPGRA/maxresdefault.jpg"/>
+      <pubDate>2023-08-19T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[只要點點點就能產生提示詞，OldSix Prompt比Easy Prompt Selector更加的好用。stable diffusion prompt提示詞extension插件分享與教學。]]></title>
       <itunes:title><![CDATA[只要點點點就能產生提示詞，OldSix Prompt比Easy Prompt Selector更加的好用。stable diffusion prompt提示詞extension插件分享與教學。]]></itunes:title>
       <itunes:author><![CDATA[老阿貝]]></itunes:author>
@@ -1645,108 +1835,5 @@ Openpose Editor for ControlNet in Stable Diffusion WebUI
 <p>https://www.youtube.com/watch?v=FkUUijthaXo</p><p>影片段落</p><p>00:00 前言</p><p>00:32 第一部分 Openpose editor for controlnet in stable diffusion WebUI extension安裝</p><p>02:30 第二部分 Openpose editor for controlnet in stable diffusion WebUI 使用教學</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p><p></p><p>Kevin MacLeod創作的「Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical」是依據 創用 CC (姓名標示) 4.0 授權使用。 https://creativecommons.org/licenses/by/4.0/</p><p></p><p>來源： http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303</p><p></p><p>藝人： http://incompetech.com/</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/FkUUijthaXo/maxresdefault.jpg"/>
       <pubDate>2023-07-24T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[stable diffusion inpaint canvas extension，讓塗抹MASK更加靈活方便。]]></title>
-      <itunes:title><![CDATA[stable diffusion inpaint canvas extension，讓塗抹MASK更加靈活方便。]]></itunes:title>
-      <itunes:author><![CDATA[老阿貝]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/0.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好，今天來跟大家分享 inpaint畫布縮放塗抹小小extension
-Canvas Zoom。canvas zoom的功能目前有收錄在stable diffusion web UI A1111 v1.4.1版本中。如果您已更新版本為1.4.1或以上
-在extensions底下這裡。可以找到這個小工具。讓我們先來看看為何需要這個小工具。這個stable diffusion web UI為v1.3.2版本
-沒有內建canvas zoom。來到圖生圖這邊。點inpaint局部重繪。拉一張圖進來。假設我要塗抹耳朵這個小細節
-因為沒有放大的功能所以只能這樣塗抹來產生MASK。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個版本目前提供的工具就只有這些。實在是非常的陽春且不夠用。拖拉這邊也沒有辦法放大圖形。這一個stable diffusion web UI是已經升級為1.4.1版
-已經內建canvas zoom and pan extension。一樣拖拉一張圖進來。在這邊多出一個canvas zoom 小工具。目前有五個功能。alt+滑鼠的滾輪可以進行縮放。ctrl+滑鼠的滾輪可以調整筆刷大小。按下鍵盤S鍵為full screen模式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">按下鍵盤R鍵回到預設位置。按下鍵盤F鍵不放移動滑鼠可拖拉圖片位置。目前stable diffusion web UI升級為v1.4.1版的canvas zoom提供這5個小功能。來試一下剛剛的小耳朵塗抹MASK。先將圖片放大。再縮小筆刷尺寸。這樣就可以進行更精細塗抹MASK。有這幾個小工具跟之前比起來已經非常的方便。但還是有個小缺點。舉例來說
-假設要將這張圖做outpaint。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以基本功來說先到圖生圖這邊。拉一張圖進來。把canvas畫布延伸出去。將Denoising strength重繪幅度調為0。抓取canvas 畫布尺寸。開始跑圖。會得到這一張兩邊都是拓展出去塗黑的圖。將這張圖送到inpaint處理。這樣就產生一個問題
-因為我們要做MASK遮罩的地方也是黑色。所以當要塗抹一樣是黑色時 
-無法看出來是否有塗抹到。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">因此我們需要一個能夠調整塗抹顏色的設定。目前stable diffusion web UI尚未支援這個設定
-只能安裝canvas zoom extension來支援。先來安裝canvas zoom extension。一樣來到影片下方
-點開canvas zoom 下載網址。點code下拉式選單。點複製按鈕。回到stable diffusion web UI。點extensions。點install from URL。點這邊
-並將剛剛複製的安裝網址貼上。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點install按鈕。當出現這段文字時表示下載完成。點installed。點Apply and restart UI。重新啟動後
-canvas zoom extension就安裝完成。來看看有安裝canvas zoom extension和stable diffusion web UI的差別。一樣快速的跑一張左右擴展的圖片。有裝canvas zoom extension在右上角多一個可選擇塗抹MASK的顏色。這樣就解決掉塗抹區域顏色是黑色的問題。Ok
-來設個參數測試一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">跟預想的不一樣
-來查一下哪邊的設定沒設到。sampling method要改成這個。嗯......
-有點像了，再來把denoising strength重繪幅度調高。OK這樣就差不多完成了
-想必stable diffusion web UI以後的升級應該也會支援多顏色選取塗抹MASK這個功能。目前如果你需要運用到這樣的功能
-可以先安裝canvas zoom extension。canvas zoom extension也比stable diffusion web UI的5個功能多出來這些小功能。除了C鍵可以將MASK變成透明外
-其他的用處不大或目前有bug尚未處理好。有興趣的大大們可以按來試看看。以上就是今天的分享
-如果影片對您有幫助的話。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有閒又有空的話
-也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=ZoJUQj9Hayo</p><p>canvas-zoom extension 下載網址</p><p>https://github.com/richrobber2/canvas-zoom/tree/main</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/0.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好，今天來跟大家分享 inpaint畫布縮放塗抹小小extension
-Canvas Zoom。canvas zoom的功能目前有收錄在stable diffusion web UI A1111 v1.4.1版本中。如果您已更新版本為1.4.1或以上
-在extensions底下這裡。可以找到這個小工具。讓我們先來看看為何需要這個小工具。這個stable diffusion web UI為v1.3.2版本
-沒有內建canvas zoom。來到圖生圖這邊。點inpaint局部重繪。拉一張圖進來。假設我要塗抹耳朵這個小細節
-因為沒有放大的功能所以只能這樣塗抹來產生MASK。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個版本目前提供的工具就只有這些。實在是非常的陽春且不夠用。拖拉這邊也沒有辦法放大圖形。這一個stable diffusion web UI是已經升級為1.4.1版
-已經內建canvas zoom and pan extension。一樣拖拉一張圖進來。在這邊多出一個canvas zoom 小工具。目前有五個功能。alt+滑鼠的滾輪可以進行縮放。ctrl+滑鼠的滾輪可以調整筆刷大小。按下鍵盤S鍵為full screen模式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">按下鍵盤R鍵回到預設位置。按下鍵盤F鍵不放移動滑鼠可拖拉圖片位置。目前stable diffusion web UI升級為v1.4.1版的canvas zoom提供這5個小功能。來試一下剛剛的小耳朵塗抹MASK。先將圖片放大。再縮小筆刷尺寸。這樣就可以進行更精細塗抹MASK。有這幾個小工具跟之前比起來已經非常的方便。但還是有個小缺點。舉例來說
-假設要將這張圖做outpaint。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以基本功來說先到圖生圖這邊。拉一張圖進來。把canvas畫布延伸出去。將Denoising strength重繪幅度調為0。抓取canvas 畫布尺寸。開始跑圖。會得到這一張兩邊都是拓展出去塗黑的圖。將這張圖送到inpaint處理。這樣就產生一個問題
-因為我們要做MASK遮罩的地方也是黑色。所以當要塗抹一樣是黑色時 
-無法看出來是否有塗抹到。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">因此我們需要一個能夠調整塗抹顏色的設定。目前stable diffusion web UI尚未支援這個設定
-只能安裝canvas zoom extension來支援。先來安裝canvas zoom extension。一樣來到影片下方
-點開canvas zoom 下載網址。點code下拉式選單。點複製按鈕。回到stable diffusion web UI。點extensions。點install from URL。點這邊
-並將剛剛複製的安裝網址貼上。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點install按鈕。當出現這段文字時表示下載完成。點installed。點Apply and restart UI。重新啟動後
-canvas zoom extension就安裝完成。來看看有安裝canvas zoom extension和stable diffusion web UI的差別。一樣快速的跑一張左右擴展的圖片。有裝canvas zoom extension在右上角多一個可選擇塗抹MASK的顏色。這樣就解決掉塗抹區域顏色是黑色的問題。Ok
-來設個參數測試一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">跟預想的不一樣
-來查一下哪邊的設定沒設到。sampling method要改成這個。嗯......
-有點像了，再來把denoising strength重繪幅度調高。OK這樣就差不多完成了
-想必stable diffusion web UI以後的升級應該也會支援多顏色選取塗抹MASK這個功能。目前如果你需要運用到這樣的功能
-可以先安裝canvas zoom extension。canvas zoom extension也比stable diffusion web UI的5個功能多出來這些小功能。除了C鍵可以將MASK變成透明外
-其他的用處不大或目前有bug尚未處理好。有興趣的大大們可以按來試看看。以上就是今天的分享
-如果影片對您有幫助的話。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有閒又有空的話
-也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=ZoJUQj9Hayo</p><p>canvas-zoom extension 下載網址</p><p>https://github.com/richrobber2/canvas-zoom/tree/main</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/0.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/1.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/2.jpg" /></a><a href="https://www.youtube.com/watch?v=ZoJUQj9Hayo"><img src="https://img.youtube.com/vi/ZoJUQj9Hayo/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好，今天來跟大家分享 inpaint畫布縮放塗抹小小extension
-Canvas Zoom。canvas zoom的功能目前有收錄在stable diffusion web UI A1111 v1.4.1版本中。如果您已更新版本為1.4.1或以上
-在extensions底下這裡。可以找到這個小工具。讓我們先來看看為何需要這個小工具。這個stable diffusion web UI為v1.3.2版本
-沒有內建canvas zoom。來到圖生圖這邊。點inpaint局部重繪。拉一張圖進來。假設我要塗抹耳朵這個小細節
-因為沒有放大的功能所以只能這樣塗抹來產生MASK。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個版本目前提供的工具就只有這些。實在是非常的陽春且不夠用。拖拉這邊也沒有辦法放大圖形。這一個stable diffusion web UI是已經升級為1.4.1版
-已經內建canvas zoom and pan extension。一樣拖拉一張圖進來。在這邊多出一個canvas zoom 小工具。目前有五個功能。alt+滑鼠的滾輪可以進行縮放。ctrl+滑鼠的滾輪可以調整筆刷大小。按下鍵盤S鍵為full screen模式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">按下鍵盤R鍵回到預設位置。按下鍵盤F鍵不放移動滑鼠可拖拉圖片位置。目前stable diffusion web UI升級為v1.4.1版的canvas zoom提供這5個小功能。來試一下剛剛的小耳朵塗抹MASK。先將圖片放大。再縮小筆刷尺寸。這樣就可以進行更精細塗抹MASK。有這幾個小工具跟之前比起來已經非常的方便。但還是有個小缺點。舉例來說
-假設要將這張圖做outpaint。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以基本功來說先到圖生圖這邊。拉一張圖進來。把canvas畫布延伸出去。將Denoising strength重繪幅度調為0。抓取canvas 畫布尺寸。開始跑圖。會得到這一張兩邊都是拓展出去塗黑的圖。將這張圖送到inpaint處理。這樣就產生一個問題
-因為我們要做MASK遮罩的地方也是黑色。所以當要塗抹一樣是黑色時 
-無法看出來是否有塗抹到。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">因此我們需要一個能夠調整塗抹顏色的設定。目前stable diffusion web UI尚未支援這個設定
-只能安裝canvas zoom extension來支援。先來安裝canvas zoom extension。一樣來到影片下方
-點開canvas zoom 下載網址。點code下拉式選單。點複製按鈕。回到stable diffusion web UI。點extensions。點install from URL。點這邊
-並將剛剛複製的安裝網址貼上。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點install按鈕。當出現這段文字時表示下載完成。點installed。點Apply and restart UI。重新啟動後
-canvas zoom extension就安裝完成。來看看有安裝canvas zoom extension和stable diffusion web UI的差別。一樣快速的跑一張左右擴展的圖片。有裝canvas zoom extension在右上角多一個可選擇塗抹MASK的顏色。這樣就解決掉塗抹區域顏色是黑色的問題。Ok
-來設個參數測試一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">跟預想的不一樣
-來查一下哪邊的設定沒設到。sampling method要改成這個。嗯......
-有點像了，再來把denoising strength重繪幅度調高。OK這樣就差不多完成了
-想必stable diffusion web UI以後的升級應該也會支援多顏色選取塗抹MASK這個功能。目前如果你需要運用到這樣的功能
-可以先安裝canvas zoom extension。canvas zoom extension也比stable diffusion web UI的5個功能多出來這些小功能。除了C鍵可以將MASK變成透明外
-其他的用處不大或目前有bug尚未處理好。有興趣的大大們可以按來試看看。以上就是今天的分享
-如果影片對您有幫助的話。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有閒又有空的話
-也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=ZoJUQj9Hayo</p><p>canvas-zoom extension 下載網址</p><p>https://github.com/richrobber2/canvas-zoom/tree/main</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/ZoJUQj9Hayo/maxresdefault.jpg"/>
-      <pubDate>2023-07-21T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
