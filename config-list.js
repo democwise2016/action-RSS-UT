@@ -272,6 +272,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCZzu2JGOMNNz-UYZ7TERDNg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '香教仁 聊3C',
+    feedID: 'golo4tw',
+    homepageURL: 'https://www.youtube.com/channel/UCkhvYNhfaV3y0FFpvTjdRqg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // feedList = [
