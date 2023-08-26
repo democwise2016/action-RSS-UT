@@ -201,6 +201,7 @@ ${item.caption}
       
       output.push(`<item>
       <title><![CDATA[${title}]]></title>
+      <link>${item.link}></link>
       <itunes:title><![CDATA[${title}]]></itunes:title>
       <itunes:author><![CDATA[${item.author}]]></itunes:author>
       <itunes:summary>
