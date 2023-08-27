@@ -312,6 +312,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UC1BjrXqfmHmBkM2FjBTdg-w',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '月翔的戰國淺度旅行',
+    feedID: 'SamuraiTraveller',
+    homepageURL: 'https://www.youtube.com/channel/UCcoTcL4-1cBmqqPNdt8xb0Q',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '零度解说',
+    feedID: 'lingdujieshuo',
+    homepageURL: 'https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // feedList = [
