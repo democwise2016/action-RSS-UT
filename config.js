@@ -8,7 +8,7 @@ let CONFIG = {
   thumbnailBorderColor: 'CC3333',
 
   maxDownloadItemPerFeed: 5,
-  maxDownloadFeed: 20,
+  maxDownloadFeed: 50,
   newArrialMax: 5,
   maxDownloadItems: 100,
   maxExcutionMinutes: 25,
