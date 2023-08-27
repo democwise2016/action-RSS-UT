@@ -161,12 +161,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCdEpz2A4DzV__4C1x2quKLw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  // {
-  //   title: '想做教育家的Klaus',
-  //   feedID: 'klaus6510',
-  //   homepageURL: 'https://www.youtube.com/channel/UCZ4NwvuGYgFyjnRRJekdnHw',
-  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
-  // },
+  {
+    title: '想做教育家的Klaus',
+    feedID: 'klaus6510',
+    homepageURL: 'https://www.youtube.com/channel/UCZ4NwvuGYgFyjnRRJekdnHw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
   {
     title: '老孫聊遊戲',
     feedID: 'oldsungame',
@@ -287,6 +287,30 @@ let feedList = [
       ItemFiltersPreset.between1minTo30Min,
       (item) => { return ((item.title.indexOf('AI大小事') >-1)) }
     ],
+  },
+  {
+    title: 'Huan 聊3C',
+    feedID: 'huan2322',
+    homepageURL: 'https://www.youtube.com/channel/UCpmx8TiMv9yR1ncyldGyyVA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '希治閣【遊戲情報科】',
+    feedID: 'ScaryplayTTV',
+    homepageURL: 'https://www.youtube.com/channel/UCk25FUc8pLiP3A6Zniknxbg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '帥狗聊動漫',
+    feedID: 'HandsomeDoge',
+    homepageURL: 'https://www.youtube.com/channel/UCQkAUoa28FZfffFI8tTQ71g',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '低分少年聊電玩',
+    feedID: 'lowscoreboy',
+    homepageURL: 'https://www.youtube.com/channel/UC1BjrXqfmHmBkM2FjBTdg-w',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
 ]
 
