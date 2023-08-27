@@ -324,6 +324,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '我是阿皮啊 聊 3C',
+    feedID: 'user-sy2bg2vj4v',
+    homepageURL: 'https://www.youtube.com/channel/UCoZ9EFEofFgyRCdh5tPM2yw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // feedList = [
