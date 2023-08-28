@@ -336,6 +336,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCVjXB6QUf_aZ_FninmssCOg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  { // <outline type="rss" text="零度解说++" title="零度解说++" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCvijahEyGtvMpmMHBu4FS2w" htmlUrl="https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w"/>
+    title: '零度解说',
+    feedID: 'lingdujieshuo',
+    homepageURL: 'https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // feedList = [
