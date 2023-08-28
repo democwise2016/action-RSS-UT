@@ -336,10 +336,10 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCVjXB6QUf_aZ_FninmssCOg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  { // <outline type="rss" text="零度解说++" title="零度解说++" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCvijahEyGtvMpmMHBu4FS2w" htmlUrl="https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w"/>
-    title: '零度解说',
-    feedID: 'lingdujieshuo',
-    homepageURL: 'https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w',
+  { // <outline type="rss" text="游戲指南針++$0414-1925$" title="游戲指南針++$0414-1925$" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$0414-1925$/https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVjXB6QUf_aZ_FninmssCOg" htmlUrl="https://www.youtube.com/channel/UCVjXB6QUf_aZ_FninmssCOg"/>
+    title: '軒少改機頻道',
+    feedID: 'HinSiu2',
+    homepageURL: 'https://www.youtube.com/channel/UCSlrYjn39D7GndyrfObHljQ',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
 ]
