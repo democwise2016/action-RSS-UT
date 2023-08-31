@@ -30,6 +30,161 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[使用AI繪圖Stable diffusiond快速改變產品顏色教學。]]></title>
+      <link>https://www.youtube.com/watch?v=nnCCoIqz23Y</link>
+      <itunes:title><![CDATA[使用AI繪圖Stable diffusiond快速改變產品顏色教學。]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/0.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/1.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/2.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 製作前的準備(Inpaint Anything安裝)</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+製作前的準備。安裝sd-webui-inpaint-anything。這個影片會用到inpaint Anything這一個extension。如果您已經有安裝這個extension
+可以跳過這個安裝步驟。一樣來到影片下方。點inpaint anything安裝網址。點code下拉式選單。點複制安裝網址按鈕。關閉網頁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">回到stable diffusion web UI。點Extensions。點Install from URL。在這邊將剛剛複製的安裝網址貼上。點install按鈕。當出現這一段文字時表示下載完成。點installed。點Apply and restart UI。當stable diffusion web UI重開完畢後
+在這有看到inpaint anything。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">恭喜您
+安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 下載Segment Anything model</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+下載Segment Anything model。點inpaint anything。這邊有segment anyghing model ID需要下載。裡面有蠻多的models 
+不同的models對應到不同的顯示卡記憶體和對圖片辨識的精確度。因為每一個model容量都不小
+老阿貝建議可以先使用最上面這一組model。顯示卡記憶體12G以上下載h這一個。顯示卡8G下載l這一個。8G以下的下載b這一個。其他的Model
+各位大大如有興趣可以自行下載來測試。老阿貝顯卡記憶體是12G
+所以下載h這一個。點Download model 按鈕開始下載。假如要看到下載的進度
+在這邊可以看到。Ok
+下載完畢。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 使用Stable diffusion改產品顏色</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
+使用Stable diffusion改產品顏色。點inpaint Anything。選擇Segment Anything model ID。老阿貝選剛剛下載的這一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點這邊選擇要修改的產品圖片。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Run Segment Anything按鈕。它會開始辨識圖片的物件
+辨識完後會用不同的顏色來為每個物件做區分。像這樣。這邊有提示鍵盤的S鍵是全螢幕模式
+R鍵恢復到原來的樣子。來測看看。S. R. S. R. 沒問題後
+來說明一下怎麼使用。假設我要選取包包這一個範圍。記得之前只要點一下滑鼠左鍵就可以了
+不知道為什麼現在要壓住滑鼠左鍵稍微移動一點點，才會出現標示的黑點。各位就先試看看點一下滑鼠左鍵
+如果黑點沒有出現，再壓住滑鼠左鍵拖拉一下試看看。右上角這幾個按鈕大家應該都很熟悉了。畫筆的大小。回到上一步。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">清除所有筆跡，恢復到一開始的狀態。關閉這個圖片。Ok
+在這個包包上點一個黑點，表示要選取這個顏色的範圍。這邊包包的背帶也要點一個黑點選取起來
+目前好像沒有支援圖片放大的功能，就小心點拖拉一下。包包中間的銀色區塊並不在我們要改變顏色的範圍
+所以就不選取。點Create Mask按鈕。被我們選取起來的部分會用反白來表示。點這邊的Mask only。點Get mask alpha of image按鈕。會將我們選取起來的物件提取出來。像這個樣子。假設取出來的物件邊緣過小。可以點Expand mask region按鈕來擴大選取的範圍。用講得不好理解
+老阿貝多按幾下來看看結果就會知道了。有沒有發現包包邊緣的選取範圍擴大了
+連身上裙子的顏色都被選了進來。這就是Expand mask region按鈕的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點一次Creat mask按鈕來恢復成一開始的選取狀態。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這按鈕的功能應該沒問題了。下面這個按鈕可以清除掉不必要的選取。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">假設這一條背帶不要選取。用畫筆將它塗黑。再點Trim mask by sketch按鈕。塗黑的部分就不會被選取。來測看看。背帶就消失掉了。來試看看如果不用塗的，拖拉一個黑點可以嗎?答案是不行的。看來這邊還是要用塗的方式。底下的這個按鈕跟中間的那個按鈕功能剛好相反。如果要增加選取範圍，建議來上面這邊做點選
+下面的按鈕是上面的圖片沒辦法辨識出色塊時才會用到。先來恢復一開始的選取狀態。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">假設選取出來的物件沒問題的話。點Get mask按鈕。底下這邊就會幫你做好遮罩的圖片。可以點send to img2img inpaint按鈕做後續的處理。可能有人會說上面這邊不是可以直接做inpaint的處理嗎?這邊的功能過於簡單
+沒有辦法發揮實際的作用。各位大大如果有閒又有空的話
+看完廣告後可以試看看。老阿貝還是建議把做好的遮罩圖丟到圖生圖中
+處理起來比較方便。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">丟到圖生圖的inpaint upload後變這樣。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來設定底下的參數。Masked content選擇fill。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">剩下的這邊先用預設值。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Sampling method選擇這一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點取得圖片尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Denoising strength拉到滿。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點開Controlnet。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Enable打勾。control type選擇Canny。Pixel Perfect打勾。下面這些參數先用預設值。遮罩的部分是包包物件。正向提示詞這邊輸入包包的描述
+例如:white bag。一切就緒後來生成圖片看看。結果變成黑色的包包
+來看一下參數有沒有問題。看起來沒有問題
+來增加white bag的權重。再試一次。OK
+正常了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點開來看看。這邊緣出現藍色，應該是遮罩沒被圈選到。回到inpaint Anything。這三個按鈕應該知道要點哪一個吧。沒錯就是這一個
+將選取範圍再往外延伸一點。點Get mask。再送到圖生圖Inpaint upload中。生成圖片。看來延伸出去一點還是太少了。再來一次。這樣看起來好多了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">改成pink
+粉紅色。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">看起來沒有問題
+來換換其他的顏色。這樣的做法可以讓Stable diffusion換掉某個物件的顏色。不過如果是要印刷使用
+老阿貝建議還是將換好顏色的圖片丟到Photoshop再做處理會比較妥當。或是直接就在Photoshop上換顏色。如果對細節沒那麼要求的話
+使用stable diffusion做顏色的更換也蠻快的。以上就是今天的分享
+如果影片對您有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+有興趣的廣告也麻煩看一下喔。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=nnCCoIqz23Y</p><p>sd-webui-inpaint-anything安裝網址</p><p>https://github.com/Uminosachi/sd-webui-inpaint-anything</p><p></p><p>影片章節:</p><p>00:00 前言</p><p>00:45 第一部分 製作前的準備(Inpaint Anything安裝)</p><p>01:50 第二部分 下載Segment Anything model</p><p>02:53 第三部分 使用Stable diffusion改產品顏色</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/0.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/1.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/2.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 製作前的準備(Inpaint Anything安裝)</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+製作前的準備。安裝sd-webui-inpaint-anything。這個影片會用到inpaint Anything這一個extension。如果您已經有安裝這個extension
+可以跳過這個安裝步驟。一樣來到影片下方。點inpaint anything安裝網址。點code下拉式選單。點複制安裝網址按鈕。關閉網頁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">回到stable diffusion web UI。點Extensions。點Install from URL。在這邊將剛剛複製的安裝網址貼上。點install按鈕。當出現這一段文字時表示下載完成。點installed。點Apply and restart UI。當stable diffusion web UI重開完畢後
+在這有看到inpaint anything。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">恭喜您
+安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 下載Segment Anything model</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+下載Segment Anything model。點inpaint anything。這邊有segment anyghing model ID需要下載。裡面有蠻多的models 
+不同的models對應到不同的顯示卡記憶體和對圖片辨識的精確度。因為每一個model容量都不小
+老阿貝建議可以先使用最上面這一組model。顯示卡記憶體12G以上下載h這一個。顯示卡8G下載l這一個。8G以下的下載b這一個。其他的Model
+各位大大如有興趣可以自行下載來測試。老阿貝顯卡記憶體是12G
+所以下載h這一個。點Download model 按鈕開始下載。假如要看到下載的進度
+在這邊可以看到。Ok
+下載完畢。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 使用Stable diffusion改產品顏色</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
+使用Stable diffusion改產品顏色。點inpaint Anything。選擇Segment Anything model ID。老阿貝選剛剛下載的這一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點這邊選擇要修改的產品圖片。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Run Segment Anything按鈕。它會開始辨識圖片的物件
+辨識完後會用不同的顏色來為每個物件做區分。像這樣。這邊有提示鍵盤的S鍵是全螢幕模式
+R鍵恢復到原來的樣子。來測看看。S. R. S. R. 沒問題後
+來說明一下怎麼使用。假設我要選取包包這一個範圍。記得之前只要點一下滑鼠左鍵就可以了
+不知道為什麼現在要壓住滑鼠左鍵稍微移動一點點，才會出現標示的黑點。各位就先試看看點一下滑鼠左鍵
+如果黑點沒有出現，再壓住滑鼠左鍵拖拉一下試看看。右上角這幾個按鈕大家應該都很熟悉了。畫筆的大小。回到上一步。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">清除所有筆跡，恢復到一開始的狀態。關閉這個圖片。Ok
+在這個包包上點一個黑點，表示要選取這個顏色的範圍。這邊包包的背帶也要點一個黑點選取起來
+目前好像沒有支援圖片放大的功能，就小心點拖拉一下。包包中間的銀色區塊並不在我們要改變顏色的範圍
+所以就不選取。點Create Mask按鈕。被我們選取起來的部分會用反白來表示。點這邊的Mask only。點Get mask alpha of image按鈕。會將我們選取起來的物件提取出來。像這個樣子。假設取出來的物件邊緣過小。可以點Expand mask region按鈕來擴大選取的範圍。用講得不好理解
+老阿貝多按幾下來看看結果就會知道了。有沒有發現包包邊緣的選取範圍擴大了
+連身上裙子的顏色都被選了進來。這就是Expand mask region按鈕的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點一次Creat mask按鈕來恢復成一開始的選取狀態。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這按鈕的功能應該沒問題了。下面這個按鈕可以清除掉不必要的選取。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">假設這一條背帶不要選取。用畫筆將它塗黑。再點Trim mask by sketch按鈕。塗黑的部分就不會被選取。來測看看。背帶就消失掉了。來試看看如果不用塗的，拖拉一個黑點可以嗎?答案是不行的。看來這邊還是要用塗的方式。底下的這個按鈕跟中間的那個按鈕功能剛好相反。如果要增加選取範圍，建議來上面這邊做點選
+下面的按鈕是上面的圖片沒辦法辨識出色塊時才會用到。先來恢復一開始的選取狀態。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">假設選取出來的物件沒問題的話。點Get mask按鈕。底下這邊就會幫你做好遮罩的圖片。可以點send to img2img inpaint按鈕做後續的處理。可能有人會說上面這邊不是可以直接做inpaint的處理嗎?這邊的功能過於簡單
+沒有辦法發揮實際的作用。各位大大如果有閒又有空的話
+看完廣告後可以試看看。老阿貝還是建議把做好的遮罩圖丟到圖生圖中
+處理起來比較方便。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">丟到圖生圖的inpaint upload後變這樣。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來設定底下的參數。Masked content選擇fill。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">剩下的這邊先用預設值。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Sampling method選擇這一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點取得圖片尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Denoising strength拉到滿。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點開Controlnet。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Enable打勾。control type選擇Canny。Pixel Perfect打勾。下面這些參數先用預設值。遮罩的部分是包包物件。正向提示詞這邊輸入包包的描述
+例如:white bag。一切就緒後來生成圖片看看。結果變成黑色的包包
+來看一下參數有沒有問題。看起來沒有問題
+來增加white bag的權重。再試一次。OK
+正常了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點開來看看。這邊緣出現藍色，應該是遮罩沒被圈選到。回到inpaint Anything。這三個按鈕應該知道要點哪一個吧。沒錯就是這一個
+將選取範圍再往外延伸一點。點Get mask。再送到圖生圖Inpaint upload中。生成圖片。看來延伸出去一點還是太少了。再來一次。這樣看起來好多了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">改成pink
+粉紅色。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">看起來沒有問題
+來換換其他的顏色。這樣的做法可以讓Stable diffusion換掉某個物件的顏色。不過如果是要印刷使用
+老阿貝建議還是將換好顏色的圖片丟到Photoshop再做處理會比較妥當。或是直接就在Photoshop上換顏色。如果對細節沒那麼要求的話
+使用stable diffusion做顏色的更換也蠻快的。以上就是今天的分享
+如果影片對您有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+有興趣的廣告也麻煩看一下喔。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=nnCCoIqz23Y</p><p>sd-webui-inpaint-anything安裝網址</p><p>https://github.com/Uminosachi/sd-webui-inpaint-anything</p><p></p><p>影片章節:</p><p>00:00 前言</p><p>00:45 第一部分 製作前的準備(Inpaint Anything安裝)</p><p>01:50 第二部分 下載Segment Anything model</p><p>02:53 第三部分 使用Stable diffusion改產品顏色</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/0.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/1.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/2.jpg" /></a><a href="https://www.youtube.com/watch?v=nnCCoIqz23Y"><img src="https://img.youtube.com/vi/nnCCoIqz23Y/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 製作前的準備(Inpaint Anything安裝)</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+製作前的準備。安裝sd-webui-inpaint-anything。這個影片會用到inpaint Anything這一個extension。如果您已經有安裝這個extension
+可以跳過這個安裝步驟。一樣來到影片下方。點inpaint anything安裝網址。點code下拉式選單。點複制安裝網址按鈕。關閉網頁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">回到stable diffusion web UI。點Extensions。點Install from URL。在這邊將剛剛複製的安裝網址貼上。點install按鈕。當出現這一段文字時表示下載完成。點installed。點Apply and restart UI。當stable diffusion web UI重開完畢後
+在這有看到inpaint anything。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">恭喜您
+安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 下載Segment Anything model</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+下載Segment Anything model。點inpaint anything。這邊有segment anyghing model ID需要下載。裡面有蠻多的models 
+不同的models對應到不同的顯示卡記憶體和對圖片辨識的精確度。因為每一個model容量都不小
+老阿貝建議可以先使用最上面這一組model。顯示卡記憶體12G以上下載h這一個。顯示卡8G下載l這一個。8G以下的下載b這一個。其他的Model
+各位大大如有興趣可以自行下載來測試。老阿貝顯卡記憶體是12G
+所以下載h這一個。點Download model 按鈕開始下載。假如要看到下載的進度
+在這邊可以看到。Ok
+下載完畢。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 使用Stable diffusion改產品顏色</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
+使用Stable diffusion改產品顏色。點inpaint Anything。選擇Segment Anything model ID。老阿貝選剛剛下載的這一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點這邊選擇要修改的產品圖片。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Run Segment Anything按鈕。它會開始辨識圖片的物件
+辨識完後會用不同的顏色來為每個物件做區分。像這樣。這邊有提示鍵盤的S鍵是全螢幕模式
+R鍵恢復到原來的樣子。來測看看。S. R. S. R. 沒問題後
+來說明一下怎麼使用。假設我要選取包包這一個範圍。記得之前只要點一下滑鼠左鍵就可以了
+不知道為什麼現在要壓住滑鼠左鍵稍微移動一點點，才會出現標示的黑點。各位就先試看看點一下滑鼠左鍵
+如果黑點沒有出現，再壓住滑鼠左鍵拖拉一下試看看。右上角這幾個按鈕大家應該都很熟悉了。畫筆的大小。回到上一步。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">清除所有筆跡，恢復到一開始的狀態。關閉這個圖片。Ok
+在這個包包上點一個黑點，表示要選取這個顏色的範圍。這邊包包的背帶也要點一個黑點選取起來
+目前好像沒有支援圖片放大的功能，就小心點拖拉一下。包包中間的銀色區塊並不在我們要改變顏色的範圍
+所以就不選取。點Create Mask按鈕。被我們選取起來的部分會用反白來表示。點這邊的Mask only。點Get mask alpha of image按鈕。會將我們選取起來的物件提取出來。像這個樣子。假設取出來的物件邊緣過小。可以點Expand mask region按鈕來擴大選取的範圍。用講得不好理解
+老阿貝多按幾下來看看結果就會知道了。有沒有發現包包邊緣的選取範圍擴大了
+連身上裙子的顏色都被選了進來。這就是Expand mask region按鈕的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點一次Creat mask按鈕來恢復成一開始的選取狀態。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這按鈕的功能應該沒問題了。下面這個按鈕可以清除掉不必要的選取。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">假設這一條背帶不要選取。用畫筆將它塗黑。再點Trim mask by sketch按鈕。塗黑的部分就不會被選取。來測看看。背帶就消失掉了。來試看看如果不用塗的，拖拉一個黑點可以嗎?答案是不行的。看來這邊還是要用塗的方式。底下的這個按鈕跟中間的那個按鈕功能剛好相反。如果要增加選取範圍，建議來上面這邊做點選
+下面的按鈕是上面的圖片沒辦法辨識出色塊時才會用到。先來恢復一開始的選取狀態。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">假設選取出來的物件沒問題的話。點Get mask按鈕。底下這邊就會幫你做好遮罩的圖片。可以點send to img2img inpaint按鈕做後續的處理。可能有人會說上面這邊不是可以直接做inpaint的處理嗎?這邊的功能過於簡單
+沒有辦法發揮實際的作用。各位大大如果有閒又有空的話
+看完廣告後可以試看看。老阿貝還是建議把做好的遮罩圖丟到圖生圖中
+處理起來比較方便。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">丟到圖生圖的inpaint upload後變這樣。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">來設定底下的參數。Masked content選擇fill。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">剩下的這邊先用預設值。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Sampling method選擇這一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點取得圖片尺寸按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Denoising strength拉到滿。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點開Controlnet。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Enable打勾。control type選擇Canny。Pixel Perfect打勾。下面這些參數先用預設值。遮罩的部分是包包物件。正向提示詞這邊輸入包包的描述
+例如:white bag。一切就緒後來生成圖片看看。結果變成黑色的包包
+來看一下參數有沒有問題。看起來沒有問題
+來增加white bag的權重。再試一次。OK
+正常了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點開來看看。這邊緣出現藍色，應該是遮罩沒被圈選到。回到inpaint Anything。這三個按鈕應該知道要點哪一個吧。沒錯就是這一個
+將選取範圍再往外延伸一點。點Get mask。再送到圖生圖Inpaint upload中。生成圖片。看來延伸出去一點還是太少了。再來一次。這樣看起來好多了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">改成pink
+粉紅色。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">看起來沒有問題
+來換換其他的顏色。這樣的做法可以讓Stable diffusion換掉某個物件的顏色。不過如果是要印刷使用
+老阿貝建議還是將換好顏色的圖片丟到Photoshop再做處理會比較妥當。或是直接就在Photoshop上換顏色。如果對細節沒那麼要求的話
+使用stable diffusion做顏色的更換也蠻快的。以上就是今天的分享
+如果影片對您有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+有興趣的廣告也麻煩看一下喔。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=nnCCoIqz23Y</p><p>sd-webui-inpaint-anything安裝網址</p><p>https://github.com/Uminosachi/sd-webui-inpaint-anything</p><p></p><p>影片章節:</p><p>00:00 前言</p><p>00:45 第一部分 製作前的準備(Inpaint Anything安裝)</p><p>01:50 第二部分 下載Segment Anything model</p><p>02:53 第三部分 使用Stable diffusion改產品顏色</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/nnCCoIqz23Y/maxresdefault.jpg"/>
+      <pubDate>2023-08-31T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[Stable diffusion生成的圖片怎麼查詢可否商用賣錢?]]></title>
       <link>https://www.youtube.com/watch?v=MiHz3lGXshA</link>
       <itunes:title><![CDATA[Stable diffusion生成的圖片怎麼查詢可否商用賣錢?]]></itunes:title>
@@ -1471,163 +1626,5 @@ Lora的連結會放在影片的下方。prompt設定完後
 <p>https://www.youtube.com/watch?v=KxXw91C0E7c</p><p>本影片內容為分享AI繪圖 stable diffusion使用controlnet tile resample來讓圖片得到更多的細節</p><p></p><p>chilled remix下載網址</p><p>https://huggingface.co/sazyou-roukaku/chilled_remix/tree/main</p><p></p><p>XXMix_9realistic下載網址</p><p>https://civitai.com/models/47274?modelVersionId=102222</p><p></p><p>Detail Tweaker LoRA (细节调整LoRA)</p><p>https://civitai.com/models/58390?modelVersionId=62833</p><p></p><p>Realistic Vision下載網址</p><p>https://civitai.com/models/4201</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/KxXw91C0E7c/maxresdefault.jpg"/>
       <pubDate>2023-08-03T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[SD webUI SDXL讓Refiner更容易使用的extension.]]></title>
-      <link>https://www.youtube.com/watch?v=wFnnc8fGUdc</link>
-      <itunes:title><![CDATA[SD webUI SDXL讓Refiner更容易使用的extension.]]></itunes:title>
-      <itunes:author><![CDATA[老阿貝]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好，今天來跟大家分享
-讓Stable diffusion web UI  Refiner更加容易使用的extension。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題。以目前的SD web UI來說
-如果需要使用到SDXL Refiner。在跑圖完成後。需要將圖片送到img2img圖生圖中。然後再選擇SDXL Refiner的checkpoint。因為這個SDXL Refiner檔案有6G多
-因此載入的時間非常的..不想等。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好不容易載入完後
-還要檢查和調整下面一堆參數。因此在github wcde這位作者
-開發出 更簡便容易使用的Refiner extension。讓您在產生文生圖中直接引用SDXL Refiner模型。只需要將它啟動，選擇SDXL Refiner checkpoint 
-他會在文生圖產生後直接使用SDXL Refiner。省去手動切換大模型和SDXL Refiner等待的時間。然後再設定SDXL Refiner所需的step後，就完成了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">對了，如果按照剛剛送到圖生圖使用Refiner再轉回來文生圖中
-習慣上直接生成圖片，就會產生另一個問題。生成的圖片會變成這樣
-這是為什麼呢?因為老阿貝沒有把checkpoint從SDXL Refiner再切換到原來使用的大模型上。這個切換又要花很多時間。而且流程非常的不人性化
-很容易就掉入沒有切換SDXL Refiner的陷阱中。切換速度並沒有壓縮時間
-使用SSD載入模型，耗時11秒左右，給大家參考一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">切換完成後
-再來跑一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 SD web UI Refiner下載與安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在如果要使用SDXL Refiner只需要簡單的設定3個步驟。其餘的流程
-這個sd web UI Refiner extension會自動幫您設定完成。只需要第一次載入SDXL Refiner checkpoint等待時間
-再來的生圖都不會再浪費這樣的載入時間。如果您常用SDXL Refiner
-那這個extension就非常的推薦。廢話不多說
-來安裝這個extension。第二部分
-SD web UI Refiner下載與安裝。一樣來到影片的下方。點SD web UI Refiner下載網址。點Code下拉式選單。點複製網址按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">關閉github網頁。回到stable diffusion web UI。點extensions。點install from URL。在這邊將剛剛複製的網址貼上。點Install按鈕。當底下出現這段文字時
-表示下載安裝完成。點Installed。點Apply and Restart UI。web UI重新啟動完成後
-將畫面往下拉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果您有出現這個Refiner選項
-恭喜您，安裝完成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 SD web UI Refiner簡易使用教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
-SD web UI Refiner簡易使用教學。先生成一張圖。點開Refiner選項。將Enable Refiner打勾。選擇SDXL Refiner model。調整Refine steps
-這邊建議數值為5~10。這樣設定就完成了
-來生成一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一次使用會先載入SDXL Refiner model。Ok，圖片生成完畢
-看得出來差別嗎?有Refiner。沒有Refiner。好像是有多一些細節啦
-不過不太明顯。為什麼建議數值是5~10呢?從1~19測一次就知道了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第四部分
-SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?眼見為憑
-來跑幾張圖生圖的Refiner來比較看看就知道了。先將Enable Refiner取消打勾。再生成剛剛的原圖。把原圖送到圖生圖。選擇SDXL Refiner checkpoint model。Refiner最主要的控制是Denoising strength重繪幅度這邊。選擇和文生圖一樣的sampling method。我們使用XYZ plot來生成不同denoising strength的圖片。阿為什麼剛剛文生圖那邊不使用XYZ plot呢?因為在xyz  plot找不到sd web UI Refiner extension的選項，應該是還沒支援。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">xyz Plot的使用方式，老阿貝之前有專門做一個影片來介紹
-有興趣的可以參考資訊欄的影片。這個是完成後的圖。放大來看一下。看起來就跟使用sd web UI Refiner extension一樣。測試的原圖和這張XYZ plot所生成的圖片 
-會放在影片的下方供各位大大下載。有興趣的可以下載來試看看
-順便可以和老阿貝的硬體效能比較一下。老阿貝的硬體算普通
-CPU為AMD R5-2600，2060 12G的顯卡。有人問老阿貝
-目前手頭還沒那麼寬裕。如果想要玩stable diffusion AI繪圖。目前CP值最高的有哪些組合呢?以stable diffusion來說。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">CPU的重要性沒那麼高
-選擇上一代或上上一代4核心以上的產品即可。記憶體RAM最好為16G以上。預算非常有限的人，
-顯示卡目前最推薦的為二手3 0 6 0 12G和2 0 6 0 12G
-但您自己要會組電腦和有買二手卡的手氣。不熟的不要買礦卡。就算有保固也盡量不要買
-因為出問題後原廠可能會因為很多有的沒有的不保固。系統要windows 10或windows 11
-要用linux也可以。大致上是這樣。以上就是今天的分享
-如果影片對您有幫助。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=wFnnc8fGUdc</p><p>sd-webui-refiner下載網址:</p><p>https://github.com/wcde/sd-webui-refiner</p><p></p><p>原圖下載</p><p>https://drive.google.com/file/d/1n08ET8_j8sSpJPvnX8ZIXSMc1ciJtqGC/view?usp=sharing</p><p></p><p>XYZ plot圖下載</p><p>https://drive.google.com/file/d/1vc7dFeuDLL0F0yc_4GIUR5gM2zUQe0G5/view?usp=sharing</p><p></p><p>影片章節:</p><p>00:07 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題</p><p>02:02 第二部分 SD web UI Refiner下載與安裝</p><p>03:24 第三部分 SD web UI Refiner簡易使用教學</p><p>05:25 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好，今天來跟大家分享
-讓Stable diffusion web UI  Refiner更加容易使用的extension。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題。以目前的SD web UI來說
-如果需要使用到SDXL Refiner。在跑圖完成後。需要將圖片送到img2img圖生圖中。然後再選擇SDXL Refiner的checkpoint。因為這個SDXL Refiner檔案有6G多
-因此載入的時間非常的..不想等。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好不容易載入完後
-還要檢查和調整下面一堆參數。因此在github wcde這位作者
-開發出 更簡便容易使用的Refiner extension。讓您在產生文生圖中直接引用SDXL Refiner模型。只需要將它啟動，選擇SDXL Refiner checkpoint 
-他會在文生圖產生後直接使用SDXL Refiner。省去手動切換大模型和SDXL Refiner等待的時間。然後再設定SDXL Refiner所需的step後，就完成了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">對了，如果按照剛剛送到圖生圖使用Refiner再轉回來文生圖中
-習慣上直接生成圖片，就會產生另一個問題。生成的圖片會變成這樣
-這是為什麼呢?因為老阿貝沒有把checkpoint從SDXL Refiner再切換到原來使用的大模型上。這個切換又要花很多時間。而且流程非常的不人性化
-很容易就掉入沒有切換SDXL Refiner的陷阱中。切換速度並沒有壓縮時間
-使用SSD載入模型，耗時11秒左右，給大家參考一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">切換完成後
-再來跑一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 SD web UI Refiner下載與安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在如果要使用SDXL Refiner只需要簡單的設定3個步驟。其餘的流程
-這個sd web UI Refiner extension會自動幫您設定完成。只需要第一次載入SDXL Refiner checkpoint等待時間
-再來的生圖都不會再浪費這樣的載入時間。如果您常用SDXL Refiner
-那這個extension就非常的推薦。廢話不多說
-來安裝這個extension。第二部分
-SD web UI Refiner下載與安裝。一樣來到影片的下方。點SD web UI Refiner下載網址。點Code下拉式選單。點複製網址按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">關閉github網頁。回到stable diffusion web UI。點extensions。點install from URL。在這邊將剛剛複製的網址貼上。點Install按鈕。當底下出現這段文字時
-表示下載安裝完成。點Installed。點Apply and Restart UI。web UI重新啟動完成後
-將畫面往下拉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果您有出現這個Refiner選項
-恭喜您，安裝完成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 SD web UI Refiner簡易使用教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
-SD web UI Refiner簡易使用教學。先生成一張圖。點開Refiner選項。將Enable Refiner打勾。選擇SDXL Refiner model。調整Refine steps
-這邊建議數值為5~10。這樣設定就完成了
-來生成一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一次使用會先載入SDXL Refiner model。Ok，圖片生成完畢
-看得出來差別嗎?有Refiner。沒有Refiner。好像是有多一些細節啦
-不過不太明顯。為什麼建議數值是5~10呢?從1~19測一次就知道了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第四部分
-SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?眼見為憑
-來跑幾張圖生圖的Refiner來比較看看就知道了。先將Enable Refiner取消打勾。再生成剛剛的原圖。把原圖送到圖生圖。選擇SDXL Refiner checkpoint model。Refiner最主要的控制是Denoising strength重繪幅度這邊。選擇和文生圖一樣的sampling method。我們使用XYZ plot來生成不同denoising strength的圖片。阿為什麼剛剛文生圖那邊不使用XYZ plot呢?因為在xyz  plot找不到sd web UI Refiner extension的選項，應該是還沒支援。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">xyz Plot的使用方式，老阿貝之前有專門做一個影片來介紹
-有興趣的可以參考資訊欄的影片。這個是完成後的圖。放大來看一下。看起來就跟使用sd web UI Refiner extension一樣。測試的原圖和這張XYZ plot所生成的圖片 
-會放在影片的下方供各位大大下載。有興趣的可以下載來試看看
-順便可以和老阿貝的硬體效能比較一下。老阿貝的硬體算普通
-CPU為AMD R5-2600，2060 12G的顯卡。有人問老阿貝
-目前手頭還沒那麼寬裕。如果想要玩stable diffusion AI繪圖。目前CP值最高的有哪些組合呢?以stable diffusion來說。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">CPU的重要性沒那麼高
-選擇上一代或上上一代4核心以上的產品即可。記憶體RAM最好為16G以上。預算非常有限的人，
-顯示卡目前最推薦的為二手3 0 6 0 12G和2 0 6 0 12G
-但您自己要會組電腦和有買二手卡的手氣。不熟的不要買礦卡。就算有保固也盡量不要買
-因為出問題後原廠可能會因為很多有的沒有的不保固。系統要windows 10或windows 11
-要用linux也可以。大致上是這樣。以上就是今天的分享
-如果影片對您有幫助。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=wFnnc8fGUdc</p><p>sd-webui-refiner下載網址:</p><p>https://github.com/wcde/sd-webui-refiner</p><p></p><p>原圖下載</p><p>https://drive.google.com/file/d/1n08ET8_j8sSpJPvnX8ZIXSMc1ciJtqGC/view?usp=sharing</p><p></p><p>XYZ plot圖下載</p><p>https://drive.google.com/file/d/1vc7dFeuDLL0F0yc_4GIUR5gM2zUQe0G5/view?usp=sharing</p><p></p><p>影片章節:</p><p>00:07 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題</p><p>02:02 第二部分 SD web UI Refiner下載與安裝</p><p>03:24 第三部分 SD web UI Refiner簡易使用教學</p><p>05:25 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=wFnnc8fGUdc"><img src="https://img.youtube.com/vi/wFnnc8fGUdc/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好，今天來跟大家分享
-讓Stable diffusion web UI  Refiner更加容易使用的extension。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
-Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題。以目前的SD web UI來說
-如果需要使用到SDXL Refiner。在跑圖完成後。需要將圖片送到img2img圖生圖中。然後再選擇SDXL Refiner的checkpoint。因為這個SDXL Refiner檔案有6G多
-因此載入的時間非常的..不想等。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好不容易載入完後
-還要檢查和調整下面一堆參數。因此在github wcde這位作者
-開發出 更簡便容易使用的Refiner extension。讓您在產生文生圖中直接引用SDXL Refiner模型。只需要將它啟動，選擇SDXL Refiner checkpoint 
-他會在文生圖產生後直接使用SDXL Refiner。省去手動切換大模型和SDXL Refiner等待的時間。然後再設定SDXL Refiner所需的step後，就完成了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">對了，如果按照剛剛送到圖生圖使用Refiner再轉回來文生圖中
-習慣上直接生成圖片，就會產生另一個問題。生成的圖片會變成這樣
-這是為什麼呢?因為老阿貝沒有把checkpoint從SDXL Refiner再切換到原來使用的大模型上。這個切換又要花很多時間。而且流程非常的不人性化
-很容易就掉入沒有切換SDXL Refiner的陷阱中。切換速度並沒有壓縮時間
-使用SSD載入模型，耗時11秒左右，給大家參考一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">切換完成後
-再來跑一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 SD web UI Refiner下載與安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在如果要使用SDXL Refiner只需要簡單的設定3個步驟。其餘的流程
-這個sd web UI Refiner extension會自動幫您設定完成。只需要第一次載入SDXL Refiner checkpoint等待時間
-再來的生圖都不會再浪費這樣的載入時間。如果您常用SDXL Refiner
-那這個extension就非常的推薦。廢話不多說
-來安裝這個extension。第二部分
-SD web UI Refiner下載與安裝。一樣來到影片的下方。點SD web UI Refiner下載網址。點Code下拉式選單。點複製網址按鈕。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">關閉github網頁。回到stable diffusion web UI。點extensions。點install from URL。在這邊將剛剛複製的網址貼上。點Install按鈕。當底下出現這段文字時
-表示下載安裝完成。點Installed。點Apply and Restart UI。web UI重新啟動完成後
-將畫面往下拉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果您有出現這個Refiner選項
-恭喜您，安裝完成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第三部分 SD web UI Refiner簡易使用教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第三部分
-SD web UI Refiner簡易使用教學。先生成一張圖。點開Refiner選項。將Enable Refiner打勾。選擇SDXL Refiner model。調整Refine steps
-這邊建議數值為5~10。這樣設定就完成了
-來生成一張圖。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一次使用會先載入SDXL Refiner model。Ok，圖片生成完畢
-看得出來差別嗎?有Refiner。沒有Refiner。好像是有多一些細節啦
-不過不太明顯。為什麼建議數值是5~10呢?從1~19測一次就知道了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第四部分
-SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?眼見為憑
-來跑幾張圖生圖的Refiner來比較看看就知道了。先將Enable Refiner取消打勾。再生成剛剛的原圖。把原圖送到圖生圖。選擇SDXL Refiner checkpoint model。Refiner最主要的控制是Denoising strength重繪幅度這邊。選擇和文生圖一樣的sampling method。我們使用XYZ plot來生成不同denoising strength的圖片。阿為什麼剛剛文生圖那邊不使用XYZ plot呢?因為在xyz  plot找不到sd web UI Refiner extension的選項，應該是還沒支援。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">xyz Plot的使用方式，老阿貝之前有專門做一個影片來介紹
-有興趣的可以參考資訊欄的影片。這個是完成後的圖。放大來看一下。看起來就跟使用sd web UI Refiner extension一樣。測試的原圖和這張XYZ plot所生成的圖片 
-會放在影片的下方供各位大大下載。有興趣的可以下載來試看看
-順便可以和老阿貝的硬體效能比較一下。老阿貝的硬體算普通
-CPU為AMD R5-2600，2060 12G的顯卡。有人問老阿貝
-目前手頭還沒那麼寬裕。如果想要玩stable diffusion AI繪圖。目前CP值最高的有哪些組合呢?以stable diffusion來說。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">CPU的重要性沒那麼高
-選擇上一代或上上一代4核心以上的產品即可。記憶體RAM最好為16G以上。預算非常有限的人，
-顯示卡目前最推薦的為二手3 0 6 0 12G和2 0 6 0 12G
-但您自己要會組電腦和有買二手卡的手氣。不熟的不要買礦卡。就算有保固也盡量不要買
-因為出問題後原廠可能會因為很多有的沒有的不保固。系統要windows 10或windows 11
-要用linux也可以。大致上是這樣。以上就是今天的分享
-如果影片對您有幫助。再記得幫老阿貝
-訂閱、分享加按小鈴鐺。有閒又有空也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=wFnnc8fGUdc</p><p>sd-webui-refiner下載網址:</p><p>https://github.com/wcde/sd-webui-refiner</p><p></p><p>原圖下載</p><p>https://drive.google.com/file/d/1n08ET8_j8sSpJPvnX8ZIXSMc1ciJtqGC/view?usp=sharing</p><p></p><p>XYZ plot圖下載</p><p>https://drive.google.com/file/d/1vc7dFeuDLL0F0yc_4GIUR5gM2zUQe0G5/view?usp=sharing</p><p></p><p>影片章節:</p><p>00:07 第一部分 Refiner extension簡介和目前SDwebUI使用SDXL Refiner的問題</p><p>02:02 第二部分 SD web UI Refiner下載與安裝</p><p>03:24 第三部分 SD web UI Refiner簡易使用教學</p><p>05:25 第四部分 SD web UI Refiner extension和圖生圖Refiner成圖有不一樣嗎?</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/wFnnc8fGUdc/maxresdefault.jpg"/>
-      <pubDate>2023-07-31T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
