@@ -3,7 +3,29 @@ const SentenceAppendPeriod = require('./SentenceAppendPeriod.js')
 // const containsChineseCharacters = require('./containsChineseCharacters')
 const CalculateParagraphInterval = require('./CalculateParagraphInterval.js')
 
+const NextParagraphEnd = [
+  '完畢',
+  '看看',
+  // '方式'
+]
 // let paragraphInterval = 0.02
+
+function testIsNextParagraphEnd(text) {
+
+  if (text.endsWith('。')) {
+    text = text.slice(0, -1).trim()
+  }
+  if (text.endsWith('.')) {
+    text = text.slice(0, -1).trim()
+  }
+  for (let i = 0; i < NextParagraphEnd.length; i++) {
+    if (text.endsWith(NextParagraphEnd[i])) {
+      console.log(text, NextParagraphEnd[i])
+      return true
+    }
+  }
+  return false
+}
 
 function CaptionFormat(srt, timeMarkList = []) {
   // let srtObject = JSON.parse(srt)
@@ -35,6 +57,20 @@ function CaptionFormat(srt, timeMarkList = []) {
     paragraphs.push([`<strong># ${timeMarkList[0].title}</strong>`])
     timeMarkList.shift()
   }
+
+  let tmp = []
+  for (let i = 0; i < srtObject.length; i++) {
+    let {text, start, duration, end} = srtObject[i]
+    text.split('\n').forEach(t => {
+      tmp.push({
+        text: t,
+        start,
+        duration,
+        end
+      })
+    })
+  }
+  srtObject = tmp
 
   for (let i = 0; i < srtObject.length; i++) {
     let {text, start, duration, end} = srtObject[i]
@@ -70,6 +106,22 @@ function CaptionFormat(srt, timeMarkList = []) {
       continue
     }
     
+    if (testIsNextParagraphEnd(text)) {
+      sentences.push(text)
+      paragraphs.push(sentences)
+
+      sentences = []
+
+      if (end) {
+        lastEnd = end
+      }
+      else {
+        lastEnd = start + duration
+      }
+        
+      continue
+    }
+
     if ((start - lastEnd) > paragraphInterval) {
       // console.log('換句', start, lastEnd)
       if (sentences.length > 0) {
@@ -125,9 +177,10 @@ function CaptionFormat(srt, timeMarkList = []) {
   // 合併
   // console.log('Count paragraphs', output.length)
   return output.map (sentences => {
-    return '<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">' + sentences.join('').trim() + '</p>'
+    return '<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">' + SentenceAppendPeriod(sentences.join('').trim()) + '</p>'
     // return sentences.join('').trim()
-  }).join('')
+  // }).join('\n')
+}).join('')
 }
 
 function splitArray(array, split = 3) {

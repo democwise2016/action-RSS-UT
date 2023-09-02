@@ -4,7 +4,7 @@ version: "3"
 services:
   app:
     build: .
-    image: pudding/github-action-app:puppeteer-python-14-action-rss-ut-20230808
+    # image: pudding/github-action-app:puppeteer-python-14-action-rss-ut-20230808
     tty: true
     volumes: 
       - ./startup.sh:/startup.sh

@@ -10,7 +10,7 @@ const TimeMarkAnalysis = require('./TimeMarkAnalysis.js')
 module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMarkList = []) {
   fs.writeFileSync(`/app/tmp/GetHTML.txt`, (new Date()).getTime() + '', 'utf8') 
   let expire = 365 * 24 * 60 * 60 * 1000
-  // expire = 10  // for test
+  // expire = 0  // for test
 
   return await NodeCacheSqlite.get('CaptionDownloader', utID, async () => {
     let url
