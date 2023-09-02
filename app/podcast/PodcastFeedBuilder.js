@@ -2,13 +2,13 @@ const getRedirectedURL = require('./getRedirectedURL.js')
 const linkifyUrls = require('linkify-urls');
 
 const moment = require('moment')
-const CONFIG = require('./../../config.js')
+const CONFIG = require('./../../config-json.js')
 
 module.exports = async function (options) {
   let output = []
   
   if (options.title) {
-    options.title = options.title + '[YT+]'
+    options.title = options.title + CONFIG.titleAppend
   }
 
   if (!options.author) {

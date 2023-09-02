@@ -19,6 +19,10 @@ module.exports = function (CONFIG) {
         feedItem.feedURL = 'http://www.youtube.com/feeds/videos.xml?playlist_id=' + id
       }
     }
+    
+    if (CONFIG.idAppend) {
+      feedItem.feedID = CONFIG.idAppend + '-' + feedItem.feedID
+    }
 
     if (feedItem.thumbnailBorderColor === true) {
       feedItem.thumbnailBorderColor = StringToRGBColorCode(feedItem.title)

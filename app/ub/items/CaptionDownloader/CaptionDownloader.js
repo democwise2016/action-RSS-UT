@@ -6,10 +6,16 @@ const fs = require('fs')
 
 const TimeMarkAnalysis = require('./TimeMarkAnalysis.js')
 
+const CONFIG = require('./../../../../config-json.js')
+
 // https://youtu.be/85AqJsmxDZs
 module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMarkList = []) {
   fs.writeFileSync(`/app/tmp/GetHTML.txt`, (new Date()).getTime() + '', 'utf8') 
   let expire = 365 * 24 * 60 * 60 * 1000
+
+  if (CONFIG.debug) {
+    expire = 0
+  }
   // expire = 0  // for test
 
   return await NodeCacheSqlite.get('CaptionDownloader', utID, async () => {
@@ -46,7 +52,7 @@ module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMark
       }
       // console.log({timeMarkList})
 
-      captionParagraph = CaptionFormat(srt, timeMarkList)
+      captionParagraph = await CaptionFormat(srt, utID, timeMarkList)
       // console.log({captionParagraph})
 
       fs.unlinkSync(srtPath)
