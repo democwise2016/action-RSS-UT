@@ -30,6 +30,179 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[再一個SD姿勢調整生成extenison，會更好用嗎?Stable diffusion 3D Model & pose loader extension簡介與使用教學。]]></title>
+      <link>https://www.youtube.com/watch?v=n1LOPci7ICk</link>
+      <itunes:title><![CDATA[再一個SD姿勢調整生成extenison，會更好用嗎?Stable diffusion 3D Model & pose loader extension簡介與使用教學。]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/0.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/1.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/2.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 3D Model and Pose Loader簡介</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享另一個製作pose姿勢extension。他叫做3D Model&Pose Loader。跟之前所介紹的pose extension不同之處在於他有3D人物模型來方便調整Pose。調整完Pose之後
+可以丟到文生圖和圖生圖使用controlnet的DWpose或openpose做處理。OK
+如果對這個extension有興趣的，就給它繼續看下去囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 3D Model and Pose Loader安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+3D Model and Pose Loader安裝。一樣來到影片下方。點3D Model and pose Loader安裝網址。點Code下拉式選單。點複製安裝網址按鈕。關閉網頁。回到stable diffusion web UI。點extensions。點Install from URL。在這邊將剛剛複製的安裝網址貼上。點Install按鈕。當出現這一段文字時表示下載完成。點Installed。點Apply and restart UI按鈕。當stable diffusion web UI重新啟動完畢。有看到3D Model and Pose Loader標籤時
+恭喜，安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 3D Model and Pose Loader簡易使用教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+3D Model and Pose Loader簡易使用教學。點3D Model and Pose Loader。移到空白處，滾動滑鼠中鍵可將畫面往下拉。點LOAD POSE MODE按鈕會載入預設人物模型。按住滑鼠左鍵不放拖拉
+可以轉動不同的角度。按住滑鼠右鍵不放拖拉
+可以將畫面上下左右移動。滾動滑鼠中鍵
+可以將畫面放大縮小。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來這邊有三個選項
+可變換畫面不同的顯示模式。Depth. Normal. 喔，對了
+Depth還有深淺度調整。None就是一般模式。右邊的size可以調整預視窗的比例。預視窗指的是這個
+就是傳送到controlnet上的畫面。再來是最右手邊的功能選項。這邊有hand
+body。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所謂的body指的就是這個人物。這邊的hand，不是指這個人物的手
+而是這邊的調整手的模型，可能是老阿貝不會用，覺得Hand這個不太好用。點body 會出現下拉式選單。這邊又分成5大部分。每一部分又有其他的小部分。如果英文看不懂的話
+可以使用網頁翻譯來翻成中文。不過翻成中文有一個問題。來看英文，點其中一個選項。下方會出現Operate的選項。不過，假如您把網頁翻譯成中文時。再選其他的部位
+這個操作的選項就會消失。沒操作選項您就沒辦法調整人物的pose。所以當您看完中文翻譯了解後
+要使用時記得再將網頁調回英文。他的Pose調整方式
+就是先選擇一個部位。再點Operate的Rotate。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊就會出現球型X
+Y
+Z軸調整。紅色是Y軸調整。綠色是x軸調整。藍色是z軸調整。這種球型的調整方式
+就是有空多玩玩就能了解如何運作。對了
+還有外框這條線的調整。再來選身體其他的部位。選完後再點下方的Rotate。然後再調整想要的角度。就這樣東條條西條條。確定姿勢後。將畫面往下拉。點send to text to image送到文生圖。這邊是說沒有選擇要送到哪個controlnet。點這邊來選擇。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">老阿貝開啟了三個controlnet 
+所以這邊有3個可以選。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">選完後點送到文生圖。這邊有一個小小的問題。當打開Controlnet時。發現還沒送過來，不知道是已經送過來但沒有顯示出來
+還是還沒送過來。再來送一次看看。這是沒有移道空白處就滾動滑鼠中鍵。有時用起來不太方便。OK
+這次就有送過來。Control type選擇openpose。預處理器選擇DW Openpose_full。如果您這邊沒有DW openpose_full選項
+請參考資訊欄的影片安裝。DW openpose_full非常建議安裝
+比原有的openpose full偵測還要準確。Pixel Perfect打勾。Allow preview打勾。點預覽按鈕。上面送過來的圖又變成白色
+怪怪的.....不知道是哪邊有問題
+各位大大再測試看看有沒有老阿貝的這種狀況。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">預視稿有出來，左邊的空白應該是顯示的問題。來輸入正向提示詞
+並檢查圖片參數。Ok
+生成圖片。Pose的處理還算是可以。來試看看其他的處理方式。選擇Depth。調整深淺。看起來深淺顏色差別不大。不管了
+來試看看就知道了。還是沒出現。又犯了老問題。切換就不見了。第一次遇到這種問題。再來送一次吧。把該勾的勾一勾。選Depth。因為他原來的就是預處理稿
+所以可以選擇Preview as input。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Allow Preview。點Preview as input。底下參數先使用預設值。生成圖片。怪怪的
+有兩條直線。應該是這一條造成的。點Refresh scene tree按鈕。點scene。點Axis。將Visible取消打勾。再來生成圖片試看看。線是不見了
+不過姿勢不是我們原來想要的姿勢。來調整看看。失敗。再來調整。還是一樣失敗。放棄了
+來試看看另外一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這一個是Normal模式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">control type選擇Normal。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Normal 好像也沒有比較好。目前測試起來最好的模式就是一開始的none模式
+然後再使用DW openpose_full偵測。純手部的部分跟人物的使用方式一樣
+這邊就不浪費各位的時間重覆說明。這個extenison雖然還是有一些小缺點
+不過有個人物可以比對做調整。算是他的小亮點
+至於好不好用就留給各位大大去評斷。老阿貝會先將它留校察看
+當作是口袋名單供以後追蹤。以上是今天的分享
+如果影片對你有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+有興趣的廣告也麻煩看一下喔。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=n1LOPci7ICk</p><p>本影片內容為分享AI繪圖 stable diffusion 3D Model \u0026 pose loader extension簡介與使用教學。</p><p>另一個姿勢extenison，會更好用嗎?</p><p></p><p>3D Model\u0026Pose Loader安裝網址</p><p>https://github.com/jtydhr88/sd-3dmodel-loader</p><p></p><p>影片章節</p><p>00:00 3D Model and Pose Loader簡介</p><p>00:35 第一部分 3D Model and Pose Loader安裝</p><p>01:28 第二部分 3D Model and Pose Loader簡易使用教學</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/0.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/1.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/2.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/3.jpg" /></a></p>
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 3D Model and Pose Loader簡介</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享另一個製作pose姿勢extension。他叫做3D Model&Pose Loader。跟之前所介紹的pose extension不同之處在於他有3D人物模型來方便調整Pose。調整完Pose之後
+可以丟到文生圖和圖生圖使用controlnet的DWpose或openpose做處理。OK
+如果對這個extension有興趣的，就給它繼續看下去囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 3D Model and Pose Loader安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+3D Model and Pose Loader安裝。一樣來到影片下方。點3D Model and pose Loader安裝網址。點Code下拉式選單。點複製安裝網址按鈕。關閉網頁。回到stable diffusion web UI。點extensions。點Install from URL。在這邊將剛剛複製的安裝網址貼上。點Install按鈕。當出現這一段文字時表示下載完成。點Installed。點Apply and restart UI按鈕。當stable diffusion web UI重新啟動完畢。有看到3D Model and Pose Loader標籤時
+恭喜，安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 3D Model and Pose Loader簡易使用教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+3D Model and Pose Loader簡易使用教學。點3D Model and Pose Loader。移到空白處，滾動滑鼠中鍵可將畫面往下拉。點LOAD POSE MODE按鈕會載入預設人物模型。按住滑鼠左鍵不放拖拉
+可以轉動不同的角度。按住滑鼠右鍵不放拖拉
+可以將畫面上下左右移動。滾動滑鼠中鍵
+可以將畫面放大縮小。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來這邊有三個選項
+可變換畫面不同的顯示模式。Depth. Normal. 喔，對了
+Depth還有深淺度調整。None就是一般模式。右邊的size可以調整預視窗的比例。預視窗指的是這個
+就是傳送到controlnet上的畫面。再來是最右手邊的功能選項。這邊有hand
+body。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所謂的body指的就是這個人物。這邊的hand，不是指這個人物的手
+而是這邊的調整手的模型，可能是老阿貝不會用，覺得Hand這個不太好用。點body 會出現下拉式選單。這邊又分成5大部分。每一部分又有其他的小部分。如果英文看不懂的話
+可以使用網頁翻譯來翻成中文。不過翻成中文有一個問題。來看英文，點其中一個選項。下方會出現Operate的選項。不過，假如您把網頁翻譯成中文時。再選其他的部位
+這個操作的選項就會消失。沒操作選項您就沒辦法調整人物的pose。所以當您看完中文翻譯了解後
+要使用時記得再將網頁調回英文。他的Pose調整方式
+就是先選擇一個部位。再點Operate的Rotate。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊就會出現球型X
+Y
+Z軸調整。紅色是Y軸調整。綠色是x軸調整。藍色是z軸調整。這種球型的調整方式
+就是有空多玩玩就能了解如何運作。對了
+還有外框這條線的調整。再來選身體其他的部位。選完後再點下方的Rotate。然後再調整想要的角度。就這樣東條條西條條。確定姿勢後。將畫面往下拉。點send to text to image送到文生圖。這邊是說沒有選擇要送到哪個controlnet。點這邊來選擇。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">老阿貝開啟了三個controlnet 
+所以這邊有3個可以選。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">選完後點送到文生圖。這邊有一個小小的問題。當打開Controlnet時。發現還沒送過來，不知道是已經送過來但沒有顯示出來
+還是還沒送過來。再來送一次看看。這是沒有移道空白處就滾動滑鼠中鍵。有時用起來不太方便。OK
+這次就有送過來。Control type選擇openpose。預處理器選擇DW Openpose_full。如果您這邊沒有DW openpose_full選項
+請參考資訊欄的影片安裝。DW openpose_full非常建議安裝
+比原有的openpose full偵測還要準確。Pixel Perfect打勾。Allow preview打勾。點預覽按鈕。上面送過來的圖又變成白色
+怪怪的.....不知道是哪邊有問題
+各位大大再測試看看有沒有老阿貝的這種狀況。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">預視稿有出來，左邊的空白應該是顯示的問題。來輸入正向提示詞
+並檢查圖片參數。Ok
+生成圖片。Pose的處理還算是可以。來試看看其他的處理方式。選擇Depth。調整深淺。看起來深淺顏色差別不大。不管了
+來試看看就知道了。還是沒出現。又犯了老問題。切換就不見了。第一次遇到這種問題。再來送一次吧。把該勾的勾一勾。選Depth。因為他原來的就是預處理稿
+所以可以選擇Preview as input。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Allow Preview。點Preview as input。底下參數先使用預設值。生成圖片。怪怪的
+有兩條直線。應該是這一條造成的。點Refresh scene tree按鈕。點scene。點Axis。將Visible取消打勾。再來生成圖片試看看。線是不見了
+不過姿勢不是我們原來想要的姿勢。來調整看看。失敗。再來調整。還是一樣失敗。放棄了
+來試看看另外一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這一個是Normal模式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">control type選擇Normal。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Normal 好像也沒有比較好。目前測試起來最好的模式就是一開始的none模式
+然後再使用DW openpose_full偵測。純手部的部分跟人物的使用方式一樣
+這邊就不浪費各位的時間重覆說明。這個extenison雖然還是有一些小缺點
+不過有個人物可以比對做調整。算是他的小亮點
+至於好不好用就留給各位大大去評斷。老阿貝會先將它留校察看
+當作是口袋名單供以後追蹤。以上是今天的分享
+如果影片對你有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+有興趣的廣告也麻煩看一下喔。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=n1LOPci7ICk</p><p>本影片內容為分享AI繪圖 stable diffusion 3D Model \u0026 pose loader extension簡介與使用教學。</p><p>另一個姿勢extenison，會更好用嗎?</p><p></p><p>3D Model\u0026Pose Loader安裝網址</p><p>https://github.com/jtydhr88/sd-3dmodel-loader</p><p></p><p>影片章節</p><p>00:00 3D Model and Pose Loader簡介</p><p>00:35 第一部分 3D Model and Pose Loader安裝</p><p>01:28 第二部分 3D Model and Pose Loader簡易使用教學</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/0.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/1.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/2.jpg" /></a><a href="https://www.youtube.com/watch?v=n1LOPci7ICk"><img src="https://img.youtube.com/vi/n1LOPci7ICk/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+====
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 3D Model and Pose Loader簡介</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好
+今天來跟大家分享另一個製作pose姿勢extension。他叫做3D Model&Pose Loader。跟之前所介紹的pose extension不同之處在於他有3D人物模型來方便調整Pose。調整完Pose之後
+可以丟到文生圖和圖生圖使用controlnet的DWpose或openpose做處理。OK
+如果對這個extension有興趣的，就給它繼續看下去囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第一部分 3D Model and Pose Loader安裝</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一部分
+3D Model and Pose Loader安裝。一樣來到影片下方。點3D Model and pose Loader安裝網址。點Code下拉式選單。點複製安裝網址按鈕。關閉網頁。回到stable diffusion web UI。點extensions。點Install from URL。在這邊將剛剛複製的安裝網址貼上。點Install按鈕。當出現這一段文字時表示下載完成。點Installed。點Apply and restart UI按鈕。當stable diffusion web UI重新啟動完畢。有看到3D Model and Pose Loader標籤時
+恭喜，安裝成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># 第二部分 3D Model and Pose Loader簡易使用教學</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二部分
+3D Model and Pose Loader簡易使用教學。點3D Model and Pose Loader。移到空白處，滾動滑鼠中鍵可將畫面往下拉。點LOAD POSE MODE按鈕會載入預設人物模型。按住滑鼠左鍵不放拖拉
+可以轉動不同的角度。按住滑鼠右鍵不放拖拉
+可以將畫面上下左右移動。滾動滑鼠中鍵
+可以將畫面放大縮小。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再來這邊有三個選項
+可變換畫面不同的顯示模式。Depth. Normal. 喔，對了
+Depth還有深淺度調整。None就是一般模式。右邊的size可以調整預視窗的比例。預視窗指的是這個
+就是傳送到controlnet上的畫面。再來是最右手邊的功能選項。這邊有hand
+body。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所謂的body指的就是這個人物。這邊的hand，不是指這個人物的手
+而是這邊的調整手的模型，可能是老阿貝不會用，覺得Hand這個不太好用。點body 會出現下拉式選單。這邊又分成5大部分。每一部分又有其他的小部分。如果英文看不懂的話
+可以使用網頁翻譯來翻成中文。不過翻成中文有一個問題。來看英文，點其中一個選項。下方會出現Operate的選項。不過，假如您把網頁翻譯成中文時。再選其他的部位
+這個操作的選項就會消失。沒操作選項您就沒辦法調整人物的pose。所以當您看完中文翻譯了解後
+要使用時記得再將網頁調回英文。他的Pose調整方式
+就是先選擇一個部位。再點Operate的Rotate。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊就會出現球型X
+Y
+Z軸調整。紅色是Y軸調整。綠色是x軸調整。藍色是z軸調整。這種球型的調整方式
+就是有空多玩玩就能了解如何運作。對了
+還有外框這條線的調整。再來選身體其他的部位。選完後再點下方的Rotate。然後再調整想要的角度。就這樣東條條西條條。確定姿勢後。將畫面往下拉。點send to text to image送到文生圖。這邊是說沒有選擇要送到哪個controlnet。點這邊來選擇。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">老阿貝開啟了三個controlnet 
+所以這邊有3個可以選。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">選完後點送到文生圖。這邊有一個小小的問題。當打開Controlnet時。發現還沒送過來，不知道是已經送過來但沒有顯示出來
+還是還沒送過來。再來送一次看看。這是沒有移道空白處就滾動滑鼠中鍵。有時用起來不太方便。OK
+這次就有送過來。Control type選擇openpose。預處理器選擇DW Openpose_full。如果您這邊沒有DW openpose_full選項
+請參考資訊欄的影片安裝。DW openpose_full非常建議安裝
+比原有的openpose full偵測還要準確。Pixel Perfect打勾。Allow preview打勾。點預覽按鈕。上面送過來的圖又變成白色
+怪怪的.....不知道是哪邊有問題
+各位大大再測試看看有沒有老阿貝的這種狀況。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">預視稿有出來，左邊的空白應該是顯示的問題。來輸入正向提示詞
+並檢查圖片參數。Ok
+生成圖片。Pose的處理還算是可以。來試看看其他的處理方式。選擇Depth。調整深淺。看起來深淺顏色差別不大。不管了
+來試看看就知道了。還是沒出現。又犯了老問題。切換就不見了。第一次遇到這種問題。再來送一次吧。把該勾的勾一勾。選Depth。因為他原來的就是預處理稿
+所以可以選擇Preview as input。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">點Allow Preview。點Preview as input。底下參數先使用預設值。生成圖片。怪怪的
+有兩條直線。應該是這一條造成的。點Refresh scene tree按鈕。點scene。點Axis。將Visible取消打勾。再來生成圖片試看看。線是不見了
+不過姿勢不是我們原來想要的姿勢。來調整看看。失敗。再來調整。還是一樣失敗。放棄了
+來試看看另外一個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這一個是Normal模式。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">control type選擇Normal。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Normal 好像也沒有比較好。目前測試起來最好的模式就是一開始的none模式
+然後再使用DW openpose_full偵測。純手部的部分跟人物的使用方式一樣
+這邊就不浪費各位的時間重覆說明。這個extenison雖然還是有一些小缺點
+不過有個人物可以比對做調整。算是他的小亮點
+至於好不好用就留給各位大大去評斷。老阿貝會先將它留校察看
+當作是口袋名單供以後追蹤。以上是今天的分享
+如果影片對你有幫助。再記得幫老阿貝
+訂閱、分享加按小鈴鐺。倘若有閒又有空
+有興趣的廣告也麻煩看一下喔。謝謝大家、祝健康快樂
+老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=n1LOPci7ICk</p><p>本影片內容為分享AI繪圖 stable diffusion 3D Model \u0026 pose loader extension簡介與使用教學。</p><p>另一個姿勢extenison，會更好用嗎?</p><p></p><p>3D Model\u0026Pose Loader安裝網址</p><p>https://github.com/jtydhr88/sd-3dmodel-loader</p><p></p><p>影片章節</p><p>00:00 3D Model and Pose Loader簡介</p><p>00:35 第一部分 3D Model and Pose Loader安裝</p><p>01:28 第二部分 3D Model and Pose Loader簡易使用教學</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/n1LOPci7ICk/maxresdefault.jpg"/>
+      <pubDate>2023-09-02T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[使用AI繪圖Stable diffusiond快速改變產品顏色教學。]]></title>
       <link>https://www.youtube.com/watch?v=nnCCoIqz23Y</link>
       <itunes:title><![CDATA[使用AI繪圖Stable diffusiond快速改變產品顏色教學。]]></itunes:title>
@@ -1310,154 +1483,5 @@ DW-Pose openpose full簡單測試。DW-Pose Openpose full使用方式跟controln
 <p>https://www.youtube.com/watch?v=dFWDBEL1rMQ</p><p>本影片內容為分享DWPose與Openpose的姿勢偵測比較。</p><p>DWPpose Github website:</p><p>https://github.com/IDEA-Research/DWPose</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/dFWDBEL1rMQ/maxresdefault.jpg"/>
       <pubDate>2023-08-07T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[使用git指令，跳至Stable diffusion任意版本。]]></title>
-      <link>https://www.youtube.com/watch?v=IEj5mEAWBlw</link>
-      <itunes:title><![CDATA[使用git指令，跳至Stable diffusion任意版本。]]></itunes:title>
-      <itunes:author><![CDATA[老阿貝]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有大大問說 stable diffusion web UI更新後不合用
-沒用複製的方式來備份，可以退回上一個版本或是特定的版本嗎。可以唷
-使用git指令，可以在不同版本間做切換。不過這種切換
-多多少少會產生一些小小的問題。這樣的小問題
-對懂git操作的人來說可能上個網查個資料就可以解決。但對不懂git的初學者 
-小小的問題就會卡住很久很久。而且每個人的電腦環境和stable diffusion環境也不相同
-使用git切換所產生的問題真的比較複雜。舉例來說
-假設您是升級到1.5.1，也把extension升級，然後使用git降級，開啟Stable diffusion web UI後，執行過程出現錯誤。就有可能是某個extension有支援SD 1.5.1版某個功能
-結果SD降級後，那個extension沒跟著降，呼叫不到1.5.1版的某個函數就出現錯誤。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這一種的錯誤沒有完整的錯誤訊息或是在電腦面前操作，很難猜到是出現甚麼問題。或是您用git切換版本到不同的分支上
-使用git pull要更新，也會出現無法更新的問題。對初學者來說
-這些小問題可能就會讓他無法使用SD。又有些錯誤訊息會被youtube認為有可能含有injection
-攻擊字眼，這些錯誤訊息的留言就會被自動刪除。沒看到完整的錯誤訊息，就像隔空抓藥一樣
-只能用猜的解決所產生的問題，有點不切實際。所以有關SD web UI升級的影片
-老阿貝都會多次建議用複製的方式備份比較沒問題。老阿貝自己也是用複製的方式來備份不同的版本
-像這樣，搭配把大檔案移到其他槽共用，沒什問題簡單又方便喔。進入正題囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Stable diffusion web UI最底下這邊就是您目前的版本。先將stable diffusion關閉。打開檔案總管
-來到您安裝stable diffusion目錄底下。點這邊
-輸入CMD後按下鍵盤的enter鍵。就會出現這目錄底下的命令提示字元。輸入git reflog。輸入完後
-按下enter鍵。這個指令可以查詢使用git安裝的歷史版本。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最上面那一行有 HEAD的那一版就是目前所使用的版本。跟我們剛剛在web UI 最底下看到的版本一樣。前面這一串是這個版本的代碼。假設我現在要使用git跳到v1.4.1版。這邊是v1.4.1版的代碼。輸入
-git checkpoint。再來代碼這邊點滑鼠左鍵兩下
-會自動選取整個代碼。再點滑鼠右鍵一下
-會將選取的代碼複製起來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點滑鼠右鍵一下
-會自動貼上剛剛複製的代碼。按下enter鍵
-stable diffusion web UI就會切換到v1.4.1版。按鍵盤的up鍵
-可以叫出上一個執行過的指令。再按一次up鍵
-叫出git reflog指令。按下enter鍵來查詢是否v1.4.1版為目前最上頭的HEAD版本。OK
-沒問題。來執行stable diffusion web UI。這邊已經顯示目前執行的版本為v1.4.1版
-這樣就切換成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊產生了一個錯誤，看看錯誤訊息是因為sd-webui-refiner這一個extension只支援v1.5.1版本
-所以當您降級到v1.4.1版而出現問題。如果只貼了這一段錯誤訊息
-ModeleNotFoundError:No module named 'sgm'也沒有說明降級的前因後果
-老阿貝是完全猜不出來問題點在哪邊。來看看這個錯誤是否會影響到stable diffusion web UI開啟。看起來是不會
-如果不會的話可以放著不管或是直接將這個extension移除。OK
-版本正確，切換過程是蠻簡單的，不過就是要應付所出現的問題。像老阿貝這麼懶或是初學者 
-建議還是將大檔案移出來用複製的方式來備份喔。再來試一次將版本移到v1.5.1。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">輸入git checkout。複製並貼上1.5.1版代碼。先來把剛剛開啟的stable diffusion關閉。按下enter鍵。這樣就切換到V1.5.1版囉。來執行stable diffusion看看。沒問題
-已經是 v1.5.1版。以上就是今天的分享
-如果影片對你有幫助。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有空再記得幫老阿貝
-訂閱、分享加按小鈴鐺。難得有閒心情又好的話
-也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=IEj5mEAWBlw</p><p>本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a></p>
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有大大問說 stable diffusion web UI更新後不合用
-沒用複製的方式來備份，可以退回上一個版本或是特定的版本嗎。可以唷
-使用git指令，可以在不同版本間做切換。不過這種切換
-多多少少會產生一些小小的問題。這樣的小問題
-對懂git操作的人來說可能上個網查個資料就可以解決。但對不懂git的初學者 
-小小的問題就會卡住很久很久。而且每個人的電腦環境和stable diffusion環境也不相同
-使用git切換所產生的問題真的比較複雜。舉例來說
-假設您是升級到1.5.1，也把extension升級，然後使用git降級，開啟Stable diffusion web UI後，執行過程出現錯誤。就有可能是某個extension有支援SD 1.5.1版某個功能
-結果SD降級後，那個extension沒跟著降，呼叫不到1.5.1版的某個函數就出現錯誤。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這一種的錯誤沒有完整的錯誤訊息或是在電腦面前操作，很難猜到是出現甚麼問題。或是您用git切換版本到不同的分支上
-使用git pull要更新，也會出現無法更新的問題。對初學者來說
-這些小問題可能就會讓他無法使用SD。又有些錯誤訊息會被youtube認為有可能含有injection
-攻擊字眼，這些錯誤訊息的留言就會被自動刪除。沒看到完整的錯誤訊息，就像隔空抓藥一樣
-只能用猜的解決所產生的問題，有點不切實際。所以有關SD web UI升級的影片
-老阿貝都會多次建議用複製的方式備份比較沒問題。老阿貝自己也是用複製的方式來備份不同的版本
-像這樣，搭配把大檔案移到其他槽共用，沒什問題簡單又方便喔。進入正題囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Stable diffusion web UI最底下這邊就是您目前的版本。先將stable diffusion關閉。打開檔案總管
-來到您安裝stable diffusion目錄底下。點這邊
-輸入CMD後按下鍵盤的enter鍵。就會出現這目錄底下的命令提示字元。輸入git reflog。輸入完後
-按下enter鍵。這個指令可以查詢使用git安裝的歷史版本。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最上面那一行有 HEAD的那一版就是目前所使用的版本。跟我們剛剛在web UI 最底下看到的版本一樣。前面這一串是這個版本的代碼。假設我現在要使用git跳到v1.4.1版。這邊是v1.4.1版的代碼。輸入
-git checkpoint。再來代碼這邊點滑鼠左鍵兩下
-會自動選取整個代碼。再點滑鼠右鍵一下
-會將選取的代碼複製起來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點滑鼠右鍵一下
-會自動貼上剛剛複製的代碼。按下enter鍵
-stable diffusion web UI就會切換到v1.4.1版。按鍵盤的up鍵
-可以叫出上一個執行過的指令。再按一次up鍵
-叫出git reflog指令。按下enter鍵來查詢是否v1.4.1版為目前最上頭的HEAD版本。OK
-沒問題。來執行stable diffusion web UI。這邊已經顯示目前執行的版本為v1.4.1版
-這樣就切換成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊產生了一個錯誤，看看錯誤訊息是因為sd-webui-refiner這一個extension只支援v1.5.1版本
-所以當您降級到v1.4.1版而出現問題。如果只貼了這一段錯誤訊息
-ModeleNotFoundError:No module named 'sgm'也沒有說明降級的前因後果
-老阿貝是完全猜不出來問題點在哪邊。來看看這個錯誤是否會影響到stable diffusion web UI開啟。看起來是不會
-如果不會的話可以放著不管或是直接將這個extension移除。OK
-版本正確，切換過程是蠻簡單的，不過就是要應付所出現的問題。像老阿貝這麼懶或是初學者 
-建議還是將大檔案移出來用複製的方式來備份喔。再來試一次將版本移到v1.5.1。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">輸入git checkout。複製並貼上1.5.1版代碼。先來把剛剛開啟的stable diffusion關閉。按下enter鍵。這樣就切換到V1.5.1版囉。來執行stable diffusion看看。沒問題
-已經是 v1.5.1版。以上就是今天的分享
-如果影片對你有幫助。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有空再記得幫老阿貝
-訂閱、分享加按小鈴鐺。難得有閒心情又好的話
-也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=IEj5mEAWBlw</p><p>本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IEj5mEAWBlw"><img src="https://img.youtube.com/vi/IEj5mEAWBlw/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-====
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有大大問說 stable diffusion web UI更新後不合用
-沒用複製的方式來備份，可以退回上一個版本或是特定的版本嗎。可以唷
-使用git指令，可以在不同版本間做切換。不過這種切換
-多多少少會產生一些小小的問題。這樣的小問題
-對懂git操作的人來說可能上個網查個資料就可以解決。但對不懂git的初學者 
-小小的問題就會卡住很久很久。而且每個人的電腦環境和stable diffusion環境也不相同
-使用git切換所產生的問題真的比較複雜。舉例來說
-假設您是升級到1.5.1，也把extension升級，然後使用git降級，開啟Stable diffusion web UI後，執行過程出現錯誤。就有可能是某個extension有支援SD 1.5.1版某個功能
-結果SD降級後，那個extension沒跟著降，呼叫不到1.5.1版的某個函數就出現錯誤。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這一種的錯誤沒有完整的錯誤訊息或是在電腦面前操作，很難猜到是出現甚麼問題。或是您用git切換版本到不同的分支上
-使用git pull要更新，也會出現無法更新的問題。對初學者來說
-這些小問題可能就會讓他無法使用SD。又有些錯誤訊息會被youtube認為有可能含有injection
-攻擊字眼，這些錯誤訊息的留言就會被自動刪除。沒看到完整的錯誤訊息，就像隔空抓藥一樣
-只能用猜的解決所產生的問題，有點不切實際。所以有關SD web UI升級的影片
-老阿貝都會多次建議用複製的方式備份比較沒問題。老阿貝自己也是用複製的方式來備份不同的版本
-像這樣，搭配把大檔案移到其他槽共用，沒什問題簡單又方便喔。進入正題囉。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Stable diffusion web UI最底下這邊就是您目前的版本。先將stable diffusion關閉。打開檔案總管
-來到您安裝stable diffusion目錄底下。點這邊
-輸入CMD後按下鍵盤的enter鍵。就會出現這目錄底下的命令提示字元。輸入git reflog。輸入完後
-按下enter鍵。這個指令可以查詢使用git安裝的歷史版本。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最上面那一行有 HEAD的那一版就是目前所使用的版本。跟我們剛剛在web UI 最底下看到的版本一樣。前面這一串是這個版本的代碼。假設我現在要使用git跳到v1.4.1版。這邊是v1.4.1版的代碼。輸入
-git checkpoint。再來代碼這邊點滑鼠左鍵兩下
-會自動選取整個代碼。再點滑鼠右鍵一下
-會將選取的代碼複製起來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">再點滑鼠右鍵一下
-會自動貼上剛剛複製的代碼。按下enter鍵
-stable diffusion web UI就會切換到v1.4.1版。按鍵盤的up鍵
-可以叫出上一個執行過的指令。再按一次up鍵
-叫出git reflog指令。按下enter鍵來查詢是否v1.4.1版為目前最上頭的HEAD版本。OK
-沒問題。來執行stable diffusion web UI。這邊已經顯示目前執行的版本為v1.4.1版
-這樣就切換成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊產生了一個錯誤，看看錯誤訊息是因為sd-webui-refiner這一個extension只支援v1.5.1版本
-所以當您降級到v1.4.1版而出現問題。如果只貼了這一段錯誤訊息
-ModeleNotFoundError:No module named 'sgm'也沒有說明降級的前因後果
-老阿貝是完全猜不出來問題點在哪邊。來看看這個錯誤是否會影響到stable diffusion web UI開啟。看起來是不會
-如果不會的話可以放著不管或是直接將這個extension移除。OK
-版本正確，切換過程是蠻簡單的，不過就是要應付所出現的問題。像老阿貝這麼懶或是初學者 
-建議還是將大檔案移出來用複製的方式來備份喔。再來試一次將版本移到v1.5.1。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">輸入git checkout。複製並貼上1.5.1版代碼。先來把剛剛開啟的stable diffusion關閉。按下enter鍵。這樣就切換到V1.5.1版囉。來執行stable diffusion看看。沒問題
-已經是 v1.5.1版。以上就是今天的分享
-如果影片對你有幫助。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有空再記得幫老阿貝
-訂閱、分享加按小鈴鐺。難得有閒心情又好的話
-也幫忙看一下廣告。謝謝大家、祝健康快樂
-老阿貝下台一鞠躬。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=IEj5mEAWBlw</p><p>本影片內容為分享使用git指令，跳至Stable diffusion任意版本和老阿貝的胡言亂語</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/IEj5mEAWBlw/maxresdefault.jpg"/>
-      <pubDate>2023-08-04T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
