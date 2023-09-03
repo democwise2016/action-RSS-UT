@@ -347,10 +347,10 @@ let feedList = [
 // --------------------------------------
 
 // feedList = [
-//   { // <outline type="rss" text="游戲指南針++$0414-1925$" title="游戲指南針++$0414-1925$" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$0414-1925$/https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVjXB6QUf_aZ_FninmssCOg" htmlUrl="https://www.youtube.com/channel/UCVjXB6QUf_aZ_FninmssCOg"/>
-//     title: '軒少改機頻道',
-//     feedID: 'HinSiu2',
-//     homepageURL: 'https://www.youtube.com/channel/UCSlrYjn39D7GndyrfObHljQ',
+//   {
+//     title: '钟文泽',
+//     feedID: 'zhongwenze',
+//     homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
 //     itemFilters: ItemFiltersPreset.between3minTo30Min,
 //   },
 // ]
