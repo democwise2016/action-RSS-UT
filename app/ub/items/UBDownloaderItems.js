@@ -42,9 +42,9 @@ module.exports = async function (items, feedItem = {}) {
   let folder = `/output/${feedFilename}/`
   let filteredItems = []
   let count = items.length
-  // if (count > maxItems) {
-  //   count = maxItems
-  // }
+  if (count > maxItems) {
+    count = maxItems
+  }
 
   let notCachedCount = 0
   let downloadedCount = 0

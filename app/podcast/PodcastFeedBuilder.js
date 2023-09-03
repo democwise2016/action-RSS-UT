@@ -134,7 +134,6 @@ ${channelDescription}`
 
       if (item.caption) {
         item.description = `<hr style="clear:both" />
-====
 
 ${item.caption}
 

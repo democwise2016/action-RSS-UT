@@ -12,8 +12,13 @@ function endsWithList(str, suffixList) {
 }
 
 function SentenceAppendPeriod(sentence) {
+  if (sentence.startsWith('#') || sentence.startsWith('<p>#') || sentence.startsWith('<strong># ')) {
+    return sentence
+  }
+
   const $ = cheerio.load(`<div>` + sentence + `</div>`)
-  if ($('body').text().trim() === '') {
+  let body = $('body').text().trim()
+  if (body === '' || body.startsWith('# ')) {
     return sentence
   }
 

@@ -347,13 +347,11 @@ let feedList = [
 // --------------------------------------
 
 // feedList = [
-//   {
-//     title: '老阿貝聊AI繪圖',
-//     feedID: 'laoabe',
-//     homepageURL: 'https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg',
-//     itemFilters: [
-//       ItemFiltersPreset.between3minTo30Min,
-//     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
+//   { // <outline type="rss" text="游戲指南針++$0414-1925$" title="游戲指南針++$0414-1925$" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$0414-1925$/https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVjXB6QUf_aZ_FninmssCOg" htmlUrl="https://www.youtube.com/channel/UCVjXB6QUf_aZ_FninmssCOg"/>
+//     title: '軒少改機頻道',
+//     feedID: 'HinSiu2',
+//     homepageURL: 'https://www.youtube.com/channel/UCSlrYjn39D7GndyrfObHljQ',
+//     itemFilters: ItemFiltersPreset.between3minTo30Min,
 //   },
 // ]
 
