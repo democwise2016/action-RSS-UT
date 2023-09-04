@@ -348,9 +348,9 @@ let feedList = [
 
 // feedList = [
 //   {
-//     title: '钟文泽',
-//     feedID: 'zhongwenze',
-//     homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
+//     title: '敖厂长',
+//     feedID: 'hawkaoaoful',
+//     homepageURL: 'https://www.youtube.com/channel/UCCkMW93Am1pLfk2nZFKAmbQ',
 //     itemFilters: ItemFiltersPreset.between3minTo30Min,
 //   },
 // ]

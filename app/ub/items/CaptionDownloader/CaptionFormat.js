@@ -16,6 +16,8 @@ const NextParagraphEnd = [
   '使用了',
   '演示吧',
   '來開始',
+  '懂的都懂',
+  '到了極致',
   // '方式'
 ]
 
@@ -65,6 +67,26 @@ const NextParagraphStart = [
   '同样的',
   '这次',
   '而这一次',
+  '按理說',
+  '初看',
+  '有趣的是',
+  '總之',
+  '比如',
+  '譬如',
+  '舉例來說',
+  '憑借',
+  '可惜',
+  '咦，',
+  '嗯，',
+  '最後',
+  '由於',
+  '我們知道',
+  '上一步驟',
+  '原來因為',
+  '這就說明',
+  '最經典',
+  '本期節目',
+  '這種',
   // '方式'
 ]
 
@@ -191,7 +213,7 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
       continue
     }
 
-    if (testIsNextParagraphEnd(text)) {
+    if (sentences.length >3 && testIsNextParagraphEnd(text)) {
       // console.log('結尾', text)
       sentences.push({text, start})
       paragraphs.push(sentences)
@@ -217,7 +239,7 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
     }
 
     // console.log('開頭', text)
-    if (testIsNextParagraphStart(text)) {
+    if (sentences.length >3 && testIsNextParagraphStart(text)) {
       // console.log('開頭', text)
       if (sentences.length > 0) {
         paragraphs.push(sentences)
@@ -233,12 +255,7 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
       }
       sentences = [{text, start}]
       
-      if (end) {
-        lastEnd = end
-      }
-      else {
-        lastEnd = start + duration
-      }
+      lastEnd = start
         
       continue
     }
@@ -263,6 +280,8 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
         ])
         lastImagePragraphTime = time
       }
+
+      text = `[!!!]` + text
       sentences = [{text, start}]
 
       if (end) {
