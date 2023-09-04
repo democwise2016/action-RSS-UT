@@ -281,7 +281,7 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
         lastImagePragraphTime = time
       }
 
-      text = `[!!!]` + text
+      // text = `[!!!]` + text
       sentences = [{text, start}]
 
       if (end) {
