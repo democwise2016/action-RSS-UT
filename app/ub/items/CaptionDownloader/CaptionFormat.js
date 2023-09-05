@@ -97,6 +97,7 @@ const NextParagraphStart = [
   '最重要的',
   '影片中',
   '好啦',
+  '你說',
   // '方式'
 ]
 
