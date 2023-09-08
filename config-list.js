@@ -350,9 +350,9 @@ let feedList = [
 if (CONFIG.debug) {
   feedList = [
     {
-      title: '好機車',
-      feedID: 'HOWGG',
-      homepageURL: 'https://www.youtube.com/channel/UCZzu2JGOMNNz-UYZ7TERDNg',
+      title: '當肉Download',
+      feedID: 'download9331',
+      homepageURL: 'https://www.youtube.com/channel/UCxr7xxXKpyQ1NKS2vOVjiUg',
       itemFilters: ItemFiltersPreset.between3minTo30Min,
     },
   ]

@@ -34,6 +34,7 @@ module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMark
 
       await ShellSpawnQueue([`python3`, `/app/python/caption.py`, `"https://www.youtube.com/watch?v=${utID}"`])
       let srtPath = `/app/tmp/srt-${utID}.txt`
+      let srt = `[]`
       // console.log({srtPath})
       if (fs.existsSync(srtPath) === false) {
         // if (!url) {
@@ -45,9 +46,12 @@ module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMark
         //   return false
         // }
         console.error([`[CaptionDownloader]`, srtPath, `not found`].join('\t'))
-        return false
+        // return false
       }
-      let srt = fs.readFileSync(srtPath, 'utf-8')
+      else {
+        srt = fs.readFileSync(srtPath, 'utf-8')
+      }
+      
       // console.log(srt)
       if (Array.isArray(timeMarkList) === false) {
         timeMarkList = TimeMarkAnalysis(timeMarkList)
@@ -57,7 +61,9 @@ module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMark
       captionParagraph = await CaptionFormat(srt, utID, timeMarkList)
       // console.log({captionParagraph})
 
-      fs.unlinkSync(srtPath)
+      if (fs.existsSync(srtPath)) {
+        fs.unlinkSync(srtPath)
+      }
       fs.writeFileSync(`/app/tmp/GetHTML.txt`, (new Date()).getTime() + '', 'utf8') 
       return captionParagraph
     }

@@ -184,6 +184,12 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
   let lastImagePragraphIndex = -1
   let lastImagePragraphTime = -1
 
+  // console.log(`srtObject.length `, srtObject.length )
+  // console.log(`timeMarkList`, timeMarkList )
+  if (srtObject.length === 0) {
+    return await noCaption(utID, timeMarkList)
+  }
+
   for (let i = 0; i < srtObject.length; i++) {
     let {text, start, duration, end} = srtObject[i]
     text = text.trim()
@@ -206,7 +212,7 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
         ])
       }
       paragraphs.push([
-        {text: `<a href="https://youtu.be/${utID}&t=${timeMarkList[0].time}" target="_blank"><strong># ${timeMarkList[0].title}</strong></a>`, start: timeMarkList[0]}
+        getTimeMarkItem(utID, timeMarkList[0])
       ])
       lastImagePragraphIndex = paragraphs.length
       lastImagePragraphTime = timeMarkList[0].time
@@ -388,6 +394,35 @@ function splitArray(array, split = 3) {
   }
 
   return output
+}
+
+async function noCaption (utID, timeMarkList = []) {
+  if (timeMarkList.length === 0) {
+    return ''
+  }
+
+  let paragraphs = []
+  // console.log(timeMarkList)
+
+  for (let i = 0; i < timeMarkList.length; i++) {
+      paragraphs.push([
+        getTimeMarkItem(utID, timeMarkList[i])
+      ])
+      paragraphs.push([
+        await CaptionScreenshot(utID, timeMarkList[i].time)
+      ])
+      // console.log(paragraphs)
+    }
+    return paragraphs.map (sentences => {
+        sentences = sentences.map(sentence => sentence.text)
+        return '<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">' + SentenceAppendPeriod(sentences.join('').trim()) + '</p>'
+        // return sentences.join('').trim()
+      // }).join('\n')
+    }).join('')
+}
+
+function getTimeMarkItem(utID, timeMark) {
+  return {text: `<a href="https://youtu.be/${utID}&t=${timeMark.time}" target="_blank"><strong># ${timeMark.title}</strong></a>`, start: timeMark.time}
 }
 
 module.exports = CaptionFormat
