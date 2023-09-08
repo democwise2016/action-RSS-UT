@@ -347,7 +347,7 @@ let feedList = [
 
 // --------------------------------------
 
-// if (CONFIG.debug) {
+if (CONFIG.debug) {
   feedList = [
     {
       title: '好機車',
@@ -356,7 +356,7 @@ let feedList = [
       itemFilters: ItemFiltersPreset.between3minTo30Min,
     },
   ]
-// }
+}
 
 
 module.exports = feedList
