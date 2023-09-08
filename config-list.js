@@ -1,4 +1,5 @@
 const ItemFiltersPreset = require('./app/config/ItemFiltersPreset.js')
+const CONFIG = require('../config-json.js')
 
 let feedList = [
 
@@ -346,13 +347,16 @@ let feedList = [
 
 // --------------------------------------
 
-// feedList = [
-//   {
-//     title: '敖厂长',
-//     feedID: 'hawkaoaoful',
-//     homepageURL: 'https://www.youtube.com/channel/UCCkMW93Am1pLfk2nZFKAmbQ',
-//     itemFilters: ItemFiltersPreset.between3minTo30Min,
-//   },
-// ]
+// if (CONFIG.debug) {
+  feedList = [
+    {
+      title: '好機車',
+      feedID: 'HOWGG',
+      homepageURL: 'https://www.youtube.com/channel/UCZzu2JGOMNNz-UYZ7TERDNg',
+      itemFilters: ItemFiltersPreset.between3minTo30Min,
+    },
+  ]
+// }
+
 
 module.exports = feedList
