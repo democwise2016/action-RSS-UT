@@ -30,6 +30,41 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTMbXQvksduQcy14BN3MgqtQTIVGmjbUcuzuH17rGNKhA=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[有趣的3D圖片製作簡易教學。將stable diffusion繪出的圖快速轉成3D影片]]></title>
+      <link>https://www.youtube.com/watch?v=8l_Vxv4BFTA</link>
+      <itunes:title><![CDATA[有趣的3D圖片製作簡易教學。將stable diffusion繪出的圖快速轉成3D影片]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好。今天來跟大家分享圖片轉成3D影片的方法。方法非常的簡單。一樣來到影片的下方。點圖片轉3D影片製作網址。點start now按鈕。點Get Start。老阿貝不想再申請一個帳號。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以是用Google帳號登入。登錄後看到這個畫面。點Upload。選擇一張要轉成3D影片的圖片。這樣基本上就完成了。來看看右邊的功能選項。Depth Map. 這個像是深度圖的編輯。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">will be back.看起來之前是有開放這功能。現在沒開放了。Animation Style. 這邊有預設6個圖片運動方式可供選擇。即選即看的功能。點了看左邊的圖片就知道3D運動的方向。選一個自己喜歡的就可以了。Animation Length動畫長度。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_76.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">調整到最右邊、動畫長度最長。反之拉到最左邊、動畫長度最短。這邊選長一點會比較容易看出3D的效果。Amount of Motion. 移動量。最左邊移動量最少。最右邊移動量最多。這邊選最多。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_94.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖片移動的效果會越好。Focus Point. 聚焦處。這功能可以讓你設定焦點的遠近。近的效果。遠的效果。老阿貝這邊會設在中間左右。Edge Dilation.</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_115.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">邊緣寬度。指的是聚焦物件的邊緣寬度。這邊的聚焦物件就是這一個女孩。可以仔細看這個女孩的邊緣。是不是有一個模糊的寬度。拉到最左邊後。寬度最小。簡單的來說就是做羽化feather的處理。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_134.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">每一張圖前景與背景的接縫處羽化融合度可以在這邊調整。以這一張的前景和背景來看。可以往左邊調整。Advanced Editor. 進階編輯。這邊就是前景與背景的運動方向x y z軸。量的調整。每一個調整都拉看看就知道他的功能了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_151.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊就不多做示範。右手邊的功能大致了解設定完後。就可以來輸出3D影片。點Export。這邊要注意一下。預設的選項為MP4 Original size原始尺寸。需要扣20個點數。老阿貝記的一開始有500個點數。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_179.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">目前還剩下420個點數。建議720p的圖像可以先用第二個免費的就可以了。這個沒有限制用量。就是圖片的尺寸小了點。點save儲存起來。打開來看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖片轉3D影片就完成了。以上就是今天簡短的分享。如果影片對您有幫助。再記得幫老阿貝。訂閱、分享加按小鈴鐺。謝謝大家、祝健康快樂。老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=8l_Vxv4BFTA</p><p>本影片內容為分享AI繪圖有趣的3D圖片製作簡易教學。將stable diffusion繪出的圖快速轉成3D影片。</p><p></p><p>3D影片製作網址:</p><p>https://convert.leiapix.com/</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好。今天來跟大家分享圖片轉成3D影片的方法。方法非常的簡單。一樣來到影片的下方。點圖片轉3D影片製作網址。點start now按鈕。點Get Start。老阿貝不想再申請一個帳號。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以是用Google帳號登入。登錄後看到這個畫面。點Upload。選擇一張要轉成3D影片的圖片。這樣基本上就完成了。來看看右邊的功能選項。Depth Map. 這個像是深度圖的編輯。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">will be back.看起來之前是有開放這功能。現在沒開放了。Animation Style. 這邊有預設6個圖片運動方式可供選擇。即選即看的功能。點了看左邊的圖片就知道3D運動的方向。選一個自己喜歡的就可以了。Animation Length動畫長度。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_76.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">調整到最右邊、動畫長度最長。反之拉到最左邊、動畫長度最短。這邊選長一點會比較容易看出3D的效果。Amount of Motion. 移動量。最左邊移動量最少。最右邊移動量最多。這邊選最多。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_94.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖片移動的效果會越好。Focus Point. 聚焦處。這功能可以讓你設定焦點的遠近。近的效果。遠的效果。老阿貝這邊會設在中間左右。Edge Dilation.</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_115.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">邊緣寬度。指的是聚焦物件的邊緣寬度。這邊的聚焦物件就是這一個女孩。可以仔細看這個女孩的邊緣。是不是有一個模糊的寬度。拉到最左邊後。寬度最小。簡單的來說就是做羽化feather的處理。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_134.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">每一張圖前景與背景的接縫處羽化融合度可以在這邊調整。以這一張的前景和背景來看。可以往左邊調整。Advanced Editor. 進階編輯。這邊就是前景與背景的運動方向x y z軸。量的調整。每一個調整都拉看看就知道他的功能了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_151.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊就不多做示範。右手邊的功能大致了解設定完後。就可以來輸出3D影片。點Export。這邊要注意一下。預設的選項為MP4 Original size原始尺寸。需要扣20個點數。老阿貝記的一開始有500個點數。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_179.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">目前還剩下420個點數。建議720p的圖像可以先用第二個免費的就可以了。這個沒有限制用量。就是圖片的尺寸小了點。點save儲存起來。打開來看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖片轉3D影片就完成了。以上就是今天簡短的分享。如果影片對您有幫助。再記得幫老阿貝。訂閱、分享加按小鈴鐺。謝謝大家、祝健康快樂。老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=8l_Vxv4BFTA</p><p>本影片內容為分享AI繪圖有趣的3D圖片製作簡易教學。將stable diffusion繪出的圖快速轉成3D影片。</p><p></p><p>3D影片製作網址:</p><p>https://convert.leiapix.com/</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=8l_Vxv4BFTA"><img src="https://img.youtube.com/vi/8l_Vxv4BFTA/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好。今天來跟大家分享圖片轉成3D影片的方法。方法非常的簡單。一樣來到影片的下方。點圖片轉3D影片製作網址。點start now按鈕。點Get Start。老阿貝不想再申請一個帳號。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以是用Google帳號登入。登錄後看到這個畫面。點Upload。選擇一張要轉成3D影片的圖片。這樣基本上就完成了。來看看右邊的功能選項。Depth Map. 這個像是深度圖的編輯。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">will be back.看起來之前是有開放這功能。現在沒開放了。Animation Style. 這邊有預設6個圖片運動方式可供選擇。即選即看的功能。點了看左邊的圖片就知道3D運動的方向。選一個自己喜歡的就可以了。Animation Length動畫長度。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_76.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">調整到最右邊、動畫長度最長。反之拉到最左邊、動畫長度最短。這邊選長一點會比較容易看出3D的效果。Amount of Motion. 移動量。最左邊移動量最少。最右邊移動量最多。這邊選最多。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_94.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖片移動的效果會越好。Focus Point. 聚焦處。這功能可以讓你設定焦點的遠近。近的效果。遠的效果。老阿貝這邊會設在中間左右。Edge Dilation.</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_115.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">邊緣寬度。指的是聚焦物件的邊緣寬度。這邊的聚焦物件就是這一個女孩。可以仔細看這個女孩的邊緣。是不是有一個模糊的寬度。拉到最左邊後。寬度最小。簡單的來說就是做羽化feather的處理。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_134.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">每一張圖前景與背景的接縫處羽化融合度可以在這邊調整。以這一張的前景和背景來看。可以往左邊調整。Advanced Editor. 進階編輯。這邊就是前景與背景的運動方向x y z軸。量的調整。每一個調整都拉看看就知道他的功能了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_151.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊就不多做示範。右手邊的功能大致了解設定完後。就可以來輸出3D影片。點Export。這邊要注意一下。預設的選項為MP4 Original size原始尺寸。需要扣20個點數。老阿貝記的一開始有500個點數。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_179.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">目前還剩下420個點數。建議720p的圖像可以先用第二個免費的就可以了。這個沒有限制用量。就是圖片的尺寸小了點。點save儲存起來。打開來看看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/8l_Vxv4BFTA_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">圖片轉3D影片就完成了。以上就是今天簡短的分享。如果影片對您有幫助。再記得幫老阿貝。訂閱、分享加按小鈴鐺。謝謝大家、祝健康快樂。老阿貝下台一鞠躬。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=8l_Vxv4BFTA</p><p>本影片內容為分享AI繪圖有趣的3D圖片製作簡易教學。將stable diffusion繪出的圖快速轉成3D影片。</p><p></p><p>3D影片製作網址:</p><p>https://convert.leiapix.com/</p><p></p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/8l_Vxv4BFTA/maxresdefault.jpg"/>
+      <pubDate>2023-09-30T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[stable diffusion溫泉圖片轉3D影片測試。]]></title>
       <link>https://www.youtube.com/watch?v=88JlL7lIXUM</link>
       <itunes:title><![CDATA[stable diffusion溫泉圖片轉3D影片測試。]]></itunes:title>
@@ -134,121 +169,5 @@
 <p>https://www.youtube.com/watch?v=42wEZe0MuFU</p><p>本影片內容為分享AI繪圖 stable diffusion不同位置的Generate button extension推薦。</p><p></p><p>sd-webui-split-layout安裝網址</p><p>https://github.com/thisjam/sd-webui-split-layout</p><p></p><p>sd-webui-moar-generate安裝網址</p><p>https://github.com/Haoming02/sd-webui-moar-generate</p><p></p><p>其他老阿貝分享的影片:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/42wEZe0MuFU/maxresdefault.jpg"/>
       <pubDate>2023-09-22T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[告別夏日夜拍AI寫真。圖片直接生成不調色不修圖，不開臉部修復，AI寫真使用stable diffsuion製作，用影片紀錄AI繪圖進程。]]></title>
-      <link>https://www.youtube.com/watch?v=cvIiTL-hAgY</link>
-      <itunes:title><![CDATA[告別夏日夜拍AI寫真。圖片直接生成不調色不修圖，不開臉部修復，AI寫真使用stable diffsuion製作，用影片紀錄AI繪圖進程。]]></itunes:title>
-      <itunes:author><![CDATA[老阿貝]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=cvIiTL-hAgY
-本影片內容為分享AI繪圖 stable diffusion Goodbye summer女孩夏日海灘夜拍AI寫真，生成的圖片不調色不修圖，不開臉部修復，用影片紀錄AI繪圖進程。
-
-其他老阿貝分享的影片:
-將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
-01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
-02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
-
-stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
-
-stable diffusion AI繪圖本地安裝:
-一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
-二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
-三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
-四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
-
-stable diffusion AI繪圖免費雲端使用:
-一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
-
-模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
-一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
-二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
-三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
-四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
-
-咒語prompt:
-一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
-二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
-
-空間不足怎麼辦
-一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
-
-其他測試
-一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=cvIiTL-hAgY
-本影片內容為分享AI繪圖 stable diffusion Goodbye summer女孩夏日海灘夜拍AI寫真，生成的圖片不調色不修圖，不開臉部修復，用影片紀錄AI繪圖進程。
-
-其他老阿貝分享的影片:
-將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
-01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
-02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
-
-stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
-
-stable diffusion AI繪圖本地安裝:
-一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
-二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
-三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
-四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
-
-stable diffusion AI繪圖免費雲端使用:
-一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
-
-模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
-一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
-二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
-三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
-四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
-
-咒語prompt:
-一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
-二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
-
-空間不足怎麼辦
-一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
-
-其他測試
-一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=cvIiTL-hAgY"><img src="https://img.youtube.com/vi/cvIiTL-hAgY/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=cvIiTL-hAgY
-本影片內容為分享AI繪圖 stable diffusion Goodbye summer女孩夏日海灘夜拍AI寫真，生成的圖片不調色不修圖，不開臉部修復，用影片紀錄AI繪圖進程。
-
-其他老阿貝分享的影片:
-將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
-01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
-02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
-
-stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
-
-stable diffusion AI繪圖本地安裝:
-一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
-二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
-三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
-四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
-
-stable diffusion AI繪圖免費雲端使用:
-一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
-
-模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
-一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
-二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
-三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
-四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
-
-咒語prompt:
-一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
-二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
-
-空間不足怎麼辦
-一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
-
-其他測試
-一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/cvIiTL-hAgY/maxresdefault.jpg"/>
-      <pubDate>2023-09-20T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
