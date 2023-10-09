@@ -367,6 +367,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCXDP8XCQyoldEiaIRhHz-Vw',
     itemFilters: ItemFiltersPreset.between6minTo60Min,
   },
+  { 
+    title: '萊丘 Laichu 聊 3C',
+    feedID: 'LaichuTV',
+    homepageURL: 'UCHSFWd7MUGTY7xRdiGeMALw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // --------------------------------------
