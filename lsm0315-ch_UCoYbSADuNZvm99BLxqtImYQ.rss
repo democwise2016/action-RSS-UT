@@ -133,7 +133,7 @@
 ====
 <p>https://www.youtube.com/watch?v=JjnqBcZcl2I</p><p>ComfyUI是Stable Diffusion一种高阶玩法，模块可视化分布操控工作流 ，大幅提高生产效率，支持SD1.X、SD2.X、SDXL模型的一款绘图软件</p><p></p><p>【ai绘画】ComfyUI本地部署及基本使用</p><p>https://youtu.be/nUeu-KLrZiM</p><p></p><p>ComfyUI下载地址：</p><p>https://github.com/comfyanonymous/ComfyUI</p><p></p><p>ComfyUI工作流案例：</p><p>https://comfyanonymous.github.io/ComfyUI_examples/</p><p></p><p>00:46 采样器节点部署</p><p>06:47 大模型节点部署</p><p>08:00 提示词节点部署</p><p>11:23 图片尺寸节点部署</p><p>11:44 VAE解码器节点部署</p><p>12:03 图片输出节点部署</p><p>12:56 文生图工作流测试</p><p>14:32 VAE解码器节点</p><p>16:08 ComfyUI工作流案例演示</p><p></p><p>#stablediffusion </p><p>#ai绘画</p><p>#comfyui</p><p>#sdxl模型</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/JjnqBcZcl2I/maxresdefault.jpg"/>
-      <pubDate>2023-09-18T00:00:00.000Z</pubDate>
+      <pubDate>2023-09-18T04:50:57-07:00T00:00:00.000Z</pubDate>
     </item><item>
       <title><![CDATA[【ai绘画】ComfyUI本地部署及基本使用]]></title>
       <link>https://www.youtube.com/watch?v=nUeu-KLrZiM</link>
