@@ -339,7 +339,7 @@ class UBInfo {
     }
     // uploadDate
     // 2020-12-31
-    if (info.date) {
+    if (info.date || info.date.indexOf('-') === -1) {
       if (info.date.indexOf('T') > -1) {
         info.date = info.date.indexOf('T')
       }
@@ -368,8 +368,9 @@ class UBInfo {
       info.yyyymmddDate =  moment(info.date).format('YYYYMMDD')
     }
     catch (e) {
-      console.error(e)
       console.log({'error-date': info.date})
+      console.error(e)
+      
     }
       
     
