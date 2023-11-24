@@ -340,6 +340,9 @@ class UBInfo {
     // uploadDate
     // 2020-12-31
     if (info.date) {
+      if (info.date.indexOf('T') > -1) {
+        info.date = info.date.indexOf('T')
+      }
       info.date = info.date + 'T00:00:00.000Z'
     }
     else {
