@@ -339,11 +339,16 @@ class UBInfo {
     }
     // uploadDate
     // 2020-12-31
+    // console.log({d1: info.date})
     if (info.date && info.date.indexOf('-') > -1) {
       if (info.date.indexOf('T') > -1) {
-        info.date = info.date.indexOf('T')
+        // info.date = info.date.slice(0, info.date.indexOf('T'))
+        info.date = info.date.slice(0, info.date.lastIndexOf('-')) + '.000Z'
       }
-      info.date = info.date + 'T00:00:00.000Z'
+      else {
+        info.date = info.date + 'T00:00:00.000Z'
+      }
+      
     }
     else {
       //throw Error('info.date not found: ' + url + '\n\n' + body)
@@ -358,6 +363,7 @@ class UBInfo {
         isOffline: true
       }
     }
+    // console.log({d2: info.date})
     
     //console.log(info.date)
     
@@ -370,7 +376,6 @@ class UBInfo {
     catch (e) {
       console.log({'error-date': info.date})
       console.error(e)
-      
     }
       
     

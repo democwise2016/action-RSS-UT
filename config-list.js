@@ -392,10 +392,10 @@ let feedList = [
 if (CONFIG.debug) {
   feedList = [
     {
-      title: '當肉Download',
-      feedID: 'download9331',
-      homepageURL: 'https://www.youtube.com/channel/UCxr7xxXKpyQ1NKS2vOVjiUg',
-      itemFilters: ItemFiltersPreset.between3minTo10Min,
+      title: '小宁子 3C',
+      feedID: 'xnzxnz',
+      homepageURL: 'https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g',
+      itemFilters: ItemFiltersPreset.between3minTo30Min,
     },
   ]
 }
