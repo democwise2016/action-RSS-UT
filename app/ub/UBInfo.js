@@ -363,8 +363,15 @@ class UBInfo {
     
     info.pubDate = info.date
     info.isoDate = info.date
-    info.mmddDate =  moment(info.date).format('MMDD')
-    info.yyyymmddDate =  moment(info.date).format('YYYYMMDD')
+    try {
+      info.mmddDate =  moment(info.date).format('MMDD')
+      info.yyyymmddDate =  moment(info.date).format('YYYYMMDD')
+    }
+    catch (e) {
+      console.error(e)
+      console.log({'error-date': info.date})
+    }
+      
     
     // window["ytInitialPlayerResponse"] = 
     
