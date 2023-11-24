@@ -339,7 +339,7 @@ class UBInfo {
     }
     // uploadDate
     // 2020-12-31
-    if (info.date || info.date.indexOf('-') === -1) {
+    if (info.date && info.date.indexOf('-') > -1) {
       if (info.date.indexOf('T') > -1) {
         info.date = info.date.indexOf('T')
       }
