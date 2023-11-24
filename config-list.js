@@ -373,6 +373,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCHSFWd7MUGTY7xRdiGeMALw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  { 
+    title: '小宁子 3C',
+    feedID: 'xnzxnz',
+    homepageURL: 'https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  { 
+    title: '玄离199 聊 軟體',
+    feedID: 'XuanLi199',
+    homepageURL: 'https://www.youtube.com/channel/UCMFDB701nr3qHVH3eYvujKA',
+    itemFilters: ItemFiltersPreset.between1minTo10Min,
+  },
 ]
 
 // --------------------------------------
@@ -383,7 +395,7 @@ if (CONFIG.debug) {
       title: '當肉Download',
       feedID: 'download9331',
       homepageURL: 'https://www.youtube.com/channel/UCxr7xxXKpyQ1NKS2vOVjiUg',
-      itemFilters: ItemFiltersPreset.between3minTo30Min,
+      itemFilters: ItemFiltersPreset.between3minTo10Min,
     },
   ]
 }
