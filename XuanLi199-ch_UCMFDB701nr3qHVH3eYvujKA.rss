@@ -30,6 +30,41 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/2mDQh5ZOCIaLqMpcThnLxgdl0YAfAKIeja1ShFW6Q85BlxlnBqCYEtq4AY17_EeVfMLFgEY68w=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
+      <title><![CDATA[解密微信数据，生成年度报告！还能导出成网页、文本]]></title>
+      <link>https://www.youtube.com/watch?v=gkc-vkyXEEM</link>
+      <itunes:title><![CDATA[解密微信数据，生成年度报告！还能导出成网页、文本]]></itunes:title>
+      <itunes:author><![CDATA[玄离199]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/0.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/1.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/2.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如何导出微信聊天数据。并生成一份年终总结。马上就要到年底了。各大 app 都要出年终报告。不过众所周知。微信是一直没有这种东西的。虽然官方没有。我们却可以自己动手丰衣足食。之前我就给大家分享过。如何导出微信的聊天数据。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最近又有个项目突然爆火。不仅可以把聊天内容导出成网页文档。还可以生成年度总结报告。他叫刘恒。是一个开源项目。使用起来也非常简单。要先准备一台 windows 电脑。把微信升级到最新的 3.9.8.15 版本。然后到 github 的 releases 里获取到软件。打开手机。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">微信在同一网络下到我设置聊天。聊天就是千与备份。把聊天数据迁移到电脑上。使用管理员身份运行留痕。打开的时候会先出现一个命令行窗口。我们不用管软件。首次运行有两个弹窗。提示数据库不存在。直接点确认关掉。点击获取信息按钮。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所有数据都加载出来之后。再点击下方的开始启动。等待程序运行完会弹窗提示重启。选择 ok 软件会自动关闭。我们使用管理员身份再次运行。如果你在此过程中碰到程序运行比较慢。或者卡住。不要管他。放下电脑去做点其他事。如果你遇到闪退。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_66.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就删除掉和程序在同一个目录的 data app 文件夹。然后重新运行。如果还是不行。就尝试更新微信版本。你的聊天数据不重要的话。也可以卸载重装微信。并从手机重新导入数据。然后重启电脑。重新运行软件。所有努力都尝试过后还是不行。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_83.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就等他更新。如果没有出现问题。那就恭喜你已经成功了。我们点击左侧的聊天。就可以像在微信里面一样查看搜索聊天内容。点击好友。选择一个好友就可以查看年度报告。我导出联机记录了。这里可以导出文档表格。网页和 txt 文本。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_102.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">点击右上角的数据。也可以导出全部数据和联系人的信息。有了数据之后。我们就可以做更多有趣的事。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_111.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如把聊天记录导出成 txt。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">自己写一个程序。或者用微词云简单分次筛选后生成词云图。这是我和 p4 diy 的聊天。数据生成后最显眼的就是视频。真是勤奋的两个 up。再比如说用自己的数据简单训练一下。作为一个赛博分身。把你不舍得删的记录导出成一个网页永久保存。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以上就是本期视频的全部内容。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我是雪莉九九。我们下期再见吧。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=gkc-vkyXEEM</p><p>Project Address:  https://github.com/LC044/WeChatMsg</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/0.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/1.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/2.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如何导出微信聊天数据。并生成一份年终总结。马上就要到年底了。各大 app 都要出年终报告。不过众所周知。微信是一直没有这种东西的。虽然官方没有。我们却可以自己动手丰衣足食。之前我就给大家分享过。如何导出微信的聊天数据。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最近又有个项目突然爆火。不仅可以把聊天内容导出成网页文档。还可以生成年度总结报告。他叫刘恒。是一个开源项目。使用起来也非常简单。要先准备一台 windows 电脑。把微信升级到最新的 3.9.8.15 版本。然后到 github 的 releases 里获取到软件。打开手机。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">微信在同一网络下到我设置聊天。聊天就是千与备份。把聊天数据迁移到电脑上。使用管理员身份运行留痕。打开的时候会先出现一个命令行窗口。我们不用管软件。首次运行有两个弹窗。提示数据库不存在。直接点确认关掉。点击获取信息按钮。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所有数据都加载出来之后。再点击下方的开始启动。等待程序运行完会弹窗提示重启。选择 ok 软件会自动关闭。我们使用管理员身份再次运行。如果你在此过程中碰到程序运行比较慢。或者卡住。不要管他。放下电脑去做点其他事。如果你遇到闪退。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_66.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就删除掉和程序在同一个目录的 data app 文件夹。然后重新运行。如果还是不行。就尝试更新微信版本。你的聊天数据不重要的话。也可以卸载重装微信。并从手机重新导入数据。然后重启电脑。重新运行软件。所有努力都尝试过后还是不行。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_83.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就等他更新。如果没有出现问题。那就恭喜你已经成功了。我们点击左侧的聊天。就可以像在微信里面一样查看搜索聊天内容。点击好友。选择一个好友就可以查看年度报告。我导出联机记录了。这里可以导出文档表格。网页和 txt 文本。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_102.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">点击右上角的数据。也可以导出全部数据和联系人的信息。有了数据之后。我们就可以做更多有趣的事。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_111.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如把聊天记录导出成 txt。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">自己写一个程序。或者用微词云简单分次筛选后生成词云图。这是我和 p4 diy 的聊天。数据生成后最显眼的就是视频。真是勤奋的两个 up。再比如说用自己的数据简单训练一下。作为一个赛博分身。把你不舍得删的记录导出成一个网页永久保存。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以上就是本期视频的全部内容。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我是雪莉九九。我们下期再见吧。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=gkc-vkyXEEM</p><p>Project Address:  https://github.com/LC044/WeChatMsg</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/0.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/1.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/2.jpg" /></a><a href="https://www.youtube.com/watch?v=gkc-vkyXEEM"><img src="https://img.youtube.com/vi/gkc-vkyXEEM/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如何导出微信聊天数据。并生成一份年终总结。马上就要到年底了。各大 app 都要出年终报告。不过众所周知。微信是一直没有这种东西的。虽然官方没有。我们却可以自己动手丰衣足食。之前我就给大家分享过。如何导出微信的聊天数据。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最近又有个项目突然爆火。不仅可以把聊天内容导出成网页文档。还可以生成年度总结报告。他叫刘恒。是一个开源项目。使用起来也非常简单。要先准备一台 windows 电脑。把微信升级到最新的 3.9.8.15 版本。然后到 github 的 releases 里获取到软件。打开手机。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">微信在同一网络下到我设置聊天。聊天就是千与备份。把聊天数据迁移到电脑上。使用管理员身份运行留痕。打开的时候会先出现一个命令行窗口。我们不用管软件。首次运行有两个弹窗。提示数据库不存在。直接点确认关掉。点击获取信息按钮。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所有数据都加载出来之后。再点击下方的开始启动。等待程序运行完会弹窗提示重启。选择 ok 软件会自动关闭。我们使用管理员身份再次运行。如果你在此过程中碰到程序运行比较慢。或者卡住。不要管他。放下电脑去做点其他事。如果你遇到闪退。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_66.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就删除掉和程序在同一个目录的 data app 文件夹。然后重新运行。如果还是不行。就尝试更新微信版本。你的聊天数据不重要的话。也可以卸载重装微信。并从手机重新导入数据。然后重启电脑。重新运行软件。所有努力都尝试过后还是不行。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_83.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就等他更新。如果没有出现问题。那就恭喜你已经成功了。我们点击左侧的聊天。就可以像在微信里面一样查看搜索聊天内容。点击好友。选择一个好友就可以查看年度报告。我导出联机记录了。这里可以导出文档表格。网页和 txt 文本。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_102.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">点击右上角的数据。也可以导出全部数据和联系人的信息。有了数据之后。我们就可以做更多有趣的事。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/gkc-vkyXEEM_111.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如把聊天记录导出成 txt。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">自己写一个程序。或者用微词云简单分次筛选后生成词云图。这是我和 p4 diy 的聊天。数据生成后最显眼的就是视频。真是勤奋的两个 up。再比如说用自己的数据简单训练一下。作为一个赛博分身。把你不舍得删的记录导出成一个网页永久保存。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以上就是本期视频的全部内容。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我是雪莉九九。我们下期再见吧。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=gkc-vkyXEEM</p><p>Project Address:  https://github.com/LC044/WeChatMsg</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/gkc-vkyXEEM/maxresdefault.jpg"/>
+      <pubDate>2023-12-16T02:10:44.000Z</pubDate>
+    </item><item>
       <title><![CDATA[UC浏览器，居然这么牛?]]></title>
       <link>https://www.youtube.com/watch?v=vULqak7aSA0</link>
       <itunes:title><![CDATA[UC浏览器，居然这么牛?]]></itunes:title>
@@ -172,40 +207,5 @@ https://www.youtube.com/watch?v=8lXWadJLItI
 <p>https://www.youtube.com/watch?v=2nc989p9Bbo</p><p>I can't believe that this PPT artifact, which is popular on the Internet, has evolved to this point!</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/2nc989p9Bbo/maxresdefault.jpg"/>
       <pubDate>2023-11-20T02:31:39.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[【热门鉴定】学会Ctrl+C就是电脑高手？一招让电脑没广告？]]></title>
-      <link>https://www.youtube.com/watch?v=dLtFlxMc__M</link>
-      <itunes:title><![CDATA[【热门鉴定】学会Ctrl+C就是电脑高手？一招让电脑没广告？]]></itunes:title>
-      <itunes:author><![CDATA[玄离199]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/0.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/1.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/2.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=dLtFlxMc__M
-让你的手机电脑更加好用好玩
-大家好，我是玄离199
-优质教育领域创作者
-专注于软件研究知识的分享和传播
-订阅链接：https://bit.ly/3Irtu65
-喜欢记得订阅~]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/0.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/1.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/2.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=dLtFlxMc__M
-让你的手机电脑更加好用好玩
-大家好，我是玄离199
-优质教育领域创作者
-专注于软件研究知识的分享和传播
-订阅链接：https://bit.ly/3Irtu65
-喜欢记得订阅~]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/0.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/1.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/2.jpg" /></a><a href="https://www.youtube.com/watch?v=dLtFlxMc__M"><img src="https://img.youtube.com/vi/dLtFlxMc__M/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=dLtFlxMc__M
-让你的手机电脑更加好用好玩
-大家好，我是玄离199
-优质教育领域创作者
-专注于软件研究知识的分享和传播
-订阅链接：https://bit.ly/3Irtu65
-喜欢记得订阅~]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/dLtFlxMc__M/maxresdefault.jpg"/>
-      <pubDate>2023-11-18T03:00:35.000Z</pubDate>
     </item></channel>
 </rss>
