@@ -385,18 +385,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCMFDB701nr3qHVH3eYvujKA',
     itemFilters: ItemFiltersPreset.between1minTo10Min,
   },
-  {
-    title: '0號手稿 看ACG',
-    feedID: 'user-soulkao_0',
-    homepageURL: 'https://www.youtube.com/channel/UCbWIKVoPlnahOJj8OZ3kSZA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '紫骷 玩遊戲',
-    feedID: 'Zikukirby',
-    homepageURL: 'https://www.youtube.com/channel/UCQceikp-aRr_e5uCARuPvEQ',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
+  // {
+  //   title: '0號手稿 看ACG',
+  //   feedID: 'user-soulkao_0',
+  //   homepageURL: 'https://www.youtube.com/channel/UCbWIKVoPlnahOJj8OZ3kSZA',
+  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
+  // },
+  // {
+  //   title: '紫骷 玩遊戲',
+  //   feedID: 'Zikukirby',
+  //   homepageURL: 'https://www.youtube.com/channel/UCQceikp-aRr_e5uCARuPvEQ',
+  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
+  // },
 ]
 
 // --------------------------------------
