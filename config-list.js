@@ -385,6 +385,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCMFDB701nr3qHVH3eYvujKA',
     itemFilters: ItemFiltersPreset.between1minTo10Min,
   },
+  {
+    title: 'Emmy追劇時間 看財經',
+    feedID: 'emmytw',
+    homepageURL: 'https://www.youtube.com/channel/UCUkwvRrpvWkocNdk9qIpRSw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
   // {
   //   title: '0號手稿 看ACG',
   //   feedID: 'user-soulkao_0',
