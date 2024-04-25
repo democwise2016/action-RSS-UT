@@ -30,246 +30,614 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ru79AJtWC9oUmN18W4RQuHuRQ2lJgoS3qgJQ86k1TM3h7D_yBpWN18oxU83_T1GDCV4SFhI4eow=s1024-b50-c-k-c0x00CC3333-no-rj"/>
 <item>
-      <title><![CDATA[（內有教學）用AI 幫你檢查信箱，自動化關鍵字Line訊息通知，以後不用擔心漏掉重要信件了｜泛科學院｜Make自動化教學｜Line Notify教學]]></title>
-      <link>https://www.youtube.com/watch?v=PXqREU0R1ps</link>
-      <itunes:title><![CDATA[（內有教學）用AI 幫你檢查信箱，自動化關鍵字Line訊息通知，以後不用擔心漏掉重要信件了｜泛科學院｜Make自動化教學｜Line Notify教學]]></itunes:title>
+      <title><![CDATA[【職場會傷人】03：該如何兼顧工作與生活，有辦法找到平衡嗎？┃【泛科學院 X 一刻鯨選】]]></title>
+      <link>https://www.youtube.com/watch?v=zDzYzhdh9G0</link>
+      <itunes:title><![CDATA[【職場會傷人】03：該如何兼顧工作與生活，有辦法找到平衡嗎？┃【泛科學院 X 一刻鯨選】]]></itunes:title>
       <itunes:author><![CDATA[泛科學院]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/0.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/1.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/2.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/3.jpg" /></a></p>
-<hr style="clear:both" />
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=zDzYzhdh9G0
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:57 前言：我只想看能賺錢的信，讓自動化工具幫我分</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上次Notion加Zapier做完後。開會總算沒挨罵了。自動化服務真的讚。而這次要介紹的Make串LINE。做重要信件通知。也源自於我自己遇到的問題。啊如果你不想聽故事的話。可以直接跳到這裡。看Make、Zapier。IFTTT的自動化串聯服務比較。或是直接挑這裡看教學。隨著公司規模不斷擴大。公司旗下各頻道的業配合作邀約。也開始活絡了起來。嗯...這很不錯。但問題來了。這些必須立刻回復的邀約信。全都寄到公司的公用信箱。跟一堆無關的廣告信件混在一起。要花很多時間才能找出來。而我正好就是公用信箱的管理人。但我沒有每天整理公用信箱的習慣。很可能會漏信。我認真想了一下。這些重要的信。大部分都會提到。合作、詢價、邀約這些關鍵字。嗯...所以。只要能讓Zapier之類的自動化服務。幫我篩選出這些有關鍵字的信件。再傳到我常用的LINE上跳通知。這樣不就不會漏信了嗎。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_57.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=57" target="_blank"><strong># - 02:18 分析：自動化工具 zapier, ifttt, make 的比較</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以這次要做的是。當Gmail有新郵件時。會篩選有特定關鍵字的郵件。再把篩選後的郵件。發到LINE上通知我收信。本來是想繼續用上集介紹。Zapier做自動化串聯。但Zapier只能連動Gmail。不能連LINE。然後我又用了另一個能做自動化的。IFTTT來測試。發現它。只有LINE 沒有Gmail。怎麽剛好都缺一塊啊。真煩耶。當然也可以設一個。兩邊都能夠串接的資料中繼點。來完成自動化。例如Zapier抓Gmail資料。匯入Google Sheet。再讓IFTTT抓Google Sheet的資料。推送到LINE。但如果能簡單。誰想要複雜呢。因此我又試了幾個自動化服務。果然有一個是能夠。同時串聯Gmail跟LINE的服務。那就是Make。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外上集有人問。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Zapier的計價方式。我這邊也整理了一張懶人包。給大家參考。這邊只寫免費版的原因很簡單。因為你付費了就沒有這些限制了。所以如果你是個免費仔。又想要大量抓網路上的資料。那IFTTT和Make可能相對比較好用。免費的Zapier一下子就會用完。然後是每個自動化服務。能串聯的應用程式數量。從能找到的資料來看。Zapier應該是最多的。但就像我前面分享的一樣。最多也不一定有你想用的。所以還是要根據自己的狀況。挑選適合自己的自動化服務。沒有哪個比較好。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_137.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦 那我們就來開始正式的教學。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_138.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=138" target="_blank"><strong># - 02:59 教學：如何開啟 line notify，讓 line 能發布 make 的訊息</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">首先我們會用到LINE Notify服務。你要先進到它的官網登入申請。登入後如果完全沒用過。會直接進入登入服務的畫面。這邊除了Email都可以隨便填。Email之後是要收確認信的。所以請一定要用你常用的Email。然後提醒一下。網址跟Callback URL。不要用Google之類常見的網址。會沒辦法通過。請隨便打一串。看起來正常的網址。設定完成後按登入。這時回去剛剛填的Email。收通知信。開通剛設定好的LINE Notify。OK 大功告成。這時候點右上角的管理登入服務。就會看到剛剛設定好的LINE Notify。這樣LINE的部分就設定好啦。可以去Make做自動化串聯。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_179.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=179" target="_blank"><strong># - 04:32 教學：make 串 gmail 的流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著登入Make。如果你是第一次使用。它會問你很多廢話。不用管它 隨便點。直到你看到這個畫面。點右上角 Create a new scenario。一進去你會看到這個圓圈。這個圓圈就是跟。之前Zapier的Trigger是一樣的東西。你可以手動自己設定流程 Flow。但我們還是讓AI來幫我們啦。點右下角的AI Assistant。對話框選Create or edit a scenario。輸入if my Gmail get a new email。then send a LINE notification. 然後得到畫面上的Flow。左邊是Gmail watch Email。右邊是LINE send a notification。如果你用中文輸入類似的內容。常常會跑出很複雜的Flow。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種Flow裡面有很多有趣的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">但這集用不到。我們還是先回到正確的Flow上。點開Gmail。連上要整理的信箱。連接完成後進入設定。先點選藍色的Click here to choose folder。這邊會出現你在Gmail裡做的標籤分類。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">由於我完全沒有整理。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就直接選Inbox。對所有郵件進行分析。Filter Type用Simple Filter。下面的Criteria。選All Emails就好了。我們後面會再用Filter細分。然後這個選No。選Yes會把偵測過的Email變成已讀。我不想變成這樣。然後這邊是每次執行Flow時。會抓取多少筆最新的Email。到LINE上發布通知。免費的Make是15分鐘執行一次Flow。請自己評估一下。每15分鐘會收到多少封有用的信件。設定太多的話。呃...你的LINE通知會炸裂。我自己測試後。大概是5就差不多了。設定好點下OK。會跳出從哪封Email開始抓資料。用From now on就好。之後的新郵件就會自動讀取了。按下OK。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_272.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=272" target="_blank"><strong># - 05:21 教學：如何設定篩選器（filter）</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來就可以來設定Filter啦。點連接線旁邊的板手。會跳出選單。選第一個 Set up a Filter。進入Filter設定畫面。上面的Label是幫這個Filter上標籤。填你喜歡的就好。然後點Condition下面的輸入框。選Subject標題。跟Text Content內文。然後在Text Operator這裡。選Contains。Contains代表的是。如果在特定字串中找到某個關鍵字。就可以通過。這邊說的特定字串。就是上面欄位設定的標題與內文。而那個關鍵字。就是下面等一下要打的東西。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來在下面的空格打上關鍵字。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就完成啦。如果有多個關鍵字要篩選。記得要點選add OR rule。設定其他關鍵字。不能多個關鍵字打在一起。按下OK。你會看到板手變成一個漏斗。這樣Filter就設定完成啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_321.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=321" target="_blank"><strong># - 05:59 教學：把前面的 line notify api 串回 make</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著點開LINE。它會要你輸入Notify API。回到LINE Notify的管理登入服務頁面。點擊剛剛設定好的服務。進入服務細節的頁面。複製上面的Client ID (口誤)。回到Make複製貼上。按Save。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著會進到這個頁面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊是要設定。你要在哪個聊天室發送推播訊息。你可以設定在工作群組推播。我這邊就先設定我自己就好。然後進入LINE推播訊息的設定頁面。Message這欄可以打成這樣。這樣就不會丟一個。不知道在做什麽的訊息給你了。你也可以發揮創意。寫一些幹話進去。增添趣味。下面設定用不到。我們直接按OK就完成啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_359.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=359" target="_blank"><strong># - 06:24 教學：測試自動化是否有成功</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來就要進行測試啦。我先分別寄三封信件到公用信箱。分別是標題有關鍵字。內文有關鍵字。跟沒有任何關鍵字。寄完後按下Run once。成功的話就會在LINE上收到通知。果然沒有把不含關鍵字的信件傳到LINE上。測試成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在只要把下面的Scheduling打開。所有設定就完成啦。以後就再也不用擔心。自己漏接公用信箱的重要信件啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_384.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=384" target="_blank"><strong># - 07:25 總結：為什麼不能串 hotmail</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後來分享一下自己的實作心得吧。比起Zapier跟IFTTT。Make稍微難上手一點。但在免費版的情況下。Make可能做到。比Zapier更複雜的自動化功能。像前面出現過的複雜流程圖。就可以用Router做出。複數條件判斷的流程。例如前面抓Gmail的流程。加上Router後。就不只能傳送提醒到LINE了。還能夠自動回復罐頭訊息。給符合條件的郵件。這如果要在Zapier做。就必須要做兩個流程才能達成了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外如果你的公司信箱。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不是使用Gmail。你也可以把前面模組中的Gmail。改成Email。Connection Type. 選用Microsoft系列。理論上只要這邊按下Save。就可以選擇你要串聯的Microsoft帳號啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過我串了之後還是抓不到信件。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果有人知道這是什麽問題。請你一定要告訴我。那這次的分享就到這邊啦。如果你還有其他想看的AI工具測試。或相關問題。可以直接留言或加入Discord。跟我們一起討論哦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果喜歡這集影片的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也別忘了按讚 訂閱 加入會員。我們下集再見 掰掰。</p>
+常言道：「工作是生活的一部分，卻不是生命的全部。」
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=PXqREU0R1ps</p><p>這集沒有業配，因為邀約信全漏了</p><p>（確認過老闆眼神，想要資遣我）</p><p></p><p>所以我又做了一個讓老闆安心的東西，這次是用 make + Line notify 做信件自動化篩選與通知</p><p></p><p>如果這集表現好，再來玩玩 make 的其他功能</p><p></p><p></p><p>\\\\\\你可能會需要的東西\\\\\\</p><p>【line notify 官網】</p><p>https://notify-bot.line.me/</p><p>【make 官網】</p><p>https://www.make.com/</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>00:00 - 00:57 前言：我只想看能賺錢的信，讓自動化工具幫我分</p><p>00:57 - 02:18 分析：自動化工具 zapier, ifttt, make 的比較</p><p>02:18 - 02:59 教學：如何開啟 line notify，讓 line 能發布 make 的訊息</p><p>02:59 - 04:32 教學：make 串 gmail 的流程</p><p>04:32 - 05:21 教學：如何設定篩選器（filter）</p><p>05:21 - 05:59 教學：把前面的 line notify api 串回 make</p><p>05:59 - 06:24 教學：測試自動化是否有成功</p><p>06:24 - 07:25 總結：為什麼不能串 hotmail</p><p></p><p>#ai #line #make #automation #productivity #gmail #notification</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/0.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/1.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/2.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/3.jpg" /></a></p>
-<hr style="clear:both" />
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:57 前言：我只想看能賺錢的信，讓自動化工具幫我分</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上次Notion加Zapier做完後。開會總算沒挨罵了。自動化服務真的讚。而這次要介紹的Make串LINE。做重要信件通知。也源自於我自己遇到的問題。啊如果你不想聽故事的話。可以直接跳到這裡。看Make、Zapier。IFTTT的自動化串聯服務比較。或是直接挑這裡看教學。隨著公司規模不斷擴大。公司旗下各頻道的業配合作邀約。也開始活絡了起來。嗯...這很不錯。但問題來了。這些必須立刻回復的邀約信。全都寄到公司的公用信箱。跟一堆無關的廣告信件混在一起。要花很多時間才能找出來。而我正好就是公用信箱的管理人。但我沒有每天整理公用信箱的習慣。很可能會漏信。我認真想了一下。這些重要的信。大部分都會提到。合作、詢價、邀約這些關鍵字。嗯...所以。只要能讓Zapier之類的自動化服務。幫我篩選出這些有關鍵字的信件。再傳到我常用的LINE上跳通知。這樣不就不會漏信了嗎。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_57.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=57" target="_blank"><strong># - 02:18 分析：自動化工具 zapier, ifttt, make 的比較</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以這次要做的是。當Gmail有新郵件時。會篩選有特定關鍵字的郵件。再把篩選後的郵件。發到LINE上通知我收信。本來是想繼續用上集介紹。Zapier做自動化串聯。但Zapier只能連動Gmail。不能連LINE。然後我又用了另一個能做自動化的。IFTTT來測試。發現它。只有LINE 沒有Gmail。怎麽剛好都缺一塊啊。真煩耶。當然也可以設一個。兩邊都能夠串接的資料中繼點。來完成自動化。例如Zapier抓Gmail資料。匯入Google Sheet。再讓IFTTT抓Google Sheet的資料。推送到LINE。但如果能簡單。誰想要複雜呢。因此我又試了幾個自動化服務。果然有一個是能夠。同時串聯Gmail跟LINE的服務。那就是Make。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外上集有人問。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Zapier的計價方式。我這邊也整理了一張懶人包。給大家參考。這邊只寫免費版的原因很簡單。因為你付費了就沒有這些限制了。所以如果你是個免費仔。又想要大量抓網路上的資料。那IFTTT和Make可能相對比較好用。免費的Zapier一下子就會用完。然後是每個自動化服務。能串聯的應用程式數量。從能找到的資料來看。Zapier應該是最多的。但就像我前面分享的一樣。最多也不一定有你想用的。所以還是要根據自己的狀況。挑選適合自己的自動化服務。沒有哪個比較好。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_137.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦 那我們就來開始正式的教學。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_138.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=138" target="_blank"><strong># - 02:59 教學：如何開啟 line notify，讓 line 能發布 make 的訊息</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">首先我們會用到LINE Notify服務。你要先進到它的官網登入申請。登入後如果完全沒用過。會直接進入登入服務的畫面。這邊除了Email都可以隨便填。Email之後是要收確認信的。所以請一定要用你常用的Email。然後提醒一下。網址跟Callback URL。不要用Google之類常見的網址。會沒辦法通過。請隨便打一串。看起來正常的網址。設定完成後按登入。這時回去剛剛填的Email。收通知信。開通剛設定好的LINE Notify。OK 大功告成。這時候點右上角的管理登入服務。就會看到剛剛設定好的LINE Notify。這樣LINE的部分就設定好啦。可以去Make做自動化串聯。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_179.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=179" target="_blank"><strong># - 04:32 教學：make 串 gmail 的流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著登入Make。如果你是第一次使用。它會問你很多廢話。不用管它 隨便點。直到你看到這個畫面。點右上角 Create a new scenario。一進去你會看到這個圓圈。這個圓圈就是跟。之前Zapier的Trigger是一樣的東西。你可以手動自己設定流程 Flow。但我們還是讓AI來幫我們啦。點右下角的AI Assistant。對話框選Create or edit a scenario。輸入if my Gmail get a new email。then send a LINE notification. 然後得到畫面上的Flow。左邊是Gmail watch Email。右邊是LINE send a notification。如果你用中文輸入類似的內容。常常會跑出很複雜的Flow。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種Flow裡面有很多有趣的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">但這集用不到。我們還是先回到正確的Flow上。點開Gmail。連上要整理的信箱。連接完成後進入設定。先點選藍色的Click here to choose folder。這邊會出現你在Gmail裡做的標籤分類。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">由於我完全沒有整理。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就直接選Inbox。對所有郵件進行分析。Filter Type用Simple Filter。下面的Criteria。選All Emails就好了。我們後面會再用Filter細分。然後這個選No。選Yes會把偵測過的Email變成已讀。我不想變成這樣。然後這邊是每次執行Flow時。會抓取多少筆最新的Email。到LINE上發布通知。免費的Make是15分鐘執行一次Flow。請自己評估一下。每15分鐘會收到多少封有用的信件。設定太多的話。呃...你的LINE通知會炸裂。我自己測試後。大概是5就差不多了。設定好點下OK。會跳出從哪封Email開始抓資料。用From now on就好。之後的新郵件就會自動讀取了。按下OK。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_272.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=272" target="_blank"><strong># - 05:21 教學：如何設定篩選器（filter）</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來就可以來設定Filter啦。點連接線旁邊的板手。會跳出選單。選第一個 Set up a Filter。進入Filter設定畫面。上面的Label是幫這個Filter上標籤。填你喜歡的就好。然後點Condition下面的輸入框。選Subject標題。跟Text Content內文。然後在Text Operator這裡。選Contains。Contains代表的是。如果在特定字串中找到某個關鍵字。就可以通過。這邊說的特定字串。就是上面欄位設定的標題與內文。而那個關鍵字。就是下面等一下要打的東西。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來在下面的空格打上關鍵字。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就完成啦。如果有多個關鍵字要篩選。記得要點選add OR rule。設定其他關鍵字。不能多個關鍵字打在一起。按下OK。你會看到板手變成一個漏斗。這樣Filter就設定完成啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_321.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=321" target="_blank"><strong># - 05:59 教學：把前面的 line notify api 串回 make</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著點開LINE。它會要你輸入Notify API。回到LINE Notify的管理登入服務頁面。點擊剛剛設定好的服務。進入服務細節的頁面。複製上面的Client ID (口誤)。回到Make複製貼上。按Save。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著會進到這個頁面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊是要設定。你要在哪個聊天室發送推播訊息。你可以設定在工作群組推播。我這邊就先設定我自己就好。然後進入LINE推播訊息的設定頁面。Message這欄可以打成這樣。這樣就不會丟一個。不知道在做什麽的訊息給你了。你也可以發揮創意。寫一些幹話進去。增添趣味。下面設定用不到。我們直接按OK就完成啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_359.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=359" target="_blank"><strong># - 06:24 教學：測試自動化是否有成功</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來就要進行測試啦。我先分別寄三封信件到公用信箱。分別是標題有關鍵字。內文有關鍵字。跟沒有任何關鍵字。寄完後按下Run once。成功的話就會在LINE上收到通知。果然沒有把不含關鍵字的信件傳到LINE上。測試成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在只要把下面的Scheduling打開。所有設定就完成啦。以後就再也不用擔心。自己漏接公用信箱的重要信件啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_384.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=384" target="_blank"><strong># - 07:25 總結：為什麼不能串 hotmail</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後來分享一下自己的實作心得吧。比起Zapier跟IFTTT。Make稍微難上手一點。但在免費版的情況下。Make可能做到。比Zapier更複雜的自動化功能。像前面出現過的複雜流程圖。就可以用Router做出。複數條件判斷的流程。例如前面抓Gmail的流程。加上Router後。就不只能傳送提醒到LINE了。還能夠自動回復罐頭訊息。給符合條件的郵件。這如果要在Zapier做。就必須要做兩個流程才能達成了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外如果你的公司信箱。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不是使用Gmail。你也可以把前面模組中的Gmail。改成Email。Connection Type. 選用Microsoft系列。理論上只要這邊按下Save。就可以選擇你要串聯的Microsoft帳號啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過我串了之後還是抓不到信件。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果有人知道這是什麽問題。請你一定要告訴我。那這次的分享就到這邊啦。如果你還有其他想看的AI工具測試。或相關問題。可以直接留言或加入Discord。跟我們一起討論哦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果喜歡這集影片的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也別忘了按讚 訂閱 加入會員。我們下集再見 掰掰。</p>
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=PXqREU0R1ps</p><p>這集沒有業配，因為邀約信全漏了</p><p>（確認過老闆眼神，想要資遣我）</p><p></p><p>所以我又做了一個讓老闆安心的東西，這次是用 make + Line notify 做信件自動化篩選與通知</p><p></p><p>如果這集表現好，再來玩玩 make 的其他功能</p><p></p><p></p><p>\\\\\\你可能會需要的東西\\\\\\</p><p>【line notify 官網】</p><p>https://notify-bot.line.me/</p><p>【make 官網】</p><p>https://www.make.com/</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>00:00 - 00:57 前言：我只想看能賺錢的信，讓自動化工具幫我分</p><p>00:57 - 02:18 分析：自動化工具 zapier, ifttt, make 的比較</p><p>02:18 - 02:59 教學：如何開啟 line notify，讓 line 能發布 make 的訊息</p><p>02:59 - 04:32 教學：make 串 gmail 的流程</p><p>04:32 - 05:21 教學：如何設定篩選器（filter）</p><p>05:21 - 05:59 教學：把前面的 line notify api 串回 make</p><p>05:59 - 06:24 教學：測試自動化是否有成功</p><p>06:24 - 07:25 總結：為什麼不能串 hotmail</p><p></p><p>#ai #line #make #automation #productivity #gmail #notification</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/0.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/1.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/2.jpg" /></a><a href="https://www.youtube.com/watch?v=PXqREU0R1ps"><img src="https://img.youtube.com/vi/PXqREU0R1ps/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:57 前言：我只想看能賺錢的信，讓自動化工具幫我分</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上次Notion加Zapier做完後。開會總算沒挨罵了。自動化服務真的讚。而這次要介紹的Make串LINE。做重要信件通知。也源自於我自己遇到的問題。啊如果你不想聽故事的話。可以直接跳到這裡。看Make、Zapier。IFTTT的自動化串聯服務比較。或是直接挑這裡看教學。隨著公司規模不斷擴大。公司旗下各頻道的業配合作邀約。也開始活絡了起來。嗯...這很不錯。但問題來了。這些必須立刻回復的邀約信。全都寄到公司的公用信箱。跟一堆無關的廣告信件混在一起。要花很多時間才能找出來。而我正好就是公用信箱的管理人。但我沒有每天整理公用信箱的習慣。很可能會漏信。我認真想了一下。這些重要的信。大部分都會提到。合作、詢價、邀約這些關鍵字。嗯...所以。只要能讓Zapier之類的自動化服務。幫我篩選出這些有關鍵字的信件。再傳到我常用的LINE上跳通知。這樣不就不會漏信了嗎。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_57.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=57" target="_blank"><strong># - 02:18 分析：自動化工具 zapier, ifttt, make 的比較</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以這次要做的是。當Gmail有新郵件時。會篩選有特定關鍵字的郵件。再把篩選後的郵件。發到LINE上通知我收信。本來是想繼續用上集介紹。Zapier做自動化串聯。但Zapier只能連動Gmail。不能連LINE。然後我又用了另一個能做自動化的。IFTTT來測試。發現它。只有LINE 沒有Gmail。怎麽剛好都缺一塊啊。真煩耶。當然也可以設一個。兩邊都能夠串接的資料中繼點。來完成自動化。例如Zapier抓Gmail資料。匯入Google Sheet。再讓IFTTT抓Google Sheet的資料。推送到LINE。但如果能簡單。誰想要複雜呢。因此我又試了幾個自動化服務。果然有一個是能夠。同時串聯Gmail跟LINE的服務。那就是Make。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外上集有人問。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Zapier的計價方式。我這邊也整理了一張懶人包。給大家參考。這邊只寫免費版的原因很簡單。因為你付費了就沒有這些限制了。所以如果你是個免費仔。又想要大量抓網路上的資料。那IFTTT和Make可能相對比較好用。免費的Zapier一下子就會用完。然後是每個自動化服務。能串聯的應用程式數量。從能找到的資料來看。Zapier應該是最多的。但就像我前面分享的一樣。最多也不一定有你想用的。所以還是要根據自己的狀況。挑選適合自己的自動化服務。沒有哪個比較好。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_137.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦 那我們就來開始正式的教學。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_138.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=138" target="_blank"><strong># - 02:59 教學：如何開啟 line notify，讓 line 能發布 make 的訊息</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">首先我們會用到LINE Notify服務。你要先進到它的官網登入申請。登入後如果完全沒用過。會直接進入登入服務的畫面。這邊除了Email都可以隨便填。Email之後是要收確認信的。所以請一定要用你常用的Email。然後提醒一下。網址跟Callback URL。不要用Google之類常見的網址。會沒辦法通過。請隨便打一串。看起來正常的網址。設定完成後按登入。這時回去剛剛填的Email。收通知信。開通剛設定好的LINE Notify。OK 大功告成。這時候點右上角的管理登入服務。就會看到剛剛設定好的LINE Notify。這樣LINE的部分就設定好啦。可以去Make做自動化串聯。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_179.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=179" target="_blank"><strong># - 04:32 教學：make 串 gmail 的流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著登入Make。如果你是第一次使用。它會問你很多廢話。不用管它 隨便點。直到你看到這個畫面。點右上角 Create a new scenario。一進去你會看到這個圓圈。這個圓圈就是跟。之前Zapier的Trigger是一樣的東西。你可以手動自己設定流程 Flow。但我們還是讓AI來幫我們啦。點右下角的AI Assistant。對話框選Create or edit a scenario。輸入if my Gmail get a new email。then send a LINE notification. 然後得到畫面上的Flow。左邊是Gmail watch Email。右邊是LINE send a notification。如果你用中文輸入類似的內容。常常會跑出很複雜的Flow。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種Flow裡面有很多有趣的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">但這集用不到。我們還是先回到正確的Flow上。點開Gmail。連上要整理的信箱。連接完成後進入設定。先點選藍色的Click here to choose folder。這邊會出現你在Gmail裡做的標籤分類。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">由於我完全沒有整理。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就直接選Inbox。對所有郵件進行分析。Filter Type用Simple Filter。下面的Criteria。選All Emails就好了。我們後面會再用Filter細分。然後這個選No。選Yes會把偵測過的Email變成已讀。我不想變成這樣。然後這邊是每次執行Flow時。會抓取多少筆最新的Email。到LINE上發布通知。免費的Make是15分鐘執行一次Flow。請自己評估一下。每15分鐘會收到多少封有用的信件。設定太多的話。呃...你的LINE通知會炸裂。我自己測試後。大概是5就差不多了。設定好點下OK。會跳出從哪封Email開始抓資料。用From now on就好。之後的新郵件就會自動讀取了。按下OK。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_272.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=272" target="_blank"><strong># - 05:21 教學：如何設定篩選器（filter）</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來就可以來設定Filter啦。點連接線旁邊的板手。會跳出選單。選第一個 Set up a Filter。進入Filter設定畫面。上面的Label是幫這個Filter上標籤。填你喜歡的就好。然後點Condition下面的輸入框。選Subject標題。跟Text Content內文。然後在Text Operator這裡。選Contains。Contains代表的是。如果在特定字串中找到某個關鍵字。就可以通過。這邊說的特定字串。就是上面欄位設定的標題與內文。而那個關鍵字。就是下面等一下要打的東西。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來在下面的空格打上關鍵字。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就完成啦。如果有多個關鍵字要篩選。記得要點選add OR rule。設定其他關鍵字。不能多個關鍵字打在一起。按下OK。你會看到板手變成一個漏斗。這樣Filter就設定完成啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_321.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=321" target="_blank"><strong># - 05:59 教學：把前面的 line notify api 串回 make</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著點開LINE。它會要你輸入Notify API。回到LINE Notify的管理登入服務頁面。點擊剛剛設定好的服務。進入服務細節的頁面。複製上面的Client ID (口誤)。回到Make複製貼上。按Save。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著會進到這個頁面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這邊是要設定。你要在哪個聊天室發送推播訊息。你可以設定在工作群組推播。我這邊就先設定我自己就好。然後進入LINE推播訊息的設定頁面。Message這欄可以打成這樣。這樣就不會丟一個。不知道在做什麽的訊息給你了。你也可以發揮創意。寫一些幹話進去。增添趣味。下面設定用不到。我們直接按OK就完成啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_359.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=359" target="_blank"><strong># - 06:24 教學：測試自動化是否有成功</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接下來就要進行測試啦。我先分別寄三封信件到公用信箱。分別是標題有關鍵字。內文有關鍵字。跟沒有任何關鍵字。寄完後按下Run once。成功的話就會在LINE上收到通知。果然沒有把不含關鍵字的信件傳到LINE上。測試成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">現在只要把下面的Scheduling打開。所有設定就完成啦。以後就再也不用擔心。自己漏接公用信箱的重要信件啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/PXqREU0R1ps_384.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/PXqREU0R1ps&t=384" target="_blank"><strong># - 07:25 總結：為什麼不能串 hotmail</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後來分享一下自己的實作心得吧。比起Zapier跟IFTTT。Make稍微難上手一點。但在免費版的情況下。Make可能做到。比Zapier更複雜的自動化功能。像前面出現過的複雜流程圖。就可以用Router做出。複數條件判斷的流程。例如前面抓Gmail的流程。加上Router後。就不只能傳送提醒到LINE了。還能夠自動回復罐頭訊息。給符合條件的郵件。這如果要在Zapier做。就必須要做兩個流程才能達成了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外如果你的公司信箱。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不是使用Gmail。你也可以把前面模組中的Gmail。改成Email。Connection Type. 選用Microsoft系列。理論上只要這邊按下Save。就可以選擇你要串聯的Microsoft帳號啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過我串了之後還是抓不到信件。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果有人知道這是什麽問題。請你一定要告訴我。那這次的分享就到這邊啦。如果你還有其他想看的AI工具測試。或相關問題。可以直接留言或加入Discord。跟我們一起討論哦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果喜歡這集影片的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也別忘了按讚 訂閱 加入會員。我們下集再見 掰掰。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=PXqREU0R1ps</p><p>這集沒有業配，因為邀約信全漏了</p><p>（確認過老闆眼神，想要資遣我）</p><p></p><p>所以我又做了一個讓老闆安心的東西，這次是用 make + Line notify 做信件自動化篩選與通知</p><p></p><p>如果這集表現好，再來玩玩 make 的其他功能</p><p></p><p></p><p>\\\\\\你可能會需要的東西\\\\\\</p><p>【line notify 官網】</p><p>https://notify-bot.line.me/</p><p>【make 官網】</p><p>https://www.make.com/</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>00:00 - 00:57 前言：我只想看能賺錢的信，讓自動化工具幫我分</p><p>00:57 - 02:18 分析：自動化工具 zapier, ifttt, make 的比較</p><p>02:18 - 02:59 教學：如何開啟 line notify，讓 line 能發布 make 的訊息</p><p>02:59 - 04:32 教學：make 串 gmail 的流程</p><p>04:32 - 05:21 教學：如何設定篩選器（filter）</p><p>05:21 - 05:59 教學：把前面的 line notify api 串回 make</p><p>05:59 - 06:24 教學：測試自動化是否有成功</p><p>06:24 - 07:25 總結：為什麼不能串 hotmail</p><p></p><p>#ai #line #make #automation #productivity #gmail #notification</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/PXqREU0R1ps/maxresdefault.jpg"/>
-      <pubDate>2024-04-19T04:17:46.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[iPhone 裝上 AI，讓 Siri 更懂你的命令！ReALM 是什麼？Android 也有類似的東西嗎？｜泛科學院]]></title>
-      <link>https://www.youtube.com/watch?v=tAbwdcbMiC0</link>
-      <itunes:title><![CDATA[iPhone 裝上 AI，讓 Siri 更懂你的命令！ReALM 是什麼？Android 也有類似的東西嗎？｜泛科學院]]></itunes:title>
-      <itunes:author><![CDATA[泛科學院]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/3.jpg" /></a></p>
-<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:54 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">今年2月。Apple終止了電動車開發。全力往AI領域發展。在我還在想Apple要怎麽彎道超車時。3月底Apple就主動發了一篇。AI相關的論文。這篇論文在說的是。在iPhone上加裝一個小的AI模型。就能讓Siri更能聽懂你說的話。在這篇論文出現之前。我想Siri要跟上AI浪潮。勢必要打掉重練。那現在呢。不用。在iPhone上裝個小型的AI模型。就能從智慧手機變成AI手機。讓Siri做到更多事。而在這篇論文的背後。也隱約看見了AI代理人。AI Agent的可能性。所以今天呢。我們就來分享。1. Apple如何用小型AI模型升級Siri。2. Android手機上的AI Agent的研究。3. 未來AI Agent的發展。沒有鍵盤滑鼠的LLM作業系統。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後再來分享。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">AJ自己裝AI代理人的碰壁心得吧。廢話不多說。讓我們正式開始。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">正如前面提到的。如果要讓Siri跟上AI浪潮。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_54.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=54" target="_blank"><strong># - 03:11 Apple AI 論文說明：ReALM 在做什麼？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那應該就只能重新開發了。但Apple的研究人員卻不這麽想。我就不改Siri。我直接在手機上。裝個能讀懂手機螢幕的。多模態大語言模型輔助Siri。這樣Siri的回應。不就能更貼近使用者的需求了嗎。舉個例子。當你問Siri附近餐廳時。它會給你餐廳列表。之後你必須要用手操作。但多了看得懂螢幕的AI。就能直接對它說。幫我訂最下面那間餐廳。然後就幫你訂好餐廳了。欸 這不就提供了。更好的使用體驗了嗎。不就完成了AI Siri的開發了嗎。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而能做到這件事情的關鍵。正是論文提出的新語言模型ReALM。中文稱為參考解析作為文字模型。嗯...文字模型我熟啊。各種GPT、LLaMA、Gemini 等等。但參考解析是啥呢。讓我們回到最前面說的。幫我訂最下面那間餐廳這句話。最下面那間餐廳。如果沒有螢幕上顯示的餐廳列表。那整句話就沒有意義了。而參考解析做的就是這件事。要能讀懂螢幕上跳出來的餐廳列表。並能理解你說的最下面那間餐廳。指的就是螢幕上餐廳列表的。最下面那一項。那麼輔助Siri的ReALM。要能做到什麽事情呢。我們從測試結果的指標來說明。會比較清楚。Conv是純文字理解。當我說打給女友時。要能打給女友。欸 這不是單純找電話簿而已啦。有可能電話簿裡的女友。被你命名成「沒接到會死人」。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那Siri就必須理解你說的女友。就是「沒接到會死人」。Synth則是代名詞解析。當我說播放它時。要能從畫面或對話脈絡中。理解我說的它是某個音樂或影片。Screen是整合螢幕畫面理解。像上面說的。幫我訂最下面那間餐廳。就要能理解我說的最下面。是螢幕上餐廳列表的最下面。Unseen則是超出上述範圍的任務。測試該模型在未知任務的泛用程度。這個測試結果也非常驚人啊。只要給語音助理多加一個。80M參數的小模型。效果就跟GPT-4不相上下。而在Synth的任務上。效果更是完勝GPT-4。太香了。iPhone 16什麽時候要出啊。而這篇論文。可能只是蘋果AI開發的冰山一角。期待今年在WWDC上。蘋果會拿出更讓人驚艷的AI應用。雖然ReALM是蘋果提出的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_191.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=191" target="_blank"><strong># - 04:22 android 的 AI agent：Octopus v2</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">但理論上。ReALM的概念。應該也能用在。其他Android手機上才對吧。是沒錯。而且馬上就被提出來了。就在蘋果論文提出一周後。史丹佛大學發表了。基於Android手機的超級AI代理人。Octopus v2. 在這邊插播一下。AI代理人(AI Agent)。目前沒有統一的定義。但多半都會提到。一個能理解其周遭環境。並能從環境中學習。且能與環境互動。解決問題的系統。白話說 無論你跟AI說什麽。AI都能正確理解你的需求。宛如你的分身。能幫你完成任務。所以蘋果提出的ReALM。一定程度上符合這個定義。而現在提到的Octopus V2也是。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好 那這篇論文到底講了什麽呢。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">在這篇論文中。研究人員訓練Octopus v2。控制Android手機裡面的。應用程序介面API。讓你只用語音就能操控手機。無論是找YouTube影片。設置會議行事曆。還是找今天舊金山的天氣。然後用文字簡訊把天氣資訊傳給好友。這些事都不需要用到你的雙手。只要跟Octopus V2 說說話。就能完成。根據測試。Octopus V2的正確率。跟GPT-4不相上下。但重點是。它的執行速度比GPT-4快了三倍。雖然Octopus V2。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_262.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=262" target="_blank"><strong># - 06:14 為什麼 OpenAI 要全力開發的 LLM OS？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">跟ReALM這兩篇論文。看起來好像有點廢。但他們都不約而同點出了兩件事。1. 在本機上安裝大語言模型是趨勢。2. 在大語言模型的幫助下。行動裝置或電腦。將不再依賴觸控螢幕。或鍵盤滑鼠的操控。而延續這個脈絡繼續推敲。一個神奇的大語言模型作業系統。LLM OS就誕生啦。前陣子OpenAI跟特斯拉的。前AI總監 Andrej Karpathy。在風險投資紅杉資本的公開活動中表示。通用人工智慧AGI離我們不遠了。還透露OpenAI目前的主要發展方向。是打造大語言作業系統LLM OS。那這個LLM OS到底是什麽呢。OS其實就是作業系統。像Windows或macOS。更早之前還有MS-Dos。那個打指令的黑畫面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">其實也是作業系統。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而這個作業系統的發展呢。其實跟I/O。也就是輸入和輸出裝置。有密切的關係。例如1963年滑鼠被發明以後。人們又花了十多年的時間。探索與滑鼠搭配使用的GUI圖形控制介面。一直到1984年。蘋果的Macintosh獲得了商業上的成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_332.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">人們才將圖形控制介面。與滑鼠視為個人電腦的標配。而後微軟才跟風。開發出配合滑鼠操作的作業系統。Windows. 在那之前。微軟只有MS-Dos。根本用不到滑鼠。讓我們回到Andrej Karpathy。分享的LLM OS上。他想告訴我們的是。大語言模型的出現。如同當年滑鼠發明。過去滑鼠讓我們看見。GUI圖形介面的可能性。蘋果抓住了機會。成為了電腦行業的領頭羊。締造了蘋果第一次的輝煌盛世。而如今大語言模型也讓我們看見。用語音還有機器視覺。來控制電腦的可能性。這次OpenAI能否抓住機會。成為領導者呢。就讓我們拭目以待吧。但如果你已經手癢想要自己煉蠱。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_374.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=374" target="_blank"><strong># - 06:57 有什麼能裝的 AI agent？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">啊我是說。你是想要在自己的電腦上。先跑個AI工具人試試。以下是網友推薦的三大AI Agent。1. CrewAI. 2. AutoGen. 3. Langflow. 我自己還有看過一套叫做AgentGPT。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過目前看起來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">安裝跟設定都偏複雜。一般人不要輕易嘗試。我看AJ光是搞個安裝環境。就弄到想摔機器。呃...這該不會是他想換。M3 MacBook Air的徵兆吧。但如果你真的非常熱愛AI Agent。沒有AI Agent 就吃不下飯。睡不著覺。就吃不下飯 睡不著覺。甚至活不下去的AI痴 AI狂。那上面提到的東西。你都可以裝來玩玩。如果你要找到更多。有趣實用的AI代理人服務。歡迎在下面留言跟大家推薦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦 接著就要來到業配時間啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_417.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=417" target="_blank"><strong># - 07:16 每個月有一次免費公益團體宣傳，歡迎申請</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過今天沒有業配啦。是要宣布一個公益廣告計劃。你知道台灣有超過10萬個公益團體嗎。他們默默地讓社會變得更好。但同時也需要你我的關注與支持。泛科學院預計每個月。會保留一支影片的廣告時間。給公益團體。歡迎感興趣的中小型公益團體。與我們聯繫哦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後你覺得未來的電腦或行動裝置。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_436.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=436" target="_blank"><strong># - 07:41 結尾</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">會是什麽樣子呢。A. 完全聲控還能自己看狀況。B. 原始的輸入設備還是必要的吧。不然當機怎麽辦。C. 在行動裝置上也許能做得到。但電腦應該不太行。D. 其他也歡迎留言分享哦。如果有其他想看的AI工具測試。或相關問題。也可以留言發問。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果喜歡這支影片的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也別忘了按讚 訂閱 加入會員。我們下期見拜拜。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=tAbwdcbMiC0</p><p>看來 apple 二月說要全力發展 AI，不是隨便說說而已啊，開始期待今年的 WWDC。這次藉由 apple 的 AI 論文，也一起來說說 OpenAI 目前全力開發的大語言模型作業系統（LLM OS），到底在做什麼吧！</p><p></p><p>（話說 iPhone 16 什麼時候要出？想買來玩玩看）</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>// 延伸閱讀 //</p><p>【ReALM 論文】</p><p>https://arxiv.org/abs/2403.20329</p><p>【Octopus v2 論文】</p><p>https://arxiv.org/abs/2404.01744</p><p>【LLM OS】</p><p>https://x.com/karpathy/status/1723140519554105733</p><p></p><p>00:00 - 00:54 前言</p><p>00:54 - 03:11 Apple AI 論文說明：ReALM 在做什麼？</p><p>03:11 - 04:22 android 的 AI agent：Octopus v2</p><p>04:22 - 06:14 為什麼 OpenAI 要全力開發的 LLM OS？</p><p>06:14 - 06:57 有什麼能裝的 AI agent？</p><p>06:57 - 07:16 每個月有一次免費公益團體宣傳，歡迎申請</p><p>07:16 - 07:41 結尾</p><p></p><p>#ai #aitools #iphone #apple #llm #android #gpt4</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/3.jpg" /></a></p>
-<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:54 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">今年2月。Apple終止了電動車開發。全力往AI領域發展。在我還在想Apple要怎麽彎道超車時。3月底Apple就主動發了一篇。AI相關的論文。這篇論文在說的是。在iPhone上加裝一個小的AI模型。就能讓Siri更能聽懂你說的話。在這篇論文出現之前。我想Siri要跟上AI浪潮。勢必要打掉重練。那現在呢。不用。在iPhone上裝個小型的AI模型。就能從智慧手機變成AI手機。讓Siri做到更多事。而在這篇論文的背後。也隱約看見了AI代理人。AI Agent的可能性。所以今天呢。我們就來分享。1. Apple如何用小型AI模型升級Siri。2. Android手機上的AI Agent的研究。3. 未來AI Agent的發展。沒有鍵盤滑鼠的LLM作業系統。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後再來分享。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">AJ自己裝AI代理人的碰壁心得吧。廢話不多說。讓我們正式開始。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">正如前面提到的。如果要讓Siri跟上AI浪潮。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_54.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=54" target="_blank"><strong># - 03:11 Apple AI 論文說明：ReALM 在做什麼？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那應該就只能重新開發了。但Apple的研究人員卻不這麽想。我就不改Siri。我直接在手機上。裝個能讀懂手機螢幕的。多模態大語言模型輔助Siri。這樣Siri的回應。不就能更貼近使用者的需求了嗎。舉個例子。當你問Siri附近餐廳時。它會給你餐廳列表。之後你必須要用手操作。但多了看得懂螢幕的AI。就能直接對它說。幫我訂最下面那間餐廳。然後就幫你訂好餐廳了。欸 這不就提供了。更好的使用體驗了嗎。不就完成了AI Siri的開發了嗎。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而能做到這件事情的關鍵。正是論文提出的新語言模型ReALM。中文稱為參考解析作為文字模型。嗯...文字模型我熟啊。各種GPT、LLaMA、Gemini 等等。但參考解析是啥呢。讓我們回到最前面說的。幫我訂最下面那間餐廳這句話。最下面那間餐廳。如果沒有螢幕上顯示的餐廳列表。那整句話就沒有意義了。而參考解析做的就是這件事。要能讀懂螢幕上跳出來的餐廳列表。並能理解你說的最下面那間餐廳。指的就是螢幕上餐廳列表的。最下面那一項。那麼輔助Siri的ReALM。要能做到什麽事情呢。我們從測試結果的指標來說明。會比較清楚。Conv是純文字理解。當我說打給女友時。要能打給女友。欸 這不是單純找電話簿而已啦。有可能電話簿裡的女友。被你命名成「沒接到會死人」。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那Siri就必須理解你說的女友。就是「沒接到會死人」。Synth則是代名詞解析。當我說播放它時。要能從畫面或對話脈絡中。理解我說的它是某個音樂或影片。Screen是整合螢幕畫面理解。像上面說的。幫我訂最下面那間餐廳。就要能理解我說的最下面。是螢幕上餐廳列表的最下面。Unseen則是超出上述範圍的任務。測試該模型在未知任務的泛用程度。這個測試結果也非常驚人啊。只要給語音助理多加一個。80M參數的小模型。效果就跟GPT-4不相上下。而在Synth的任務上。效果更是完勝GPT-4。太香了。iPhone 16什麽時候要出啊。而這篇論文。可能只是蘋果AI開發的冰山一角。期待今年在WWDC上。蘋果會拿出更讓人驚艷的AI應用。雖然ReALM是蘋果提出的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_191.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=191" target="_blank"><strong># - 04:22 android 的 AI agent：Octopus v2</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">但理論上。ReALM的概念。應該也能用在。其他Android手機上才對吧。是沒錯。而且馬上就被提出來了。就在蘋果論文提出一周後。史丹佛大學發表了。基於Android手機的超級AI代理人。Octopus v2. 在這邊插播一下。AI代理人(AI Agent)。目前沒有統一的定義。但多半都會提到。一個能理解其周遭環境。並能從環境中學習。且能與環境互動。解決問題的系統。白話說 無論你跟AI說什麽。AI都能正確理解你的需求。宛如你的分身。能幫你完成任務。所以蘋果提出的ReALM。一定程度上符合這個定義。而現在提到的Octopus V2也是。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好 那這篇論文到底講了什麽呢。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">在這篇論文中。研究人員訓練Octopus v2。控制Android手機裡面的。應用程序介面API。讓你只用語音就能操控手機。無論是找YouTube影片。設置會議行事曆。還是找今天舊金山的天氣。然後用文字簡訊把天氣資訊傳給好友。這些事都不需要用到你的雙手。只要跟Octopus V2 說說話。就能完成。根據測試。Octopus V2的正確率。跟GPT-4不相上下。但重點是。它的執行速度比GPT-4快了三倍。雖然Octopus V2。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_262.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=262" target="_blank"><strong># - 06:14 為什麼 OpenAI 要全力開發的 LLM OS？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">跟ReALM這兩篇論文。看起來好像有點廢。但他們都不約而同點出了兩件事。1. 在本機上安裝大語言模型是趨勢。2. 在大語言模型的幫助下。行動裝置或電腦。將不再依賴觸控螢幕。或鍵盤滑鼠的操控。而延續這個脈絡繼續推敲。一個神奇的大語言模型作業系統。LLM OS就誕生啦。前陣子OpenAI跟特斯拉的。前AI總監 Andrej Karpathy。在風險投資紅杉資本的公開活動中表示。通用人工智慧AGI離我們不遠了。還透露OpenAI目前的主要發展方向。是打造大語言作業系統LLM OS。那這個LLM OS到底是什麽呢。OS其實就是作業系統。像Windows或macOS。更早之前還有MS-Dos。那個打指令的黑畫面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">其實也是作業系統。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而這個作業系統的發展呢。其實跟I/O。也就是輸入和輸出裝置。有密切的關係。例如1963年滑鼠被發明以後。人們又花了十多年的時間。探索與滑鼠搭配使用的GUI圖形控制介面。一直到1984年。蘋果的Macintosh獲得了商業上的成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_332.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">人們才將圖形控制介面。與滑鼠視為個人電腦的標配。而後微軟才跟風。開發出配合滑鼠操作的作業系統。Windows. 在那之前。微軟只有MS-Dos。根本用不到滑鼠。讓我們回到Andrej Karpathy。分享的LLM OS上。他想告訴我們的是。大語言模型的出現。如同當年滑鼠發明。過去滑鼠讓我們看見。GUI圖形介面的可能性。蘋果抓住了機會。成為了電腦行業的領頭羊。締造了蘋果第一次的輝煌盛世。而如今大語言模型也讓我們看見。用語音還有機器視覺。來控制電腦的可能性。這次OpenAI能否抓住機會。成為領導者呢。就讓我們拭目以待吧。但如果你已經手癢想要自己煉蠱。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_374.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=374" target="_blank"><strong># - 06:57 有什麼能裝的 AI agent？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">啊我是說。你是想要在自己的電腦上。先跑個AI工具人試試。以下是網友推薦的三大AI Agent。1. CrewAI. 2. AutoGen. 3. Langflow. 我自己還有看過一套叫做AgentGPT。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過目前看起來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">安裝跟設定都偏複雜。一般人不要輕易嘗試。我看AJ光是搞個安裝環境。就弄到想摔機器。呃...這該不會是他想換。M3 MacBook Air的徵兆吧。但如果你真的非常熱愛AI Agent。沒有AI Agent 就吃不下飯。睡不著覺。就吃不下飯 睡不著覺。甚至活不下去的AI痴 AI狂。那上面提到的東西。你都可以裝來玩玩。如果你要找到更多。有趣實用的AI代理人服務。歡迎在下面留言跟大家推薦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦 接著就要來到業配時間啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_417.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=417" target="_blank"><strong># - 07:16 每個月有一次免費公益團體宣傳，歡迎申請</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過今天沒有業配啦。是要宣布一個公益廣告計劃。你知道台灣有超過10萬個公益團體嗎。他們默默地讓社會變得更好。但同時也需要你我的關注與支持。泛科學院預計每個月。會保留一支影片的廣告時間。給公益團體。歡迎感興趣的中小型公益團體。與我們聯繫哦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後你覺得未來的電腦或行動裝置。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_436.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=436" target="_blank"><strong># - 07:41 結尾</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">會是什麽樣子呢。A. 完全聲控還能自己看狀況。B. 原始的輸入設備還是必要的吧。不然當機怎麽辦。C. 在行動裝置上也許能做得到。但電腦應該不太行。D. 其他也歡迎留言分享哦。如果有其他想看的AI工具測試。或相關問題。也可以留言發問。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果喜歡這支影片的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也別忘了按讚 訂閱 加入會員。我們下期見拜拜。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=tAbwdcbMiC0</p><p>看來 apple 二月說要全力發展 AI，不是隨便說說而已啊，開始期待今年的 WWDC。這次藉由 apple 的 AI 論文，也一起來說說 OpenAI 目前全力開發的大語言模型作業系統（LLM OS），到底在做什麼吧！</p><p></p><p>（話說 iPhone 16 什麼時候要出？想買來玩玩看）</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>// 延伸閱讀 //</p><p>【ReALM 論文】</p><p>https://arxiv.org/abs/2403.20329</p><p>【Octopus v2 論文】</p><p>https://arxiv.org/abs/2404.01744</p><p>【LLM OS】</p><p>https://x.com/karpathy/status/1723140519554105733</p><p></p><p>00:00 - 00:54 前言</p><p>00:54 - 03:11 Apple AI 論文說明：ReALM 在做什麼？</p><p>03:11 - 04:22 android 的 AI agent：Octopus v2</p><p>04:22 - 06:14 為什麼 OpenAI 要全力開發的 LLM OS？</p><p>06:14 - 06:57 有什麼能裝的 AI agent？</p><p>06:57 - 07:16 每個月有一次免費公益團體宣傳，歡迎申請</p><p>07:16 - 07:41 結尾</p><p></p><p>#ai #aitools #iphone #apple #llm #android #gpt4</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=tAbwdcbMiC0"><img src="https://img.youtube.com/vi/tAbwdcbMiC0/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:54 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">今年2月。Apple終止了電動車開發。全力往AI領域發展。在我還在想Apple要怎麽彎道超車時。3月底Apple就主動發了一篇。AI相關的論文。這篇論文在說的是。在iPhone上加裝一個小的AI模型。就能讓Siri更能聽懂你說的話。在這篇論文出現之前。我想Siri要跟上AI浪潮。勢必要打掉重練。那現在呢。不用。在iPhone上裝個小型的AI模型。就能從智慧手機變成AI手機。讓Siri做到更多事。而在這篇論文的背後。也隱約看見了AI代理人。AI Agent的可能性。所以今天呢。我們就來分享。1. Apple如何用小型AI模型升級Siri。2. Android手機上的AI Agent的研究。3. 未來AI Agent的發展。沒有鍵盤滑鼠的LLM作業系統。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後再來分享。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">AJ自己裝AI代理人的碰壁心得吧。廢話不多說。讓我們正式開始。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">正如前面提到的。如果要讓Siri跟上AI浪潮。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_54.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=54" target="_blank"><strong># - 03:11 Apple AI 論文說明：ReALM 在做什麼？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那應該就只能重新開發了。但Apple的研究人員卻不這麽想。我就不改Siri。我直接在手機上。裝個能讀懂手機螢幕的。多模態大語言模型輔助Siri。這樣Siri的回應。不就能更貼近使用者的需求了嗎。舉個例子。當你問Siri附近餐廳時。它會給你餐廳列表。之後你必須要用手操作。但多了看得懂螢幕的AI。就能直接對它說。幫我訂最下面那間餐廳。然後就幫你訂好餐廳了。欸 這不就提供了。更好的使用體驗了嗎。不就完成了AI Siri的開發了嗎。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而能做到這件事情的關鍵。正是論文提出的新語言模型ReALM。中文稱為參考解析作為文字模型。嗯...文字模型我熟啊。各種GPT、LLaMA、Gemini 等等。但參考解析是啥呢。讓我們回到最前面說的。幫我訂最下面那間餐廳這句話。最下面那間餐廳。如果沒有螢幕上顯示的餐廳列表。那整句話就沒有意義了。而參考解析做的就是這件事。要能讀懂螢幕上跳出來的餐廳列表。並能理解你說的最下面那間餐廳。指的就是螢幕上餐廳列表的。最下面那一項。那麼輔助Siri的ReALM。要能做到什麽事情呢。我們從測試結果的指標來說明。會比較清楚。Conv是純文字理解。當我說打給女友時。要能打給女友。欸 這不是單純找電話簿而已啦。有可能電話簿裡的女友。被你命名成「沒接到會死人」。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那Siri就必須理解你說的女友。就是「沒接到會死人」。Synth則是代名詞解析。當我說播放它時。要能從畫面或對話脈絡中。理解我說的它是某個音樂或影片。Screen是整合螢幕畫面理解。像上面說的。幫我訂最下面那間餐廳。就要能理解我說的最下面。是螢幕上餐廳列表的最下面。Unseen則是超出上述範圍的任務。測試該模型在未知任務的泛用程度。這個測試結果也非常驚人啊。只要給語音助理多加一個。80M參數的小模型。效果就跟GPT-4不相上下。而在Synth的任務上。效果更是完勝GPT-4。太香了。iPhone 16什麽時候要出啊。而這篇論文。可能只是蘋果AI開發的冰山一角。期待今年在WWDC上。蘋果會拿出更讓人驚艷的AI應用。雖然ReALM是蘋果提出的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_191.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=191" target="_blank"><strong># - 04:22 android 的 AI agent：Octopus v2</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">但理論上。ReALM的概念。應該也能用在。其他Android手機上才對吧。是沒錯。而且馬上就被提出來了。就在蘋果論文提出一周後。史丹佛大學發表了。基於Android手機的超級AI代理人。Octopus v2. 在這邊插播一下。AI代理人(AI Agent)。目前沒有統一的定義。但多半都會提到。一個能理解其周遭環境。並能從環境中學習。且能與環境互動。解決問題的系統。白話說 無論你跟AI說什麽。AI都能正確理解你的需求。宛如你的分身。能幫你完成任務。所以蘋果提出的ReALM。一定程度上符合這個定義。而現在提到的Octopus V2也是。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好 那這篇論文到底講了什麽呢。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">在這篇論文中。研究人員訓練Octopus v2。控制Android手機裡面的。應用程序介面API。讓你只用語音就能操控手機。無論是找YouTube影片。設置會議行事曆。還是找今天舊金山的天氣。然後用文字簡訊把天氣資訊傳給好友。這些事都不需要用到你的雙手。只要跟Octopus V2 說說話。就能完成。根據測試。Octopus V2的正確率。跟GPT-4不相上下。但重點是。它的執行速度比GPT-4快了三倍。雖然Octopus V2。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_262.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=262" target="_blank"><strong># - 06:14 為什麼 OpenAI 要全力開發的 LLM OS？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">跟ReALM這兩篇論文。看起來好像有點廢。但他們都不約而同點出了兩件事。1. 在本機上安裝大語言模型是趨勢。2. 在大語言模型的幫助下。行動裝置或電腦。將不再依賴觸控螢幕。或鍵盤滑鼠的操控。而延續這個脈絡繼續推敲。一個神奇的大語言模型作業系統。LLM OS就誕生啦。前陣子OpenAI跟特斯拉的。前AI總監 Andrej Karpathy。在風險投資紅杉資本的公開活動中表示。通用人工智慧AGI離我們不遠了。還透露OpenAI目前的主要發展方向。是打造大語言作業系統LLM OS。那這個LLM OS到底是什麽呢。OS其實就是作業系統。像Windows或macOS。更早之前還有MS-Dos。那個打指令的黑畫面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">其實也是作業系統。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而這個作業系統的發展呢。其實跟I/O。也就是輸入和輸出裝置。有密切的關係。例如1963年滑鼠被發明以後。人們又花了十多年的時間。探索與滑鼠搭配使用的GUI圖形控制介面。一直到1984年。蘋果的Macintosh獲得了商業上的成功。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_332.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">人們才將圖形控制介面。與滑鼠視為個人電腦的標配。而後微軟才跟風。開發出配合滑鼠操作的作業系統。Windows. 在那之前。微軟只有MS-Dos。根本用不到滑鼠。讓我們回到Andrej Karpathy。分享的LLM OS上。他想告訴我們的是。大語言模型的出現。如同當年滑鼠發明。過去滑鼠讓我們看見。GUI圖形介面的可能性。蘋果抓住了機會。成為了電腦行業的領頭羊。締造了蘋果第一次的輝煌盛世。而如今大語言模型也讓我們看見。用語音還有機器視覺。來控制電腦的可能性。這次OpenAI能否抓住機會。成為領導者呢。就讓我們拭目以待吧。但如果你已經手癢想要自己煉蠱。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_374.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=374" target="_blank"><strong># - 06:57 有什麼能裝的 AI agent？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">啊我是說。你是想要在自己的電腦上。先跑個AI工具人試試。以下是網友推薦的三大AI Agent。1. CrewAI. 2. AutoGen. 3. Langflow. 我自己還有看過一套叫做AgentGPT。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過目前看起來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">安裝跟設定都偏複雜。一般人不要輕易嘗試。我看AJ光是搞個安裝環境。就弄到想摔機器。呃...這該不會是他想換。M3 MacBook Air的徵兆吧。但如果你真的非常熱愛AI Agent。沒有AI Agent 就吃不下飯。睡不著覺。就吃不下飯 睡不著覺。甚至活不下去的AI痴 AI狂。那上面提到的東西。你都可以裝來玩玩。如果你要找到更多。有趣實用的AI代理人服務。歡迎在下面留言跟大家推薦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦 接著就要來到業配時間啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_417.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=417" target="_blank"><strong># - 07:16 每個月有一次免費公益團體宣傳，歡迎申請</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過今天沒有業配啦。是要宣布一個公益廣告計劃。你知道台灣有超過10萬個公益團體嗎。他們默默地讓社會變得更好。但同時也需要你我的關注與支持。泛科學院預計每個月。會保留一支影片的廣告時間。給公益團體。歡迎感興趣的中小型公益團體。與我們聯繫哦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後你覺得未來的電腦或行動裝置。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/tAbwdcbMiC0_436.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/tAbwdcbMiC0&t=436" target="_blank"><strong># - 07:41 結尾</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">會是什麽樣子呢。A. 完全聲控還能自己看狀況。B. 原始的輸入設備還是必要的吧。不然當機怎麽辦。C. 在行動裝置上也許能做得到。但電腦應該不太行。D. 其他也歡迎留言分享哦。如果有其他想看的AI工具測試。或相關問題。也可以留言發問。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果喜歡這支影片的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也別忘了按讚 訂閱 加入會員。我們下期見拜拜。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=tAbwdcbMiC0</p><p>看來 apple 二月說要全力發展 AI，不是隨便說說而已啊，開始期待今年的 WWDC。這次藉由 apple 的 AI 論文，也一起來說說 OpenAI 目前全力開發的大語言模型作業系統（LLM OS），到底在做什麼吧！</p><p></p><p>（話說 iPhone 16 什麼時候要出？想買來玩玩看）</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>// 延伸閱讀 //</p><p>【ReALM 論文】</p><p>https://arxiv.org/abs/2403.20329</p><p>【Octopus v2 論文】</p><p>https://arxiv.org/abs/2404.01744</p><p>【LLM OS】</p><p>https://x.com/karpathy/status/1723140519554105733</p><p></p><p>00:00 - 00:54 前言</p><p>00:54 - 03:11 Apple AI 論文說明：ReALM 在做什麼？</p><p>03:11 - 04:22 android 的 AI agent：Octopus v2</p><p>04:22 - 06:14 為什麼 OpenAI 要全力開發的 LLM OS？</p><p>06:14 - 06:57 有什麼能裝的 AI agent？</p><p>06:57 - 07:16 每個月有一次免費公益團體宣傳，歡迎申請</p><p>07:16 - 07:41 結尾</p><p></p><p>#ai #aitools #iphone #apple #llm #android #gpt4</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/tAbwdcbMiC0/maxresdefault.jpg"/>
-      <pubDate>2024-04-17T02:00:43.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[你真的需要一台 AI PC？分清楚用途再選購，2024 A I PC選購指南｜泛科學院]]></title>
-      <link>https://www.youtube.com/watch?v=RX7vraELCkQ</link>
-      <itunes:title><![CDATA[你真的需要一台 AI PC？分清楚用途再選購，2024 A I PC選購指南｜泛科學院]]></itunes:title>
-      <itunes:author><![CDATA[泛科學院]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/3.jpg" /></a></p>
-<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:48 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">2023年3月。Intel跟微軟共同發布了AI PC的定義。在他們的定義中。一台AI PC。需要用到Intel的Core Ultra處理器。還有內建微軟的Copilot AI。鍵盤上還需要一個實體的Copilot按鍵。才算是一台AI PC。呃...這個AJ看到後就發現。案情其實並不單純。定義AI PC這件事。可能遠比你想的還要重要。所以今天呢。我們就來回答三個問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一 AI PC是什麽。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二 AI PC強在哪裡。第三 有哪些公司跟AI PC有關。最後再來跟大家分享。是否要購買AI PC的建議。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外本集節目由。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">DIGITIMES AI EXPO TAIWAN 贊助播出。感謝金主爸爸支持。而這集講到的公司大多都有參展。如果你想知道最新的AI趨勢。可以到資訊欄搜尋連結。線上報名參加。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_48.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=48" target="_blank"><strong># - 02:39 AI PC 是什麼?</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">先來整理一下前面說的AI PC定義。AI PC是Intel跟微軟。近期推出的最新產品分類。一台電腦要包含下面三個要素。才能稱為AI PC。1. 搭載Intel Core Ultra處理器。2. 安裝Windows 11並搭載Copilot AI助理。3. 鍵盤上要有實體的Copilot按鍵。Intel Core Ultra是一塊。整合了CPU、GPU還有NPU的晶片組。主打的是AI加速處理。至於NPU是什麽。我們後面再細說。而Copilot是微軟參考GPT-4的技術。呃...參考 借鑒。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">總之就是跟OpenAI借了GPT-4的技術。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">開發出來的AI助理服務。我們頻道過去有做了一支。Copilot系列的功能介紹與比較。我把影片連結放在下面說明欄。有興趣的觀眾可以自己過去看。而做實體按鍵這個事情。呃...可以說是微軟的傳統了。Intel跟微軟為了讓你更願意掏錢。啊不是 我是說。為了有更好的使用體驗。早在Windows 95的年代。為了讓大家可以輕鬆打開開始選單。他們就在鍵盤上準備了開始鍵。而這一優良傳統延續到了AI時代。就變成了Copilot的鍵啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_117.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過要注意一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">開始鍵應該還在啦。希望有拿到AI PC的觀眾。能幫我們補充一下。另外你還會發現。AI PC的筆電上。會貼著一張Intel Evo的貼紙。這張貼紙代表了這台筆電。有以下五個優點。1. 電池充飽後續航力可以超過9小時。2. 只需要充電30分鐘就可以用4小時。3. 1秒可以從睡眠喚醒。4. 各方面的效能平衡。且提供一致性的反應速度。5. 支援 Thunderbolt 4。以及最新的Wi-Fi 6連線技術。Intel Evo我覺得其實就是。2011年的輕薄筆電。UltraBook的延伸。是說這個由MacBook Air帶起的筆電風潮。也過了十幾年了。現在還會有人從牛皮紙袋中。拿出筆電來嗎。聽完AI PC的故事。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_159.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=159" target="_blank"><strong># - 05:06 AI PC 的優勢</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我們就來說說AI PC的規格。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">真的是未來AI時代需要的電腦嗎。在深入聊之前。我們要先搞清楚。訓練AI跟應用AI的硬體需求。是不一樣的。訓練AI是像OpenAI。練一個GPT-4模型。會需要長時間大量重複的運算。所以能平行運算的GPU。或Google推出的TPU是相對重要的。而應用AI。是用像是Copilot之類的AI助理服務。用算好的模型。快速存取模型中的神經網路節點。進行內容生成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種為了執行類神經網路運算。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而設計的晶片。也就是前面提到的NPU。全稱為Neural-network Processing Unit。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種特化過後的NPU。在AI生成時理論上會更有效率。也更省電。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">更符合你我的需求。不過先別急著買AI PC啊。Copilot的模型現在還沒小到。可以直接安裝在本機電腦中。需要連網使用。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過隔壁的Google Pixel手機。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">都已經把Gemini Nano內建到手機中了。我想Copilot能內建在電腦中。也只是時間問題。回過頭來看。AI PC近期的主要優勢。就是提高電腦執行AI應用的速度。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_225.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如使用Zoom參加線上會議時。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就能提供AI Companion的功能。讓AI能快速總結會議摘要。並優化視訊畫面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">提供背景合成、聲音降噪等功能。又或者是用Filmora剪影片。AI能幫剪輯素材。先做文字分析。然後根據文字段落進行剪輯。還支援音樂生成功能。這一切都可以在本機完成。減少遠端伺服器的運算壓力。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而這就是你可能有聽過的。邊緣運算。另外AI PC還支援一個非常重要的功能。那就是AI偵測電腦病毒。過去我們做防毒偵測。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主要是透過病毒碼。以及軟體行為偵測等技術。但面對快速變種的勒索病毒。防毒軟體只會覺得它很可疑。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著就把檔案的特徵丟去雲端。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">做進一步檢視。而這個一來一回。你可能就不小心點開檔案。然後電腦就已經掰了。而現在呢。Intel跟各家資安公司合作。使用AI來即時偵測勒索病毒。直接使用本機的NPU執行。病毒辨識也不用一來一回的等待。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不僅消除讓你中獎的時間差。你的隱私資料也不易外流。不過這並不代表你不用裝防毒軟體。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_288.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">應該是你要跟提供防毒軟體的公司。確認他們是否提供了。上述AI架構的掃毒功能。Intel只提供了硬體環境。能不能跑還是要看軟體支不支援。話說關於AI資安的問題。我們前一支聊AI女友的時候。也有深入討論。有興趣的話可以到這邊看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_306.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=306" target="_blank"><strong># - 06:24 AI PC 的發展與未來</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以有哪些公司跟AI PC有關呢。台灣的宏碁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">華碩、微星與技嘉等電腦大廠。其實都已經有推出符合AI PC架構筆電。所以其實各家早在備戰。本機AI應用的這塊市場了。AI PC喊出來。真的只是時機到了而已。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外現在提供雲端服務的廠商。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如微軟、亞馬遜、Google。還有台灣的台智雲。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">通常都提供模型訓練。以及模型托管的服務。比如OpenAI的好朋友 微軟。推出的Azure AI。可以建構自己的GPT-4模型。亞馬遜前陣子也宣布。提供Claude模型的服務。Google推出的Vertex AI。可以建構自己的Gemini應用。而台智雲則是...</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主打自家的FFM。福爾摩沙大模型。這可以說是戰國時期。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">百家爭鳴的狀態啊。而提供他們設備的。則是近期股價表現亮眼的廣達、鴻海。以及緯創跟Vantage Data…等等。目前看來就算AI PC成熟。AI伺服器提供的雲端AI服務。短期內也不太可能被AI PC完全取代。因此企業可以用AI PC。配合前面提到的雲端服務。讓你在建構私有雲的時候。分散伺服器的壓力到終端裝置上。讓使用者獲得AI功能的加成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_376.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">可說是Win Win的局面。不過AI產業發展迅速。可能在你看到這些影片的當下。又有更新的架構被提出了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_384.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=384" target="_blank"><strong># - 07:07 DIGITIMES AI EXPO 2024 免費報名中！</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果你想要更了解上述的內容。可以到Digitimes AI EXPO Taiwan。4/24 到 4/26。圓山花博爭豔館。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上面提到的多家廠商。都有參加AI EXPO TAIWAN。讓你看見。這些廠商的最新產品與服務。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外AI EXPO也提供科普專區。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">配合這支影片。讓你在AI EXPO能快速進入狀況。擁抱AI趨勢先機。無論你是想搞懂AI最新趨勢。還是想幫孩子看看未來的方向。或是...你只是單純想抽iPhone。都建議來AI EXPO Taiwan走走。再說一次。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">AI EXPO Taiwan. 免費出席抽iPhone 15 Pro Max。4月24日-4月26日。圓山花博爭豔館。快來登記報名吧。沒登記可是進不去的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_427.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=427" target="_blank"><strong># - 08:41 總結：你該現在買 AI PC 嗎？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦。本集我們整理了整個AI PC的脈絡。我把懶人包放在這裡。有需要的人可以暫停看一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後來給想買AI PC的朋友一些建議吧。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果你主要是用桌上型電腦。那不用想了。4090獨立顯卡直接給它買下去。因為桌上型的處理器。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">至少到目前為止。都還沒看到內建NPU的規劃。所以所有的平行運算。都還是要在GPU上執行。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">筆記型電腦方面。各家網購平台。都已經推出AI筆電的專區了。最低3萬元左右。就可以買到最新的AI PC。或許你還沒體驗到。AI工具帶來的工作流程改變。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過潮流已經出現。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">據說到2025年。也就是明年。將會出貨超過1億台AI PC。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">更各家軟硬體廠商。都會在這個全新的賽道上。不斷推出基於AI PC架構的。各種新應用與服務。畢竟你如果不做。你的對手可不會等你。有點離題了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過在可遇見的未來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我們勢必會發現。自己的電腦。會擁有更多基於AI技術的功能。也許你可以再等一會。等桌上型電腦也內建NPU之後。再過來買真正的AI PC。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_491.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過如果你是想要買AI PC筆電的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我覺得你還是可以先選擇Intel Evo認證的。會比較保險一點。最後你覺得AI PC。會像微軟和Intel預想的一樣。發展下去嗎。A. 會 終究要讓自己的電腦。分擔伺服器的工作。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">B. 不會 AI PC就只是個宣傳話術。C. 我是果粉 我驕傲。AI PC如浮雲。如果有其他想看的AI工具測試。或相關問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也可以留言發問哦。如果喜歡這支影片的話。也別忘了按讚 訂閱 加入會員。我們下集見 掰掰。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=RX7vraELCkQ</p><p>AI PC 是未來的趨勢嗎？本機內建 AI 勢在必行嗎？今天我們來聊聊這個話題。</p><p></p><p>本集由 DIGITIMES 贊助，想追上 AI 最新資訊，就到 DIGITIMES AI EXPO 2024 ，4/24 - 4/26，圓山花博爭豔館，</p><p></p><p>【DIGITIMES AI EXPO 2024 免費報名中！】</p><p>https://www.digitimes.com.tw/ai_expo_2024/index.asp?gad_source=1\u0026gclid=CjwKCAjw_LOwBhBFEiwAmSEQAb5z331SSGOxJRS6w4N7R4A8_mO1-VzwN7wSs-0WeVDauQ7h25RXVRoCgy0QAvD_BwE</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>00:00 - 00:48 前言</p><p>00:48 - 02:39 AI PC 是什麼?</p><p>02:39 - 05:06 AI PC 的優勢</p><p>05:06 - 06:24 AI PC 的發展與未來</p><p>06:24 - 07:07 DIGITIMES AI EXPO 2024 免費報名中！</p><p>07:07 - 08:41 總結：你該現在買 AI PC 嗎？</p><p></p><p>#ai #aipc #chatgpt #aitools #npu #intel</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/3.jpg" /></a></p>
-<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:48 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">2023年3月。Intel跟微軟共同發布了AI PC的定義。在他們的定義中。一台AI PC。需要用到Intel的Core Ultra處理器。還有內建微軟的Copilot AI。鍵盤上還需要一個實體的Copilot按鍵。才算是一台AI PC。呃...這個AJ看到後就發現。案情其實並不單純。定義AI PC這件事。可能遠比你想的還要重要。所以今天呢。我們就來回答三個問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一 AI PC是什麽。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二 AI PC強在哪裡。第三 有哪些公司跟AI PC有關。最後再來跟大家分享。是否要購買AI PC的建議。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外本集節目由。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">DIGITIMES AI EXPO TAIWAN 贊助播出。感謝金主爸爸支持。而這集講到的公司大多都有參展。如果你想知道最新的AI趨勢。可以到資訊欄搜尋連結。線上報名參加。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_48.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=48" target="_blank"><strong># - 02:39 AI PC 是什麼?</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">先來整理一下前面說的AI PC定義。AI PC是Intel跟微軟。近期推出的最新產品分類。一台電腦要包含下面三個要素。才能稱為AI PC。1. 搭載Intel Core Ultra處理器。2. 安裝Windows 11並搭載Copilot AI助理。3. 鍵盤上要有實體的Copilot按鍵。Intel Core Ultra是一塊。整合了CPU、GPU還有NPU的晶片組。主打的是AI加速處理。至於NPU是什麽。我們後面再細說。而Copilot是微軟參考GPT-4的技術。呃...參考 借鑒。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">總之就是跟OpenAI借了GPT-4的技術。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">開發出來的AI助理服務。我們頻道過去有做了一支。Copilot系列的功能介紹與比較。我把影片連結放在下面說明欄。有興趣的觀眾可以自己過去看。而做實體按鍵這個事情。呃...可以說是微軟的傳統了。Intel跟微軟為了讓你更願意掏錢。啊不是 我是說。為了有更好的使用體驗。早在Windows 95的年代。為了讓大家可以輕鬆打開開始選單。他們就在鍵盤上準備了開始鍵。而這一優良傳統延續到了AI時代。就變成了Copilot的鍵啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_117.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過要注意一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">開始鍵應該還在啦。希望有拿到AI PC的觀眾。能幫我們補充一下。另外你還會發現。AI PC的筆電上。會貼著一張Intel Evo的貼紙。這張貼紙代表了這台筆電。有以下五個優點。1. 電池充飽後續航力可以超過9小時。2. 只需要充電30分鐘就可以用4小時。3. 1秒可以從睡眠喚醒。4. 各方面的效能平衡。且提供一致性的反應速度。5. 支援 Thunderbolt 4。以及最新的Wi-Fi 6連線技術。Intel Evo我覺得其實就是。2011年的輕薄筆電。UltraBook的延伸。是說這個由MacBook Air帶起的筆電風潮。也過了十幾年了。現在還會有人從牛皮紙袋中。拿出筆電來嗎。聽完AI PC的故事。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_159.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=159" target="_blank"><strong># - 05:06 AI PC 的優勢</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我們就來說說AI PC的規格。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">真的是未來AI時代需要的電腦嗎。在深入聊之前。我們要先搞清楚。訓練AI跟應用AI的硬體需求。是不一樣的。訓練AI是像OpenAI。練一個GPT-4模型。會需要長時間大量重複的運算。所以能平行運算的GPU。或Google推出的TPU是相對重要的。而應用AI。是用像是Copilot之類的AI助理服務。用算好的模型。快速存取模型中的神經網路節點。進行內容生成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種為了執行類神經網路運算。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而設計的晶片。也就是前面提到的NPU。全稱為Neural-network Processing Unit。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種特化過後的NPU。在AI生成時理論上會更有效率。也更省電。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">更符合你我的需求。不過先別急著買AI PC啊。Copilot的模型現在還沒小到。可以直接安裝在本機電腦中。需要連網使用。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過隔壁的Google Pixel手機。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">都已經把Gemini Nano內建到手機中了。我想Copilot能內建在電腦中。也只是時間問題。回過頭來看。AI PC近期的主要優勢。就是提高電腦執行AI應用的速度。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_225.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如使用Zoom參加線上會議時。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就能提供AI Companion的功能。讓AI能快速總結會議摘要。並優化視訊畫面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">提供背景合成、聲音降噪等功能。又或者是用Filmora剪影片。AI能幫剪輯素材。先做文字分析。然後根據文字段落進行剪輯。還支援音樂生成功能。這一切都可以在本機完成。減少遠端伺服器的運算壓力。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而這就是你可能有聽過的。邊緣運算。另外AI PC還支援一個非常重要的功能。那就是AI偵測電腦病毒。過去我們做防毒偵測。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主要是透過病毒碼。以及軟體行為偵測等技術。但面對快速變種的勒索病毒。防毒軟體只會覺得它很可疑。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著就把檔案的特徵丟去雲端。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">做進一步檢視。而這個一來一回。你可能就不小心點開檔案。然後電腦就已經掰了。而現在呢。Intel跟各家資安公司合作。使用AI來即時偵測勒索病毒。直接使用本機的NPU執行。病毒辨識也不用一來一回的等待。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不僅消除讓你中獎的時間差。你的隱私資料也不易外流。不過這並不代表你不用裝防毒軟體。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_288.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">應該是你要跟提供防毒軟體的公司。確認他們是否提供了。上述AI架構的掃毒功能。Intel只提供了硬體環境。能不能跑還是要看軟體支不支援。話說關於AI資安的問題。我們前一支聊AI女友的時候。也有深入討論。有興趣的話可以到這邊看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_306.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=306" target="_blank"><strong># - 06:24 AI PC 的發展與未來</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以有哪些公司跟AI PC有關呢。台灣的宏碁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">華碩、微星與技嘉等電腦大廠。其實都已經有推出符合AI PC架構筆電。所以其實各家早在備戰。本機AI應用的這塊市場了。AI PC喊出來。真的只是時機到了而已。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外現在提供雲端服務的廠商。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如微軟、亞馬遜、Google。還有台灣的台智雲。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">通常都提供模型訓練。以及模型托管的服務。比如OpenAI的好朋友 微軟。推出的Azure AI。可以建構自己的GPT-4模型。亞馬遜前陣子也宣布。提供Claude模型的服務。Google推出的Vertex AI。可以建構自己的Gemini應用。而台智雲則是...</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主打自家的FFM。福爾摩沙大模型。這可以說是戰國時期。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">百家爭鳴的狀態啊。而提供他們設備的。則是近期股價表現亮眼的廣達、鴻海。以及緯創跟Vantage Data…等等。目前看來就算AI PC成熟。AI伺服器提供的雲端AI服務。短期內也不太可能被AI PC完全取代。因此企業可以用AI PC。配合前面提到的雲端服務。讓你在建構私有雲的時候。分散伺服器的壓力到終端裝置上。讓使用者獲得AI功能的加成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_376.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">可說是Win Win的局面。不過AI產業發展迅速。可能在你看到這些影片的當下。又有更新的架構被提出了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_384.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=384" target="_blank"><strong># - 07:07 DIGITIMES AI EXPO 2024 免費報名中！</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果你想要更了解上述的內容。可以到Digitimes AI EXPO Taiwan。4/24 到 4/26。圓山花博爭豔館。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上面提到的多家廠商。都有參加AI EXPO TAIWAN。讓你看見。這些廠商的最新產品與服務。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外AI EXPO也提供科普專區。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">配合這支影片。讓你在AI EXPO能快速進入狀況。擁抱AI趨勢先機。無論你是想搞懂AI最新趨勢。還是想幫孩子看看未來的方向。或是...你只是單純想抽iPhone。都建議來AI EXPO Taiwan走走。再說一次。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">AI EXPO Taiwan. 免費出席抽iPhone 15 Pro Max。4月24日-4月26日。圓山花博爭豔館。快來登記報名吧。沒登記可是進不去的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_427.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=427" target="_blank"><strong># - 08:41 總結：你該現在買 AI PC 嗎？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦。本集我們整理了整個AI PC的脈絡。我把懶人包放在這裡。有需要的人可以暫停看一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後來給想買AI PC的朋友一些建議吧。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果你主要是用桌上型電腦。那不用想了。4090獨立顯卡直接給它買下去。因為桌上型的處理器。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">至少到目前為止。都還沒看到內建NPU的規劃。所以所有的平行運算。都還是要在GPU上執行。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">筆記型電腦方面。各家網購平台。都已經推出AI筆電的專區了。最低3萬元左右。就可以買到最新的AI PC。或許你還沒體驗到。AI工具帶來的工作流程改變。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過潮流已經出現。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">據說到2025年。也就是明年。將會出貨超過1億台AI PC。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">更各家軟硬體廠商。都會在這個全新的賽道上。不斷推出基於AI PC架構的。各種新應用與服務。畢竟你如果不做。你的對手可不會等你。有點離題了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過在可遇見的未來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我們勢必會發現。自己的電腦。會擁有更多基於AI技術的功能。也許你可以再等一會。等桌上型電腦也內建NPU之後。再過來買真正的AI PC。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_491.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過如果你是想要買AI PC筆電的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我覺得你還是可以先選擇Intel Evo認證的。會比較保險一點。最後你覺得AI PC。會像微軟和Intel預想的一樣。發展下去嗎。A. 會 終究要讓自己的電腦。分擔伺服器的工作。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">B. 不會 AI PC就只是個宣傳話術。C. 我是果粉 我驕傲。AI PC如浮雲。如果有其他想看的AI工具測試。或相關問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也可以留言發問哦。如果喜歡這支影片的話。也別忘了按讚 訂閱 加入會員。我們下集見 掰掰。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=RX7vraELCkQ</p><p>AI PC 是未來的趨勢嗎？本機內建 AI 勢在必行嗎？今天我們來聊聊這個話題。</p><p></p><p>本集由 DIGITIMES 贊助，想追上 AI 最新資訊，就到 DIGITIMES AI EXPO 2024 ，4/24 - 4/26，圓山花博爭豔館，</p><p></p><p>【DIGITIMES AI EXPO 2024 免費報名中！】</p><p>https://www.digitimes.com.tw/ai_expo_2024/index.asp?gad_source=1\u0026gclid=CjwKCAjw_LOwBhBFEiwAmSEQAb5z331SSGOxJRS6w4N7R4A8_mO1-VzwN7wSs-0WeVDauQ7h25RXVRoCgy0QAvD_BwE</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>00:00 - 00:48 前言</p><p>00:48 - 02:39 AI PC 是什麼?</p><p>02:39 - 05:06 AI PC 的優勢</p><p>05:06 - 06:24 AI PC 的發展與未來</p><p>06:24 - 07:07 DIGITIMES AI EXPO 2024 免費報名中！</p><p>07:07 - 08:41 總結：你該現在買 AI PC 嗎？</p><p></p><p>#ai #aipc #chatgpt #aitools #npu #intel</p>]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=RX7vraELCkQ"><img src="https://img.youtube.com/vi/RX7vraELCkQ/3.jpg" /></a></p><br />
-<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><strong># - 00:48 前言</strong></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">2023年3月。Intel跟微軟共同發布了AI PC的定義。在他們的定義中。一台AI PC。需要用到Intel的Core Ultra處理器。還有內建微軟的Copilot AI。鍵盤上還需要一個實體的Copilot按鍵。才算是一台AI PC。呃...這個AJ看到後就發現。案情其實並不單純。定義AI PC這件事。可能遠比你想的還要重要。所以今天呢。我們就來回答三個問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第一 AI PC是什麽。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">第二 AI PC強在哪裡。第三 有哪些公司跟AI PC有關。最後再來跟大家分享。是否要購買AI PC的建議。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外本集節目由。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">DIGITIMES AI EXPO TAIWAN 贊助播出。感謝金主爸爸支持。而這集講到的公司大多都有參展。如果你想知道最新的AI趨勢。可以到資訊欄搜尋連結。線上報名參加。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_48.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=48" target="_blank"><strong># - 02:39 AI PC 是什麼?</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">先來整理一下前面說的AI PC定義。AI PC是Intel跟微軟。近期推出的最新產品分類。一台電腦要包含下面三個要素。才能稱為AI PC。1. 搭載Intel Core Ultra處理器。2. 安裝Windows 11並搭載Copilot AI助理。3. 鍵盤上要有實體的Copilot按鍵。Intel Core Ultra是一塊。整合了CPU、GPU還有NPU的晶片組。主打的是AI加速處理。至於NPU是什麽。我們後面再細說。而Copilot是微軟參考GPT-4的技術。呃...參考 借鑒。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">總之就是跟OpenAI借了GPT-4的技術。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">開發出來的AI助理服務。我們頻道過去有做了一支。Copilot系列的功能介紹與比較。我把影片連結放在下面說明欄。有興趣的觀眾可以自己過去看。而做實體按鍵這個事情。呃...可以說是微軟的傳統了。Intel跟微軟為了讓你更願意掏錢。啊不是 我是說。為了有更好的使用體驗。早在Windows 95的年代。為了讓大家可以輕鬆打開開始選單。他們就在鍵盤上準備了開始鍵。而這一優良傳統延續到了AI時代。就變成了Copilot的鍵啦。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_117.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過要注意一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">開始鍵應該還在啦。希望有拿到AI PC的觀眾。能幫我們補充一下。另外你還會發現。AI PC的筆電上。會貼著一張Intel Evo的貼紙。這張貼紙代表了這台筆電。有以下五個優點。1. 電池充飽後續航力可以超過9小時。2. 只需要充電30分鐘就可以用4小時。3. 1秒可以從睡眠喚醒。4. 各方面的效能平衡。且提供一致性的反應速度。5. 支援 Thunderbolt 4。以及最新的Wi-Fi 6連線技術。Intel Evo我覺得其實就是。2011年的輕薄筆電。UltraBook的延伸。是說這個由MacBook Air帶起的筆電風潮。也過了十幾年了。現在還會有人從牛皮紙袋中。拿出筆電來嗎。聽完AI PC的故事。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_159.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=159" target="_blank"><strong># - 05:06 AI PC 的優勢</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我們就來說說AI PC的規格。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">真的是未來AI時代需要的電腦嗎。在深入聊之前。我們要先搞清楚。訓練AI跟應用AI的硬體需求。是不一樣的。訓練AI是像OpenAI。練一個GPT-4模型。會需要長時間大量重複的運算。所以能平行運算的GPU。或Google推出的TPU是相對重要的。而應用AI。是用像是Copilot之類的AI助理服務。用算好的模型。快速存取模型中的神經網路節點。進行內容生成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種為了執行類神經網路運算。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而設計的晶片。也就是前面提到的NPU。全稱為Neural-network Processing Unit。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這種特化過後的NPU。在AI生成時理論上會更有效率。也更省電。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">更符合你我的需求。不過先別急著買AI PC啊。Copilot的模型現在還沒小到。可以直接安裝在本機電腦中。需要連網使用。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過隔壁的Google Pixel手機。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">都已經把Gemini Nano內建到手機中了。我想Copilot能內建在電腦中。也只是時間問題。回過頭來看。AI PC近期的主要優勢。就是提高電腦執行AI應用的速度。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_225.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如使用Zoom參加線上會議時。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就能提供AI Companion的功能。讓AI能快速總結會議摘要。並優化視訊畫面。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">提供背景合成、聲音降噪等功能。又或者是用Filmora剪影片。AI能幫剪輯素材。先做文字分析。然後根據文字段落進行剪輯。還支援音樂生成功能。這一切都可以在本機完成。減少遠端伺服器的運算壓力。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">而這就是你可能有聽過的。邊緣運算。另外AI PC還支援一個非常重要的功能。那就是AI偵測電腦病毒。過去我們做防毒偵測。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主要是透過病毒碼。以及軟體行為偵測等技術。但面對快速變種的勒索病毒。防毒軟體只會覺得它很可疑。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">接著就把檔案的特徵丟去雲端。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">做進一步檢視。而這個一來一回。你可能就不小心點開檔案。然後電腦就已經掰了。而現在呢。Intel跟各家資安公司合作。使用AI來即時偵測勒索病毒。直接使用本機的NPU執行。病毒辨識也不用一來一回的等待。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不僅消除讓你中獎的時間差。你的隱私資料也不易外流。不過這並不代表你不用裝防毒軟體。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_288.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">應該是你要跟提供防毒軟體的公司。確認他們是否提供了。上述AI架構的掃毒功能。Intel只提供了硬體環境。能不能跑還是要看軟體支不支援。話說關於AI資安的問題。我們前一支聊AI女友的時候。也有深入討論。有興趣的話可以到這邊看。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_306.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=306" target="_blank"><strong># - 06:24 AI PC 的發展與未來</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">所以有哪些公司跟AI PC有關呢。台灣的宏碁。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">華碩、微星與技嘉等電腦大廠。其實都已經有推出符合AI PC架構筆電。所以其實各家早在備戰。本機AI應用的這塊市場了。AI PC喊出來。真的只是時機到了而已。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外現在提供雲端服務的廠商。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如微軟、亞馬遜、Google。還有台灣的台智雲。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">通常都提供模型訓練。以及模型托管的服務。比如OpenAI的好朋友 微軟。推出的Azure AI。可以建構自己的GPT-4模型。亞馬遜前陣子也宣布。提供Claude模型的服務。Google推出的Vertex AI。可以建構自己的Gemini應用。而台智雲則是...</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">主打自家的FFM。福爾摩沙大模型。這可以說是戰國時期。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">百家爭鳴的狀態啊。而提供他們設備的。則是近期股價表現亮眼的廣達、鴻海。以及緯創跟Vantage Data…等等。目前看來就算AI PC成熟。AI伺服器提供的雲端AI服務。短期內也不太可能被AI PC完全取代。因此企業可以用AI PC。配合前面提到的雲端服務。讓你在建構私有雲的時候。分散伺服器的壓力到終端裝置上。讓使用者獲得AI功能的加成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_376.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">可說是Win Win的局面。不過AI產業發展迅速。可能在你看到這些影片的當下。又有更新的架構被提出了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_384.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=384" target="_blank"><strong># - 07:07 DIGITIMES AI EXPO 2024 免費報名中！</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果你想要更了解上述的內容。可以到Digitimes AI EXPO Taiwan。4/24 到 4/26。圓山花博爭豔館。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">上面提到的多家廠商。都有參加AI EXPO TAIWAN。讓你看見。這些廠商的最新產品與服務。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">另外AI EXPO也提供科普專區。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">配合這支影片。讓你在AI EXPO能快速進入狀況。擁抱AI趨勢先機。無論你是想搞懂AI最新趨勢。還是想幫孩子看看未來的方向。或是...你只是單純想抽iPhone。都建議來AI EXPO Taiwan走走。再說一次。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">AI EXPO Taiwan. 免費出席抽iPhone 15 Pro Max。4月24日-4月26日。圓山花博爭豔館。快來登記報名吧。沒登記可是進不去的。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_427.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/RX7vraELCkQ&t=427" target="_blank"><strong># - 08:41 總結：你該現在買 AI PC 嗎？</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">好啦。本集我們整理了整個AI PC的脈絡。我把懶人包放在這裡。有需要的人可以暫停看一下。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">最後來給想買AI PC的朋友一些建議吧。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">如果你主要是用桌上型電腦。那不用想了。4090獨立顯卡直接給它買下去。因為桌上型的處理器。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">至少到目前為止。都還沒看到內建NPU的規劃。所以所有的平行運算。都還是要在GPU上執行。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">筆記型電腦方面。各家網購平台。都已經推出AI筆電的專區了。最低3萬元左右。就可以買到最新的AI PC。或許你還沒體驗到。AI工具帶來的工作流程改變。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過潮流已經出現。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">據說到2025年。也就是明年。將會出貨超過1億台AI PC。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">更各家軟硬體廠商。都會在這個全新的賽道上。不斷推出基於AI PC架構的。各種新應用與服務。畢竟你如果不做。你的對手可不會等你。有點離題了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過在可遇見的未來。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我們勢必會發現。自己的電腦。會擁有更多基於AI技術的功能。也許你可以再等一會。等桌上型電腦也內建NPU之後。再過來買真正的AI PC。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/RX7vraELCkQ_491.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過如果你是想要買AI PC筆電的話。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">我覺得你還是可以先選擇Intel Evo認證的。會比較保險一點。最後你覺得AI PC。會像微軟和Intel預想的一樣。發展下去嗎。A. 會 終究要讓自己的電腦。分擔伺服器的工作。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">B. 不會 AI PC就只是個宣傳話術。C. 我是果粉 我驕傲。AI PC如浮雲。如果有其他想看的AI工具測試。或相關問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">也可以留言發問哦。如果喜歡這支影片的話。也別忘了按讚 訂閱 加入會員。我們下集見 掰掰。</p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=RX7vraELCkQ</p><p>AI PC 是未來的趨勢嗎？本機內建 AI 勢在必行嗎？今天我們來聊聊這個話題。</p><p></p><p>本集由 DIGITIMES 贊助，想追上 AI 最新資訊，就到 DIGITIMES AI EXPO 2024 ，4/24 - 4/26，圓山花博爭豔館，</p><p></p><p>【DIGITIMES AI EXPO 2024 免費報名中！】</p><p>https://www.digitimes.com.tw/ai_expo_2024/index.asp?gad_source=1\u0026gclid=CjwKCAjw_LOwBhBFEiwAmSEQAb5z331SSGOxJRS6w4N7R4A8_mO1-VzwN7wSs-0WeVDauQ7h25RXVRoCgy0QAvD_BwE</p><p></p><p>歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</p><p>歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N</p><p></p><p>00:00 - 00:48 前言</p><p>00:48 - 02:39 AI PC 是什麼?</p><p>02:39 - 05:06 AI PC 的優勢</p><p>05:06 - 06:24 AI PC 的發展與未來</p><p>06:24 - 07:07 DIGITIMES AI EXPO 2024 免費報名中！</p><p>07:07 - 08:41 總結：你該現在買 AI PC 嗎？</p><p></p><p>#ai #aipc #chatgpt #aitools #npu #intel</p>]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/RX7vraELCkQ/maxresdefault.jpg"/>
-      <pubDate>2024-04-15T02:00:10.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[【路易莎咖啡創業心路：從一人到五百家店】EP9_當你真心渴望夢想，全宇宙都會聯合起來幫你完成 |【泛科學院 X 一刻鯨選】]]></title>
-      <link>https://www.youtube.com/watch?v=3HH4dL7mWq4</link>
-      <itunes:title><![CDATA[【路易莎咖啡創業心路：從一人到五百家店】EP9_當你真心渴望夢想，全宇宙都會聯合起來幫你完成 |【泛科學院 X 一刻鯨選】]]></itunes:title>
-      <itunes:author><![CDATA[泛科學院]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=3HH4dL7mWq4
-「從一個人到500家店，對咖啡的信念，始終不變。」
-
-如果人生是一座彈珠台，我們要怎麼在每個釘子點，努力躍起，創造精彩？
-
-路易莎咖啡，2006年創立，從一間巷弄裡的5坪外帶小店，經過十多年的淬練，2020年成為全台近500間門市的台灣連鎖精品咖啡霸主。從街角巷弄到精華特區，以虛擬黑卡旋風、創新的座位價值理論、風格獨具的第三波圖書館、古宅、森林公園等多元創意門市，將精品咖啡帶入日常生活，創造了屬於華人的全新咖啡生活文化。
-
-路易莎創辦人兼董事長黃銘賢，從一個堅持職人信念，固守烘豆機的烘豆師，蛻變成長，成為帶領路易莎穩健邁向國際品牌的企業家。在創業的彈珠臺上，一路跌跌撞撞，躍起又跌落。他如何在全球咖啡期貨大漲中熬過人生的最低潮？如何挺過激烈市場競爭並成功轉型？如何衝破鮮乳抵制風暴，創造全新路易莎？黃銘賢以每一個跌倒的傷痛、以最真誠的生命故事，分享白手起家的創業維艱與職人精神的貫徹堅持，娓娓道來每一個成功關鍵的抉擇心路。
-
-【人物介紹 : 黃銘賢】
-●路易莎咖啡創辦人
-●臺灣菁英榜風雲人物
-●創業楷模獎得主
-●路易莎咖啡董事長、創辦人
-●2019中華民國第42屆創業楷模獎
-●2018經理人雜誌年度台灣MVP經理人
-●2018 第十四屆金鉅獎年度績優暨潛力經理人
-●2017 第二屆PRESTIGE「40 UNDER 40 台灣菁英榜 風雲人物」
-
-一個出生平凡家庭的台灣男孩，大學唸了兩次，差點畢不了業，卻憑著一股永不放棄的執著，想與更多人分享一杯好咖啡的信念，在2006年創立路易莎咖啡，以其不斷創新的想法、大膽卻細膩的策略，發揮「職人精神」，追尋「共好」、「共享」的理念，一步一腳印，帶領路易莎成長，成為全台「精品咖啡平價化」連鎖第一品牌。
-
-【單元介紹】
-01：發刊詞：努力躍起，創造精彩！
-02：從0到1的創業挑戰
-03：夢想路的變與不變
-04：打造助攻夥伴的團隊哲學
-05：事業低潮，遍嘗苦澀味
-06：品牌新生，領導者的溝通挑戰
-07：風暴中的大逆轉
-08：每年成長30%的橘色奇蹟
-09：當你真心渴望夢想，全宇宙都會聯合起來幫你完成
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
 
 【適合對象】
-想了解創業與企業化經營的你
-好奇咖啡產業市場與未來的你
-面臨生命中起落抉擇關鍵的你
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
 
-【獲得什麼】
-經歷人生迷茫與挫折的關鍵信念取捨分享
-從創業、擴大到品牌新生的經營管理經驗
-台灣中小企業升級至國際市場的戰略思考]]>
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
       </itunes:summary>
       <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=3HH4dL7mWq4
-「從一個人到500家店，對咖啡的信念，始終不變。」
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=zDzYzhdh9G0
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
 
-如果人生是一座彈珠台，我們要怎麼在每個釘子點，努力躍起，創造精彩？
+常言道：「工作是生活的一部分，卻不是生命的全部。」
 
-路易莎咖啡，2006年創立，從一間巷弄裡的5坪外帶小店，經過十多年的淬練，2020年成為全台近500間門市的台灣連鎖精品咖啡霸主。從街角巷弄到精華特區，以虛擬黑卡旋風、創新的座位價值理論、風格獨具的第三波圖書館、古宅、森林公園等多元創意門市，將精品咖啡帶入日常生活，創造了屬於華人的全新咖啡生活文化。
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
 
-路易莎創辦人兼董事長黃銘賢，從一個堅持職人信念，固守烘豆機的烘豆師，蛻變成長，成為帶領路易莎穩健邁向國際品牌的企業家。在創業的彈珠臺上，一路跌跌撞撞，躍起又跌落。他如何在全球咖啡期貨大漲中熬過人生的最低潮？如何挺過激烈市場競爭並成功轉型？如何衝破鮮乳抵制風暴，創造全新路易莎？黃銘賢以每一個跌倒的傷痛、以最真誠的生命故事，分享白手起家的創業維艱與職人精神的貫徹堅持，娓娓道來每一個成功關鍵的抉擇心路。
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
 
-【人物介紹 : 黃銘賢】
-●路易莎咖啡創辦人
-●臺灣菁英榜風雲人物
-●創業楷模獎得主
-●路易莎咖啡董事長、創辦人
-●2019中華民國第42屆創業楷模獎
-●2018經理人雜誌年度台灣MVP經理人
-●2018 第十四屆金鉅獎年度績優暨潛力經理人
-●2017 第二屆PRESTIGE「40 UNDER 40 台灣菁英榜 風雲人物」
-
-一個出生平凡家庭的台灣男孩，大學唸了兩次，差點畢不了業，卻憑著一股永不放棄的執著，想與更多人分享一杯好咖啡的信念，在2006年創立路易莎咖啡，以其不斷創新的想法、大膽卻細膩的策略，發揮「職人精神」，追尋「共好」、「共享」的理念，一步一腳印，帶領路易莎成長，成為全台「精品咖啡平價化」連鎖第一品牌。
-
-【單元介紹】
-01：發刊詞：努力躍起，創造精彩！
-02：從0到1的創業挑戰
-03：夢想路的變與不變
-04：打造助攻夥伴的團隊哲學
-05：事業低潮，遍嘗苦澀味
-06：品牌新生，領導者的溝通挑戰
-07：風暴中的大逆轉
-08：每年成長30%的橘色奇蹟
-09：當你真心渴望夢想，全宇宙都會聯合起來幫你完成
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
 
 【適合對象】
-想了解創業與企業化經營的你
-好奇咖啡產業市場與未來的你
-面臨生命中起落抉擇關鍵的你
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
 
-【獲得什麼】
-經歷人生迷茫與挫折的關鍵信念取捨分享
-從創業、擴大到品牌新生的經營管理經驗
-台灣中小企業升級至國際市場的戰略思考]]>
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
       </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=3HH4dL7mWq4"><img src="https://img.youtube.com/vi/3HH4dL7mWq4/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=3HH4dL7mWq4
-「從一個人到500家店，對咖啡的信念，始終不變。」
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=zDzYzhdh9G0"><img src="https://img.youtube.com/vi/zDzYzhdh9G0/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=zDzYzhdh9G0
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
 
-如果人生是一座彈珠台，我們要怎麼在每個釘子點，努力躍起，創造精彩？
+常言道：「工作是生活的一部分，卻不是生命的全部。」
 
-路易莎咖啡，2006年創立，從一間巷弄裡的5坪外帶小店，經過十多年的淬練，2020年成為全台近500間門市的台灣連鎖精品咖啡霸主。從街角巷弄到精華特區，以虛擬黑卡旋風、創新的座位價值理論、風格獨具的第三波圖書館、古宅、森林公園等多元創意門市，將精品咖啡帶入日常生活，創造了屬於華人的全新咖啡生活文化。
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
 
-路易莎創辦人兼董事長黃銘賢，從一個堅持職人信念，固守烘豆機的烘豆師，蛻變成長，成為帶領路易莎穩健邁向國際品牌的企業家。在創業的彈珠臺上，一路跌跌撞撞，躍起又跌落。他如何在全球咖啡期貨大漲中熬過人生的最低潮？如何挺過激烈市場競爭並成功轉型？如何衝破鮮乳抵制風暴，創造全新路易莎？黃銘賢以每一個跌倒的傷痛、以最真誠的生命故事，分享白手起家的創業維艱與職人精神的貫徹堅持，娓娓道來每一個成功關鍵的抉擇心路。
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
 
-【人物介紹 : 黃銘賢】
-●路易莎咖啡創辦人
-●臺灣菁英榜風雲人物
-●創業楷模獎得主
-●路易莎咖啡董事長、創辦人
-●2019中華民國第42屆創業楷模獎
-●2018經理人雜誌年度台灣MVP經理人
-●2018 第十四屆金鉅獎年度績優暨潛力經理人
-●2017 第二屆PRESTIGE「40 UNDER 40 台灣菁英榜 風雲人物」
-
-一個出生平凡家庭的台灣男孩，大學唸了兩次，差點畢不了業，卻憑著一股永不放棄的執著，想與更多人分享一杯好咖啡的信念，在2006年創立路易莎咖啡，以其不斷創新的想法、大膽卻細膩的策略，發揮「職人精神」，追尋「共好」、「共享」的理念，一步一腳印，帶領路易莎成長，成為全台「精品咖啡平價化」連鎖第一品牌。
-
-【單元介紹】
-01：發刊詞：努力躍起，創造精彩！
-02：從0到1的創業挑戰
-03：夢想路的變與不變
-04：打造助攻夥伴的團隊哲學
-05：事業低潮，遍嘗苦澀味
-06：品牌新生，領導者的溝通挑戰
-07：風暴中的大逆轉
-08：每年成長30%的橘色奇蹟
-09：當你真心渴望夢想，全宇宙都會聯合起來幫你完成
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
 
 【適合對象】
-想了解創業與企業化經營的你
-好奇咖啡產業市場與未來的你
-面臨生命中起落抉擇關鍵的你
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
 
-【獲得什麼】
-經歷人生迷茫與挫折的關鍵信念取捨分享
-從創業、擴大到品牌新生的經營管理經驗
-台灣中小企業升級至國際市場的戰略思考]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/3HH4dL7mWq4/maxresdefault.jpg"/>
-      <pubDate>2024-04-11T03:43:14.000Z</pubDate>
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/zDzYzhdh9G0/maxresdefault.jpg"/>
+      <pubDate>2024-04-25T04:01:01.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[【職場會傷人】08：員工達不到標準，讓人總是身心俱疲？┃【泛科學院 X 一刻鯨選】]]></title>
+      <link>https://www.youtube.com/watch?v=6jwCLr_mLCQ</link>
+      <itunes:title><![CDATA[【職場會傷人】08：員工達不到標準，讓人總是身心俱疲？┃【泛科學院 X 一刻鯨選】]]></itunes:title>
+      <itunes:author><![CDATA[泛科學院]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=6jwCLr_mLCQ
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=6jwCLr_mLCQ
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/0.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/1.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/2.jpg" /></a><a href="https://www.youtube.com/watch?v=6jwCLr_mLCQ"><img src="https://img.youtube.com/vi/6jwCLr_mLCQ/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=6jwCLr_mLCQ
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/6jwCLr_mLCQ/maxresdefault.jpg"/>
+      <pubDate>2024-04-25T04:00:59.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[【職場會傷人】06：再怎麼努力都達不到上司目標，我真的不適合這份工作？┃【泛科學院 X 一刻鯨選】]]></title>
+      <link>https://www.youtube.com/watch?v=94kCdeoNjlY</link>
+      <itunes:title><![CDATA[【職場會傷人】06：再怎麼努力都達不到上司目標，我真的不適合這份工作？┃【泛科學院 X 一刻鯨選】]]></itunes:title>
+      <itunes:author><![CDATA[泛科學院]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=94kCdeoNjlY
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=94kCdeoNjlY
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=94kCdeoNjlY"><img src="https://img.youtube.com/vi/94kCdeoNjlY/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=94kCdeoNjlY
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/94kCdeoNjlY/maxresdefault.jpg"/>
+      <pubDate>2024-04-25T04:00:59.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[【職場會傷人】10：面對巨大壓力與長工時，我該怎麼找回初衷？┃【泛科學院 X 一刻鯨選】]]></title>
+      <link>https://www.youtube.com/watch?v=Fpb4j6p9zE0</link>
+      <itunes:title><![CDATA[【職場會傷人】10：面對巨大壓力與長工時，我該怎麼找回初衷？┃【泛科學院 X 一刻鯨選】]]></itunes:title>
+      <itunes:author><![CDATA[泛科學院]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Fpb4j6p9zE0
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Fpb4j6p9zE0
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Fpb4j6p9zE0"><img src="https://img.youtube.com/vi/Fpb4j6p9zE0/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=Fpb4j6p9zE0
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/Fpb4j6p9zE0/maxresdefault.jpg"/>
+      <pubDate>2024-04-25T04:00:59.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[【職場會傷人】04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？┃【泛科學院 X 一刻鯨選】]]></title>
+      <link>https://www.youtube.com/watch?v=MzBaXO7sfvs</link>
+      <itunes:title><![CDATA[【職場會傷人】04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？┃【泛科學院 X 一刻鯨選】]]></itunes:title>
+      <itunes:author><![CDATA[泛科學院]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/0.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/1.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/2.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=MzBaXO7sfvs
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/0.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/1.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/2.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=MzBaXO7sfvs
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/0.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/1.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/2.jpg" /></a><a href="https://www.youtube.com/watch?v=MzBaXO7sfvs"><img src="https://img.youtube.com/vi/MzBaXO7sfvs/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=MzBaXO7sfvs
+【課程簡介】
+相信最開始，你也是滿懷熱情與抱負地投身職場，期望能夠發揮所長，展現自我的價值，但是慢慢地，和許多人一樣變得迷惘、不知所措。
+努力施展拳腳的同時，你是否這才驚覺到，究竟從什麼時候開始，工作上的一切好像化為洪流猛獸般企圖將你吞噬殆盡。
+無論是距離越來越遠的初衷、逐漸減少的休閒興趣、職務上的不如意、無止盡的加班時數、同事之間的流言蜚語，還是蠻橫無理的上司，所有的事情似乎都在與你作對，朝著負面方向失控奔馳。
+
+常言道：「工作是生活的一部分，卻不是生命的全部。」
+
+為了陷入挫折的泥濘當中，在職場打滾而弄得傷痕累累的你，〈一刻鯨選〉找來了專業職能培訓講師方植永（小安）老師，規劃出五大單元，共分成十個常見的職場困惑，期望透過多方面的角度，引領你一步步撫平內心傷痕、重新振作自己，再次找回前進的動力。
+
+【講師介紹 : 方植永】
+●企業商業顧問
+●專業培訓講師
+●學堂講座職能培訓創辦人
+方植永（小安）老師目前是各大企業爭相邀請的培訓講師與專業顧問，協助茫茫然的上班族找到清晰的職涯目標與適用的工作心法。這些專業實力是來自小安老師轉換過職場上的許多身分，因此更能設身處地清楚地了解各個職位的苦與困。同時也在開授的課程上，幫助了無數工作者看清盲點，解決各種職場的困境，亦不吝於提出實際且可行的建言。
+
+【章節內容】
+01：發刊詞：展開一趟療癒職場傷痕的旅程
+02：理想的職場要和興趣妥協嗎？
+03：該如何兼顧工作與生活，有辦法找到平衡嗎？
+04：同事愛搞小圈圈，讓人無法好好工作，應該選邊站嗎？
+05：要怎麼看懂職場潛規則，才不會處處踩雷？
+06：再怎麼努力都達不到上司目標，我真的不適合這份工作？
+07：除了我以外的同事都升職了，是我能力不足嗎？
+08：員工達不到標準，讓人總是身心俱疲？
+09：要滿足高層要求，還要體恤員工，當夾心餅乾好累人？
+10：面對巨大壓力與長工時，我該怎麼找回初衷？
+11：當工作失去了成就感，我是否該去挑戰未知的領域？
+
+【適合對象】
+●在職場中奮戰得滿身傷痕的你
+●感覺初衷與熱情逐漸消散的你
+●期望工作與生活達到平衡的你
+
+歡迎加入頻道會員 ➤ https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join
+歡迎加入泛科學 AI 討論群組 ➤ https://discord.gg/4HTXjckH3N]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/MzBaXO7sfvs/maxresdefault.jpg"/>
+      <pubDate>2024-04-25T04:00:59.000Z</pubDate>
     </item></channel>
 </rss>
