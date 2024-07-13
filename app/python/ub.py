@@ -1,5 +1,5 @@
 import argparse
-from pytube import YouTube
+from pytubefix import YouTube
 import os
  
 def download_mp3(url, output_path):

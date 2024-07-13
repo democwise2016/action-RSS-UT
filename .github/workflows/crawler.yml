@@ -159,7 +159,11 @@ jobs:
       #       cache
       #       output
       #     key: ${{ runner.os }}-build-${{ env.cache-name }}
-
+      
+      - name: Remove .gitignore
+        run: |
+          rm -rf ./output/.gitignore || true
+    
       # ----------------------------------------------------------------
 
       - name: Deploy 🚀

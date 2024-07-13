@@ -3,7 +3,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import os
 from urllib.parse import urlparse, parse_qs
 
-from pytube import YouTube
+from pytubefix import YouTube
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 from moviepy.editor import VideoFileClip
 

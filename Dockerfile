@@ -1,4 +1,4 @@
-FROM pudding/github-action-app:puppeteer-python-14-20230804-0332
+FROM pudding/docker-image-base:puppeteer-python-14-20240713.222028
 
 RUN pip install youtube_transcript_api
 

@@ -10,7 +10,7 @@ import os
 from urllib.parse import urlparse, parse_qs
 
 import whisper
-from pytube import YouTube
+from pytubefix import YouTube
 
 
 # Function to open a file
