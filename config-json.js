@@ -1,7 +1,7 @@
 let CONFIG = {
   publicURL: `https://democwise2016.github.io/action-RSS-UT/`,
   publicURLShorten: `https://ppt.cc/f6Ddzx`,
-  thumbnailBorderColor: 'CC3333',
+  thumbnailBorderColor: '8A95A5',
   titleAppend: '[YT+]',
   idAppend: false,
 
