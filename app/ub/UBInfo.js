@@ -20,7 +20,7 @@ const TorController = require('../lib/TorController.js')
 
 class UBInfo {
   
-  load (url) {
+  async load (url) {
     if (url.indexOf('www.y' + 'out' + 'ube.com/channel/') > -1 || url.indexOf('www.y' + 'out' + 'ube.com/@') > -1) {
       return this.loadChannel(url)
     }
@@ -31,7 +31,20 @@ class UBInfo {
       return this.loadPlaylist(url)
     }
     else {
-      return this.loadVideo(url)
+      let info = await this.loadVideo(url)
+
+      if (info && info.date && info.date[19] === '-') {
+        await NodeCacheSqlite.clear('loadVideo', url)
+        info.date = info.date.slice(0, 19) + '.000Z'
+
+        info.pubDate = info.date
+        info.isoDate = info.date
+
+        info.mmddDate =  moment(info.date).format('MMDD')
+        info.yyyymmddDate =  moment(info.date).format('YYYYMMDD')
+      }
+
+      return info
     }
   }
   
@@ -339,16 +352,8 @@ class UBInfo {
     }
     // uploadDate
     // 2020-12-31
-    // console.log({d1: info.date})
-    if (info.date && info.date.indexOf('-') > -1) {
-      if (info.date.indexOf('T') > -1) {
-        // info.date = info.date.slice(0, info.date.indexOf('T'))
-        info.date = info.date.slice(0, info.date.lastIndexOf('-')) + '.000Z'
-      }
-      else {
-        info.date = info.date + 'T00:00:00.000Z'
-      }
-      
+    if (info.date) {
+      info.date = info.date + 'T00:00:00.000Z'
     }
     else {
       //throw Error('info.date not found: ' + url + '\n\n' + body)
@@ -363,21 +368,20 @@ class UBInfo {
         isOffline: true
       }
     }
-    // console.log({d2: info.date})
     
-    //console.log(info.date)
+    if (info.date[19] === '-') {
+      info.date = info.date.slice(0, 19) + '.000Z'
+    }
+
+    if (info.date.length > 24) {
+      console.log({'error-date': info.date})
+    }
     
     info.pubDate = info.date
     info.isoDate = info.date
-    try {
-      info.mmddDate =  moment(info.date).format('MMDD')
-      info.yyyymmddDate =  moment(info.date).format('YYYYMMDD')
-    }
-    catch (e) {
-      console.log({'error-date': info.date})
-      console.error(e)
-    }
-      
+    
+    info.mmddDate =  moment(info.date).format('MMDD')
+    info.yyyymmddDate =  moment(info.date).format('YYYYMMDD')
     
     // window["ytInitialPlayerResponse"] = 
     
@@ -409,7 +413,7 @@ class UBInfo {
         info.title = $('meta[property="og:title"]').eq(0).attr('content')
       }
 
-      info.channelAvatar = this.sliceBetween(body, `"}},"avatar":{"thumbnails":[{"url":"`, `"`)
+      info.channelAvatar = this.sliceBetween(body, `</script><link itemprop="thumbnailUrl" href="`, `"`)
       //console.log('channelAvatar', body)
       if (!info.channelAvatar) {
         // NodeCacheSqlite.clear('GetHTML', url)
