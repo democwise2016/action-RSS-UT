@@ -415,6 +415,12 @@ let feedList = [
   //   homepageURL: 'https://www.youtube.com/channel/UCQceikp-aRr_e5uCARuPvEQ',
   //   itemFilters: ItemFiltersPreset.between3minTo30Min,
   // },
+  {
+    title: '在下莫老师 玩 3C',
+    feedID: 'zxmls',
+    homepageURL: 'https://www.youtube.com/channel/UCAbLQp7cSr_hdPfr_Pe1S_g',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // --------------------------------------
