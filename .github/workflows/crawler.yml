@@ -2,9 +2,12 @@ name: Crawler
 on: 
   push:
   schedule:
-    - cron:  "5 0 * * *" # 實際執行時間是這個時間加八小時
-    - cron:  "5 8 * * *" # 實際執行時間是這個時間加八小時
-    - cron:  "5 16 * * *" # 實際執行時間是這個時間加八小時
+    - cron:  "15 0 * * *" # 實際執行時間是這個時間加八小時
+    - cron:  "15 4 * * *" # 實際執行時間是這個時間加八小時
+    - cron:  "15 8 * * *" # 實際執行時間是這個時間加八小時
+    - cron:  "15 12 * * *" # 實際執行時間是這個時間加八小時
+    - cron:  "15 16 * * *" # 實際執行時間是這個時間加八小時
+    - cron:  "15 20 * * *" # 實際執行時間是這個時間加八小時
   workflow_dispatch:
 permissions:
   contents: write
@@ -71,41 +74,41 @@ jobs:
 
       # - name: Clean Cache
       #   run: |
-      #     rm -rf /output/*
-      #     rm -rf /cache/*
-      #     docker rmi -f $(docker images -aq)
+      #     rm -rf /output/* || true
+      #     rm -rf /cache/* || true
+      #     docker rmi -f $(docker images -aq) || true
       #     docker network prune -f
       #     docker volume prune -f
 
       # - name: Clean Cache node-cache.sqlite
       #   run: |
-      #     rm -rf ./cache/node-cache-sqlite*
+      #     rm -rf ./cache/node-cache-sqlite* || true
 
       # - name: Clean Cache node-cache.sqlite CaptionDownloader
       #   run: |
-      #     rm -rf ./cache/node-cache-sqlite_CaptionDownloader.sqlite
+      #     rm -rf ./cache/node-cache-sqlite_CaptionDownloader.sqlite || true
 
       # - name: Clean Object Cache node-cache.sqlite
       #   run: |
-      #     rm -f ./cache/node-cache-sqlite_*object*.sqlite
+      #     rm -f ./cache/node-cache-sqlite_*object*.sqlite || true
 
       # - name: Clean Cache
       #   run: |
-      #     rm -rf ./cache/*
-      #     docker rmi -f $(docker images -aq)
+      #     rm -rf ./cache/* || true
+      #     docker rmi -f $(docker images -aq) || true
       #     docker network prune -f
       #     docker volume prune -f
 
       # - name: Clean RSS
       #   run: |
-      #     rm -rf ./output/*.rss
-      #     rm -rf ./output/*.html
-      #     rm -rf ./output/.gitignore
+      #     rm -rf ./output/*.rss || true
+      #     rm -rf ./output/*.html || true
+      #     rm -rf ./output/.gitignore || true
 
       # - name: Remove unsubscribe channels
       #   run: |
-      #     rm -rf ./output/meisouniv-news-ch_UCiCOKR_WkqZuYN9fpjWqnzg*
-      #     rm -rf ./output/KC-Huang-917POPRadio-ch_UCJ5rBA0z4WFGtUTS83sAb_A*
+      #     rm -rf ./output/meisouniv-news-ch_UCiCOKR_WkqZuYN9fpjWqnzg* || true
+      #     rm -rf ./output/KC-Huang-917POPRadio-ch_UCJ5rBA0z4WFGtUTS83sAb_A* || true
 
       # ----------------------------------------------------------------
 

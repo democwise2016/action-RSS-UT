@@ -397,6 +397,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCpIh66B9h_tWfXDcjTYlucA',
     itemFilters: ItemFiltersPreset.between6minTo60Min,
   },
+  {
+    title: '工頭堅。旅行長',
+    feedID: 'ctoken',
+    homepageURL: 'https://www.youtube.com/channel/UCO6BMxjvslH_jSo7FZi6DcQ',
+    itemFilters: ItemFiltersPreset.between6minTo60Min,
+  },
   // {
   //   title: '0號手稿 看ACG',
   //   feedID: 'user-soulkao_0',

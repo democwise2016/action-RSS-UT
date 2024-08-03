@@ -8,7 +8,7 @@ from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 from moviepy.editor import VideoFileClip
 
 folder_path = '/output/file-cache/'
-max_files = 5000
+max_files = 10000
 
 def clean_file_cache():
     # Get a list of all files in the folder
