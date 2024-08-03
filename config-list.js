@@ -391,6 +391,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCUkwvRrpvWkocNdk9qIpRSw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '筆吧評測室',
+    feedID: 'Bibalaptop',
+    homepageURL: 'https://www.youtube.com/channel/UCpIh66B9h_tWfXDcjTYlucA',
+    itemFilters: ItemFiltersPreset.between6minTo60Min,
+  },
   // {
   //   title: '0號手稿 看ACG',
   //   feedID: 'user-soulkao_0',
