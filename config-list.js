@@ -286,7 +286,7 @@ let feedList = [
     // thumbnailBorderColor: true,
     itemFilters: [
       ItemFiltersPreset.between1minTo30Min,
-      (item) => { return ((item.title.indexOf('AI大小事') >-1)) }
+      // (item) => { return ((item.title.indexOf('AI大小事') >-1)) }
     ],
   },
   {
@@ -420,6 +420,13 @@ let feedList = [
     feedID: 'zxmls',
     homepageURL: 'https://www.youtube.com/channel/UCAbLQp7cSr_hdPfr_Pe1S_g',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'JoeMultimedia 教 AI繪圖',
+    feedID: 'JoeMultimedia',
+    homepageURL: 'https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+    (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
   },
 ]
 
