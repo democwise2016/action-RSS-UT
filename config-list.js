@@ -430,7 +430,33 @@ let feedList = [
       (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
     ]
   },
+  {
+    title: '阿蝶-遊戲蝶聲 玩遊戲',
+    feedID: 'AvelnaGaming',
+    homepageURL: 'https://www.youtube.com/channel/UCu3z2_3jY7Z_52rZvO251Tg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'Million赵本人 玩遊戲硬體',
+    feedID: 'millionzhao5973',
+    homepageURL: 'https://www.youtube.com/channel/UC1Y82Fzr76q5a2d7J-tnQnw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'AI探索与发现 教 軟體',
+    feedID: 'AIDiscovery2045',
+    homepageURL: 'https://www.youtube.com/channel/UC0k8npj7VdHzN2L_-JSaPyA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '翼王 玩 3C',
+    feedID: 'WingStudio666',
+    homepageURL: 'https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
+
+// 
 
 // --------------------------------------
 
