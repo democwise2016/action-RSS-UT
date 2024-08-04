@@ -425,8 +425,10 @@ let feedList = [
     title: 'JoeMultimedia 教 AI繪圖',
     feedID: 'JoeMultimedia',
     homepageURL: 'https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-    (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+      (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
+    ]
   },
 ]
 
