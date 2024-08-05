@@ -6,7 +6,7 @@ let CONFIG = {
   idAppend: false,
 
   maxDownloadItemPerFeed: 5,
-  maxDownloadFeed: 50,
+  maxDownloadFeed: 20,
   newArrialMax: 5,
   maxDownloadItems: 100,
   maxExcutionMinutes: 10,
