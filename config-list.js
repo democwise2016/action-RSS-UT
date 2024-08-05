@@ -454,6 +454,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: 'AI超元域',
+    feedID: 'AIsuperdomain',
+    homepageURL: 'https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'The walking fish 步行魚',
+    feedID: 'the_walking_fish',
+    homepageURL: 'https://www.youtube.com/channel/UCXgnKgUBxUlRABoWK7a5A5Q',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
