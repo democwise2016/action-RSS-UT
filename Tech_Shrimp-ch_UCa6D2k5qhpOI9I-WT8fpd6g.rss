@@ -1,0 +1,131 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[技术爬爬虾  TechShrimp[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCa6D2k5qhpOI9I-WT8fpd6g</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/5j1Nz_8wvXD02u4mabrXfMYPWt0Y1gQLnl2HQmKWrRixSLFRgO7zOcVXHTr8vfxd4aZzOmFC4g=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>技术爬爬虾  TechShrimp[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCa6D2k5qhpOI9I-WT8fpd6g</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCa6D2k5qhpOI9I-WT8fpd6g" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[技术爬爬虾  TechShrimp[YT+]]]></copyright>
+    <itunes:author><![CDATA[技术爬爬虾  TechShrimp[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g" target="_blank">https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCa6D2k5qhpOI9I-WT8fpd6g" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCa6D2k5qhpOI9I-WT8fpd6g</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g" target="_blank">https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCa6D2k5qhpOI9I-WT8fpd6g" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCa6D2k5qhpOI9I-WT8fpd6g</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[技术爬爬虾  TechShrimp[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/5j1Nz_8wvXD02u4mabrXfMYPWt0Y1gQLnl2HQmKWrRixSLFRgO7zOcVXHTr8vfxd4aZzOmFC4g=s900-b50-c-k-c0x008A95A5-no-rj"/>
+<item>
+      <title><![CDATA[cloudflare worker是什么？零基础教程，代码详解，本地开发环境，cloudflare浑身都是宝]]></title>
+      <link>https://www.youtube.com/watch?v=2BfZO_LT6jA</link>
+      <itunes:title><![CDATA[cloudflare worker是什么？零基础教程，代码详解，本地开发环境，cloudflare浑身都是宝]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=2BfZO_LT6jA
+cloudflare最重磅的免费产品就是cloudflare worker，worker是一个强大免费的无服务器计算服务，或者又叫边缘计算平台。许多人将因此将Cloudflare称为'大善人'，'赛博活佛'。  本期视频我们来看下什么是worker，如何部署一个worker，还有如何搭建本地开发环境。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=2BfZO_LT6jA
+cloudflare最重磅的免费产品就是cloudflare worker，worker是一个强大免费的无服务器计算服务，或者又叫边缘计算平台。许多人将因此将Cloudflare称为'大善人'，'赛博活佛'。  本期视频我们来看下什么是worker，如何部署一个worker，还有如何搭建本地开发环境。]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=2BfZO_LT6jA"><img src="https://img.youtube.com/vi/2BfZO_LT6jA/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=2BfZO_LT6jA
+cloudflare最重磅的免费产品就是cloudflare worker，worker是一个强大免费的无服务器计算服务，或者又叫边缘计算平台。许多人将因此将Cloudflare称为'大善人'，'赛博活佛'。  本期视频我们来看下什么是worker，如何部署一个worker，还有如何搭建本地开发环境。]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/2BfZO_LT6jA/maxresdefault.jpg"/>
+      <pubDate>2024-08-04T16:59:28.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[超详细的WSL教程：Windows上的Linux子系统]]></title>
+      <link>https://www.youtube.com/watch?v=PaEcQmgEz78</link>
+      <itunes:title><![CDATA[超详细的WSL教程：Windows上的Linux子系统]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/0.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/1.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/2.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=PaEcQmgEz78
+Windows终端秒变Ubuntu，在Windows 里运行Linux命令，在Linux里又能使用Windows软件。Docker，显卡直通这些功能当然也不在话下。 以上这些神奇操作都来自Windows自带的功能WSL (Windows Subsystem for Linux） ，也就是运行在 windows 上的Linux 子系统。本期我们就来看看这个能让windows 与 Linux二合一的强大工具。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/0.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/1.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/2.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=PaEcQmgEz78
+Windows终端秒变Ubuntu，在Windows 里运行Linux命令，在Linux里又能使用Windows软件。Docker，显卡直通这些功能当然也不在话下。 以上这些神奇操作都来自Windows自带的功能WSL (Windows Subsystem for Linux） ，也就是运行在 windows 上的Linux 子系统。本期我们就来看看这个能让windows 与 Linux二合一的强大工具。]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/0.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/1.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/2.jpg" /></a><a href="https://www.youtube.com/watch?v=PaEcQmgEz78"><img src="https://img.youtube.com/vi/PaEcQmgEz78/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=PaEcQmgEz78
+Windows终端秒变Ubuntu，在Windows 里运行Linux命令，在Linux里又能使用Windows软件。Docker，显卡直通这些功能当然也不在话下。 以上这些神奇操作都来自Windows自带的功能WSL (Windows Subsystem for Linux） ，也就是运行在 windows 上的Linux 子系统。本期我们就来看看这个能让windows 与 Linux二合一的强大工具。]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/PaEcQmgEz78/maxresdefault.jpg"/>
+      <pubDate>2024-07-28T05:48:55.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[windows为什么有两个命令行工具？命令提示符与PowerShell有什么区别？#教程 #操作系统 #编程 #windows #powershell #科技 #极客]]></title>
+      <link>https://www.youtube.com/watch?v=u0yKHP0onwU</link>
+      <itunes:title><![CDATA[windows为什么有两个命令行工具？命令提示符与PowerShell有什么区别？#教程 #操作系统 #编程 #windows #powershell #科技 #极客]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/0.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/1.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/2.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=u0yKHP0onwU
+windows为什么有两个命令行工具？ 一个叫CMD命令提示符，另一个叫PowerShell，他们两个究竟有什么区别？ 
+
+Cmdlet这个单词 是 \"command-let\" 的缩写，是一种专门在 Windows PowerShell 中使用的命令。
+
+| 这个竖线是管道符，意思是把上个命令的输出结果作为下个命令的输入，可以像拼接管道一样把命令拼接起来，形成一条流水线。由于cmdlet返回的是一个.net对象，可以很方便的使用管道符进行命令拼接。
+
+powershell 与 cmd 其实都可以编写脚本程序。 cmd是脚本文件的扩展名是bat 而powershell的扩展名则是ps1。但是bat程序比较难写， 比起ps1的多了很多很多局限性。所以编写复杂的windows批处理程序，我建议还是直接用powershell，可以极大减轻程序员的痛苦指数。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/0.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/1.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/2.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=u0yKHP0onwU
+windows为什么有两个命令行工具？ 一个叫CMD命令提示符，另一个叫PowerShell，他们两个究竟有什么区别？ 
+
+Cmdlet这个单词 是 \"command-let\" 的缩写，是一种专门在 Windows PowerShell 中使用的命令。
+
+| 这个竖线是管道符，意思是把上个命令的输出结果作为下个命令的输入，可以像拼接管道一样把命令拼接起来，形成一条流水线。由于cmdlet返回的是一个.net对象，可以很方便的使用管道符进行命令拼接。
+
+powershell 与 cmd 其实都可以编写脚本程序。 cmd是脚本文件的扩展名是bat 而powershell的扩展名则是ps1。但是bat程序比较难写， 比起ps1的多了很多很多局限性。所以编写复杂的windows批处理程序，我建议还是直接用powershell，可以极大减轻程序员的痛苦指数。]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/0.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/1.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/2.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=u0yKHP0onwU
+windows为什么有两个命令行工具？ 一个叫CMD命令提示符，另一个叫PowerShell，他们两个究竟有什么区别？ 
+
+Cmdlet这个单词 是 \"command-let\" 的缩写，是一种专门在 Windows PowerShell 中使用的命令。
+
+| 这个竖线是管道符，意思是把上个命令的输出结果作为下个命令的输入，可以像拼接管道一样把命令拼接起来，形成一条流水线。由于cmdlet返回的是一个.net对象，可以很方便的使用管道符进行命令拼接。
+
+powershell 与 cmd 其实都可以编写脚本程序。 cmd是脚本文件的扩展名是bat 而powershell的扩展名则是ps1。但是bat程序比较难写， 比起ps1的多了很多很多局限性。所以编写复杂的windows批处理程序，我建议还是直接用powershell，可以极大减轻程序员的痛苦指数。]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg"/>
+      <pubDate>2024-07-18T08:26:13.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[2024最新免费域名注册教程，可托管CF，零失败率，解决所有坑点。 #cloudflare #教程  #域名 #网站 #极客 #数码 #技术]]></title>
+      <link>https://www.youtube.com/watch?v=5eFwyapO9ew</link>
+      <itunes:title><![CDATA[2024最新免费域名注册教程，可托管CF，零失败率，解决所有坑点。 #cloudflare #教程  #域名 #网站 #极客 #数码 #技术]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/0.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/1.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/2.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=5eFwyapO9ew
+2024年可以注册两种免费域名，这两种域名虽然长得像是子域名， 其实他们是PSL，也就是公共后缀列表（Public Suffix List），享受主域名的一切功能与待遇，当然他们也都可以托管Cloudflare。免费域名注册的几个坑，我都替大家踩过了，等下视频里我都会详细演示。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/0.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/1.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/2.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=5eFwyapO9ew
+2024年可以注册两种免费域名，这两种域名虽然长得像是子域名， 其实他们是PSL，也就是公共后缀列表（Public Suffix List），享受主域名的一切功能与待遇，当然他们也都可以托管Cloudflare。免费域名注册的几个坑，我都替大家踩过了，等下视频里我都会详细演示。]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/0.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/1.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/2.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=5eFwyapO9ew
+2024年可以注册两种免费域名，这两种域名虽然长得像是子域名， 其实他们是PSL，也就是公共后缀列表（Public Suffix List），享受主域名的一切功能与待遇，当然他们也都可以托管Cloudflare。免费域名注册的几个坑，我都替大家踩过了，等下视频里我都会详细演示。]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg"/>
+      <pubDate>2024-07-11T10:03:25.000Z</pubDate>
+    </item></channel>
+</rss>
