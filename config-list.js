@@ -466,6 +466,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCXgnKgUBxUlRABoWK7a5A5Q',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '技术爬爬虾  TechShrimp',
+    feedID: 'Tech_Shrimp',
+    homepageURL: 'https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'AI开发者-就爱瞎鼓捣',
+    feedID: 'techdiylife',
+    homepageURL: 'https://www.youtube.com/channel/UC8uOgHOAH_k-ee-bHA0GQFQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
