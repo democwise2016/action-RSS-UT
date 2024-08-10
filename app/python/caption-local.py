@@ -4,7 +4,7 @@ import os
  
 def download_caption(id):
     try:
-        output_path = f'/output/tmp/str-{id}.txt'
+        output_path = f'/app/tmp/str-{id}.txt'
         if output_path.endswith('"'):
             output_path = output_path.rstrip('"')
 
