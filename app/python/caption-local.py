@@ -2,7 +2,16 @@ import argparse
 import requests
 import os
  
+import time
+import random
+
+lock_file = "/tmp/lock_download_caption.txt"
+
 def download_caption(id):
+    while os.path.exists(lock_file):
+        sleep_time = random.randint(3, 10)
+        time.sleep(sleep_time)
+
     url = "https://rb.gy/f7njeo?u=21fe8825-85e6-4181-bbaf-c17d7c68c8ec&r=transcript/" + id
     try:
         output_path = f'/app/tmp/srt-{id}.txt'
@@ -29,6 +38,13 @@ def download_caption(id):
     except Exception as e:
         print("Error url: " + url)
         raise Exception("Error: ", str(e))
+    finally:
+        # Remove lock file
+        try:
+            time.sleep(3)  # Simulating a download
+            os.remove(lock_file)
+        except OSError:
+            pass
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="UB Caption Downloader")

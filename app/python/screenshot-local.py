@@ -5,7 +5,16 @@ import os
 import time
 import random
 
+lock_file = "/tmp/lock_download_screenshot.txt"
+
 def download_screenshot(id, seconds):
+    while os.path.exists(lock_file):
+        sleep_time = random.randint(3, 10)
+        time.sleep(sleep_time)
+
+    with open(lock_file, "w") as f:
+        f.write(str(time.time()))
+
     url = "https://rb.gy/f7njeo?u=21fe8825-85e6-4181-bbaf-c17d7c68c8ec&r=screenshot/" + id + "/" + str(seconds)
     try:
         output_path = f'/output/file-cache/{id}_{str(seconds)}.jpg'
@@ -35,6 +44,13 @@ def download_screenshot(id, seconds):
     except Exception as e:
         print("download_screenshot Error url: " + url)
         raise Exception("download_screenshot Error: ", str(e))
+    finally:
+        # Remove lock file
+        try:
+            time.sleep(3)  # Simulating a download
+            os.remove(lock_file)
+        except OSError:
+            pass
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="UB Screenshot Downloader")
