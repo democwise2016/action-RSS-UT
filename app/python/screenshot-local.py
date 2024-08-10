@@ -27,8 +27,8 @@ def download_screenshot(id, seconds):
         # print("Download completed successfully!")
         
     except Exception as e:
-        print("Error url: " + url)
-        raise Exception("Error: ", str(e))
+        print("download_screenshot Error url: " + url)
+        raise Exception("download_screenshot Error: ", str(e))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="UB Screenshot Downloader")
