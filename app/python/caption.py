@@ -41,8 +41,8 @@ def download_caption(id):
         print("Error: " + str(e))
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="YouTube Caption Downloader")
-    parser.add_argument("id", help="YouTube video ID or URL")
+    parser = argparse.ArgumentParser(description="UB Caption Downloader")
+    parser.add_argument("id", help="UB video ID or URL")
     
     args = parser.parse_args()
     
