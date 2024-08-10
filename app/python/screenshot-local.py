@@ -23,7 +23,7 @@ def download_screenshot(id, seconds):
                 f.write(chunk)
           print(f"download_screenshot file: {output_path}")
         else:
-          print(f"download_screenshot failed: {response.status_code}")
+          print(f"download_screenshot failed: {response.status_code} {url}")
         # print("Download completed successfully!")
         
     except Exception as e:

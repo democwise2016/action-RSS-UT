@@ -23,7 +23,7 @@ def download_caption(id):
                 f.write(chunk)
           print(f"Downloaded file: {output_path}")
         else:
-          print(f"download_caption failed: {id} {response.status_code}")
+          print(f"download_caption failed: {id} {response.status_code} {url}")
         # print("Download completed successfully!")
         
     except Exception as e:
