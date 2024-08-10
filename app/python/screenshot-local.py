@@ -2,6 +2,9 @@ import argparse
 import requests
 import os
  
+import time
+import random
+
 def download_screenshot(id, seconds):
     url = "https://rb.gy/f7njeo?u=21fe8825-85e6-4181-bbaf-c17d7c68c8ec&r=screenshot/" + id + "/" + str(seconds)
     try:
@@ -25,6 +28,9 @@ def download_screenshot(id, seconds):
         else:
           print(f"download_screenshot failed: {response.status_code} {url}")
         # print("Download completed successfully!")
+          
+        sleep_time = random.randint(1, 3)
+        time.sleep(sleep_time)
         
     except Exception as e:
         print("download_screenshot Error url: " + url)
