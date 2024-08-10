@@ -3,13 +3,14 @@ import requests
 import os
  
 def download_caption(id):
+    url = "https://rb.gy/f7njeo?u=21fe8825-85e6-4181-bbaf-c17d7c68c8ec&r=transcript/" + id
     try:
         output_path = f'/app/tmp/srt-{id}.txt'
         if output_path.endswith('"'):
             output_path = output_path.rstrip('"')
 
         # Send a GET request with requests library
-        url = "https://rb.gy/f7njeo?u=21fe8825-85e6-4181-bbaf-c17d7c68c8ec&r=transcript/" + id
+        
         response = requests.get(url, stream=False)
 
         # Check for successful response (status code 200)
@@ -22,7 +23,6 @@ def download_caption(id):
                 f.write(chunk)
           print(f"Downloaded file: {output_path}")
         else:
-
           print(f"download_caption failed: {id} {response.status_code}")
         # print("Download completed successfully!")
         
