@@ -187,14 +187,17 @@ class UBInfo {
       // console.log('[getUBInfoFromAppScript] waiting...' , url)
       await this.sleep(10000)
     }
+    
+    let result
     try {
       console.log('[getUBInfoFromAppScript] lock' , url)
       isLoadingVideo = true
 
-      let result = await GetHTML(`https://script.google.com/macros/s/AKfycbyU0Vsits26tlmqb72AzozYj347hjMCvkfcbkWV-5R-yogk2Y9GHyjVuFj7wZUDd3aL/exec?url=` + url)
+      result = await GetHTML(`https://script.google.com/macros/s/AKfycbyU0Vsits26tlmqb72AzozYj347hjMCvkfcbkWV-5R-yogk2Y9GHyjVuFj7wZUDd3aL/exec?url=` + url)
       info = JSON.parse(result)
     }
     catch (e) {
+      console.log(result)
       console.trace(e)
     }
     await this.sleep(3000)
