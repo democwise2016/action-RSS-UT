@@ -9,7 +9,7 @@ lock_file = "/tmp/lock_download_caption.txt"
 
 def download_caption(id):
     while os.path.exists(lock_file):
-        sleep_time = random.randint(3, 10)
+        sleep_time = random.randint(1, 3)
         time.sleep(sleep_time)
 
     url = "https://rb.gy/f7njeo?u=21fe8825-85e6-4181-bbaf-c17d7c68c8ec&r=transcript/" + id
@@ -31,6 +31,7 @@ def download_caption(id):
               if chunk:  # filter out keep-alive new chunks
                 f.write(chunk)
           print(f"Downloaded file: {output_path}")
+          response.close()
         else:
           print(f"download_caption failed: {id} {response.status_code} {url}")
         # print("Download completed successfully!")
@@ -41,7 +42,7 @@ def download_caption(id):
     finally:
         # Remove lock file
         try:
-            time.sleep(3)  # Simulating a download
+            # time.sleep(3)  # Simulating a download
             os.remove(lock_file)
         except OSError:
             pass

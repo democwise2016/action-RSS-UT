@@ -9,7 +9,7 @@ lock_file = "/tmp/lock_download_screenshot.txt"
 
 def download_screenshot(id, seconds):
     while os.path.exists(lock_file):
-        sleep_time = random.randint(3, 10)
+        sleep_time = random.randint(1, 3)
         time.sleep(sleep_time)
 
     with open(lock_file, "w") as f:
@@ -34,6 +34,7 @@ def download_screenshot(id, seconds):
               if chunk:  # filter out keep-alive new chunks
                 f.write(chunk)
           print(f"download_screenshot file: {output_path}")
+          response.close()
         else:
           print(f"download_screenshot failed: {response.status_code} {url}")
         # print("Download completed successfully!")
@@ -47,7 +48,7 @@ def download_screenshot(id, seconds):
     finally:
         # Remove lock file
         try:
-            time.sleep(3)  # Simulating a download
+            # time.sleep(3)  # Simulating a download
             os.remove(lock_file)
         except OSError:
             pass
