@@ -10,6 +10,7 @@ const NodeCacheSqlite = require('./../lib/NodeCacheSqlite.js')
 const UBVideoIdParser = require('./items/UBVideoIdParser.js')
 
 const fs = require('fs')
+const ShellSpawn = require('./../lib/ShellSpawn.js')
 
 let cacheLimit = Number(3 * 60 * 60)
 //cacheLimit = 0
@@ -17,6 +18,10 @@ let cacheLimit = Number(3 * 60 * 60)
 // const TorHTMLLoader = use('App/Helpers/tor-html-loader/tor-html-loader.js')
 const GetHTML = require('./../lib/GetHTML.js')
 const TorController = require('../lib/TorController.js')
+
+
+let isLoadingVideo = false
+  
 
 class UBInfo {
   
@@ -91,50 +96,115 @@ class UBInfo {
     }, 180 * 24 * 60 * 60 * 1000)
       
   }
-  
+
   async loadVideo (url) {
     if (cache[url]) {
       return cache[url]
     }
     
-    return await NodeCacheSqlite.get('loadVideo', url, async () => {
-      let html = await this.loadHTML(url, 2 * 24 * 60 * 60 * 1000)
-      if (!html || html === '') {
-        // await NodeCacheSqlite.clear('ubinfo', url)
-        console.error(['[UBInfo] loadVideo, body html is empty: ', url, (new Date().toISOString())].join('\t'))
-        await NodeCacheSqlite.clear('GetHTML', url)
-        
-        //console.error('body html is empty: ' + url)
-        //throw new Error('body html is empty: ' + url)
-        await TorController.restart()
-        await this.sleep(3 * 1000)
-        // return await this.loadChannel(url)
-        return this.loadVideo(url)
-      }
-      
-      let info = this.parseVideoHTML(html, url)
-      if (!info) {
-        console.error(['[UBInfo] loadVideo, info is empty: ', url, (new Date().toISOString())].join('\t'))
-        await NodeCacheSqlite.clear('GetHTML', url)
-        await TorController.restart()
-        await this.sleep(3000)
-        return await this.loadVideo(url)
-      }
-      
-      if (info.isOffline) {
-        // await NodeCacheSqlite.clear('ubinfo', url)
-        console.error(['[UBInfo] video isOffline', url, (new Date().toISOString())].join('\t'))
-        await NodeCacheSqlite.clear('GetHTML', url)
-        // await NodeCacheSqlite.clear('loadVideo', url)
-        // info = undefined
-        return undefined
-        // await NodeCacheSqlite.clear('tor-html-loader', url)
-      }
-      
-      cache[url] = info
-      console.log(['[UBInfo] loadVideo is finished', url, (new Date().toISOString())].join('\t'))
-      return info
+    let output = await NodeCacheSqlite.get('loadVideo', url, async () => {
+      return await this.getUBInfoFromAppScript(url)
     }, 60 * 24 * 60 * 60 * 1000)
+    cache[url] = output
+    // console.log({output})
+    return output
+  }
+
+  async getUBInfoFromPython(url) {
+    let commands = ["python3", "/app/python/ub-info.py", url]
+    // console.log(commands)
+    let info = {isOffline: true}
+
+    while (isLoadingVideo === true) {
+      console.log('[getUBInfoFromPython] waiting...' , url)
+      await this.sleep(10000)
+    }
+    try {
+      console.log('[getUBInfoFromPython] lock' , url)
+      isLoadingVideo = true
+      info = await ShellSpawn(commands)
+      // console.log({'result': info.length})
+      // info = eval(info)
+      info = JSON.parse(info)
+
+      // ----------------------------------------------------------------
+      if (info.thumbnails && Array.isArray(info.thumbnails)) {
+        info.thumbnails = info.thumbnails.map(item => item.url)
+      }
+
+      if (!info.ownerChannelName && info.channel) {
+        info.ownerChannelName = info.channel
+      }
+
+      if (!info.channelId && info.channel_id) {
+        info.channelId = info.channel_id
+      }
+
+      if (!info.channelLink && info.channel_url) {
+        info.channelLink = info.channel_url
+      }
+
+      if (!info.channelLink && info.channel_url) {
+        info.channelLink = info.channel_url
+      }
+
+      if (!info.author_url && info.uploader_url) {
+        info.author_url = info.uploader_url
+      }
+
+      // if (!info.genre && info.categories) {
+      //   info.genre = info.categories
+      // }
+
+      if (!info.date && info.timestamp) {
+        let timeString = new Date(info.timestamp*1000).toISOString()
+        // info.genre = JSON.stringify(info.categories)
+        info.date = timeString
+        info.pubDate = timeString
+        info.isoDate = timeString
+        
+        info.mmddDate =  moment(info.date).format('MMDD')
+        info.yyyymmddDate =  moment(info.date).format('YYYYMMDD')
+      }
+    }
+    catch (e) {
+      console.trace(e)
+    }
+    await this.sleep(3000)
+    console.log('[getUBInfoFromPython] unlock' , url)
+    isLoadingVideo = false
+
+    // info = JSON.parse(info)
+    // console.log(info.timestamp, new Date(info.timestamp*1000))
+    // process.exit(1)
+    return info
+  }
+
+  async getUBInfoFromAppScript(url) {
+    let info = {isOffline: true}
+
+    while (isLoadingVideo === true) {
+      // console.log('[getUBInfoFromAppScript] waiting...' , url)
+      await this.sleep(10000)
+    }
+    try {
+      console.log('[getUBInfoFromAppScript] lock' , url)
+      isLoadingVideo = true
+
+      let result = await GetHTML(`https://script.google.com/macros/s/AKfycbyU0Vsits26tlmqb72AzozYj347hjMCvkfcbkWV-5R-yogk2Y9GHyjVuFj7wZUDd3aL/exec?url=` + url)
+      info = JSON.parse(result)
+    }
+    catch (e) {
+      console.trace(e)
+    }
+    await this.sleep(3000)
+    console.log('[getUBInfoFromAppScript] unlock' , url)
+    isLoadingVideo = false
+
+    // info = JSON.parse(info)
+    // console.log(info.timestamp, new Date(info.timestamp*1000))
+    // process.exit(1)
+    return info
   }
   
   async loadDuration(url) {
@@ -180,7 +250,7 @@ class UBInfo {
     })
   }
   
-  async loadHTML(url, cacheExpire = 43200000) {
+  async loadHTML(url, cacheExpire = 43200000, crawler = 'fetch') {
     while (isLoading === true) {
       await this.sleep()
       
@@ -197,7 +267,8 @@ class UBInfo {
       try {
         // let body = await TorHTMLLoader.loadHTML(url, cacheExpire)
         let body = await GetHTML(url, {
-          cacheDay
+          cacheDay,
+          crawler
         })
         // console.log(url, body)
         isLoading = false
@@ -285,10 +356,12 @@ class UBInfo {
             || body.indexOf(',"errorScreen":{"playerErrorMessageRenderer":{"subreason":{"simpleText":') > -1)
     
     if (info.isOffline) {
-      console.log(url, 'isOffline', body.indexOf('"playabilityStatus":{"status":"LIVE_STREAM_OFFLINE"') > -1
+      console.error(url, 'isOffline', body.indexOf('"playabilityStatus":{"status":"LIVE_STREAM_OFFLINE"') > -1
             , body.indexOf('"thumbnailOverlays":[{"thumbnailOverlayTimeStatusRenderer":{"text":{"accessibility":{"accessibilityData":{"label":"LIVE"}},"simpleText":"LIVE"},"style":"LIVE","icon":{"iconType":"LIVE"}}},') > -1
             , body.indexOf('{"subreason":{"simpleText":"This video is private."}') > -1
             , body.indexOf(',"errorScreen":{"playerErrorMessageRenderer":{"subreason":{"simpleText":') > -1)
+      console.log(body)
+      process.exit(1)
     }
     
     //info.description = $('meta[itemprop="description"]').eq(0).attr('content')
@@ -350,9 +423,15 @@ class UBInfo {
     if (!info.date) {
       info.date = $('meta[itemprop="uploadDate"]').eq(0).attr('content')
     }
+    // "publishDate":{"simpleText":"2024年8月10日"}
+    if (!info.date) {
+      // 2024-08-09T21:03:57-07:00
+      info.date = this.sliceBetween(body, `,"publishDate":"`, `"`)
+    }
+
     // uploadDate
     // 2020-12-31
-    if (info.date) {
+    if (info.date && !info.date.endsWith('T00:00:00.000Z')) {
       info.date = info.date + 'T00:00:00.000Z'
     }
     else {
@@ -361,8 +440,10 @@ class UBInfo {
       // console.log(body.length)
       // fs.writeFileSync('/cache/video.html', body)
       // console.log('=----------------------------=')
-      console.log(['[UBInfo] info.date not found: ' + url, $('meta[itemprop="uploadDate"]').length, $('meta[itemprop="datePublished"]').length, (new Date().toISOString())].join('\t'))
-
+      console.trace(['[UBInfo] info.date not found  (podcast): ' + url, $('meta[itemprop="uploadDate"]').length, $('meta[itemprop="datePublished"]').length, (new Date().toISOString())].join('\t'))
+      console.log(body)
+      // throw new Error('info.date not found')
+      process.exit(1)
       // console.error('info.date not found: ' + url)
       return {
         isOffline: true
