@@ -139,7 +139,8 @@ let main = async () => {
       }
     }
     catch (e) {
-      console.error(e)
+      // console.error(e)
+      throw e
     }
   }
   

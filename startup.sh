@@ -12,5 +12,5 @@ export NODE_OPTIONS=--max-old-space-size=4096
 
 mkdir -p /output/file-cache/
 node /app/index.js
-
+exit
 # python3 /app/python/screenshot.py iukmndsI0H8 189
