@@ -30,6 +30,26 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/5j1Nz_8wvXD02u4mabrXfMYPWt0Y1gQLnl2HQmKWrRixSLFRgO7zOcVXHTr8vfxd4aZzOmFC4g=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[世界上装机量最大的数据库SQLite，低调但不小众   #电脑 #微信 #数据库 #代码 #编程 #sql]]></title>
+      <link>https://www.youtube.com/watch?v=Es5y_rfwaJw</link>
+      <itunes:title><![CDATA[世界上装机量最大的数据库SQLite，低调但不小众   #电脑 #微信 #数据库 #代码 #编程 #sql]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Es5y_rfwaJw
+SQLite是一个轻量级的嵌入式关系型数据库。用C语言开发，最开始的设计目标是嵌入式系统。它可以在不需要的服务器的情况下，直接嵌入到一些物联网设备， 比如家电，路由器。汽车等作为本地数据库使用。智能手机也正好契合 SQLite 的使用场景。为什么说你的手机上肯定有 SQLite 呢？因为 SQLite 会随着应用程序代码一起打包，你每安装一个APP都有可能部署一个SQLite的数据库。本期视频我们以微信为例来深入探究一下这个神级数据库SQLite, 看看为什么微信会使用这样一个数据库，还有他的库结构，表结构到底是什么样的。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Es5y_rfwaJw
+SQLite是一个轻量级的嵌入式关系型数据库。用C语言开发，最开始的设计目标是嵌入式系统。它可以在不需要的服务器的情况下，直接嵌入到一些物联网设备， 比如家电，路由器。汽车等作为本地数据库使用。智能手机也正好契合 SQLite 的使用场景。为什么说你的手机上肯定有 SQLite 呢？因为 SQLite 会随着应用程序代码一起打包，你每安装一个APP都有可能部署一个SQLite的数据库。本期视频我们以微信为例来深入探究一下这个神级数据库SQLite, 看看为什么微信会使用这样一个数据库，还有他的库结构，表结构到底是什么样的。]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Es5y_rfwaJw"><img src="https://img.youtube.com/vi/Es5y_rfwaJw/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=Es5y_rfwaJw
+SQLite是一个轻量级的嵌入式关系型数据库。用C语言开发，最开始的设计目标是嵌入式系统。它可以在不需要的服务器的情况下，直接嵌入到一些物联网设备， 比如家电，路由器。汽车等作为本地数据库使用。智能手机也正好契合 SQLite 的使用场景。为什么说你的手机上肯定有 SQLite 呢？因为 SQLite 会随着应用程序代码一起打包，你每安装一个APP都有可能部署一个SQLite的数据库。本期视频我们以微信为例来深入探究一下这个神级数据库SQLite, 看看为什么微信会使用这样一个数据库，还有他的库结构，表结构到底是什么样的。]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/Es5y_rfwaJw/maxresdefault.jpg"/>
+      <pubDate>2024-08-11T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[cloudflare worker是什么？零基础教程，代码详解，本地开发环境，cloudflare浑身都是宝]]></title>
       <link>https://www.youtube.com/watch?v=2BfZO_LT6jA</link>
       <itunes:title><![CDATA[cloudflare worker是什么？零基础教程，代码详解，本地开发环境，cloudflare浑身都是宝]]></itunes:title>
@@ -107,25 +127,5 @@ Cmdlet这个单词 是 \"command-let\" 的缩写，是一种专门在 Windows Po
 powershell 与 cmd 其实都可以编写脚本程序。 cmd是脚本文件的扩展名是bat 而powershell的扩展名则是ps1。但是bat程序比较难写， 比起ps1的多了很多很多局限性。所以编写复杂的windows批处理程序，我建议还是直接用powershell，可以极大减轻程序员的痛苦指数。]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg"/>
       <pubDate>2024-07-18T08:26:13.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[2024最新免费域名注册教程，可托管CF，零失败率，解决所有坑点。 #cloudflare #教程  #域名 #网站 #极客 #数码 #技术]]></title>
-      <link>https://www.youtube.com/watch?v=5eFwyapO9ew</link>
-      <itunes:title><![CDATA[2024最新免费域名注册教程，可托管CF，零失败率，解决所有坑点。 #cloudflare #教程  #域名 #网站 #极客 #数码 #技术]]></itunes:title>
-      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/0.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/1.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/2.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=5eFwyapO9ew
-2024年可以注册两种免费域名，这两种域名虽然长得像是子域名， 其实他们是PSL，也就是公共后缀列表（Public Suffix List），享受主域名的一切功能与待遇，当然他们也都可以托管Cloudflare。免费域名注册的几个坑，我都替大家踩过了，等下视频里我都会详细演示。]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/0.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/1.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/2.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=5eFwyapO9ew
-2024年可以注册两种免费域名，这两种域名虽然长得像是子域名， 其实他们是PSL，也就是公共后缀列表（Public Suffix List），享受主域名的一切功能与待遇，当然他们也都可以托管Cloudflare。免费域名注册的几个坑，我都替大家踩过了，等下视频里我都会详细演示。]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/0.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/1.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/2.jpg" /></a><a href="https://www.youtube.com/watch?v=5eFwyapO9ew"><img src="https://img.youtube.com/vi/5eFwyapO9ew/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=5eFwyapO9ew
-2024年可以注册两种免费域名，这两种域名虽然长得像是子域名， 其实他们是PSL，也就是公共后缀列表（Public Suffix List），享受主域名的一切功能与待遇，当然他们也都可以托管Cloudflare。免费域名注册的几个坑，我都替大家踩过了，等下视频里我都会详细演示。]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/5eFwyapO9ew/maxresdefault.jpg"/>
-      <pubDate>2024-07-11T10:03:25.000Z</pubDate>
     </item></channel>
 </rss>
