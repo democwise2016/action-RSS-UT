@@ -390,7 +390,9 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
   }).join('')
 
   if (summary) {
-    mergeSentences = processSummary(summary) + mergeSentences
+    mergeSentences = processSummary(summary) + 
+       '<p>==========================</p>' + 
+       mergeSentences
   }
 
   return mergeSentences

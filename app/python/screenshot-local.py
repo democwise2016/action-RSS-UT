@@ -8,6 +8,9 @@ import random
 lock_file = "/tmp/lock_download_screenshot.txt"
 
 def download_screenshot(id, seconds):
+    if id.startswith("id="):
+      id = id[3:]  # 
+
     while os.path.exists(lock_file):
         sleep_time = random.randint(1, 3)
         time.sleep(sleep_time)
@@ -33,7 +36,7 @@ def download_screenshot(id, seconds):
             for chunk in response.iter_content(1024):
               if chunk:  # filter out keep-alive new chunks
                 f.write(chunk)
-          print(f"download_screenshot file: {output_path}")
+          print((f"download_screenshot file: {output_path}").strip(), end="")
           response.close()
         else:
           print(f"download_screenshot failed: {response.status_code} {url}")

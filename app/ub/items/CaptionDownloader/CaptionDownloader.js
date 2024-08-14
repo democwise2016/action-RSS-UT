@@ -33,7 +33,11 @@ module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMark
       }
 
       // await ShellSpawnQueue([`python3`, `/app/python/caption.py`, `"https://www.youtube.com/watch?v=${utID}"`])
-      await ShellSpawnQueue([`python3`, `/app/python/caption-local.py`, `"${utID}"`])
+      console.log('[CaptionDownloader] Download: ' + utID)
+      let command = [`python3`, `/app/python/caption-local.py`, `id=${utID}`]
+      // console.log(command)
+      await ShellSpawnQueue(command)
+      console.log('[CaptionDownloader] Download Finish: ' + utID)
       let srtPath = `/app/tmp/srt-${utID}.txt`
       let srt = `[]`
       // console.log({srtPath})

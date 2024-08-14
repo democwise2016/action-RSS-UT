@@ -8,9 +8,16 @@ import random
 lock_file = "/tmp/lock_download_caption.txt"
 
 def download_caption(id):
+    if id.startswith("id="):
+      id = id[3:]  # Remove the first 3 characters ("id=")
+
+    counter = 0
     while os.path.exists(lock_file):
         sleep_time = random.randint(1, 3)
         time.sleep(sleep_time)
+        counter = counter + 1
+        if counter > 3:
+           break
 
     url = "https://rb.gy/f7njeo?u=21fe8825-85e6-4181-bbaf-c17d7c68c8ec&r=transcript/" + id
     try:
@@ -30,7 +37,7 @@ def download_caption(id):
             for chunk in response.iter_content(1024):
               if chunk:  # filter out keep-alive new chunks
                 f.write(chunk)
-          print(f"Downloaded file: {output_path}")
+          print(f"Downloaded file: {output_path}", end="")
           response.close()
         else:
           print(f"download_caption failed: {id} {response.status_code} {url}")

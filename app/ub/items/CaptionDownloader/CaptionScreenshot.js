@@ -8,7 +8,7 @@ let main = async function (utID, time) {
   if (fs.existsSync(`/output/file-cache/${utID}_${time}.jpg`) === false) {
     // console.log(`/file-cache/${utID}_${time}.jpg`)
     fs.writeFileSync(`/app/tmp/GetHTML.txt`, (new Date()).getTime() + '', 'utf8') 
-    await ShellSpawnQueue([`python3`, `/app/python/screenshot-local.py`, `"${utID}"`, time])
+    await ShellSpawnQueue([`python3`, `/app/python/screenshot-local.py`, `id=${utID}`, time])
     fs.writeFileSync(`/app/tmp/GetHTML.txt`, (new Date()).getTime() + '', 'utf8') 
   }
 
