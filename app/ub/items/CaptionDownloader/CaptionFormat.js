@@ -149,6 +149,12 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
   }
   // console.log(srtObject)
 
+  let summary
+  if (srtObject[0] && srtObject[0].summary) {
+    summary = srtObject[0].summary
+    srtObject.shift()
+  }
+
   if (timeMarkList.length > 0) {
     timeMarkList.sort()
   }
@@ -376,12 +382,29 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
   // --------------------
   // 合併
   // console.log('Count paragraphs', output.length)
-  return outputScreenshots.map (sentences => {
+  let mergeSentences = outputScreenshots.map (sentences => {
     sentences = sentences.map(sentence => sentence.text)
     return '<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">' + SentenceAppendPeriod(sentences.join('').trim()) + '</p>'
     // return sentences.join('').trim()
-  // }).join('\n')
-}).join('')
+    // }).join('\n')
+  }).join('')
+
+  if (summary) {
+    mergeSentences = processSummary(summary) + mergeSentences
+  }
+
+  return mergeSentences
+}
+
+function processSummary(summary) {
+  return summary.split('\n').map((line) => {
+    if (line.startsWith('<h1>')) {
+      return line
+    }
+    else {
+      return '<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">' + line + '</p>'
+    }
+  }).join('\n')
 }
 
 function splitArray(array, split = 3) {

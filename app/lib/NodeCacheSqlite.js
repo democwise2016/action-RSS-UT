@@ -113,7 +113,7 @@ let NodeCacheSqlite = {
       // 要怎麼移除呢...
       let database = await this.getDatabase(databaseName)
       // console.log(database.store.db)
-      const databasePath = path.join(cachePath, 'node-cache-sqlite_' + databaseName + '.sqlite')
+      // const databasePath = path.join(cachePath, 'node-cache-sqlite_' + databaseName + '.sqlite')
       // console.log(databasePath)
       // const sqlite = new Database(databasePath);
       const sqlite = database.store.db
@@ -124,7 +124,7 @@ let NodeCacheSqlite = {
       
       // ShellSpawn([`sqlite3`, `${databasePath}`, `"VACUUM;"`])
       await sqlite.exec(`VACUUM;`)
-      console.log(`[NodeCacheSqlite] VACUUM`, database )
+      console.log(`[NodeCacheSqlite] VACUUM`, databaseName )
     }, 30 * 1000)
   }
 }
