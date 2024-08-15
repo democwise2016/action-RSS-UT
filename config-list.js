@@ -481,7 +481,7 @@ let feedList = [
   {
     title: '獨角獸那麼叫',
     feedID: 'unicorn-roar',
-    homepageURL: 'https://www.youtube.com/@unicorn-roar',
+    homepageURL: 'https://www.youtube.com/channel/UCQ3GunBqsEm0-WkiblbO7uw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
 ]
