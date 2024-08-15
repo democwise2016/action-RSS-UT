@@ -379,6 +379,13 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
     outputScreenshots.push(o)
   }
 
+
+  // --------------------
+  // 摘要
+  if (summary) {
+    outputScreenshots = processSummary(outputScreenshots, summary)
+  }
+
   // --------------------
   // 合併
   // console.log('Count paragraphs', output.length)
@@ -389,24 +396,46 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
     // }).join('\n')
   }).join('')
 
-  if (summary) {
-    mergeSentences = processSummary(summary) + 
-       '<p>==========================</p>' + 
-       mergeSentences
-  }
 
   return mergeSentences
 }
 
-function processSummary(summary) {
-  return summary.split('\n').map((line) => {
-    if (line.startsWith('<h1>')) {
-      return line
+// function processSummary(summary) {
+//   return summary.split('\n').map((line) => {
+//     if (line.startsWith('<h1>')) {
+//       return line
+//     }
+//     else {
+//       return '<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">' + line + '</p>'
+//     }
+//   }).join('\n')
+// }
+
+/**
+ * @Pulipuli Chen 20240815 
+ * @param {*} summary 
+ * @returns 
+ */
+function processSummary(outputScreenshots, summary) {
+  let lines = summary.split('\n').map((text) => {
+    return {
+      text,
+      time: 0
     }
-    else {
-      return '<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">' + line + '</p>'
-    }
-  }).join('\n')
+  })
+
+  lines.push({
+    text: `<hr />`,
+    time: 0
+  })
+
+  lines.push({
+    text: `================================================`,
+    time: 0
+  })
+
+  outputScreenshots.unshift(lines)
+  return outputScreenshots
 }
 
 function splitArray(array, split = 3) {

@@ -22,7 +22,7 @@ function SentenceAppendPeriod(sentence) {
     return sentence
   }
 
-  if (endsWithList(sentence, ['.', ';', '?', '!', '"', "'", '，', '、', '&', '@', '。', '！', '？']) === false) {
+  if (!(sentence.startsWith('<') && sentence.endsWith('>')) && endsWithList(sentence, ['.', ';', '?', '!', '"', "'", '=', '，', '、', '&', '@', '。', '！', '？']) === false) {
     if (containsChineseCharacters(sentence)) {
       sentence += '。'
     }  

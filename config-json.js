@@ -16,8 +16,8 @@ let CONFIG = {
 // let test = '1780'
 
 // CONFIG.publicURL = `https://dangerous-lizard-99.telebit.io/`
-// CONFIG.titleAppend = '[RSS+] 20230827-' + test
-// CONFIG.idAppend = '20230827-' + test
+// CONFIG.titleAppend = '[RSS+] 20240815-' + test
+// CONFIG.idAppend = '20240815-' + test
 // CONFIG.maxDownloadItemPerFeed = 3
 // CONFIG.debug = true
 

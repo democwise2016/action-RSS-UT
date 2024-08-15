@@ -37,7 +37,7 @@ module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMark
       let command = [`python3`, `/app/python/caption-local.py`, `id=${utID}`]
       // console.log(command)
       await ShellSpawnQueue(command)
-      console.log('[CaptionDownloader] Download Finish: ' + utID)
+      console.log('[CaptionDownloader] Download is Finished: ' + utID)
       let srtPath = `/app/tmp/srt-${utID}.txt`
       let srt = `[]`
       // console.log({srtPath})
