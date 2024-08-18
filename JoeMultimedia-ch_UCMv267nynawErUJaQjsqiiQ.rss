@@ -30,23 +30,20 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/bzVZ-Lp7TBAVKvPQB1L7j6wLKNanujhl5MKMrD5VbprHihgMS8jSlf9gQA__vMjmye9-4I2g=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
-      <title><![CDATA[[AI tutorial] ComfyUI-FLUX LoRA 讓影像更逼真 | 專為新手說明如何修改 workflow | ComfyUI manager 安裝]]></title>
-      <link>https://www.youtube.com/watch?v=_JpEgBPRDjc</link>
-      <itunes:title><![CDATA[[AI tutorial] ComfyUI-FLUX LoRA 讓影像更逼真 | 專為新手說明如何修改 workflow | ComfyUI manager 安裝]]></itunes:title>
+      <title><![CDATA[[AI tutorial]新手篇 ComfyUI-Flux.1 NF4 低顯存可以產圖?! | 安裝好簡單]]></title>
+      <link>https://www.youtube.com/watch?v=tLX6mRR_Ju8</link>
+      <itunes:title><![CDATA[[AI tutorial]新手篇 ComfyUI-Flux.1 NF4 低顯存可以產圖?! | 安裝好簡單]]></itunes:title>
       <itunes:author><![CDATA[JoeMultimedia]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=_JpEgBPRDjc
-本次教學是特別為了新手說明如何使用 ComfyUI-FLUX 的 LoRA，自行修改 workflow，並安裝 ComfyUI manager。
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/0.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/1.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/2.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=tLX6mRR_Ju8
+很多人的顯存不夠多，這幾天 FLUX.1 NF4 的出現，解決了這個難題。本次教學是特別為了新手說明如何安裝 ComfyUI-FLUX.1 NF4 及使用 。
 
-ComfyUI-Manager
-https://github.com/ltdrdata/ComfyUI-Manager
+安裝說明，請加入我的 patreon 免費會員
+https://www.patreon.com/posts/110320633
 
-comfyUI-FLUX LoRA
-https://civitai.com/models/631986/xlabs-flux-realism-lora
-
-flux1-dev
-https://huggingface.co/Comfy-Org/flux1-dev/blob/main/flux1-dev-fp8.safetensors
+NF4 模型
+https://civitai.com/models/638187?modelVersionId=721627
 
 使用硬體：
 AMD R5 5600X 48GB RAM 
@@ -59,18 +56,15 @@ AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, A
 #girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
       </itunes:summary>
       <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=_JpEgBPRDjc
-本次教學是特別為了新手說明如何使用 ComfyUI-FLUX 的 LoRA，自行修改 workflow，並安裝 ComfyUI manager。
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/0.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/1.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/2.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=tLX6mRR_Ju8
+很多人的顯存不夠多，這幾天 FLUX.1 NF4 的出現，解決了這個難題。本次教學是特別為了新手說明如何安裝 ComfyUI-FLUX.1 NF4 及使用 。
 
-ComfyUI-Manager
-https://github.com/ltdrdata/ComfyUI-Manager
+安裝說明，請加入我的 patreon 免費會員
+https://www.patreon.com/posts/110320633
 
-comfyUI-FLUX LoRA
-https://civitai.com/models/631986/xlabs-flux-realism-lora
-
-flux1-dev
-https://huggingface.co/Comfy-Org/flux1-dev/blob/main/flux1-dev-fp8.safetensors
+NF4 模型
+https://civitai.com/models/638187?modelVersionId=721627
 
 使用硬體：
 AMD R5 5600X 48GB RAM 
@@ -82,18 +76,15 @@ AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, A
 #여자친구 #룩북 #란제리 #속옷모델 #여자 
 #girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
       </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=_JpEgBPRDjc"><img src="https://img.youtube.com/vi/_JpEgBPRDjc/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=_JpEgBPRDjc
-本次教學是特別為了新手說明如何使用 ComfyUI-FLUX 的 LoRA，自行修改 workflow，並安裝 ComfyUI manager。
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/0.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/1.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/2.jpg" /></a><a href="https://www.youtube.com/watch?v=tLX6mRR_Ju8"><img src="https://img.youtube.com/vi/tLX6mRR_Ju8/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=tLX6mRR_Ju8
+很多人的顯存不夠多，這幾天 FLUX.1 NF4 的出現，解決了這個難題。本次教學是特別為了新手說明如何安裝 ComfyUI-FLUX.1 NF4 及使用 。
 
-ComfyUI-Manager
-https://github.com/ltdrdata/ComfyUI-Manager
+安裝說明，請加入我的 patreon 免費會員
+https://www.patreon.com/posts/110320633
 
-comfyUI-FLUX LoRA
-https://civitai.com/models/631986/xlabs-flux-realism-lora
-
-flux1-dev
-https://huggingface.co/Comfy-Org/flux1-dev/blob/main/flux1-dev-fp8.safetensors
+NF4 模型
+https://civitai.com/models/638187?modelVersionId=721627
 
 使用硬體：
 AMD R5 5600X 48GB RAM 
@@ -104,7 +95,66 @@ My Patreon Page: https://www.patreon.com/joemultimedia
 AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
 #여자친구 #룩북 #란제리 #속옷모델 #여자 
 #girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/_JpEgBPRDjc/maxresdefault.jpg"/>
-      <pubDate>2024-08-12T00:00:00.000Z</pubDate>
+      <itunes:image href="https://img.youtube.com/vi/tLX6mRR_Ju8/maxresdefault.jpg"/>
+      <pubDate>2024-08-18T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[[AI tutorial]新手篇 產生提示詞好簡單 | ComfyUI-FLUX 搭配 ChatGPT 使用中文，產生 prompt]]></title>
+      <link>https://www.youtube.com/watch?v=2OV_7JYKKzM</link>
+      <itunes:title><![CDATA[[AI tutorial]新手篇 產生提示詞好簡單 | ComfyUI-FLUX 搭配 ChatGPT 使用中文，產生 prompt]]></itunes:title>
+      <itunes:author><![CDATA[JoeMultimedia]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/0.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/1.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/2.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=2OV_7JYKKzM
+本次教學是特別為了新手說明如何使用中文讓 ChatGPT 幫忙產生 prompt。
+
+ChatGPT 結合 AI 繪圖
+https://www.youtube.com/watch?v=B0X54ilrOsQ\u0026t=2s
+
+使用硬體：
+AMD R5 5600X 48GB RAM 
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/0.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/1.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/2.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=2OV_7JYKKzM
+本次教學是特別為了新手說明如何使用中文讓 ChatGPT 幫忙產生 prompt。
+
+ChatGPT 結合 AI 繪圖
+https://www.youtube.com/watch?v=B0X54ilrOsQ\u0026t=2s
+
+使用硬體：
+AMD R5 5600X 48GB RAM 
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/0.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/1.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/2.jpg" /></a><a href="https://www.youtube.com/watch?v=2OV_7JYKKzM"><img src="https://img.youtube.com/vi/2OV_7JYKKzM/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=2OV_7JYKKzM
+本次教學是特別為了新手說明如何使用中文讓 ChatGPT 幫忙產生 prompt。
+
+ChatGPT 結合 AI 繪圖
+https://www.youtube.com/watch?v=B0X54ilrOsQ\u0026t=2s
+
+使用硬體：
+AMD R5 5600X 48GB RAM 
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/2OV_7JYKKzM/maxresdefault.jpg"/>
+      <pubDate>2024-08-18T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
