@@ -30,6 +30,41 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/yoUSlrwpNcIMrOskZnpCOWRck-4yPXfIXH5uw2V0HyXyCHSiLnf6_S3Fj4jaxwKmwe0_t-0o=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[微软发布最强混合专家模型Phi-3.5-MoE-instruct，多模态大模型Phi-3.5-vision-instruct实现图像识别，Flowise+AutoGen studio打造专属AI智能体]]></title>
+      <link>https://www.youtube.com/watch?v=IE6rGV4ek7I</link>
+      <itunes:title><![CDATA[微软发布最强混合专家模型Phi-3.5-MoE-instruct，多模态大模型Phi-3.5-vision-instruct实现图像识别，Flowise+AutoGen studio打造专属AI智能体]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=37" target="_blank"><strong># phi3.5模型概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_37.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=87" target="_blank"><strong># phi3.5 MoE模型详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_87.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=140" target="_blank"><strong># phi3.5 vision模型介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=176" target="_blank"><strong># 使用ollama运行phi3.5 mini模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_176.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=200" target="_blank"><strong># 通过NVIDIA NIM调用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=244" target="_blank"><strong># 使用chainlit创建phi3.5 MoE聊天机器人</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_244.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=297" target="_blank"><strong># 在Flowise中使用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_297.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=388" target="_blank"><strong># 测试phi3.5 MoE的算法能力</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_388.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=440" target="_blank"><strong># 在autogen studio中创建科技新闻工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_440.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=578" target="_blank"><strong># 运行autogen studio工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_578.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=634" target="_blank"><strong># 演示使用phi3.5 vision模型实现图像识别</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_634.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=715" target="_blank"><strong># 总结</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_715.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=IE6rGV4ek7I</p><p>🔥🔥🔥视频简介：</p><p>🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。</p><p>本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。</p><p>🚀视频亮点:</p><p>1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景</p><p>2️⃣演示如何使用ollama运行phi3.5 mini模型</p><p>3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人</p><p>4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot</p><p>5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题</p><p>6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流</p><p>7️⃣演示phi3.5 vision模型的图像识别能力</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 phi3.5介绍</p><p>0:37 phi3.5模型概述</p><p>1:27 phi3.5 MoE模型详解</p><p>2:20 phi3.5 vision模型介绍</p><p>2:56 使用ollama运行phi3.5 mini模型</p><p>3:20 通过NVIDIA NIM调用phi3.5 MoE</p><p>4:04 使用chainlit创建phi3.5 MoE聊天机器人</p><p>4:57 在Flowise中使用phi3.5 MoE</p><p>6:28 测试phi3.5 MoE的算法能力</p><p>7:20 在autogen studio中创建科技新闻工作流</p><p>9:38 运行autogen studio工作流</p><p>10:34 演示使用phi3.5 vision模型实现图像识别</p><p>11:55 总结</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=37" target="_blank"><strong># phi3.5模型概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_37.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=87" target="_blank"><strong># phi3.5 MoE模型详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_87.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=140" target="_blank"><strong># phi3.5 vision模型介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=176" target="_blank"><strong># 使用ollama运行phi3.5 mini模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_176.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=200" target="_blank"><strong># 通过NVIDIA NIM调用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=244" target="_blank"><strong># 使用chainlit创建phi3.5 MoE聊天机器人</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_244.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=297" target="_blank"><strong># 在Flowise中使用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_297.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=388" target="_blank"><strong># 测试phi3.5 MoE的算法能力</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_388.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=440" target="_blank"><strong># 在autogen studio中创建科技新闻工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_440.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=578" target="_blank"><strong># 运行autogen studio工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_578.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=634" target="_blank"><strong># 演示使用phi3.5 vision模型实现图像识别</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_634.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=715" target="_blank"><strong># 总结</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_715.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=IE6rGV4ek7I</p><p>🔥🔥🔥视频简介：</p><p>🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。</p><p>本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。</p><p>🚀视频亮点:</p><p>1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景</p><p>2️⃣演示如何使用ollama运行phi3.5 mini模型</p><p>3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人</p><p>4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot</p><p>5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题</p><p>6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流</p><p>7️⃣演示phi3.5 vision模型的图像识别能力</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 phi3.5介绍</p><p>0:37 phi3.5模型概述</p><p>1:27 phi3.5 MoE模型详解</p><p>2:20 phi3.5 vision模型介绍</p><p>2:56 使用ollama运行phi3.5 mini模型</p><p>3:20 通过NVIDIA NIM调用phi3.5 MoE</p><p>4:04 使用chainlit创建phi3.5 MoE聊天机器人</p><p>4:57 在Flowise中使用phi3.5 MoE</p><p>6:28 测试phi3.5 MoE的算法能力</p><p>7:20 在autogen studio中创建科技新闻工作流</p><p>9:38 运行autogen studio工作流</p><p>10:34 演示使用phi3.5 vision模型实现图像识别</p><p>11:55 总结</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=37" target="_blank"><strong># phi3.5模型概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_37.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=87" target="_blank"><strong># phi3.5 MoE模型详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_87.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=140" target="_blank"><strong># phi3.5 vision模型介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=176" target="_blank"><strong># 使用ollama运行phi3.5 mini模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_176.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=200" target="_blank"><strong># 通过NVIDIA NIM调用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=244" target="_blank"><strong># 使用chainlit创建phi3.5 MoE聊天机器人</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_244.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=297" target="_blank"><strong># 在Flowise中使用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_297.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=388" target="_blank"><strong># 测试phi3.5 MoE的算法能力</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_388.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=440" target="_blank"><strong># 在autogen studio中创建科技新闻工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_440.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=578" target="_blank"><strong># 运行autogen studio工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_578.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=634" target="_blank"><strong># 演示使用phi3.5 vision模型实现图像识别</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_634.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=715" target="_blank"><strong># 总结</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_715.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=IE6rGV4ek7I</p><p>🔥🔥🔥视频简介：</p><p>🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。</p><p>本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。</p><p>🚀视频亮点:</p><p>1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景</p><p>2️⃣演示如何使用ollama运行phi3.5 mini模型</p><p>3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人</p><p>4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot</p><p>5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题</p><p>6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流</p><p>7️⃣演示phi3.5 vision模型的图像识别能力</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 phi3.5介绍</p><p>0:37 phi3.5模型概述</p><p>1:27 phi3.5 MoE模型详解</p><p>2:20 phi3.5 vision模型介绍</p><p>2:56 使用ollama运行phi3.5 mini模型</p><p>3:20 通过NVIDIA NIM调用phi3.5 MoE</p><p>4:04 使用chainlit创建phi3.5 MoE聊天机器人</p><p>4:57 在Flowise中使用phi3.5 MoE</p><p>6:28 测试phi3.5 MoE的算法能力</p><p>7:20 在autogen studio中创建科技新闻工作流</p><p>9:38 运行autogen studio工作流</p><p>10:34 演示使用phi3.5 vision模型实现图像识别</p><p>11:55 总结</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg"/>
+      <pubDate>2024-08-24T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[颠覆传统编程开发，你的AI全栈开发助手！aider最强编程AI Agents！支持ollama！让编程变得像聊天一样简单！#aider #ollama #aiagents #aigc #claude]]></title>
       <link>https://www.youtube.com/watch?v=wTzZg7CKLsw</link>
       <itunes:title><![CDATA[颠覆传统编程开发，你的AI全栈开发助手！aider最强编程AI Agents！支持ollama！让编程变得像聊天一样简单！#aider #ollama #aiagents #aigc #claude]]></itunes:title>
@@ -157,139 +192,5 @@ https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
 AI超元域[YT+]]]></content:encoded>
       <itunes:image href="undefined"/>
       <pubDate>undefined</pubDate>
-    </item><item>
-      <title><![CDATA[三分钟零代码创建AI智能体工作流！开源免费Flowise超越Coze和dify！打造复杂多AI Agents协作任务！轻松驾驭多智能体协作！#Flowise #aiagents #dify #coze]]></title>
-      <link>https://www.youtube.com/watch?v=V1AJ1stzhmw</link>
-      <itunes:title><![CDATA[三分钟零代码创建AI智能体工作流！开源免费Flowise超越Coze和dify！打造复杂多AI Agents协作任务！轻松驾驭多智能体协作！#Flowise #aiagents #dify #coze]]></itunes:title>
-      <itunes:author><![CDATA[AI超元域]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=V1AJ1stzhmw
-🔥🔥🔥视频简介:
-本期视频详细演示了如何使用Flowise框架创建多AI智能体协作工作流。Flowise是一个开源的低代码框架，专为开发人员设计，用于构建和定制大模型工作流和AI智能体。
-
-🟢视频内容包括：
-1. Flowise的安装和基本使用
-2. 创建简单的chatbot工作流
-3. 构建复杂的多AI协作智能体工作流
-4. 设置Supervisor和Worker的提示词
-5. 连接各种组件和设置API key
-6. 添加搜索引擎工具（如searXNG和Serp API）
-7. 设置文件保存工具
-8. 测试和分享工作流
-
-🟢技术亮点：
-- 使用Flowise框架
-- 集成OpenAI的GPT模型
-- 使用searXNG或Serp API进行网络搜索
-- 文件读写操作
-- 多智能体协作系统的设计与实现
-
-🟩整个过程无需编写代码，通过可视化界面即可完成复杂AI工作流的搭建，大大降低了AI应用开发的门槛。无论你是AI开发新手还是专业人士，都能从这个视频中学到valuable的知识和技能。
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240808.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉赞赏一下 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳:
-0:00 介绍：使用Flowise创建多AI智能体协作工作流
-0:25 Flowise框架介绍
-0:54 安装Flowise
-1:29 创建简单的chatbot工作流
-2:20 创建复杂的多AI协作智能体工作流
-2:47 设置Supervisor和Worker提示词
-4:00 连接组件和设置API key
-5:26 添加搜索引擎工具
-7:10 设置文件保存工具
-7:41 测试工作流
-8:50 分享工作流
-10:07 总结]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=V1AJ1stzhmw
-🔥🔥🔥视频简介:
-本期视频详细演示了如何使用Flowise框架创建多AI智能体协作工作流。Flowise是一个开源的低代码框架，专为开发人员设计，用于构建和定制大模型工作流和AI智能体。
-
-🟢视频内容包括：
-1. Flowise的安装和基本使用
-2. 创建简单的chatbot工作流
-3. 构建复杂的多AI协作智能体工作流
-4. 设置Supervisor和Worker的提示词
-5. 连接各种组件和设置API key
-6. 添加搜索引擎工具（如searXNG和Serp API）
-7. 设置文件保存工具
-8. 测试和分享工作流
-
-🟢技术亮点：
-- 使用Flowise框架
-- 集成OpenAI的GPT模型
-- 使用searXNG或Serp API进行网络搜索
-- 文件读写操作
-- 多智能体协作系统的设计与实现
-
-🟩整个过程无需编写代码，通过可视化界面即可完成复杂AI工作流的搭建，大大降低了AI应用开发的门槛。无论你是AI开发新手还是专业人士，都能从这个视频中学到valuable的知识和技能。
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240808.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉赞赏一下 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳:
-0:00 介绍：使用Flowise创建多AI智能体协作工作流
-0:25 Flowise框架介绍
-0:54 安装Flowise
-1:29 创建简单的chatbot工作流
-2:20 创建复杂的多AI协作智能体工作流
-2:47 设置Supervisor和Worker提示词
-4:00 连接组件和设置API key
-5:26 添加搜索引擎工具
-7:10 设置文件保存工具
-7:41 测试工作流
-8:50 分享工作流
-10:07 总结]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=V1AJ1stzhmw"><img src="https://img.youtube.com/vi/V1AJ1stzhmw/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=V1AJ1stzhmw
-🔥🔥🔥视频简介:
-本期视频详细演示了如何使用Flowise框架创建多AI智能体协作工作流。Flowise是一个开源的低代码框架，专为开发人员设计，用于构建和定制大模型工作流和AI智能体。
-
-🟢视频内容包括：
-1. Flowise的安装和基本使用
-2. 创建简单的chatbot工作流
-3. 构建复杂的多AI协作智能体工作流
-4. 设置Supervisor和Worker的提示词
-5. 连接各种组件和设置API key
-6. 添加搜索引擎工具（如searXNG和Serp API）
-7. 设置文件保存工具
-8. 测试和分享工作流
-
-🟢技术亮点：
-- 使用Flowise框架
-- 集成OpenAI的GPT模型
-- 使用searXNG或Serp API进行网络搜索
-- 文件读写操作
-- 多智能体协作系统的设计与实现
-
-🟩整个过程无需编写代码，通过可视化界面即可完成复杂AI工作流的搭建，大大降低了AI应用开发的门槛。无论你是AI开发新手还是专业人士，都能从这个视频中学到valuable的知识和技能。
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240808.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉赞赏一下 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳:
-0:00 介绍：使用Flowise创建多AI智能体协作工作流
-0:25 Flowise框架介绍
-0:54 安装Flowise
-1:29 创建简单的chatbot工作流
-2:20 创建复杂的多AI协作智能体工作流
-2:47 设置Supervisor和Worker提示词
-4:00 连接组件和设置API key
-5:26 添加搜索引擎工具
-7:10 设置文件保存工具
-7:41 测试工作流
-8:50 分享工作流
-10:07 总结]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/V1AJ1stzhmw/maxresdefault.jpg"/>
-      <pubDate>2024-08-08T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
