@@ -36,32 +36,104 @@
       <itunes:author><![CDATA[AI超元域]]></itunes:author>
       <itunes:summary>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=IE6rGV4ek7I
+🔥🔥🔥视频简介：
+🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。
+本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。
+🚀视频亮点:
+1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景
+2️⃣演示如何使用ollama运行phi3.5 mini模型
+3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人
+4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot
+5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题
+6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流
+7️⃣演示phi3.5 vision模型的图像识别能力
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=37" target="_blank"><strong># phi3.5模型概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_37.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=87" target="_blank"><strong># phi3.5 MoE模型详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_87.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=140" target="_blank"><strong># phi3.5 vision模型介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=176" target="_blank"><strong># 使用ollama运行phi3.5 mini模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_176.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=200" target="_blank"><strong># 通过NVIDIA NIM调用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=244" target="_blank"><strong># 使用chainlit创建phi3.5 MoE聊天机器人</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_244.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=297" target="_blank"><strong># 在Flowise中使用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_297.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=388" target="_blank"><strong># 测试phi3.5 MoE的算法能力</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_388.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=440" target="_blank"><strong># 在autogen studio中创建科技新闻工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_440.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=578" target="_blank"><strong># 运行autogen studio工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_578.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=634" target="_blank"><strong># 演示使用phi3.5 vision模型实现图像识别</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_634.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=715" target="_blank"><strong># 总结</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_715.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=IE6rGV4ek7I</p><p>🔥🔥🔥视频简介：</p><p>🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。</p><p>本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。</p><p>🚀视频亮点:</p><p>1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景</p><p>2️⃣演示如何使用ollama运行phi3.5 mini模型</p><p>3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人</p><p>4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot</p><p>5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题</p><p>6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流</p><p>7️⃣演示phi3.5 vision模型的图像识别能力</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 phi3.5介绍</p><p>0:37 phi3.5模型概述</p><p>1:27 phi3.5 MoE模型详解</p><p>2:20 phi3.5 vision模型介绍</p><p>2:56 使用ollama运行phi3.5 mini模型</p><p>3:20 通过NVIDIA NIM调用phi3.5 MoE</p><p>4:04 使用chainlit创建phi3.5 MoE聊天机器人</p><p>4:57 在Flowise中使用phi3.5 MoE</p><p>6:28 测试phi3.5 MoE的算法能力</p><p>7:20 在autogen studio中创建科技新闻工作流</p><p>9:38 运行autogen studio工作流</p><p>10:34 演示使用phi3.5 vision模型实现图像识别</p><p>11:55 总结</p>]]>
+🔥🔥🔥YouTube时间戳：
+0:00 phi3.5介绍
+0:37 phi3.5模型概述
+1:27 phi3.5 MoE模型详解
+2:20 phi3.5 vision模型介绍
+2:56 使用ollama运行phi3.5 mini模型
+3:20 通过NVIDIA NIM调用phi3.5 MoE
+4:04 使用chainlit创建phi3.5 MoE聊天机器人
+4:57 在Flowise中使用phi3.5 MoE
+6:28 测试phi3.5 MoE的算法能力
+7:20 在autogen studio中创建科技新闻工作流
+9:38 运行autogen studio工作流
+10:34 演示使用phi3.5 vision模型实现图像识别
+11:55 总结]]>
       </itunes:summary>
       <description>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=IE6rGV4ek7I
+🔥🔥🔥视频简介：
+🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。
+本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。
+🚀视频亮点:
+1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景
+2️⃣演示如何使用ollama运行phi3.5 mini模型
+3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人
+4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot
+5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题
+6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流
+7️⃣演示phi3.5 vision模型的图像识别能力
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=37" target="_blank"><strong># phi3.5模型概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_37.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=87" target="_blank"><strong># phi3.5 MoE模型详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_87.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=140" target="_blank"><strong># phi3.5 vision模型介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=176" target="_blank"><strong># 使用ollama运行phi3.5 mini模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_176.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=200" target="_blank"><strong># 通过NVIDIA NIM调用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=244" target="_blank"><strong># 使用chainlit创建phi3.5 MoE聊天机器人</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_244.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=297" target="_blank"><strong># 在Flowise中使用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_297.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=388" target="_blank"><strong># 测试phi3.5 MoE的算法能力</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_388.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=440" target="_blank"><strong># 在autogen studio中创建科技新闻工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_440.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=578" target="_blank"><strong># 运行autogen studio工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_578.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=634" target="_blank"><strong># 演示使用phi3.5 vision模型实现图像识别</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_634.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=715" target="_blank"><strong># 总结</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_715.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=IE6rGV4ek7I</p><p>🔥🔥🔥视频简介：</p><p>🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。</p><p>本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。</p><p>🚀视频亮点:</p><p>1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景</p><p>2️⃣演示如何使用ollama运行phi3.5 mini模型</p><p>3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人</p><p>4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot</p><p>5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题</p><p>6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流</p><p>7️⃣演示phi3.5 vision模型的图像识别能力</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 phi3.5介绍</p><p>0:37 phi3.5模型概述</p><p>1:27 phi3.5 MoE模型详解</p><p>2:20 phi3.5 vision模型介绍</p><p>2:56 使用ollama运行phi3.5 mini模型</p><p>3:20 通过NVIDIA NIM调用phi3.5 MoE</p><p>4:04 使用chainlit创建phi3.5 MoE聊天机器人</p><p>4:57 在Flowise中使用phi3.5 MoE</p><p>6:28 测试phi3.5 MoE的算法能力</p><p>7:20 在autogen studio中创建科技新闻工作流</p><p>9:38 运行autogen studio工作流</p><p>10:34 演示使用phi3.5 vision模型实现图像识别</p><p>11:55 总结</p>]]>
+🔥🔥🔥YouTube时间戳：
+0:00 phi3.5介绍
+0:37 phi3.5模型概述
+1:27 phi3.5 MoE模型详解
+2:20 phi3.5 vision模型介绍
+2:56 使用ollama运行phi3.5 mini模型
+3:20 通过NVIDIA NIM调用phi3.5 MoE
+4:04 使用chainlit创建phi3.5 MoE聊天机器人
+4:57 在Flowise中使用phi3.5 MoE
+6:28 测试phi3.5 MoE的算法能力
+7:20 在autogen studio中创建科技新闻工作流
+9:38 运行autogen studio工作流
+10:34 演示使用phi3.5 vision模型实现图像识别
+11:55 总结]]>
       </description>
       <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p><br />
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=IE6rGV4ek7I
+🔥🔥🔥视频简介：
+🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。
+本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。
+🚀视频亮点:
+1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景
+2️⃣演示如何使用ollama运行phi3.5 mini模型
+3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人
+4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot
+5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题
+6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流
+7️⃣演示phi3.5 vision模型的图像识别能力
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=37" target="_blank"><strong># phi3.5模型概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_37.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=87" target="_blank"><strong># phi3.5 MoE模型详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_87.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=140" target="_blank"><strong># phi3.5 vision模型介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_140.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=176" target="_blank"><strong># 使用ollama运行phi3.5 mini模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_176.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=200" target="_blank"><strong># 通过NVIDIA NIM调用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_200.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=244" target="_blank"><strong># 使用chainlit创建phi3.5 MoE聊天机器人</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_244.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=297" target="_blank"><strong># 在Flowise中使用phi3.5 MoE</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_297.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=388" target="_blank"><strong># 测试phi3.5 MoE的算法能力</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_388.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=440" target="_blank"><strong># 在autogen studio中创建科技新闻工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_440.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=578" target="_blank"><strong># 运行autogen studio工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_578.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=634" target="_blank"><strong># 演示使用phi3.5 vision模型实现图像识别</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_634.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/IE6rGV4ek7I&t=715" target="_blank"><strong># 总结</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/IE6rGV4ek7I_715.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=IE6rGV4ek7I</p><p>🔥🔥🔥视频简介：</p><p>🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。</p><p>本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。</p><p>🚀视频亮点:</p><p>1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景</p><p>2️⃣演示如何使用ollama运行phi3.5 mini模型</p><p>3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人</p><p>4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot</p><p>5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题</p><p>6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流</p><p>7️⃣演示phi3.5 vision模型的图像识别能力</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 phi3.5介绍</p><p>0:37 phi3.5模型概述</p><p>1:27 phi3.5 MoE模型详解</p><p>2:20 phi3.5 vision模型介绍</p><p>2:56 使用ollama运行phi3.5 mini模型</p><p>3:20 通过NVIDIA NIM调用phi3.5 MoE</p><p>4:04 使用chainlit创建phi3.5 MoE聊天机器人</p><p>4:57 在Flowise中使用phi3.5 MoE</p><p>6:28 测试phi3.5 MoE的算法能力</p><p>7:20 在autogen studio中创建科技新闻工作流</p><p>9:38 运行autogen studio工作流</p><p>10:34 演示使用phi3.5 vision模型实现图像识别</p><p>11:55 总结</p>]]></content:encoded>
+🔥🔥🔥YouTube时间戳：
+0:00 phi3.5介绍
+0:37 phi3.5模型概述
+1:27 phi3.5 MoE模型详解
+2:20 phi3.5 vision模型介绍
+2:56 使用ollama运行phi3.5 mini模型
+3:20 通过NVIDIA NIM调用phi3.5 MoE
+4:04 使用chainlit创建phi3.5 MoE聊天机器人
+4:57 在Flowise中使用phi3.5 MoE
+6:28 测试phi3.5 MoE的算法能力
+7:20 在autogen studio中创建科技新闻工作流
+9:38 运行autogen studio工作流
+10:34 演示使用phi3.5 vision模型实现图像识别
+11:55 总结]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg"/>
       <pubDate>2024-08-24T00:00:00.000Z</pubDate>
     </item><item>
@@ -71,32 +143,116 @@
       <itunes:author><![CDATA[AI超元域]]></itunes:author>
       <itunes:summary>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=wTzZg7CKLsw
+🔥🔥🔥视频简介：
+🚀本期视频为大家详细介绍了一款强大的AI编程工具——aider。aider是一个开源的AI编程助手，能够通过终端命令集成到任何支持终端的IDE中，也可以在浏览器中像使用聊天机器人一样操作。
+🚀视频内容包括:
+1️⃣aider的安装和基本设置
+2️⃣使用aider与本地Ollama模型和Claude模型
+🚀实际编程示例:
+1️⃣编写简单Python脚本
+2️⃣实现冒泡排序算法
+3️⃣创建贪吃蛇游戏
+🚀修改开源项目:
+1️⃣克隆开源贪吃蛇游戏
+2️⃣修改游戏颜色和速度
+3️⃣添加计分功能
+4️⃣增加多个食物
+5️⃣在浏览器界面中使用aider
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=19" target="_blank"><strong># - aider功能概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_19.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=43" target="_blank"><strong># - 安装和设置aider</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_43.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=65" target="_blank"><strong># - 使用aider与本地Ollama模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_65.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=128" target="_blank"><strong># - 示例：编写简单的Python脚本</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_128.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=173" target="_blank"><strong># - 示例：实现冒泡排序算法</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_173.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=239" target="_blank"><strong># - 使用aider与Claude模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_239.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=280" target="_blank"><strong># - 示例：创建贪吃蛇游戏</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_280.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=346" target="_blank"><strong># - 修改开源贪吃蛇游戏项目</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_346.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=387" target="_blank"><strong># - 为游戏添加计分功能</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_387.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=435" target="_blank"><strong># - 在浏览器界面中使用aider</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_435.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=469" target="_blank"><strong># - 为贪吃蛇游戏添加多个食物</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_469.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=500" target="_blank"><strong># - 结论和结束语</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_500.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240822.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉打赏一下 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=wTzZg7CKLsw</p><p>🔥🔥🔥视频简介：</p><p>🚀本期视频为大家详细介绍了一款强大的AI编程工具——aider。aider是一个开源的AI编程助手，能够通过终端命令集成到任何支持终端的IDE中，也可以在浏览器中像使用聊天机器人一样操作。</p><p>🚀视频内容包括:</p><p>1️⃣aider的安装和基本设置</p><p>2️⃣使用aider与本地Ollama模型和Claude模型</p><p>🚀实际编程示例:</p><p>1️⃣编写简单Python脚本</p><p>2️⃣实现冒泡排序算法</p><p>3️⃣创建贪吃蛇游戏</p><p>🚀修改开源项目:</p><p>1️⃣克隆开源贪吃蛇游戏</p><p>2️⃣修改游戏颜色和速度</p><p>3️⃣添加计分功能</p><p>4️⃣增加多个食物</p><p>5️⃣在浏览器界面中使用aider</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240822.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉打赏一下 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 - aider介绍</p><p>0:19 - aider功能概述</p><p>0:43 - 安装和设置aider</p><p>1:05 - 使用aider与本地Ollama模型</p><p>2:08 - 示例：编写简单的Python脚本</p><p>2:53 - 示例：实现冒泡排序算法</p><p>3:59 - 使用aider与Claude模型</p><p>4:40 - 示例：创建贪吃蛇游戏</p><p>5:46 - 修改开源贪吃蛇游戏项目</p><p>6:27 - 为游戏添加计分功能</p><p>7:15 - 在浏览器界面中使用aider</p><p>7:49 - 为贪吃蛇游戏添加多个食物</p><p>8:20 - 结论和结束语</p>]]>
+🔥🔥🔥YouTube时间戳：
+0:00 - aider介绍
+0:19 - aider功能概述
+0:43 - 安装和设置aider
+1:05 - 使用aider与本地Ollama模型
+2:08 - 示例：编写简单的Python脚本
+2:53 - 示例：实现冒泡排序算法
+3:59 - 使用aider与Claude模型
+4:40 - 示例：创建贪吃蛇游戏
+5:46 - 修改开源贪吃蛇游戏项目
+6:27 - 为游戏添加计分功能
+7:15 - 在浏览器界面中使用aider
+7:49 - 为贪吃蛇游戏添加多个食物
+8:20 - 结论和结束语]]>
       </itunes:summary>
       <description>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=wTzZg7CKLsw
+🔥🔥🔥视频简介：
+🚀本期视频为大家详细介绍了一款强大的AI编程工具——aider。aider是一个开源的AI编程助手，能够通过终端命令集成到任何支持终端的IDE中，也可以在浏览器中像使用聊天机器人一样操作。
+🚀视频内容包括:
+1️⃣aider的安装和基本设置
+2️⃣使用aider与本地Ollama模型和Claude模型
+🚀实际编程示例:
+1️⃣编写简单Python脚本
+2️⃣实现冒泡排序算法
+3️⃣创建贪吃蛇游戏
+🚀修改开源项目:
+1️⃣克隆开源贪吃蛇游戏
+2️⃣修改游戏颜色和速度
+3️⃣添加计分功能
+4️⃣增加多个食物
+5️⃣在浏览器界面中使用aider
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=19" target="_blank"><strong># - aider功能概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_19.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=43" target="_blank"><strong># - 安装和设置aider</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_43.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=65" target="_blank"><strong># - 使用aider与本地Ollama模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_65.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=128" target="_blank"><strong># - 示例：编写简单的Python脚本</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_128.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=173" target="_blank"><strong># - 示例：实现冒泡排序算法</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_173.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=239" target="_blank"><strong># - 使用aider与Claude模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_239.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=280" target="_blank"><strong># - 示例：创建贪吃蛇游戏</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_280.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=346" target="_blank"><strong># - 修改开源贪吃蛇游戏项目</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_346.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=387" target="_blank"><strong># - 为游戏添加计分功能</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_387.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=435" target="_blank"><strong># - 在浏览器界面中使用aider</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_435.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=469" target="_blank"><strong># - 为贪吃蛇游戏添加多个食物</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_469.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=500" target="_blank"><strong># - 结论和结束语</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_500.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240822.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉打赏一下 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=wTzZg7CKLsw</p><p>🔥🔥🔥视频简介：</p><p>🚀本期视频为大家详细介绍了一款强大的AI编程工具——aider。aider是一个开源的AI编程助手，能够通过终端命令集成到任何支持终端的IDE中，也可以在浏览器中像使用聊天机器人一样操作。</p><p>🚀视频内容包括:</p><p>1️⃣aider的安装和基本设置</p><p>2️⃣使用aider与本地Ollama模型和Claude模型</p><p>🚀实际编程示例:</p><p>1️⃣编写简单Python脚本</p><p>2️⃣实现冒泡排序算法</p><p>3️⃣创建贪吃蛇游戏</p><p>🚀修改开源项目:</p><p>1️⃣克隆开源贪吃蛇游戏</p><p>2️⃣修改游戏颜色和速度</p><p>3️⃣添加计分功能</p><p>4️⃣增加多个食物</p><p>5️⃣在浏览器界面中使用aider</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240822.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉打赏一下 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 - aider介绍</p><p>0:19 - aider功能概述</p><p>0:43 - 安装和设置aider</p><p>1:05 - 使用aider与本地Ollama模型</p><p>2:08 - 示例：编写简单的Python脚本</p><p>2:53 - 示例：实现冒泡排序算法</p><p>3:59 - 使用aider与Claude模型</p><p>4:40 - 示例：创建贪吃蛇游戏</p><p>5:46 - 修改开源贪吃蛇游戏项目</p><p>6:27 - 为游戏添加计分功能</p><p>7:15 - 在浏览器界面中使用aider</p><p>7:49 - 为贪吃蛇游戏添加多个食物</p><p>8:20 - 结论和结束语</p>]]>
+🔥🔥🔥YouTube时间戳：
+0:00 - aider介绍
+0:19 - aider功能概述
+0:43 - 安装和设置aider
+1:05 - 使用aider与本地Ollama模型
+2:08 - 示例：编写简单的Python脚本
+2:53 - 示例：实现冒泡排序算法
+3:59 - 使用aider与Claude模型
+4:40 - 示例：创建贪吃蛇游戏
+5:46 - 修改开源贪吃蛇游戏项目
+6:27 - 为游戏添加计分功能
+7:15 - 在浏览器界面中使用aider
+7:49 - 为贪吃蛇游戏添加多个食物
+8:20 - 结论和结束语]]>
       </description>
       <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/0.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/1.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/2.jpg" /></a><a href="https://www.youtube.com/watch?v=wTzZg7CKLsw"><img src="https://img.youtube.com/vi/wTzZg7CKLsw/3.jpg" /></a></p><br />
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=wTzZg7CKLsw
+🔥🔥🔥视频简介：
+🚀本期视频为大家详细介绍了一款强大的AI编程工具——aider。aider是一个开源的AI编程助手，能够通过终端命令集成到任何支持终端的IDE中，也可以在浏览器中像使用聊天机器人一样操作。
+🚀视频内容包括:
+1️⃣aider的安装和基本设置
+2️⃣使用aider与本地Ollama模型和Claude模型
+🚀实际编程示例:
+1️⃣编写简单Python脚本
+2️⃣实现冒泡排序算法
+3️⃣创建贪吃蛇游戏
+🚀修改开源项目:
+1️⃣克隆开源贪吃蛇游戏
+2️⃣修改游戏颜色和速度
+3️⃣添加计分功能
+4️⃣增加多个食物
+5️⃣在浏览器界面中使用aider
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=19" target="_blank"><strong># - aider功能概述</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_19.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=43" target="_blank"><strong># - 安装和设置aider</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_43.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=65" target="_blank"><strong># - 使用aider与本地Ollama模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_65.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=128" target="_blank"><strong># - 示例：编写简单的Python脚本</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_128.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=173" target="_blank"><strong># - 示例：实现冒泡排序算法</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_173.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=239" target="_blank"><strong># - 使用aider与Claude模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_239.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=280" target="_blank"><strong># - 示例：创建贪吃蛇游戏</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_280.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=346" target="_blank"><strong># - 修改开源贪吃蛇游戏项目</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_346.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=387" target="_blank"><strong># - 为游戏添加计分功能</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_387.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=435" target="_blank"><strong># - 在浏览器界面中使用aider</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_435.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=469" target="_blank"><strong># - 为贪吃蛇游戏添加多个食物</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_469.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/wTzZg7CKLsw&t=500" target="_blank"><strong># - 结论和结束语</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/wTzZg7CKLsw_500.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240822.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉打赏一下 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=wTzZg7CKLsw</p><p>🔥🔥🔥视频简介：</p><p>🚀本期视频为大家详细介绍了一款强大的AI编程工具——aider。aider是一个开源的AI编程助手，能够通过终端命令集成到任何支持终端的IDE中，也可以在浏览器中像使用聊天机器人一样操作。</p><p>🚀视频内容包括:</p><p>1️⃣aider的安装和基本设置</p><p>2️⃣使用aider与本地Ollama模型和Claude模型</p><p>🚀实际编程示例:</p><p>1️⃣编写简单Python脚本</p><p>2️⃣实现冒泡排序算法</p><p>3️⃣创建贪吃蛇游戏</p><p>🚀修改开源项目:</p><p>1️⃣克隆开源贪吃蛇游戏</p><p>2️⃣修改游戏颜色和速度</p><p>3️⃣添加计分功能</p><p>4️⃣增加多个食物</p><p>5️⃣在浏览器界面中使用aider</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240822.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉打赏一下 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>0:00 - aider介绍</p><p>0:19 - aider功能概述</p><p>0:43 - 安装和设置aider</p><p>1:05 - 使用aider与本地Ollama模型</p><p>2:08 - 示例：编写简单的Python脚本</p><p>2:53 - 示例：实现冒泡排序算法</p><p>3:59 - 使用aider与Claude模型</p><p>4:40 - 示例：创建贪吃蛇游戏</p><p>5:46 - 修改开源贪吃蛇游戏项目</p><p>6:27 - 为游戏添加计分功能</p><p>7:15 - 在浏览器界面中使用aider</p><p>7:49 - 为贪吃蛇游戏添加多个食物</p><p>8:20 - 结论和结束语</p>]]></content:encoded>
+🔥🔥🔥YouTube时间戳：
+0:00 - aider介绍
+0:19 - aider功能概述
+0:43 - 安装和设置aider
+1:05 - 使用aider与本地Ollama模型
+2:08 - 示例：编写简单的Python脚本
+2:53 - 示例：实现冒泡排序算法
+3:59 - 使用aider与Claude模型
+4:40 - 示例：创建贪吃蛇游戏
+5:46 - 修改开源贪吃蛇游戏项目
+6:27 - 为游戏添加计分功能
+7:15 - 在浏览器界面中使用aider
+7:49 - 为贪吃蛇游戏添加多个食物
+8:20 - 结论和结束语]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/wTzZg7CKLsw/maxresdefault.jpg"/>
       <pubDate>2024-08-22T00:00:00.000Z</pubDate>
     </item><item>
@@ -106,32 +262,110 @@
       <itunes:author><![CDATA[AI超元域]]></itunes:author>
       <itunes:summary>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=HgAjPY4msiY
+🔥🔥🔥视频简介:
+本期视频详细演示了一个革命性的开源项目：postgres.new。这个项目让数据库操作和数据分析变得前所未有的简单，即使不懂SQL或数据库知识，也能轻松驾驭复杂的数据处理任务。
+🟢视频内容:
+1️⃣介绍postgres.new项目及其强大功能
+2️⃣演示如何部署postgres.new
+3️⃣展示如何使用自然语言进行数据查询、分析和可视化
+4️⃣演示通过自然语言进行数据库的增删改查操作
+5️⃣展示如何创建新表和生成测试数据
+6️⃣进行复杂的数据分析并生成直观的图表
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=25" target="_blank"><strong># postgres.new项目介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_25.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=50" target="_blank"><strong># 演示如何部署postgres.new</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_50.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=157" target="_blank"><strong># 登录并使用postgres.new进行数据分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_157.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=196" target="_blank"><strong># 上传CSV文件并创建数据库表</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_196.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=253" target="_blank"><strong># 使用自然语言进行数据查询和分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_253.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=330" target="_blank"><strong># 使用自然语言更新和插入数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_330.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=382" target="_blank"><strong># 使用自然语言创建新表并生成测试数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_382.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=435" target="_blank"><strong># 使用自然语言修改和删除数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_435.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=453" target="_blank"><strong># 进行复杂数据分析和可视化</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_453.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=512" target="_blank"><strong># 总结视频内容</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_512.jpg" /></p></p>
+🟢通过postgres.new，可以实现：
+1️⃣用自然语言进行复杂的SQL查询
+2️⃣轻松创建和管理数据库表
+3️⃣进行高级数据分析和可视化
+4️⃣大幅提高数据处理效率
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=HgAjPY4msiY</p><p>🔥🔥🔥视频简介:</p><p>本期视频详细演示了一个革命性的开源项目：postgres.new。这个项目让数据库操作和数据分析变得前所未有的简单，即使不懂SQL或数据库知识，也能轻松驾驭复杂的数据处理任务。</p><p>🟢视频内容:</p><p>1️⃣介绍postgres.new项目及其强大功能</p><p>2️⃣演示如何部署postgres.new</p><p>3️⃣展示如何使用自然语言进行数据查询、分析和可视化</p><p>4️⃣演示通过自然语言进行数据库的增删改查操作</p><p>5️⃣展示如何创建新表和生成测试数据</p><p>6️⃣进行复杂的数据分析并生成直观的图表</p><p></p><p>🟢通过postgres.new，可以实现：</p><p>1️⃣用自然语言进行复杂的SQL查询</p><p>2️⃣轻松创建和管理数据库表</p><p>3️⃣进行高级数据分析和可视化</p><p>4️⃣大幅提高数据处理效率</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240816.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉赞赏一下 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳:</p><p>0:00 介绍视频内容和postgres.new项目</p><p>0:25 postgres.new项目介绍</p><p>0:50 演示如何部署postgres.new</p><p>2:37 登录并使用postgres.new进行数据分析</p><p>3:16 上传CSV文件并创建数据库表</p><p>4:13 使用自然语言进行数据查询和分析</p><p>5:30 使用自然语言更新和插入数据</p><p>6:22 使用自然语言创建新表并生成测试数据</p><p>7:15 使用自然语言修改和删除数据</p><p>7:33 进行复杂数据分析和可视化</p><p>8:32 总结视频内容</p>]]>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240816.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉赞赏一下 https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳:
+0:00 介绍视频内容和postgres.new项目
+0:25 postgres.new项目介绍
+0:50 演示如何部署postgres.new
+2:37 登录并使用postgres.new进行数据分析
+3:16 上传CSV文件并创建数据库表
+4:13 使用自然语言进行数据查询和分析
+5:30 使用自然语言更新和插入数据
+6:22 使用自然语言创建新表并生成测试数据
+7:15 使用自然语言修改和删除数据
+7:33 进行复杂数据分析和可视化
+8:32 总结视频内容]]>
       </itunes:summary>
       <description>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=HgAjPY4msiY
+🔥🔥🔥视频简介:
+本期视频详细演示了一个革命性的开源项目：postgres.new。这个项目让数据库操作和数据分析变得前所未有的简单，即使不懂SQL或数据库知识，也能轻松驾驭复杂的数据处理任务。
+🟢视频内容:
+1️⃣介绍postgres.new项目及其强大功能
+2️⃣演示如何部署postgres.new
+3️⃣展示如何使用自然语言进行数据查询、分析和可视化
+4️⃣演示通过自然语言进行数据库的增删改查操作
+5️⃣展示如何创建新表和生成测试数据
+6️⃣进行复杂的数据分析并生成直观的图表
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=25" target="_blank"><strong># postgres.new项目介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_25.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=50" target="_blank"><strong># 演示如何部署postgres.new</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_50.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=157" target="_blank"><strong># 登录并使用postgres.new进行数据分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_157.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=196" target="_blank"><strong># 上传CSV文件并创建数据库表</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_196.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=253" target="_blank"><strong># 使用自然语言进行数据查询和分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_253.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=330" target="_blank"><strong># 使用自然语言更新和插入数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_330.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=382" target="_blank"><strong># 使用自然语言创建新表并生成测试数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_382.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=435" target="_blank"><strong># 使用自然语言修改和删除数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_435.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=453" target="_blank"><strong># 进行复杂数据分析和可视化</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_453.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=512" target="_blank"><strong># 总结视频内容</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_512.jpg" /></p></p>
+🟢通过postgres.new，可以实现：
+1️⃣用自然语言进行复杂的SQL查询
+2️⃣轻松创建和管理数据库表
+3️⃣进行高级数据分析和可视化
+4️⃣大幅提高数据处理效率
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=HgAjPY4msiY</p><p>🔥🔥🔥视频简介:</p><p>本期视频详细演示了一个革命性的开源项目：postgres.new。这个项目让数据库操作和数据分析变得前所未有的简单，即使不懂SQL或数据库知识，也能轻松驾驭复杂的数据处理任务。</p><p>🟢视频内容:</p><p>1️⃣介绍postgres.new项目及其强大功能</p><p>2️⃣演示如何部署postgres.new</p><p>3️⃣展示如何使用自然语言进行数据查询、分析和可视化</p><p>4️⃣演示通过自然语言进行数据库的增删改查操作</p><p>5️⃣展示如何创建新表和生成测试数据</p><p>6️⃣进行复杂的数据分析并生成直观的图表</p><p></p><p>🟢通过postgres.new，可以实现：</p><p>1️⃣用自然语言进行复杂的SQL查询</p><p>2️⃣轻松创建和管理数据库表</p><p>3️⃣进行高级数据分析和可视化</p><p>4️⃣大幅提高数据处理效率</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240816.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉赞赏一下 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳:</p><p>0:00 介绍视频内容和postgres.new项目</p><p>0:25 postgres.new项目介绍</p><p>0:50 演示如何部署postgres.new</p><p>2:37 登录并使用postgres.new进行数据分析</p><p>3:16 上传CSV文件并创建数据库表</p><p>4:13 使用自然语言进行数据查询和分析</p><p>5:30 使用自然语言更新和插入数据</p><p>6:22 使用自然语言创建新表并生成测试数据</p><p>7:15 使用自然语言修改和删除数据</p><p>7:33 进行复杂数据分析和可视化</p><p>8:32 总结视频内容</p>]]>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240816.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉赞赏一下 https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳:
+0:00 介绍视频内容和postgres.new项目
+0:25 postgres.new项目介绍
+0:50 演示如何部署postgres.new
+2:37 登录并使用postgres.new进行数据分析
+3:16 上传CSV文件并创建数据库表
+4:13 使用自然语言进行数据查询和分析
+5:30 使用自然语言更新和插入数据
+6:22 使用自然语言创建新表并生成测试数据
+7:15 使用自然语言修改和删除数据
+7:33 进行复杂数据分析和可视化
+8:32 总结视频内容]]>
       </description>
       <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=HgAjPY4msiY"><img src="https://img.youtube.com/vi/HgAjPY4msiY/3.jpg" /></a></p><br />
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=HgAjPY4msiY
+🔥🔥🔥视频简介:
+本期视频详细演示了一个革命性的开源项目：postgres.new。这个项目让数据库操作和数据分析变得前所未有的简单，即使不懂SQL或数据库知识，也能轻松驾驭复杂的数据处理任务。
+🟢视频内容:
+1️⃣介绍postgres.new项目及其强大功能
+2️⃣演示如何部署postgres.new
+3️⃣展示如何使用自然语言进行数据查询、分析和可视化
+4️⃣演示通过自然语言进行数据库的增删改查操作
+5️⃣展示如何创建新表和生成测试数据
+6️⃣进行复杂的数据分析并生成直观的图表
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=25" target="_blank"><strong># postgres.new项目介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_25.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=50" target="_blank"><strong># 演示如何部署postgres.new</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_50.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=157" target="_blank"><strong># 登录并使用postgres.new进行数据分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_157.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=196" target="_blank"><strong># 上传CSV文件并创建数据库表</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_196.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=253" target="_blank"><strong># 使用自然语言进行数据查询和分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_253.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=330" target="_blank"><strong># 使用自然语言更新和插入数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_330.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=382" target="_blank"><strong># 使用自然语言创建新表并生成测试数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_382.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=435" target="_blank"><strong># 使用自然语言修改和删除数据</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_435.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=453" target="_blank"><strong># 进行复杂数据分析和可视化</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_453.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/HgAjPY4msiY&t=512" target="_blank"><strong># 总结视频内容</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/HgAjPY4msiY_512.jpg" /></p></p>
+🟢通过postgres.new，可以实现：
+1️⃣用自然语言进行复杂的SQL查询
+2️⃣轻松创建和管理数据库表
+3️⃣进行高级数据分析和可视化
+4️⃣大幅提高数据处理效率
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=HgAjPY4msiY</p><p>🔥🔥🔥视频简介:</p><p>本期视频详细演示了一个革命性的开源项目：postgres.new。这个项目让数据库操作和数据分析变得前所未有的简单，即使不懂SQL或数据库知识，也能轻松驾驭复杂的数据处理任务。</p><p>🟢视频内容:</p><p>1️⃣介绍postgres.new项目及其强大功能</p><p>2️⃣演示如何部署postgres.new</p><p>3️⃣展示如何使用自然语言进行数据查询、分析和可视化</p><p>4️⃣演示通过自然语言进行数据库的增删改查操作</p><p>5️⃣展示如何创建新表和生成测试数据</p><p>6️⃣进行复杂的数据分析并生成直观的图表</p><p></p><p>🟢通过postgres.new，可以实现：</p><p>1️⃣用自然语言进行复杂的SQL查询</p><p>2️⃣轻松创建和管理数据库表</p><p>3️⃣进行高级数据分析和可视化</p><p>4️⃣大幅提高数据处理效率</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240816.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉赞赏一下 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳:</p><p>0:00 介绍视频内容和postgres.new项目</p><p>0:25 postgres.new项目介绍</p><p>0:50 演示如何部署postgres.new</p><p>2:37 登录并使用postgres.new进行数据分析</p><p>3:16 上传CSV文件并创建数据库表</p><p>4:13 使用自然语言进行数据查询和分析</p><p>5:30 使用自然语言更新和插入数据</p><p>6:22 使用自然语言创建新表并生成测试数据</p><p>7:15 使用自然语言修改和删除数据</p><p>7:33 进行复杂数据分析和可视化</p><p>8:32 总结视频内容</p>]]></content:encoded>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240816.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉赞赏一下 https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳:
+0:00 介绍视频内容和postgres.new项目
+0:25 postgres.new项目介绍
+0:50 演示如何部署postgres.new
+2:37 登录并使用postgres.new进行数据分析
+3:16 上传CSV文件并创建数据库表
+4:13 使用自然语言进行数据查询和分析
+5:30 使用自然语言更新和插入数据
+6:22 使用自然语言创建新表并生成测试数据
+7:15 使用自然语言修改和删除数据
+7:33 进行复杂数据分析和可视化
+8:32 总结视频内容]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/HgAjPY4msiY/maxresdefault.jpg"/>
       <pubDate>2024-08-16T00:00:00.000Z</pubDate>
     </item><item>
@@ -141,32 +375,152 @@
       <itunes:author><![CDATA[AI超元域]]></itunes:author>
       <itunes:summary>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=UCfFfrmlfcA
+🔥🔥🔥视频简介:
+本期视频为大家详细演示如何本地部署全球首个AI科学家AI Scientist！这是由日本AI研究团队SakanaAI开发的革命性工具，能够全自动化进行科研和撰写论文。
+🟢本期视频内容概要:
+1️⃣详细介绍AI Scientist的特点和优势
+2️⃣演示如何在搭载A6000显卡的Ubuntu系统上部署AI Scientist
+3️⃣展示如何使用AI Scientist自动生成一篇机器学习论文
+4️⃣讲解整个过程，从创意生成到实验执行，再到论文写作
+🟢AI Scientist的主要特点：
+1️⃣全自动化流程：从研究想法到论文撰写
+2️⃣集成了大语言模型技术
+3️⃣经济高效：生成一篇论文成本不到15美元
+4️⃣支持多种研究模板：NanoGPT、2D diffusion、grokking
+🟢配置步骤:
+1️⃣创建并配置正确的环境
+2️⃣安装必要的依赖
+3️⃣设置API密钥
+4️⃣运行AI Scientist生成论文
+5️⃣使用AI进行论文评审
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=28" target="_blank"><strong># 演示部署和生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_28.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=38" target="_blank"><strong># AI Scientist简介</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_38.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=61" target="_blank"><strong># AI Scientist的四个主要流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_61.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=82" target="_blank"><strong># AI Scientist的特点和优点</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_82.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=106" target="_blank"><strong># AI Scientist的执行流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_106.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=136" target="_blank"><strong># 本地部署演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_136.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=148" target="_blank"><strong># 创建和激活虚拟环境</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_148.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=155" target="_blank"><strong># 安装必要的Python库</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_155.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=172" target="_blank"><strong># 设置API密钥</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_172.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=184" target="_blank"><strong># 执行科研任务</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_184.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=196" target="_blank"><strong># 选择NanoGPT模板</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_196.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=207" target="_blank"><strong># 执行命令创建基线运行</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_207.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=242" target="_blank"><strong># 生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_242.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=250" target="_blank"><strong># 使用gpt4o模型生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_250.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=278" target="_blank"><strong># 使用Claude 3.5 API的建议</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_278.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=293" target="_blank"><strong># 执行生成论文的命令</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_293.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=309" target="_blank"><strong># 论文生成过程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_309.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=322" target="_blank"><strong># 论文评审</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_322.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=333" target="_blank"><strong># 运行评审脚本</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_333.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=342" target="_blank"><strong># 其他模板的使用说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_342.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=346" target="_blank"><strong># 结束语</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_346.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240814.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=UCfFfrmlfcA</p><p>🔥🔥🔥视频简介:</p><p>本期视频为大家详细演示如何本地部署全球首个AI科学家AI Scientist！这是由日本AI研究团队SakanaAI开发的革命性工具，能够全自动化进行科研和撰写论文。</p><p>🟢本期视频内容概要:</p><p>1️⃣详细介绍AI Scientist的特点和优势</p><p>2️⃣演示如何在搭载A6000显卡的Ubuntu系统上部署AI Scientist</p><p>3️⃣展示如何使用AI Scientist自动生成一篇机器学习论文</p><p>4️⃣讲解整个过程，从创意生成到实验执行，再到论文写作</p><p>🟢AI Scientist的主要特点：</p><p>1️⃣全自动化流程：从研究想法到论文撰写</p><p>2️⃣集成了大语言模型技术</p><p>3️⃣经济高效：生成一篇论文成本不到15美元</p><p>4️⃣支持多种研究模板：NanoGPT、2D diffusion、grokking</p><p>🟢配置步骤:</p><p>1️⃣创建并配置正确的环境</p><p>2️⃣安装必要的依赖</p><p>3️⃣设置API密钥</p><p>4️⃣运行AI Scientist生成论文</p><p>5️⃣使用AI进行论文评审</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240814.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳:</p><p>0:00 介绍AI Scientist</p><p>0:28 演示部署和生成论文</p><p>0:38 AI Scientist简介</p><p>1:01 AI Scientist的四个主要流程</p><p>1:22 AI Scientist的特点和优点</p><p>1:46 AI Scientist的执行流程</p><p>2:16 本地部署演示</p><p>2:28 创建和激活虚拟环境</p><p>2:35 安装必要的Python库</p><p>2:52 设置API密钥</p><p>3:04 执行科研任务</p><p>3:16 选择NanoGPT模板</p><p>3:27 执行命令创建基线运行</p><p>4:02 生成论文</p><p>4:10 使用gpt4o模型生成论文</p><p>4:38 使用Claude 3.5 API的建议</p><p>4:53 执行生成论文的命令</p><p>5:09 论文生成过程</p><p>5:22 论文评审</p><p>5:33 运行评审脚本</p><p>5:42 其他模板的使用说明</p><p>5:46 结束语</p>]]>
+🔥🔥🔥YouTube时间戳:
+0:00 介绍AI Scientist
+0:28 演示部署和生成论文
+0:38 AI Scientist简介
+1:01 AI Scientist的四个主要流程
+1:22 AI Scientist的特点和优点
+1:46 AI Scientist的执行流程
+2:16 本地部署演示
+2:28 创建和激活虚拟环境
+2:35 安装必要的Python库
+2:52 设置API密钥
+3:04 执行科研任务
+3:16 选择NanoGPT模板
+3:27 执行命令创建基线运行
+4:02 生成论文
+4:10 使用gpt4o模型生成论文
+4:38 使用Claude 3.5 API的建议
+4:53 执行生成论文的命令
+5:09 论文生成过程
+5:22 论文评审
+5:33 运行评审脚本
+5:42 其他模板的使用说明
+5:46 结束语]]>
       </itunes:summary>
       <description>
         <![CDATA[<p><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/3.jpg" /></a></p>
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=UCfFfrmlfcA
+🔥🔥🔥视频简介:
+本期视频为大家详细演示如何本地部署全球首个AI科学家AI Scientist！这是由日本AI研究团队SakanaAI开发的革命性工具，能够全自动化进行科研和撰写论文。
+🟢本期视频内容概要:
+1️⃣详细介绍AI Scientist的特点和优势
+2️⃣演示如何在搭载A6000显卡的Ubuntu系统上部署AI Scientist
+3️⃣展示如何使用AI Scientist自动生成一篇机器学习论文
+4️⃣讲解整个过程，从创意生成到实验执行，再到论文写作
+🟢AI Scientist的主要特点：
+1️⃣全自动化流程：从研究想法到论文撰写
+2️⃣集成了大语言模型技术
+3️⃣经济高效：生成一篇论文成本不到15美元
+4️⃣支持多种研究模板：NanoGPT、2D diffusion、grokking
+🟢配置步骤:
+1️⃣创建并配置正确的环境
+2️⃣安装必要的依赖
+3️⃣设置API密钥
+4️⃣运行AI Scientist生成论文
+5️⃣使用AI进行论文评审
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=28" target="_blank"><strong># 演示部署和生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_28.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=38" target="_blank"><strong># AI Scientist简介</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_38.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=61" target="_blank"><strong># AI Scientist的四个主要流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_61.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=82" target="_blank"><strong># AI Scientist的特点和优点</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_82.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=106" target="_blank"><strong># AI Scientist的执行流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_106.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=136" target="_blank"><strong># 本地部署演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_136.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=148" target="_blank"><strong># 创建和激活虚拟环境</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_148.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=155" target="_blank"><strong># 安装必要的Python库</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_155.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=172" target="_blank"><strong># 设置API密钥</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_172.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=184" target="_blank"><strong># 执行科研任务</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_184.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=196" target="_blank"><strong># 选择NanoGPT模板</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_196.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=207" target="_blank"><strong># 执行命令创建基线运行</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_207.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=242" target="_blank"><strong># 生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_242.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=250" target="_blank"><strong># 使用gpt4o模型生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_250.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=278" target="_blank"><strong># 使用Claude 3.5 API的建议</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_278.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=293" target="_blank"><strong># 执行生成论文的命令</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_293.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=309" target="_blank"><strong># 论文生成过程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_309.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=322" target="_blank"><strong># 论文评审</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_322.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=333" target="_blank"><strong># 运行评审脚本</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_333.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=342" target="_blank"><strong># 其他模板的使用说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_342.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=346" target="_blank"><strong># 结束语</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_346.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240814.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=UCfFfrmlfcA</p><p>🔥🔥🔥视频简介:</p><p>本期视频为大家详细演示如何本地部署全球首个AI科学家AI Scientist！这是由日本AI研究团队SakanaAI开发的革命性工具，能够全自动化进行科研和撰写论文。</p><p>🟢本期视频内容概要:</p><p>1️⃣详细介绍AI Scientist的特点和优势</p><p>2️⃣演示如何在搭载A6000显卡的Ubuntu系统上部署AI Scientist</p><p>3️⃣展示如何使用AI Scientist自动生成一篇机器学习论文</p><p>4️⃣讲解整个过程，从创意生成到实验执行，再到论文写作</p><p>🟢AI Scientist的主要特点：</p><p>1️⃣全自动化流程：从研究想法到论文撰写</p><p>2️⃣集成了大语言模型技术</p><p>3️⃣经济高效：生成一篇论文成本不到15美元</p><p>4️⃣支持多种研究模板：NanoGPT、2D diffusion、grokking</p><p>🟢配置步骤:</p><p>1️⃣创建并配置正确的环境</p><p>2️⃣安装必要的依赖</p><p>3️⃣设置API密钥</p><p>4️⃣运行AI Scientist生成论文</p><p>5️⃣使用AI进行论文评审</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240814.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳:</p><p>0:00 介绍AI Scientist</p><p>0:28 演示部署和生成论文</p><p>0:38 AI Scientist简介</p><p>1:01 AI Scientist的四个主要流程</p><p>1:22 AI Scientist的特点和优点</p><p>1:46 AI Scientist的执行流程</p><p>2:16 本地部署演示</p><p>2:28 创建和激活虚拟环境</p><p>2:35 安装必要的Python库</p><p>2:52 设置API密钥</p><p>3:04 执行科研任务</p><p>3:16 选择NanoGPT模板</p><p>3:27 执行命令创建基线运行</p><p>4:02 生成论文</p><p>4:10 使用gpt4o模型生成论文</p><p>4:38 使用Claude 3.5 API的建议</p><p>4:53 执行生成论文的命令</p><p>5:09 论文生成过程</p><p>5:22 论文评审</p><p>5:33 运行评审脚本</p><p>5:42 其他模板的使用说明</p><p>5:46 结束语</p>]]>
+🔥🔥🔥YouTube时间戳:
+0:00 介绍AI Scientist
+0:28 演示部署和生成论文
+0:38 AI Scientist简介
+1:01 AI Scientist的四个主要流程
+1:22 AI Scientist的特点和优点
+1:46 AI Scientist的执行流程
+2:16 本地部署演示
+2:28 创建和激活虚拟环境
+2:35 安装必要的Python库
+2:52 设置API密钥
+3:04 执行科研任务
+3:16 选择NanoGPT模板
+3:27 执行命令创建基线运行
+4:02 生成论文
+4:10 使用gpt4o模型生成论文
+4:38 使用Claude 3.5 API的建议
+4:53 执行生成论文的命令
+5:09 论文生成过程
+5:22 论文评审
+5:33 运行评审脚本
+5:42 其他模板的使用说明
+5:46 结束语]]>
       </description>
       <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=UCfFfrmlfcA"><img src="https://img.youtube.com/vi/UCfFfrmlfcA/3.jpg" /></a></p><br />
-<hr style="clear:both" />
+https://www.youtube.com/watch?v=UCfFfrmlfcA
+🔥🔥🔥视频简介:
+本期视频为大家详细演示如何本地部署全球首个AI科学家AI Scientist！这是由日本AI研究团队SakanaAI开发的革命性工具，能够全自动化进行科研和撰写论文。
+🟢本期视频内容概要:
+1️⃣详细介绍AI Scientist的特点和优势
+2️⃣演示如何在搭载A6000显卡的Ubuntu系统上部署AI Scientist
+3️⃣展示如何使用AI Scientist自动生成一篇机器学习论文
+4️⃣讲解整个过程，从创意生成到实验执行，再到论文写作
+🟢AI Scientist的主要特点：
+1️⃣全自动化流程：从研究想法到论文撰写
+2️⃣集成了大语言模型技术
+3️⃣经济高效：生成一篇论文成本不到15美元
+4️⃣支持多种研究模板：NanoGPT、2D diffusion、grokking
+🟢配置步骤:
+1️⃣创建并配置正确的环境
+2️⃣安装必要的依赖
+3️⃣设置API密钥
+4️⃣运行AI Scientist生成论文
+5️⃣使用AI进行论文评审
 
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=28" target="_blank"><strong># 演示部署和生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_28.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=38" target="_blank"><strong># AI Scientist简介</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_38.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=61" target="_blank"><strong># AI Scientist的四个主要流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_61.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=82" target="_blank"><strong># AI Scientist的特点和优点</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_82.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=106" target="_blank"><strong># AI Scientist的执行流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_106.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=136" target="_blank"><strong># 本地部署演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_136.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=148" target="_blank"><strong># 创建和激活虚拟环境</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_148.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=155" target="_blank"><strong># 安装必要的Python库</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_155.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=172" target="_blank"><strong># 设置API密钥</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_172.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=184" target="_blank"><strong># 执行科研任务</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_184.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=196" target="_blank"><strong># 选择NanoGPT模板</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_196.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=207" target="_blank"><strong># 执行命令创建基线运行</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_207.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=242" target="_blank"><strong># 生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_242.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=250" target="_blank"><strong># 使用gpt4o模型生成论文</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_250.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=278" target="_blank"><strong># 使用Claude 3.5 API的建议</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_278.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=293" target="_blank"><strong># 执行生成论文的命令</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_293.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=309" target="_blank"><strong># 论文生成过程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_309.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=322" target="_blank"><strong># 论文评审</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_322.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=333" target="_blank"><strong># 运行评审脚本</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_333.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=342" target="_blank"><strong># 其他模板的使用说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_342.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/UCfFfrmlfcA&t=346" target="_blank"><strong># 结束语</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/UCfFfrmlfcA_346.jpg" /></p></p>
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240814.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡 https://ko-fi.com/aila
 
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=UCfFfrmlfcA</p><p>🔥🔥🔥视频简介:</p><p>本期视频为大家详细演示如何本地部署全球首个AI科学家AI Scientist！这是由日本AI研究团队SakanaAI开发的革命性工具，能够全自动化进行科研和撰写论文。</p><p>🟢本期视频内容概要:</p><p>1️⃣详细介绍AI Scientist的特点和优势</p><p>2️⃣演示如何在搭载A6000显卡的Ubuntu系统上部署AI Scientist</p><p>3️⃣展示如何使用AI Scientist自动生成一篇机器学习论文</p><p>4️⃣讲解整个过程，从创意生成到实验执行，再到论文写作</p><p>🟢AI Scientist的主要特点：</p><p>1️⃣全自动化流程：从研究想法到论文撰写</p><p>2️⃣集成了大语言模型技术</p><p>3️⃣经济高效：生成一篇论文成本不到15美元</p><p>4️⃣支持多种研究模板：NanoGPT、2D diffusion、grokking</p><p>🟢配置步骤:</p><p>1️⃣创建并配置正确的环境</p><p>2️⃣安装必要的依赖</p><p>3️⃣设置API密钥</p><p>4️⃣运行AI Scientist生成论文</p><p>5️⃣使用AI进行论文评审</p><p></p><p>👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240814.html</p><p>👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡 https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳:</p><p>0:00 介绍AI Scientist</p><p>0:28 演示部署和生成论文</p><p>0:38 AI Scientist简介</p><p>1:01 AI Scientist的四个主要流程</p><p>1:22 AI Scientist的特点和优点</p><p>1:46 AI Scientist的执行流程</p><p>2:16 本地部署演示</p><p>2:28 创建和激活虚拟环境</p><p>2:35 安装必要的Python库</p><p>2:52 设置API密钥</p><p>3:04 执行科研任务</p><p>3:16 选择NanoGPT模板</p><p>3:27 执行命令创建基线运行</p><p>4:02 生成论文</p><p>4:10 使用gpt4o模型生成论文</p><p>4:38 使用Claude 3.5 API的建议</p><p>4:53 执行生成论文的命令</p><p>5:09 论文生成过程</p><p>5:22 论文评审</p><p>5:33 运行评审脚本</p><p>5:42 其他模板的使用说明</p><p>5:46 结束语</p>]]></content:encoded>
+🔥🔥🔥YouTube时间戳:
+0:00 介绍AI Scientist
+0:28 演示部署和生成论文
+0:38 AI Scientist简介
+1:01 AI Scientist的四个主要流程
+1:22 AI Scientist的特点和优点
+1:46 AI Scientist的执行流程
+2:16 本地部署演示
+2:28 创建和激活虚拟环境
+2:35 安装必要的Python库
+2:52 设置API密钥
+3:04 执行科研任务
+3:16 选择NanoGPT模板
+3:27 执行命令创建基线运行
+4:02 生成论文
+4:10 使用gpt4o模型生成论文
+4:38 使用Claude 3.5 API的建议
+4:53 执行生成论文的命令
+5:09 论文生成过程
+5:22 论文评审
+5:33 运行评审脚本
+5:42 其他模板的使用说明
+5:46 结束语]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/UCfFfrmlfcA/maxresdefault.jpg"/>
       <pubDate>2024-08-13T00:00:00.000Z</pubDate>
     </item><item>
