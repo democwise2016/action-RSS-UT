@@ -213,9 +213,12 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
       }
 
       if (paragraphs[(paragraphs.length - 1)][0].text.startsWith('<p><img src="') === false) {
-        paragraphs.push([
-          await CaptionScreenshot(utID, timeMarkList[0].time)
-        ])
+        let result = await CaptionScreenshot(utID, timeMarkList[0].time)
+        if (result) {
+          paragraphs.push([
+            result
+          ])
+        }
       }
       paragraphs.push([
         getTimeMarkItem(utID, timeMarkList[0])
@@ -243,9 +246,13 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
 
       let time = start + duration
       if ((time - lastImagePragraphTime) > ScreenshotInterval) {
-        paragraphs.push([
-          await CaptionScreenshot(utID, time)
-        ])
+        
+        let result = await CaptionScreenshot(utID, time)
+        if (result) {
+          paragraphs.push([
+            result
+          ])
+        }
         lastImagePragraphTime = time
       }
       sentences = []
@@ -271,9 +278,12 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
       let time = start + duration
       if ((time - lastImagePragraphTime) > ScreenshotInterval) {
         
-        paragraphs.push([
-          await CaptionScreenshot(utID, time)
-        ])
+        let result = await CaptionScreenshot(utID, time)
+        if (result) {
+          paragraphs.push([
+            result
+          ])
+        }
         lastImagePragraphTime = time
       }
       sentences = [{text, start}]
@@ -298,9 +308,12 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
       let time = start
       // console.log(time, lastImagePragraphTime)
       if ((time - lastImagePragraphTime) > ScreenshotInterval) {
-        paragraphs.push([
-          await CaptionScreenshot(utID, time)
-        ])
+        let result = await CaptionScreenshot(utID, time)
+        if (result) {
+          paragraphs.push([
+            result
+          ])
+        }
         lastImagePragraphTime = time
       }
 
@@ -371,9 +384,13 @@ async function CaptionFormat(srt, utID, timeMarkList = []) {
     }
 
     if (start - lastImagePragraphTime > ScreenshotInterval) {
-      outputScreenshots.push([
-        await CaptionScreenshot(utID, start)
-      ])
+      
+      let result = await CaptionScreenshot(utID, start)
+      if (result) {
+        paragraphs.push([
+          result
+        ])
+      }
     }
 
     outputScreenshots.push(o)
@@ -462,9 +479,13 @@ async function noCaption (utID, timeMarkList = []) {
       paragraphs.push([
         getTimeMarkItem(utID, timeMarkList[i])
       ])
-      paragraphs.push([
-        await CaptionScreenshot(utID, timeMarkList[i].time)
-      ])
+      let result = await CaptionScreenshot(utID, timeMarkList[i].time)
+      if (result) {
+        paragraphs.push([
+          result
+        ])
+      }
+      
       // console.log(paragraphs)
     }
     return paragraphs.map (sentences => {

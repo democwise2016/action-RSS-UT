@@ -10,6 +10,10 @@ const CONFIG = require('./../../../../config-json.js')
 
 // https://youtu.be/85AqJsmxDZs
 module.exports = async function (utID = 'https://youtu.be/JxbFotMgqik', timeMarkList = []) {
+  if (CONFIG.ENABLE_UT === false) {
+    return false
+  }
+
   fs.writeFileSync(`/app/tmp/GetHTML.txt`, (new Date()).getTime() + '', 'utf8') 
   let expire = 365 * 24 * 60 * 60 * 1000
 

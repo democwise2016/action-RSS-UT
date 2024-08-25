@@ -11,6 +11,7 @@ let CONFIG = {
   maxDownloadItems: 100,
   maxExcutionMinutes: 10,
 
+  ENABLE_UT: false
 }
 
 // let test = '1780'

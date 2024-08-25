@@ -3,6 +3,10 @@ const ShellSpawnQueue = require('../../../lib/ShellSpawnQueue.js')
 const fs = require('fs')
 
 let main = async function (utID, time) {
+  if (CONFIG.ENABLE_UT === false) {
+    return false
+  }
+
 
   time = parseInt(time, 10)
   if (fs.existsSync(`/output/file-cache/${utID}_${time}.jpg`) === false) {
