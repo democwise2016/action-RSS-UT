@@ -30,6 +30,29 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/5j1Nz_8wvXD02u4mabrXfMYPWt0Y1gQLnl2HQmKWrRixSLFRgO7zOcVXHTr8vfxd4aZzOmFC4g=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[Mac虚拟机，在Win的Linux子系统的Docker里面运行MacOS，操作系统终极大套娃]]></title>
+      <link>https://www.youtube.com/watch?v=bR_PS0f0_14</link>
+      <itunes:title><![CDATA[Mac虚拟机，在Win的Linux子系统的Docker里面运行MacOS，操作系统终极大套娃]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/0.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/1.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/2.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=bR_PS0f0_14
+这是一个究极套娃的Mac系统，我把他安装到了运行在windows上的Linux子系统的docker里面，一下子串联了三大操作系统。我们可以在这个系统尝鲜一些mac的专用软件，开发跨平台软件，测试兼容性等等。
+本期视频我们一起来看下如何部署这个究极套娃系统。本次我使用的项目是Docker OSX，它可以让你以docker的方式快速启动一个MacOS。 不过这个项目硬件要求还是挺高的，普通的Linux小主机的性能满足不了。所以这次我准备用我的windows电脑运行docker。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/0.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/1.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/2.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=bR_PS0f0_14
+这是一个究极套娃的Mac系统，我把他安装到了运行在windows上的Linux子系统的docker里面，一下子串联了三大操作系统。我们可以在这个系统尝鲜一些mac的专用软件，开发跨平台软件，测试兼容性等等。
+本期视频我们一起来看下如何部署这个究极套娃系统。本次我使用的项目是Docker OSX，它可以让你以docker的方式快速启动一个MacOS。 不过这个项目硬件要求还是挺高的，普通的Linux小主机的性能满足不了。所以这次我准备用我的windows电脑运行docker。]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/0.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/1.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/2.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=bR_PS0f0_14
+这是一个究极套娃的Mac系统，我把他安装到了运行在windows上的Linux子系统的docker里面，一下子串联了三大操作系统。我们可以在这个系统尝鲜一些mac的专用软件，开发跨平台软件，测试兼容性等等。
+本期视频我们一起来看下如何部署这个究极套娃系统。本次我使用的项目是Docker OSX，它可以让你以docker的方式快速启动一个MacOS。 不过这个项目硬件要求还是挺高的，普通的Linux小主机的性能满足不了。所以这次我准备用我的windows电脑运行docker。]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg"/>
+      <pubDate>2024-08-27T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[宇宙级编辑器VSCode，你真的会用么？ 提高生产力的大量技巧                #电脑 #计算机 #编程 #教程 #代码 #极客 #软件 #vscode]]></title>
       <link>https://www.youtube.com/watch?v=nWXQS-mzlhA</link>
       <itunes:title><![CDATA[宇宙级编辑器VSCode，你真的会用么？ 提高生产力的大量技巧                #电脑 #计算机 #编程 #教程 #代码 #极客 #软件 #vscode]]></itunes:title>
@@ -109,43 +132,5 @@ https://www.youtube.com/watch?v=PaEcQmgEz78
 Windows终端秒变Ubuntu，在Windows 里运行Linux命令，在Linux里又能使用Windows软件。Docker，显卡直通这些功能当然也不在话下。 以上这些神奇操作都来自Windows自带的功能WSL (Windows Subsystem for Linux） ，也就是运行在 windows 上的Linux 子系统。本期我们就来看看这个能让windows 与 Linux二合一的强大工具。]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/PaEcQmgEz78/maxresdefault.jpg"/>
       <pubDate>2024-07-28T05:48:55.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[windows为什么有两个命令行工具？命令提示符与PowerShell有什么区别？#教程 #操作系统 #编程 #windows #powershell #科技 #极客]]></title>
-      <link>https://www.youtube.com/watch?v=u0yKHP0onwU</link>
-      <itunes:title><![CDATA[windows为什么有两个命令行工具？命令提示符与PowerShell有什么区别？#教程 #操作系统 #编程 #windows #powershell #科技 #极客]]></itunes:title>
-      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/0.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/1.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/2.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=u0yKHP0onwU
-windows为什么有两个命令行工具？ 一个叫CMD命令提示符，另一个叫PowerShell，他们两个究竟有什么区别？ 
-
-Cmdlet这个单词 是 \"command-let\" 的缩写，是一种专门在 Windows PowerShell 中使用的命令。
-
-| 这个竖线是管道符，意思是把上个命令的输出结果作为下个命令的输入，可以像拼接管道一样把命令拼接起来，形成一条流水线。由于cmdlet返回的是一个.net对象，可以很方便的使用管道符进行命令拼接。
-
-powershell 与 cmd 其实都可以编写脚本程序。 cmd是脚本文件的扩展名是bat 而powershell的扩展名则是ps1。但是bat程序比较难写， 比起ps1的多了很多很多局限性。所以编写复杂的windows批处理程序，我建议还是直接用powershell，可以极大减轻程序员的痛苦指数。]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/0.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/1.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/2.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=u0yKHP0onwU
-windows为什么有两个命令行工具？ 一个叫CMD命令提示符，另一个叫PowerShell，他们两个究竟有什么区别？ 
-
-Cmdlet这个单词 是 \"command-let\" 的缩写，是一种专门在 Windows PowerShell 中使用的命令。
-
-| 这个竖线是管道符，意思是把上个命令的输出结果作为下个命令的输入，可以像拼接管道一样把命令拼接起来，形成一条流水线。由于cmdlet返回的是一个.net对象，可以很方便的使用管道符进行命令拼接。
-
-powershell 与 cmd 其实都可以编写脚本程序。 cmd是脚本文件的扩展名是bat 而powershell的扩展名则是ps1。但是bat程序比较难写， 比起ps1的多了很多很多局限性。所以编写复杂的windows批处理程序，我建议还是直接用powershell，可以极大减轻程序员的痛苦指数。]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/0.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/1.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/2.jpg" /></a><a href="https://www.youtube.com/watch?v=u0yKHP0onwU"><img src="https://img.youtube.com/vi/u0yKHP0onwU/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=u0yKHP0onwU
-windows为什么有两个命令行工具？ 一个叫CMD命令提示符，另一个叫PowerShell，他们两个究竟有什么区别？ 
-
-Cmdlet这个单词 是 \"command-let\" 的缩写，是一种专门在 Windows PowerShell 中使用的命令。
-
-| 这个竖线是管道符，意思是把上个命令的输出结果作为下个命令的输入，可以像拼接管道一样把命令拼接起来，形成一条流水线。由于cmdlet返回的是一个.net对象，可以很方便的使用管道符进行命令拼接。
-
-powershell 与 cmd 其实都可以编写脚本程序。 cmd是脚本文件的扩展名是bat 而powershell的扩展名则是ps1。但是bat程序比较难写， 比起ps1的多了很多很多局限性。所以编写复杂的windows批处理程序，我建议还是直接用powershell，可以极大减轻程序员的痛苦指数。]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/u0yKHP0onwU/maxresdefault.jpg"/>
-      <pubDate>2024-07-18T08:26:13.000Z</pubDate>
     </item></channel>
 </rss>
