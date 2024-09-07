@@ -30,6 +30,26 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/xTtXqy5XHlm9Wgq7VyfvgRkBU_VxerdLNe71aAG99KABEqSiApbv1frKAbhcBQ3Eb0Qt8au8AA=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[世界最强开源AI？Reflection 强势碾压GPT-4o！]]></title>
+      <link>https://www.youtube.com/watch?v=Ieaf8z7qqqk</link>
+      <itunes:title><![CDATA[世界最强开源AI？Reflection 强势碾压GPT-4o！]]></itunes:title>
+      <itunes:author><![CDATA[AI开发者-就爱瞎鼓捣]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Ieaf8z7qqqk
+今天我们测试了号称世界最强的开源大语言模型——Reflection。它基于LLaMA 3.1-70B训练，不仅性能碾压LLaMA 3.1的405B版本，还在很多评测中超过了GPT-4！这个模型真的有这么强吗？我们一起来看看它的实际表现！]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Ieaf8z7qqqk
+今天我们测试了号称世界最强的开源大语言模型——Reflection。它基于LLaMA 3.1-70B训练，不仅性能碾压LLaMA 3.1的405B版本，还在很多评测中超过了GPT-4！这个模型真的有这么强吗？我们一起来看看它的实际表现！]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Ieaf8z7qqqk"><img src="https://img.youtube.com/vi/Ieaf8z7qqqk/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=Ieaf8z7qqqk
+今天我们测试了号称世界最强的开源大语言模型——Reflection。它基于LLaMA 3.1-70B训练，不仅性能碾压LLaMA 3.1的405B版本，还在很多评测中超过了GPT-4！这个模型真的有这么强吗？我们一起来看看它的实际表现！]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/Ieaf8z7qqqk/maxresdefault.jpg"/>
+      <pubDate>2024-09-06T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[LLM如何“自主”调用工具？揭秘Function Calling真相！]]></title>
       <link>https://www.youtube.com/watch?v=ez15AA1Is_o</link>
       <itunes:title><![CDATA[LLM如何“自主”调用工具？揭秘Function Calling真相！]]></itunes:title>
@@ -118,28 +138,5 @@ https://www.youtube.com/watch?v=q9YKN9pCLpk
 本视频为你总结并快速介绍李沐在上海交大关于LLM趋势，AI创业的演讲内容。]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/q9YKN9pCLpk/maxresdefault.jpg"/>
       <pubDate>2024-08-25T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[LLM应用最最最重要的设计模式：Code Interpreter模式]]></title>
-      <link>https://www.youtube.com/watch?v=WczYUDU3m_I</link>
-      <itunes:title><![CDATA[LLM应用最最最重要的设计模式：Code Interpreter模式]]></itunes:title>
-      <itunes:author><![CDATA[AI开发者-就爱瞎鼓捣]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[LLM应用最最最重要的设计模式：Code Interpreter模式
-
-https://www.youtube.com/channel/UC8uOgHOAH_k-ee-bHA0GQFQ
-AI开发者-就爱瞎鼓捣[YT+]]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[LLM应用最最最重要的设计模式：Code Interpreter模式
-
-https://www.youtube.com/channel/UC8uOgHOAH_k-ee-bHA0GQFQ
-AI开发者-就爱瞎鼓捣[YT+]]]>
-      </description>
-      <content:encoded><![CDATA[LLM应用最最最重要的设计模式：Code Interpreter模式
-
-https://www.youtube.com/channel/UC8uOgHOAH_k-ee-bHA0GQFQ
-AI开发者-就爱瞎鼓捣[YT+]]]></content:encoded>
-      <itunes:image href="undefined"/>
-      <pubDate>undefined</pubDate>
     </item></channel>
 </rss>
