@@ -30,6 +30,29 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/yoUSlrwpNcIMrOskZnpCOWRck-4yPXfIXH5uw2V0HyXyCHSiLnf6_S3Fj4jaxwKmwe0_t-0o=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[全球首款会自我纠错的大模型-Reflection-Llama3.1-70b！超强推理能力挑战高难度推理题！AutoGen+LlamaIndex+Reflection 70B的完美结合#autogen]]></title>
+      <link>https://www.youtube.com/watch?v=iEKDZnVgN7w</link>
+      <itunes:title><![CDATA[全球首款会自我纠错的大模型-Reflection-Llama3.1-70b！超强推理能力挑战高难度推理题！AutoGen+LlamaIndex+Reflection 70B的完美结合#autogen]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[全球首款会自我纠错的大模型-Reflection-Llama3.1-70b！超强推理能力挑战高难度推理题！AutoGen+LlamaIndex+Reflection 70B的完美结合#autogen
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[全球首款会自我纠错的大模型-Reflection-Llama3.1-70b！超强推理能力挑战高难度推理题！AutoGen+LlamaIndex+Reflection 70B的完美结合#autogen
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </description>
+      <content:encoded><![CDATA[全球首款会自我纠错的大模型-Reflection-Llama3.1-70b！超强推理能力挑战高难度推理题！AutoGen+LlamaIndex+Reflection 70B的完美结合#autogen
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <pubDate>undefined</pubDate>
+    </item><item>
       <title><![CDATA[颠覆传统编程，超越Cursor！Claude Dev最强编程AI智能体！支持ollama和GitHub models！一条prompt实现全自动游戏开发！#cursor #aiagents #aigc]]></title>
       <link>https://www.youtube.com/watch?v=n18L9VFhNDo</link>
       <itunes:title><![CDATA[颠覆传统编程，超越Cursor！Claude Dev最强编程AI智能体！支持ollama和GitHub models！一条prompt实现全自动游戏开发！#cursor #aiagents #aigc]]></itunes:title>
@@ -355,112 +378,5 @@ https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
 AI超元域[YT+]]]></content:encoded>
       <itunes:image href="undefined"/>
       <pubDate>undefined</pubDate>
-    </item><item>
-      <title><![CDATA[微软发布最强混合专家模型Phi-3.5-MoE-instruct，多模态大模型Phi-3.5-vision-instruct实现图像识别，Flowise+AutoGen studio打造专属AI智能体]]></title>
-      <link>https://www.youtube.com/watch?v=IE6rGV4ek7I</link>
-      <itunes:title><![CDATA[微软发布最强混合专家模型Phi-3.5-MoE-instruct，多模态大模型Phi-3.5-vision-instruct实现图像识别，Flowise+AutoGen studio打造专属AI智能体]]></itunes:title>
-      <itunes:author><![CDATA[AI超元域]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=IE6rGV4ek7I
-🔥🔥🔥视频简介：
-🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。
-本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。
-🚀视频亮点:
-1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景
-2️⃣演示如何使用ollama运行phi3.5 mini模型
-3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人
-4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot
-5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题
-6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流
-7️⃣演示phi3.5 vision模型的图像识别能力
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉请我喝咖啡 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳：
-0:00 phi3.5介绍
-0:37 phi3.5模型概述
-1:27 phi3.5 MoE模型详解
-2:20 phi3.5 vision模型介绍
-2:56 使用ollama运行phi3.5 mini模型
-3:20 通过NVIDIA NIM调用phi3.5 MoE
-4:04 使用chainlit创建phi3.5 MoE聊天机器人
-4:57 在Flowise中使用phi3.5 MoE
-6:28 测试phi3.5 MoE的算法能力
-7:20 在autogen studio中创建科技新闻工作流
-9:38 运行autogen studio工作流
-10:34 演示使用phi3.5 vision模型实现图像识别
-11:55 总结]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=IE6rGV4ek7I
-🔥🔥🔥视频简介：
-🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。
-本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。
-🚀视频亮点:
-1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景
-2️⃣演示如何使用ollama运行phi3.5 mini模型
-3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人
-4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot
-5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题
-6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流
-7️⃣演示phi3.5 vision模型的图像识别能力
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉请我喝咖啡 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳：
-0:00 phi3.5介绍
-0:37 phi3.5模型概述
-1:27 phi3.5 MoE模型详解
-2:20 phi3.5 vision模型介绍
-2:56 使用ollama运行phi3.5 mini模型
-3:20 通过NVIDIA NIM调用phi3.5 MoE
-4:04 使用chainlit创建phi3.5 MoE聊天机器人
-4:57 在Flowise中使用phi3.5 MoE
-6:28 测试phi3.5 MoE的算法能力
-7:20 在autogen studio中创建科技新闻工作流
-9:38 运行autogen studio工作流
-10:34 演示使用phi3.5 vision模型实现图像识别
-11:55 总结]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IE6rGV4ek7I"><img src="https://img.youtube.com/vi/IE6rGV4ek7I/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=IE6rGV4ek7I
-🔥🔥🔥视频简介：
-🚀微软最新开源大模型phi3.5全面解析：从MoE到vision，一站式掌握未来AI技术，轻松构建智能应用。
-本期视频为大家深入解析微软最新发布的开源大模型phi3.5系列。全面介绍phi3.5 mini、phi3.5 MoE和phi3.5 vision三个模型的特点及应用场景。
-🚀视频亮点:
-1️⃣详细讲解phi3.5系列模型的参数、性能和适用场景
-2️⃣演示如何使用ollama运行phi3.5 mini模型
-3️⃣通过NVIDIA API调用phi3.5 MoE模型，并在chainlit中创建聊天机器人
-4️⃣在Flowise中使用phi3.5 MoE构建具有记忆功能的chatbot
-5️⃣测试phi3.5 MoE模型的算法能力，挑战高难度编程题
-6️⃣在autogen studio中创建科技新闻搜索和文章生成的智能工作流
-7️⃣演示phi3.5 vision模型的图像识别能力
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240824.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉请我喝咖啡 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳：
-0:00 phi3.5介绍
-0:37 phi3.5模型概述
-1:27 phi3.5 MoE模型详解
-2:20 phi3.5 vision模型介绍
-2:56 使用ollama运行phi3.5 mini模型
-3:20 通过NVIDIA NIM调用phi3.5 MoE
-4:04 使用chainlit创建phi3.5 MoE聊天机器人
-4:57 在Flowise中使用phi3.5 MoE
-6:28 测试phi3.5 MoE的算法能力
-7:20 在autogen studio中创建科技新闻工作流
-9:38 运行autogen studio工作流
-10:34 演示使用phi3.5 vision模型实现图像识别
-11:55 总结]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/IE6rGV4ek7I/maxresdefault.jpg"/>
-      <pubDate>2024-08-24T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
