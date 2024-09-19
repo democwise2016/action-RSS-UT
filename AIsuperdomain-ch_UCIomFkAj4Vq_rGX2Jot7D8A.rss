@@ -30,6 +30,113 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/yoUSlrwpNcIMrOskZnpCOWRck-4yPXfIXH5uw2V0HyXyCHSiLnf6_S3Fj4jaxwKmwe0_t-0o=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[Mistral small力压Llama 3.1！Mistral-Small-Instruct-2409结合LlamaIndex，实现语言代理树搜索打造Agentic RAG #mistral #ai]]></title>
+      <link>https://www.youtube.com/watch?v=Z3B-s1ix_RA</link>
+      <itunes:title><![CDATA[Mistral small力压Llama 3.1！Mistral-Small-Instruct-2409结合LlamaIndex，实现语言代理树搜索打造Agentic RAG #mistral #ai]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Z3B-s1ix_RA
+🔥🔥🔥视频简介：
+🚀220亿参数的AI奇迹：深度解析Mistral small如何在128K上下文窗口中实现卓越性能，颠覆企业知识库和AI智能体应用！
+🚀本期视频为大家深入演示了Mistral最新发布的开源模型Mistral-Small-Instruct-2409。这款拥有220亿参数的模型不仅支持128K的上下文窗口，而且在function calling方面表现出色。
+🚀主要内容：
+1️⃣Mistral small模型介绍：参数规模、特点及优势
+2️⃣实际应用测试：AI智能体、企业知识库、检索增强生成等
+与Llama 3.1 70B的性能对比
+3️⃣代码能力测试：通过高难度算法题展示模型实力
+4️⃣在ollama和vLLM中的部署要求
+5️⃣LlamaIndex结合Mistral small实现语言代理树搜索(LATS)
+6️⃣实战演示：使用LATS分析Uber和Lyft的财报
+🚀本视频还包含完整的代码演示，展示如何在Colab中使用LlamaIndex和Mistral small实现强大的AI智能体和检索增强生成系统。
+
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240919.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉打赏一下 https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+0:00 介绍Mistral small模型
+0:34 Mistral small模型的特点和使用场景
+1:29 测试Mistral small模型的代码能力
+2:46 在ollama和vLLM中运行Mistral small
+3:21 介绍语言代理树搜索(LATS)
+3:49 在Colab中使用LlamaIndex实现LATS
+4:22 设置Mistral AI和下载示例文档
+4:54 创建索引和设置工具
+5:10 设置AI智能体
+5:28 运行AI智能体分析Uber和Lyft财报
+6:21 AI智能体执行过程和结果分析
+7:40 总结和结束语]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=Z3B-s1ix_RA
+🔥🔥🔥视频简介：
+🚀220亿参数的AI奇迹：深度解析Mistral small如何在128K上下文窗口中实现卓越性能，颠覆企业知识库和AI智能体应用！
+🚀本期视频为大家深入演示了Mistral最新发布的开源模型Mistral-Small-Instruct-2409。这款拥有220亿参数的模型不仅支持128K的上下文窗口，而且在function calling方面表现出色。
+🚀主要内容：
+1️⃣Mistral small模型介绍：参数规模、特点及优势
+2️⃣实际应用测试：AI智能体、企业知识库、检索增强生成等
+与Llama 3.1 70B的性能对比
+3️⃣代码能力测试：通过高难度算法题展示模型实力
+4️⃣在ollama和vLLM中的部署要求
+5️⃣LlamaIndex结合Mistral small实现语言代理树搜索(LATS)
+6️⃣实战演示：使用LATS分析Uber和Lyft的财报
+🚀本视频还包含完整的代码演示，展示如何在Colab中使用LlamaIndex和Mistral small实现强大的AI智能体和检索增强生成系统。
+
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240919.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉打赏一下 https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+0:00 介绍Mistral small模型
+0:34 Mistral small模型的特点和使用场景
+1:29 测试Mistral small模型的代码能力
+2:46 在ollama和vLLM中运行Mistral small
+3:21 介绍语言代理树搜索(LATS)
+3:49 在Colab中使用LlamaIndex实现LATS
+4:22 设置Mistral AI和下载示例文档
+4:54 创建索引和设置工具
+5:10 设置AI智能体
+5:28 运行AI智能体分析Uber和Lyft财报
+6:21 AI智能体执行过程和结果分析
+7:40 总结和结束语]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=Z3B-s1ix_RA"><img src="https://img.youtube.com/vi/Z3B-s1ix_RA/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=Z3B-s1ix_RA
+🔥🔥🔥视频简介：
+🚀220亿参数的AI奇迹：深度解析Mistral small如何在128K上下文窗口中实现卓越性能，颠覆企业知识库和AI智能体应用！
+🚀本期视频为大家深入演示了Mistral最新发布的开源模型Mistral-Small-Instruct-2409。这款拥有220亿参数的模型不仅支持128K的上下文窗口，而且在function calling方面表现出色。
+🚀主要内容：
+1️⃣Mistral small模型介绍：参数规模、特点及优势
+2️⃣实际应用测试：AI智能体、企业知识库、检索增强生成等
+与Llama 3.1 70B的性能对比
+3️⃣代码能力测试：通过高难度算法题展示模型实力
+4️⃣在ollama和vLLM中的部署要求
+5️⃣LlamaIndex结合Mistral small实现语言代理树搜索(LATS)
+6️⃣实战演示：使用LATS分析Uber和Lyft的财报
+🚀本视频还包含完整的代码演示，展示如何在Colab中使用LlamaIndex和Mistral small实现强大的AI智能体和检索增强生成系统。
+
+👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240919.html
+👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
+👉👉👉打赏一下 https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+0:00 介绍Mistral small模型
+0:34 Mistral small模型的特点和使用场景
+1:29 测试Mistral small模型的代码能力
+2:46 在ollama和vLLM中运行Mistral small
+3:21 介绍语言代理树搜索(LATS)
+3:49 在Colab中使用LlamaIndex实现LATS
+4:22 设置Mistral AI和下载示例文档
+4:54 创建索引和设置工具
+5:10 设置AI智能体
+5:28 运行AI智能体分析Uber和Lyft财报
+6:21 AI智能体执行过程和结果分析
+7:40 总结和结束语]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/Z3B-s1ix_RA/maxresdefault.jpg"/>
+      <pubDate>2024-09-19T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[开源模型挑战OpenAI o1！g1+llama3.1零成本完美复刻o1推理过程！动态思维链prompt，让AI推理能力倍增！支持ollama！#o1 #openai #gpt4o #aiagents]]></title>
       <link>https://www.youtube.com/watch?v=hDusv-Kngi4</link>
       <itunes:title><![CDATA[开源模型挑战OpenAI o1！g1+llama3.1零成本完美复刻o1推理过程！动态思维链prompt，让AI推理能力倍增！支持ollama！#o1 #openai #gpt4o #aiagents]]></itunes:title>
@@ -388,88 +495,5 @@ https://www.youtube.com/watch?v=n18L9VFhNDo
 11:15 - 结论和AI代理在编程中的未来前景]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/n18L9VFhNDo/maxresdefault.jpg"/>
       <pubDate>2024-09-05T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[推理能力接近Claude3.5，最强开源大模型Command R+！实战AutoGen实现Tool-Use，LlamaIndex实现Text to SQL！#autogen #agents #rag]]></title>
-      <link>https://www.youtube.com/watch?v=cxsxNOkaHN4</link>
-      <itunes:title><![CDATA[推理能力接近Claude3.5，最强开源大模型Command R+！实战AutoGen实现Tool-Use，LlamaIndex实现Text to SQL！#autogen #agents #rag]]></itunes:title>
-      <itunes:author><![CDATA[AI超元域]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=cxsxNOkaHN4
-🚀🚀🚀开源AI的未来已来：command-r-plus模型惊艳亮相，代码能力、多语言支持、RAG技术全面领先，如何将其整合进你的AI项目？
-🚀🚀🚀本期视频深入演示了Cohere AI最新发布的开源大模型command-r-plus-08-2024。通过深入测试，我们发现这个模型在多个方面超越了Llama3.1 405B和Mistral large2，甚至在某些能力上接近Claude3.5模型。
-🚀主要内容:
-1️⃣通过三道难度为hard的算法题测试command-r-plus的代码能力
-2️⃣使用一道复杂的逻辑推理题测试模型的推理能力
-3️⃣演示如何在AutoGen中使用Cohere模型进行多个工具调用，包括天气预报和货币兑换
-4️⃣介绍LlamaIndex框架，并演示如何使用command-r-plus实现text to SQL功能
-🚀视频还包括了对command-r-plus模型的详细介绍，包括其参数规模、RAG能力、多步骤工具使用、多语言支持等特点。
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240904.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉打赏一下 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳：
-0:33 Cohere AI发布新开源大模型command-r-plus
-1:56 模型介绍
-2:28 测试算法题
-4:23 测试逻辑推理题
-5:44 在AutoGen中使用Cohere模型
-7:27 LlamaIndex简介
-8:25 使用LlamaIndex实现text to SQL
-10:55 总结]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=cxsxNOkaHN4
-🚀🚀🚀开源AI的未来已来：command-r-plus模型惊艳亮相，代码能力、多语言支持、RAG技术全面领先，如何将其整合进你的AI项目？
-🚀🚀🚀本期视频深入演示了Cohere AI最新发布的开源大模型command-r-plus-08-2024。通过深入测试，我们发现这个模型在多个方面超越了Llama3.1 405B和Mistral large2，甚至在某些能力上接近Claude3.5模型。
-🚀主要内容:
-1️⃣通过三道难度为hard的算法题测试command-r-plus的代码能力
-2️⃣使用一道复杂的逻辑推理题测试模型的推理能力
-3️⃣演示如何在AutoGen中使用Cohere模型进行多个工具调用，包括天气预报和货币兑换
-4️⃣介绍LlamaIndex框架，并演示如何使用command-r-plus实现text to SQL功能
-🚀视频还包括了对command-r-plus模型的详细介绍，包括其参数规模、RAG能力、多步骤工具使用、多语言支持等特点。
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240904.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉打赏一下 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳：
-0:33 Cohere AI发布新开源大模型command-r-plus
-1:56 模型介绍
-2:28 测试算法题
-4:23 测试逻辑推理题
-5:44 在AutoGen中使用Cohere模型
-7:27 LlamaIndex简介
-8:25 使用LlamaIndex实现text to SQL
-10:55 总结]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/0.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/1.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/2.jpg" /></a><a href="https://www.youtube.com/watch?v=cxsxNOkaHN4"><img src="https://img.youtube.com/vi/cxsxNOkaHN4/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=cxsxNOkaHN4
-🚀🚀🚀开源AI的未来已来：command-r-plus模型惊艳亮相，代码能力、多语言支持、RAG技术全面领先，如何将其整合进你的AI项目？
-🚀🚀🚀本期视频深入演示了Cohere AI最新发布的开源大模型command-r-plus-08-2024。通过深入测试，我们发现这个模型在多个方面超越了Llama3.1 405B和Mistral large2，甚至在某些能力上接近Claude3.5模型。
-🚀主要内容:
-1️⃣通过三道难度为hard的算法题测试command-r-plus的代码能力
-2️⃣使用一道复杂的逻辑推理题测试模型的推理能力
-3️⃣演示如何在AutoGen中使用Cohere模型进行多个工具调用，包括天气预报和货币兑换
-4️⃣介绍LlamaIndex框架，并演示如何使用command-r-plus实现text to SQL功能
-🚀视频还包括了对command-r-plus模型的详细介绍，包括其参数规模、RAG能力、多步骤工具使用、多语言支持等特点。
-
-👉👉👉视频中所用到的代码 https://blog.stoeng.site/20240904.html
-👉👉👉我的开源项目 https://github.com/win4r/AISuperDomain
-👉👉👉打赏一下 https://ko-fi.com/aila
-
-🔥🔥🔥YouTube时间戳：
-0:33 Cohere AI发布新开源大模型command-r-plus
-1:56 模型介绍
-2:28 测试算法题
-4:23 测试逻辑推理题
-5:44 在AutoGen中使用Cohere模型
-7:27 LlamaIndex简介
-8:25 使用LlamaIndex实现text to SQL
-10:55 总结]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/cxsxNOkaHN4/maxresdefault.jpg"/>
-      <pubDate>2024-09-04T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
