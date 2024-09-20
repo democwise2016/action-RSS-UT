@@ -30,6 +30,29 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/xTtXqy5XHlm9Wgq7VyfvgRkBU_VxerdLNe71aAG99KABEqSiApbv1frKAbhcBQ3Eb0Qt8au8AA=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[微调技术大比拼：全量微调与LoRA、QLoRA实测对比！]]></title>
+      <link>https://www.youtube.com/watch?v=V2EWFuoGFmA</link>
+      <itunes:title><![CDATA[微调技术大比拼：全量微调与LoRA、QLoRA实测对比！]]></itunes:title>
+      <itunes:author><![CDATA[AI开发者-就爱瞎鼓捣]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=V2EWFuoGFmA
+本期视频实测对比了全量微调、LoRA微调、QLoRA微调在GPU显存占用和训练速度上的表现。最后还有一个完整微调实例，教你如何从数据整理到产品问答AI小助手的训练全过程。
+视频中使用的云服务器GPUEZ：https://gpuez.com/]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=V2EWFuoGFmA
+本期视频实测对比了全量微调、LoRA微调、QLoRA微调在GPU显存占用和训练速度上的表现。最后还有一个完整微调实例，教你如何从数据整理到产品问答AI小助手的训练全过程。
+视频中使用的云服务器GPUEZ：https://gpuez.com/]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/0.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/1.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/2.jpg" /></a><a href="https://www.youtube.com/watch?v=V2EWFuoGFmA"><img src="https://img.youtube.com/vi/V2EWFuoGFmA/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=V2EWFuoGFmA
+本期视频实测对比了全量微调、LoRA微调、QLoRA微调在GPU显存占用和训练速度上的表现。最后还有一个完整微调实例，教你如何从数据整理到产品问答AI小助手的训练全过程。
+视频中使用的云服务器GPUEZ：https://gpuez.com/]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/V2EWFuoGFmA/maxresdefault.jpg"/>
+      <pubDate>2024-09-20T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[AI开发者动态：o1被称舔狗，LLM刷榜技巧曝光！]]></title>
       <link>https://www.youtube.com/watch?v=x5jOXeUAz0s</link>
       <itunes:title><![CDATA[AI开发者动态：o1被称舔狗，LLM刷榜技巧曝光！]]></itunes:title>
@@ -112,25 +135,5 @@ https://www.youtube.com/watch?v=wt64SdTX1nI
 本视频分享一下最近一周的AI开发技术相关的动态。]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/wt64SdTX1nI/maxresdefault.jpg"/>
       <pubDate>2024-09-09T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[终极PK！Reflection硬刚GPT-4、GPT-4o、Llama 3.1 70B和Qwen2 72B！]]></title>
-      <link>https://www.youtube.com/watch?v=AWjyuPKSUA0</link>
-      <itunes:title><![CDATA[终极PK！Reflection硬刚GPT-4、GPT-4o、Llama 3.1 70B和Qwen2 72B！]]></itunes:title>
-      <itunes:author><![CDATA[AI开发者-就爱瞎鼓捣]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=AWjyuPKSUA0
-本期视频聚焦当下最热门的几个大模型，包括Reflection、GPT-4、GPT-4o、Llama 3.1、Qwen 2 72B，看看它们面对极具挑战性问题时表现如何，尤其是号称超越Llama 3.1和GPT-4o的Reflection，能否真的逆天。]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=AWjyuPKSUA0
-本期视频聚焦当下最热门的几个大模型，包括Reflection、GPT-4、GPT-4o、Llama 3.1、Qwen 2 72B，看看它们面对极具挑战性问题时表现如何，尤其是号称超越Llama 3.1和GPT-4o的Reflection，能否真的逆天。]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=AWjyuPKSUA0"><img src="https://img.youtube.com/vi/AWjyuPKSUA0/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=AWjyuPKSUA0
-本期视频聚焦当下最热门的几个大模型，包括Reflection、GPT-4、GPT-4o、Llama 3.1、Qwen 2 72B，看看它们面对极具挑战性问题时表现如何，尤其是号称超越Llama 3.1和GPT-4o的Reflection，能否真的逆天。]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/AWjyuPKSUA0/maxresdefault.jpg"/>
-      <pubDate>2024-09-07T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
