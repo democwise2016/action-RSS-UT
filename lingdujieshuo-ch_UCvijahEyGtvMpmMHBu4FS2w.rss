@@ -30,6 +30,41 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AOPolaTKpSVa5-9ZWacFwSPQDpbW8KtCIEeJ5ugiud6bFA=s1024-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[重磅！Meta突然发布 Movie Gen 文生视频，强势挑战OpenAI Sora 霸主地位！| 零度解说]]></title>
+      <link>https://www.youtube.com/watch?v=I2gq72JU9kE</link>
+      <itunes:title><![CDATA[重磅！Meta突然发布 Movie Gen 文生视频，强势挑战OpenAI Sora 霸主地位！| 零度解说]]></itunes:title>
+      <itunes:author><![CDATA[零度解说]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/0.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/1.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/2.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><h1>Meta 推出 AI 影片生成模型 Movie Gen，媲美 OpenAI Sora</h1>大家好，這裡是零度解說。就在剛剛，Meta 搶在 OpenAI 正式推出 Sora 之前，發布了自己的 AI 影片生成模型 Movie Gen。這款模型擁有 Sora 的所有功能，可以直接創建不同寬高比的高清長視頻，支援 1080P、16 秒、每秒 16 幀的規格。除了 Sora 的功能外，Movie Gen 還可以產生非常逼真的電影效果，並且可以修改現有的圖片或影片，替換或修改物件、背景等等。只需要提供簡單的文字提示，它就可以幫你產生一個全新的電影片段。<h1>Movie Gen 生成影片逼真流暢，細節刻畫到位</h1>儘管好萊塢電影傳統上是以 24fps 來進行拍攝的，但是 Meta AI 生成的 16fps 幀率的視頻也非常接近專業電影的質量。它還能產生配套的背景音樂和音效，根據文字指令編輯視頻，甚至根據用戶上傳的圖像生成個人化影片。例如，只要輸入「把燈籠變成飛向空中的泡泡」，Movie Gen 就能替換影片中的物體，同時透明的泡泡也正確反射了背景環境，細節刻畫非常到位，產生的影片也非常流暢逼真。<h1>Movie Gen 功能強大，可替換影片主角、生成逼真音效</h1>Movie Gen 還有一個更強的功能，那就是生成的影片不再是無聲的，也不只能依照一個背景音樂生成。它可以配合影片內容，生成逼真的音效，例如滑板輪子轉動和落地的聲音、蛇出沒時的背景音樂、瀑布下的雨水聲、企鵝嬉戲的美妙音樂等等，讓人彷彿身臨其境。同時，Movie Gen 還可以讓你上傳自己的照片，成為 AI 電影中的主角。未來想要替換電影主角，將會變得輕而易舉。<h1>Meta 公開 Movie Gen 架構細節，業界關注其訓練方式</h1>Meta 在 92 頁的論文中，公開了 Movie Gen 的架構和訓練細節。他們特別強調資料規模、模型大小、訓練算力的擴展對於訓練大規模媒體生成模型至關重要。業界最關注的一點是，他們這次完全丟掉了擴散模型的擴散損失函數，利用 Transformer 做骨架子網絡，匹配流做訓練目標，在 Llama 3 的架構下產生視訊模型。<h1>AI 影片生成競爭激烈，Meta Movie Gen 或將迫使 OpenAI 推出 Sora</h1>AI 影片生成領域最近非常熱鬧。就在 Meta 發布 Movie Gen 之前不久，OpenAI Sora 主創人之一 Tim Brooks 跳槽到了谷歌的 DeepMind，繼續進行視頻生成和世界模擬器方面的工作。Sora 一直在發宣傳片，但到現在為止都將近過去半年了，一直沒有正式公佈，發布出來讓大家使用或嘗試。這次 Meta AI 影片的發布，會不會迫使 OpenAI 提前放出 Sora 這個模型呢？<h1>AI 影片生成下半場，Meta Movie Gen 或將引領 AI 影片編輯潮流</h1>Meta 放出了這個帶有影片編輯功能的模型，再加上 10 月 1 號 Pika 1.5 的更新，主打給影片中的物體加上融化、膨脹、擠壓等物理特效，不難看出 AI 影片生成的下半場，他們要開始捲向 AI 影片編輯了，因為這才是另外一個可以真正獲利的賽道。<hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好 這裡是零度解說。就在剛剛。Meta搶在在OpenAI正式推出Sora之前。發布了自己的AI影片生成模型。它就是這個Movie Gen。Sora 擁有的它都有。可以直接創建不同寬高比的高清長視頻。支援1080P,16秒,每秒16幀。同時Sora沒有的它也有。不僅可以產生非常逼真的電影。而且還可以修改現有的圖片或是影音。來替換或修改物件或背景等等。只需要提供簡單的文字提示。它就可以幫你產生一個全新的電影片段。儘管好萊塢電影傳統上是以。24fps來進行拍攝的。但是Meta AI生成的16fps幀率的視頻。也非常接近專業電影的質量。而且它還能產生配套的背景音樂和音效。根據文字指令編輯視頻。甚至根據用戶上傳的圖像。生成個人化影片等等。例如我們只要輸入一句。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">把燈籠變成飛向空中的泡泡。它就能幫我們替換影片中的物體。同時透明的泡泡也正確反射了背景環境。這個細節刻畫得非常到位。而且產生的影片也非常流暢逼真。例如文字輸入。一個女孩正在沙灘上奔跑。手裡拿著一隻風箏。她穿著牛仔短褲和一件黃色T卹。陽光照耀著她。生成的影片效果彷彿是真人拍攝一樣。如果不是專業人士根本看不出破綻。小孩在前面奔跑。後面彷彿有個人拿著手機。或是舉著穩定器在幫她拍攝。然後文字輸入。一直長著白色皮毛的紅臉猴子。正在天然溫泉中沐浴。猴子在水中玩耍。前方有一座微型帆船。由木頭製成。面有白色的帆和一個小舵。溫泉周圍綠樹成蔭。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有岩石和樹木。生成效果也非常不錯。不知道大家有沒有發現。這個AI生成的視頻。它有點類似日本泡溫泉的猴子。左側這個短視頻。是在現實生活中遊客拍攝的。不管是猴子的表情。身上一根根的猴毛。簡直跟真的一樣。例如這個是在冬天的時候。日本溫泉裡的猴子們。為躲避寒冷的天氣。在溫泉裡泡著暖。非常有意思。AI 也來幫你生成。同時上傳一張自己的照片。就能讓你成為AI電影中的主角。以後如果你想把電影的主角都換掉。那都是非常輕而易舉的事情。AI 換臉現在做得非常成熟而且容易。當然這次Meta AI影片生成。它還有一個更強的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那就是生成的影片不再是無聲的。也不只能是依照一個背景音樂生成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_153.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如看這裡。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個AI視頻它會配合滑板輪子轉動和落地。來配上逼真的音效。彷彿真正現場拍攝一樣。一條蛇在出沒。AI 自動配上了背景音樂以後。直接凸顯出了緊張危險的氣氛。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">一名男子站在瀑布下。雨水傾斜在懸崖和人身上。AI 自動產生了背景音效。彷彿讓人有一種身臨其境的感覺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還有南極企鵝在冰水中嬉戲。它配上了美妙的管弦樂。活潑的動畫效果立刻就出來了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還有像這個ATV引擎轟鳴加速。伴隨著吉他音樂。瞬間讓人腎上腺素飆升。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不得不說。這效果相當的不錯。也難怪Meta直接信心滿滿。在X平台上表示。這是迄今為止最先進的媒體基礎模型。一點都不謙虛。同時也有人擔心。伴隨著大量的創作者。隨著大量的創作者。學會使用AI影片編輯工具。很難想像幾年以後。不管是長視頻還是短視頻。都將會變成什麼樣子。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_227.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過這次Meta AI影片生成模型。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">它本身還沒有開源。以至於Hugging Face的工程師。直接在評論區。丟下了Meta的開源主頁鏈接。期待Meta早日把這模型開源。這次和Sora之前。只有演示和官網部落格不同的是。Meta在92頁的論文中。它把架構。還有訓練細節都公開了。在論文中他們特別強調。這個資料規模模型大小。訓練算力的擴展。對於訓練大規模媒體生成模型至關重要。以及業界最關注的一點就是。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">他們這次完全丟掉了。擴散模型的擴散損失函數。利用Transformer做骨架子網絡。匹配流做訓練目標。在Llama 3的架構下產生視訊模型。整體來說這個Movie Gen。它是由視頻生成和音頻生成。兩個模型來組成的。利用Meta它自身擁有的海量的視頻。文字和圖像來進行聯合訓練。學習對視覺設計的理解。再學習運動場景物理。幾何音頻的概念。達到一個前所未有的精度。AI 影片生成這一塊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這兩天非常熱鬧。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如像這個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就在Meta發布Movie Gen之前不久。這位OpenAI Sora主創人之一Tim Brooks。他跳槽到了谷歌的DeepMinds。來繼續視頻生成和世界模擬器方面的工作。他上面是這麼說的。我將加入Google DeepMind。致力於視訊生成和世界模擬器。迫不及待地想與如此才華橫溢的團隊合作。我在OpenAI度過了非常棒的兩年。製作了Sora。感謝所有與我共事的熱情和善良的人。期待下一個篇章。Sora真的一直在發宣傳片。但到現在為止都將近過去小半年了。一直沒有正式公佈。發佈出來讓大家使用或嘗試。估計很多人都在猜。到底是什麼原因導致Sora一直難產。發不出來。難道是技術問題。資金問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還是相關國家政策的阻礙。這都有可能。但是我個人感覺。最大原因應該是資金問題。畢竟想要一個高品質的影片生成。發布即巔峰。做到碾壓群雄。一鳴驚人的效果。是非常消耗算力和能源的。而且這兩塊都是需要大量資金投入。目前AI影片生成。它的變現途徑並沒有ChatGPT那麼廣。畢竟使用人群是非常有限的。沒有像AI語音聊天那麼廣泛。之前以非營利組織為頭銜的OpenAI。早就變味了。本身就是一個非常燒錢的項目。未來能否真正變現。是他們需要考慮的重要因素。現在OpenAI遲遲發布不了Sora。主要創辦人也跑了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_378.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過也有人認為。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個Tim Brooks 選擇離開。或許說明他在OpenAI的主要工作已經完成了。這也讓人開始猜測。這次Meta AI影片的發布。它會不會迫使OpenAI。提前放出這個Sora這個模型。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過截止到目前為止。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Sora 的另一位主創人。他還沒發表任何訊息。這次Meta放出了這個。帶有影片編輯功能的模型。再加上10月1號Pika 1.5的更新。主打給影片中的物體加上融化。膨脹。擠壓等物理特效。不難看出。AI 影片生成的下半場。他們要開始捲向AI影片編輯了。因為這才是另外一個可以真正獲利的賽道。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=I2gq72JU9kE</p><p>【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1</p><p>【零度博客】▶https://www.freedidi.com</p><p>【加入会员】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join</p><p>-------------------------------------</p><p>🔔</p><p></p><p>搜索、删除大文件的神器（Winder stat )下载：https://www.freedidi.com/10480.html</p><p></p><p></p><p>🔰 安全VPN推荐（最高优惠链接）：</p><p></p><p>1.ExpressVPN：https://go.expressvpn.com/c/2612933/1645830/16063</p><p>2.PureVPN： https://billing.purevpn.com/aff.php?aff=44074</p><p></p><p>🚀VPS 推荐：</p><p>1.https://bittly.cc/Vultr （优惠链接）</p><p>2.https://bandwagonhost.com/aff.php?aff=58794 （CN2 GIA 全网高速线路）</p><p></p><p>🦞</p><p>AI 生成对口型视频（支持多语言）：https://bittly.cc/rHFM3</p><p></p><p>🐳我的下载工具：https://bittly.cc/idm</p><p></p><p>💓</p><p>1.回国加速VPN ：https://bittly.cc/qt8cx</p><p></p><p>💰比特币交易平台</p><p></p><p>1.火币官网 : https://www.htx-kol.com/invite/zh-cn/1g?invite_code=48tr7</p><p></p><p></p><p>接码平台推荐:</p><p>https://sms-activate.org/?ref=4203005</p><p></p><p></p><p>=======================</p><p>其它更多精彩内容推荐：😍</p><p>https://youtu.be/h5rUawU0R04</p><p>https://youtu.be/kuWCMrKk9m4</p><p>https://youtu.be/4FWDFhTB6Yk</p><p>https://youtu.be/2G-Emzf29BU</p><p>https://youtu.be/UDGdZaoz77A</p><p>https://youtu.be/N3CTgtz3GMc</p><p>https://youtu.be/nSDz2W7SbOk</p><p>https://youtu.be/4YIz_P25iTI</p><p>https://youtu.be/DO8HZ6_pWqI</p><p>https://youtu.be/PgLDCgEIX40</p><p>https://youtu.be/vX51savENcs</p><p>https://youtu.be/ecfrVMlsvO4</p><p>https://youtu.be/3kWqECtHg1E</p><p>https://youtu.be/absq9kTV_NM</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/L_d5WRlzDYE</p><p>https://youtu.be/eKCvwvhGo5I</p><p>https://youtu.be/EX7SrTaCqQo</p><p>https://youtu.be/MS4FpJA6RBI</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/4TAufWfiCoQ</p><p>https://youtu.be/47vMjLqMHh8</p><p>https://youtu.be/OpYYFGJPr0A</p><p></p><p></p><p>=========================</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/0.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/1.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/2.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/3.jpg" /></a></p>
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><h1>Meta 推出 AI 影片生成模型 Movie Gen，媲美 OpenAI Sora</h1>大家好，這裡是零度解說。就在剛剛，Meta 搶在 OpenAI 正式推出 Sora 之前，發布了自己的 AI 影片生成模型 Movie Gen。這款模型擁有 Sora 的所有功能，可以直接創建不同寬高比的高清長視頻，支援 1080P、16 秒、每秒 16 幀的規格。除了 Sora 的功能外，Movie Gen 還可以產生非常逼真的電影效果，並且可以修改現有的圖片或影片，替換或修改物件、背景等等。只需要提供簡單的文字提示，它就可以幫你產生一個全新的電影片段。<h1>Movie Gen 生成影片逼真流暢，細節刻畫到位</h1>儘管好萊塢電影傳統上是以 24fps 來進行拍攝的，但是 Meta AI 生成的 16fps 幀率的視頻也非常接近專業電影的質量。它還能產生配套的背景音樂和音效，根據文字指令編輯視頻，甚至根據用戶上傳的圖像生成個人化影片。例如，只要輸入「把燈籠變成飛向空中的泡泡」，Movie Gen 就能替換影片中的物體，同時透明的泡泡也正確反射了背景環境，細節刻畫非常到位，產生的影片也非常流暢逼真。<h1>Movie Gen 功能強大，可替換影片主角、生成逼真音效</h1>Movie Gen 還有一個更強的功能，那就是生成的影片不再是無聲的，也不只能依照一個背景音樂生成。它可以配合影片內容，生成逼真的音效，例如滑板輪子轉動和落地的聲音、蛇出沒時的背景音樂、瀑布下的雨水聲、企鵝嬉戲的美妙音樂等等，讓人彷彿身臨其境。同時，Movie Gen 還可以讓你上傳自己的照片，成為 AI 電影中的主角。未來想要替換電影主角，將會變得輕而易舉。<h1>Meta 公開 Movie Gen 架構細節，業界關注其訓練方式</h1>Meta 在 92 頁的論文中，公開了 Movie Gen 的架構和訓練細節。他們特別強調資料規模、模型大小、訓練算力的擴展對於訓練大規模媒體生成模型至關重要。業界最關注的一點是，他們這次完全丟掉了擴散模型的擴散損失函數，利用 Transformer 做骨架子網絡，匹配流做訓練目標，在 Llama 3 的架構下產生視訊模型。<h1>AI 影片生成競爭激烈，Meta Movie Gen 或將迫使 OpenAI 推出 Sora</h1>AI 影片生成領域最近非常熱鬧。就在 Meta 發布 Movie Gen 之前不久，OpenAI Sora 主創人之一 Tim Brooks 跳槽到了谷歌的 DeepMind，繼續進行視頻生成和世界模擬器方面的工作。Sora 一直在發宣傳片，但到現在為止都將近過去半年了，一直沒有正式公佈，發布出來讓大家使用或嘗試。這次 Meta AI 影片的發布，會不會迫使 OpenAI 提前放出 Sora 這個模型呢？<h1>AI 影片生成下半場，Meta Movie Gen 或將引領 AI 影片編輯潮流</h1>Meta 放出了這個帶有影片編輯功能的模型，再加上 10 月 1 號 Pika 1.5 的更新，主打給影片中的物體加上融化、膨脹、擠壓等物理特效，不難看出 AI 影片生成的下半場，他們要開始捲向 AI 影片編輯了，因為這才是另外一個可以真正獲利的賽道。<hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好 這裡是零度解說。就在剛剛。Meta搶在在OpenAI正式推出Sora之前。發布了自己的AI影片生成模型。它就是這個Movie Gen。Sora 擁有的它都有。可以直接創建不同寬高比的高清長視頻。支援1080P,16秒,每秒16幀。同時Sora沒有的它也有。不僅可以產生非常逼真的電影。而且還可以修改現有的圖片或是影音。來替換或修改物件或背景等等。只需要提供簡單的文字提示。它就可以幫你產生一個全新的電影片段。儘管好萊塢電影傳統上是以。24fps來進行拍攝的。但是Meta AI生成的16fps幀率的視頻。也非常接近專業電影的質量。而且它還能產生配套的背景音樂和音效。根據文字指令編輯視頻。甚至根據用戶上傳的圖像。生成個人化影片等等。例如我們只要輸入一句。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">把燈籠變成飛向空中的泡泡。它就能幫我們替換影片中的物體。同時透明的泡泡也正確反射了背景環境。這個細節刻畫得非常到位。而且產生的影片也非常流暢逼真。例如文字輸入。一個女孩正在沙灘上奔跑。手裡拿著一隻風箏。她穿著牛仔短褲和一件黃色T卹。陽光照耀著她。生成的影片效果彷彿是真人拍攝一樣。如果不是專業人士根本看不出破綻。小孩在前面奔跑。後面彷彿有個人拿著手機。或是舉著穩定器在幫她拍攝。然後文字輸入。一直長著白色皮毛的紅臉猴子。正在天然溫泉中沐浴。猴子在水中玩耍。前方有一座微型帆船。由木頭製成。面有白色的帆和一個小舵。溫泉周圍綠樹成蔭。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有岩石和樹木。生成效果也非常不錯。不知道大家有沒有發現。這個AI生成的視頻。它有點類似日本泡溫泉的猴子。左側這個短視頻。是在現實生活中遊客拍攝的。不管是猴子的表情。身上一根根的猴毛。簡直跟真的一樣。例如這個是在冬天的時候。日本溫泉裡的猴子們。為躲避寒冷的天氣。在溫泉裡泡著暖。非常有意思。AI 也來幫你生成。同時上傳一張自己的照片。就能讓你成為AI電影中的主角。以後如果你想把電影的主角都換掉。那都是非常輕而易舉的事情。AI 換臉現在做得非常成熟而且容易。當然這次Meta AI影片生成。它還有一個更強的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那就是生成的影片不再是無聲的。也不只能是依照一個背景音樂生成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_153.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如看這裡。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個AI視頻它會配合滑板輪子轉動和落地。來配上逼真的音效。彷彿真正現場拍攝一樣。一條蛇在出沒。AI 自動配上了背景音樂以後。直接凸顯出了緊張危險的氣氛。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">一名男子站在瀑布下。雨水傾斜在懸崖和人身上。AI 自動產生了背景音效。彷彿讓人有一種身臨其境的感覺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還有南極企鵝在冰水中嬉戲。它配上了美妙的管弦樂。活潑的動畫效果立刻就出來了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還有像這個ATV引擎轟鳴加速。伴隨著吉他音樂。瞬間讓人腎上腺素飆升。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不得不說。這效果相當的不錯。也難怪Meta直接信心滿滿。在X平台上表示。這是迄今為止最先進的媒體基礎模型。一點都不謙虛。同時也有人擔心。伴隨著大量的創作者。隨著大量的創作者。學會使用AI影片編輯工具。很難想像幾年以後。不管是長視頻還是短視頻。都將會變成什麼樣子。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_227.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過這次Meta AI影片生成模型。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">它本身還沒有開源。以至於Hugging Face的工程師。直接在評論區。丟下了Meta的開源主頁鏈接。期待Meta早日把這模型開源。這次和Sora之前。只有演示和官網部落格不同的是。Meta在92頁的論文中。它把架構。還有訓練細節都公開了。在論文中他們特別強調。這個資料規模模型大小。訓練算力的擴展。對於訓練大規模媒體生成模型至關重要。以及業界最關注的一點就是。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">他們這次完全丟掉了。擴散模型的擴散損失函數。利用Transformer做骨架子網絡。匹配流做訓練目標。在Llama 3的架構下產生視訊模型。整體來說這個Movie Gen。它是由視頻生成和音頻生成。兩個模型來組成的。利用Meta它自身擁有的海量的視頻。文字和圖像來進行聯合訓練。學習對視覺設計的理解。再學習運動場景物理。幾何音頻的概念。達到一個前所未有的精度。AI 影片生成這一塊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這兩天非常熱鬧。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如像這個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就在Meta發布Movie Gen之前不久。這位OpenAI Sora主創人之一Tim Brooks。他跳槽到了谷歌的DeepMinds。來繼續視頻生成和世界模擬器方面的工作。他上面是這麼說的。我將加入Google DeepMind。致力於視訊生成和世界模擬器。迫不及待地想與如此才華橫溢的團隊合作。我在OpenAI度過了非常棒的兩年。製作了Sora。感謝所有與我共事的熱情和善良的人。期待下一個篇章。Sora真的一直在發宣傳片。但到現在為止都將近過去小半年了。一直沒有正式公佈。發佈出來讓大家使用或嘗試。估計很多人都在猜。到底是什麼原因導致Sora一直難產。發不出來。難道是技術問題。資金問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還是相關國家政策的阻礙。這都有可能。但是我個人感覺。最大原因應該是資金問題。畢竟想要一個高品質的影片生成。發布即巔峰。做到碾壓群雄。一鳴驚人的效果。是非常消耗算力和能源的。而且這兩塊都是需要大量資金投入。目前AI影片生成。它的變現途徑並沒有ChatGPT那麼廣。畢竟使用人群是非常有限的。沒有像AI語音聊天那麼廣泛。之前以非營利組織為頭銜的OpenAI。早就變味了。本身就是一個非常燒錢的項目。未來能否真正變現。是他們需要考慮的重要因素。現在OpenAI遲遲發布不了Sora。主要創辦人也跑了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_378.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過也有人認為。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個Tim Brooks 選擇離開。或許說明他在OpenAI的主要工作已經完成了。這也讓人開始猜測。這次Meta AI影片的發布。它會不會迫使OpenAI。提前放出這個Sora這個模型。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過截止到目前為止。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Sora 的另一位主創人。他還沒發表任何訊息。這次Meta放出了這個。帶有影片編輯功能的模型。再加上10月1號Pika 1.5的更新。主打給影片中的物體加上融化。膨脹。擠壓等物理特效。不難看出。AI 影片生成的下半場。他們要開始捲向AI影片編輯了。因為這才是另外一個可以真正獲利的賽道。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=I2gq72JU9kE</p><p>【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1</p><p>【零度博客】▶https://www.freedidi.com</p><p>【加入会员】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join</p><p>-------------------------------------</p><p>🔔</p><p></p><p>搜索、删除大文件的神器（Winder stat )下载：https://www.freedidi.com/10480.html</p><p></p><p></p><p>🔰 安全VPN推荐（最高优惠链接）：</p><p></p><p>1.ExpressVPN：https://go.expressvpn.com/c/2612933/1645830/16063</p><p>2.PureVPN： https://billing.purevpn.com/aff.php?aff=44074</p><p></p><p>🚀VPS 推荐：</p><p>1.https://bittly.cc/Vultr （优惠链接）</p><p>2.https://bandwagonhost.com/aff.php?aff=58794 （CN2 GIA 全网高速线路）</p><p></p><p>🦞</p><p>AI 生成对口型视频（支持多语言）：https://bittly.cc/rHFM3</p><p></p><p>🐳我的下载工具：https://bittly.cc/idm</p><p></p><p>💓</p><p>1.回国加速VPN ：https://bittly.cc/qt8cx</p><p></p><p>💰比特币交易平台</p><p></p><p>1.火币官网 : https://www.htx-kol.com/invite/zh-cn/1g?invite_code=48tr7</p><p></p><p></p><p>接码平台推荐:</p><p>https://sms-activate.org/?ref=4203005</p><p></p><p></p><p>=======================</p><p>其它更多精彩内容推荐：😍</p><p>https://youtu.be/h5rUawU0R04</p><p>https://youtu.be/kuWCMrKk9m4</p><p>https://youtu.be/4FWDFhTB6Yk</p><p>https://youtu.be/2G-Emzf29BU</p><p>https://youtu.be/UDGdZaoz77A</p><p>https://youtu.be/N3CTgtz3GMc</p><p>https://youtu.be/nSDz2W7SbOk</p><p>https://youtu.be/4YIz_P25iTI</p><p>https://youtu.be/DO8HZ6_pWqI</p><p>https://youtu.be/PgLDCgEIX40</p><p>https://youtu.be/vX51savENcs</p><p>https://youtu.be/ecfrVMlsvO4</p><p>https://youtu.be/3kWqECtHg1E</p><p>https://youtu.be/absq9kTV_NM</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/L_d5WRlzDYE</p><p>https://youtu.be/eKCvwvhGo5I</p><p>https://youtu.be/EX7SrTaCqQo</p><p>https://youtu.be/MS4FpJA6RBI</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/4TAufWfiCoQ</p><p>https://youtu.be/47vMjLqMHh8</p><p>https://youtu.be/OpYYFGJPr0A</p><p></p><p></p><p>=========================</p>]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/0.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/1.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/2.jpg" /></a><a href="https://www.youtube.com/watch?v=I2gq72JU9kE"><img src="https://img.youtube.com/vi/I2gq72JU9kE/3.jpg" /></a></p><br />
+<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><h1>Meta 推出 AI 影片生成模型 Movie Gen，媲美 OpenAI Sora</h1>大家好，這裡是零度解說。就在剛剛，Meta 搶在 OpenAI 正式推出 Sora 之前，發布了自己的 AI 影片生成模型 Movie Gen。這款模型擁有 Sora 的所有功能，可以直接創建不同寬高比的高清長視頻，支援 1080P、16 秒、每秒 16 幀的規格。除了 Sora 的功能外，Movie Gen 還可以產生非常逼真的電影效果，並且可以修改現有的圖片或影片，替換或修改物件、背景等等。只需要提供簡單的文字提示，它就可以幫你產生一個全新的電影片段。<h1>Movie Gen 生成影片逼真流暢，細節刻畫到位</h1>儘管好萊塢電影傳統上是以 24fps 來進行拍攝的，但是 Meta AI 生成的 16fps 幀率的視頻也非常接近專業電影的質量。它還能產生配套的背景音樂和音效，根據文字指令編輯視頻，甚至根據用戶上傳的圖像生成個人化影片。例如，只要輸入「把燈籠變成飛向空中的泡泡」，Movie Gen 就能替換影片中的物體，同時透明的泡泡也正確反射了背景環境，細節刻畫非常到位，產生的影片也非常流暢逼真。<h1>Movie Gen 功能強大，可替換影片主角、生成逼真音效</h1>Movie Gen 還有一個更強的功能，那就是生成的影片不再是無聲的，也不只能依照一個背景音樂生成。它可以配合影片內容，生成逼真的音效，例如滑板輪子轉動和落地的聲音、蛇出沒時的背景音樂、瀑布下的雨水聲、企鵝嬉戲的美妙音樂等等，讓人彷彿身臨其境。同時，Movie Gen 還可以讓你上傳自己的照片，成為 AI 電影中的主角。未來想要替換電影主角，將會變得輕而易舉。<h1>Meta 公開 Movie Gen 架構細節，業界關注其訓練方式</h1>Meta 在 92 頁的論文中，公開了 Movie Gen 的架構和訓練細節。他們特別強調資料規模、模型大小、訓練算力的擴展對於訓練大規模媒體生成模型至關重要。業界最關注的一點是，他們這次完全丟掉了擴散模型的擴散損失函數，利用 Transformer 做骨架子網絡，匹配流做訓練目標，在 Llama 3 的架構下產生視訊模型。<h1>AI 影片生成競爭激烈，Meta Movie Gen 或將迫使 OpenAI 推出 Sora</h1>AI 影片生成領域最近非常熱鬧。就在 Meta 發布 Movie Gen 之前不久，OpenAI Sora 主創人之一 Tim Brooks 跳槽到了谷歌的 DeepMind，繼續進行視頻生成和世界模擬器方面的工作。Sora 一直在發宣傳片，但到現在為止都將近過去半年了，一直沒有正式公佈，發布出來讓大家使用或嘗試。這次 Meta AI 影片的發布，會不會迫使 OpenAI 提前放出 Sora 這個模型呢？<h1>AI 影片生成下半場，Meta Movie Gen 或將引領 AI 影片編輯潮流</h1>Meta 放出了這個帶有影片編輯功能的模型，再加上 10 月 1 號 Pika 1.5 的更新，主打給影片中的物體加上融化、膨脹、擠壓等物理特效，不難看出 AI 影片生成的下半場，他們要開始捲向 AI 影片編輯了，因為這才是另外一個可以真正獲利的賽道。<hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">大家好 這裡是零度解說。就在剛剛。Meta搶在在OpenAI正式推出Sora之前。發布了自己的AI影片生成模型。它就是這個Movie Gen。Sora 擁有的它都有。可以直接創建不同寬高比的高清長視頻。支援1080P,16秒,每秒16幀。同時Sora沒有的它也有。不僅可以產生非常逼真的電影。而且還可以修改現有的圖片或是影音。來替換或修改物件或背景等等。只需要提供簡單的文字提示。它就可以幫你產生一個全新的電影片段。儘管好萊塢電影傳統上是以。24fps來進行拍攝的。但是Meta AI生成的16fps幀率的視頻。也非常接近專業電影的質量。而且它還能產生配套的背景音樂和音效。根據文字指令編輯視頻。甚至根據用戶上傳的圖像。生成個人化影片等等。例如我們只要輸入一句。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">把燈籠變成飛向空中的泡泡。它就能幫我們替換影片中的物體。同時透明的泡泡也正確反射了背景環境。這個細節刻畫得非常到位。而且產生的影片也非常流暢逼真。例如文字輸入。一個女孩正在沙灘上奔跑。手裡拿著一隻風箏。她穿著牛仔短褲和一件黃色T卹。陽光照耀著她。生成的影片效果彷彿是真人拍攝一樣。如果不是專業人士根本看不出破綻。小孩在前面奔跑。後面彷彿有個人拿著手機。或是舉著穩定器在幫她拍攝。然後文字輸入。一直長著白色皮毛的紅臉猴子。正在天然溫泉中沐浴。猴子在水中玩耍。前方有一座微型帆船。由木頭製成。面有白色的帆和一個小舵。溫泉周圍綠樹成蔭。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">有岩石和樹木。生成效果也非常不錯。不知道大家有沒有發現。這個AI生成的視頻。它有點類似日本泡溫泉的猴子。左側這個短視頻。是在現實生活中遊客拍攝的。不管是猴子的表情。身上一根根的猴毛。簡直跟真的一樣。例如這個是在冬天的時候。日本溫泉裡的猴子們。為躲避寒冷的天氣。在溫泉裡泡著暖。非常有意思。AI 也來幫你生成。同時上傳一張自己的照片。就能讓你成為AI電影中的主角。以後如果你想把電影的主角都換掉。那都是非常輕而易舉的事情。AI 換臉現在做得非常成熟而且容易。當然這次Meta AI影片生成。它還有一個更強的功能。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">那就是生成的影片不再是無聲的。也不只能是依照一個背景音樂生成。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_153.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如看這裡。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個AI視頻它會配合滑板輪子轉動和落地。來配上逼真的音效。彷彿真正現場拍攝一樣。一條蛇在出沒。AI 自動配上了背景音樂以後。直接凸顯出了緊張危險的氣氛。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">一名男子站在瀑布下。雨水傾斜在懸崖和人身上。AI 自動產生了背景音效。彷彿讓人有一種身臨其境的感覺。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還有南極企鵝在冰水中嬉戲。它配上了美妙的管弦樂。活潑的動畫效果立刻就出來了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還有像這個ATV引擎轟鳴加速。伴隨著吉他音樂。瞬間讓人腎上腺素飆升。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不得不說。這效果相當的不錯。也難怪Meta直接信心滿滿。在X平台上表示。這是迄今為止最先進的媒體基礎模型。一點都不謙虛。同時也有人擔心。伴隨著大量的創作者。隨著大量的創作者。學會使用AI影片編輯工具。很難想像幾年以後。不管是長視頻還是短視頻。都將會變成什麼樣子。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_227.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過這次Meta AI影片生成模型。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">它本身還沒有開源。以至於Hugging Face的工程師。直接在評論區。丟下了Meta的開源主頁鏈接。期待Meta早日把這模型開源。這次和Sora之前。只有演示和官網部落格不同的是。Meta在92頁的論文中。它把架構。還有訓練細節都公開了。在論文中他們特別強調。這個資料規模模型大小。訓練算力的擴展。對於訓練大規模媒體生成模型至關重要。以及業界最關注的一點就是。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">他們這次完全丟掉了。擴散模型的擴散損失函數。利用Transformer做骨架子網絡。匹配流做訓練目標。在Llama 3的架構下產生視訊模型。整體來說這個Movie Gen。它是由視頻生成和音頻生成。兩個模型來組成的。利用Meta它自身擁有的海量的視頻。文字和圖像來進行聯合訓練。學習對視覺設計的理解。再學習運動場景物理。幾何音頻的概念。達到一個前所未有的精度。AI 影片生成這一塊。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這兩天非常熱鬧。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">比如像這個。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">就在Meta發布Movie Gen之前不久。這位OpenAI Sora主創人之一Tim Brooks。他跳槽到了谷歌的DeepMinds。來繼續視頻生成和世界模擬器方面的工作。他上面是這麼說的。我將加入Google DeepMind。致力於視訊生成和世界模擬器。迫不及待地想與如此才華橫溢的團隊合作。我在OpenAI度過了非常棒的兩年。製作了Sora。感謝所有與我共事的熱情和善良的人。期待下一個篇章。Sora真的一直在發宣傳片。但到現在為止都將近過去小半年了。一直沒有正式公佈。發佈出來讓大家使用或嘗試。估計很多人都在猜。到底是什麼原因導致Sora一直難產。發不出來。難道是技術問題。資金問題。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">還是相關國家政策的阻礙。這都有可能。但是我個人感覺。最大原因應該是資金問題。畢竟想要一個高品質的影片生成。發布即巔峰。做到碾壓群雄。一鳴驚人的效果。是非常消耗算力和能源的。而且這兩塊都是需要大量資金投入。目前AI影片生成。它的變現途徑並沒有ChatGPT那麼廣。畢竟使用人群是非常有限的。沒有像AI語音聊天那麼廣泛。之前以非營利組織為頭銜的OpenAI。早就變味了。本身就是一個非常燒錢的項目。未來能否真正變現。是他們需要考慮的重要因素。現在OpenAI遲遲發布不了Sora。主要創辦人也跑了。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/I2gq72JU9kE_378.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過也有人認為。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">這個Tim Brooks 選擇離開。或許說明他在OpenAI的主要工作已經完成了。這也讓人開始猜測。這次Meta AI影片的發布。它會不會迫使OpenAI。提前放出這個Sora這個模型。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">不過截止到目前為止。</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Sora 的另一位主創人。他還沒發表任何訊息。這次Meta放出了這個。帶有影片編輯功能的模型。再加上10月1號Pika 1.5的更新。主打給影片中的物體加上融化。膨脹。擠壓等物理特效。不難看出。AI 影片生成的下半場。他們要開始捲向AI影片編輯了。因為這才是另外一個可以真正獲利的賽道。</p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=I2gq72JU9kE</p><p>【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1</p><p>【零度博客】▶https://www.freedidi.com</p><p>【加入会员】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join</p><p>-------------------------------------</p><p>🔔</p><p></p><p>搜索、删除大文件的神器（Winder stat )下载：https://www.freedidi.com/10480.html</p><p></p><p></p><p>🔰 安全VPN推荐（最高优惠链接）：</p><p></p><p>1.ExpressVPN：https://go.expressvpn.com/c/2612933/1645830/16063</p><p>2.PureVPN： https://billing.purevpn.com/aff.php?aff=44074</p><p></p><p>🚀VPS 推荐：</p><p>1.https://bittly.cc/Vultr （优惠链接）</p><p>2.https://bandwagonhost.com/aff.php?aff=58794 （CN2 GIA 全网高速线路）</p><p></p><p>🦞</p><p>AI 生成对口型视频（支持多语言）：https://bittly.cc/rHFM3</p><p></p><p>🐳我的下载工具：https://bittly.cc/idm</p><p></p><p>💓</p><p>1.回国加速VPN ：https://bittly.cc/qt8cx</p><p></p><p>💰比特币交易平台</p><p></p><p>1.火币官网 : https://www.htx-kol.com/invite/zh-cn/1g?invite_code=48tr7</p><p></p><p></p><p>接码平台推荐:</p><p>https://sms-activate.org/?ref=4203005</p><p></p><p></p><p>=======================</p><p>其它更多精彩内容推荐：😍</p><p>https://youtu.be/h5rUawU0R04</p><p>https://youtu.be/kuWCMrKk9m4</p><p>https://youtu.be/4FWDFhTB6Yk</p><p>https://youtu.be/2G-Emzf29BU</p><p>https://youtu.be/UDGdZaoz77A</p><p>https://youtu.be/N3CTgtz3GMc</p><p>https://youtu.be/nSDz2W7SbOk</p><p>https://youtu.be/4YIz_P25iTI</p><p>https://youtu.be/DO8HZ6_pWqI</p><p>https://youtu.be/PgLDCgEIX40</p><p>https://youtu.be/vX51savENcs</p><p>https://youtu.be/ecfrVMlsvO4</p><p>https://youtu.be/3kWqECtHg1E</p><p>https://youtu.be/absq9kTV_NM</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/L_d5WRlzDYE</p><p>https://youtu.be/eKCvwvhGo5I</p><p>https://youtu.be/EX7SrTaCqQo</p><p>https://youtu.be/MS4FpJA6RBI</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/4TAufWfiCoQ</p><p>https://youtu.be/47vMjLqMHh8</p><p>https://youtu.be/OpYYFGJPr0A</p><p></p><p></p><p>=========================</p>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/I2gq72JU9kE/maxresdefault.jpg"/>
+      <pubDate>2024-10-05T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[Windows 11 24H2 正式发布！官方免费下载，并绕过硬件限制安装！| 零度解说]]></title>
       <link>https://www.youtube.com/watch?v=5x5fZFFcHxc</link>
       <itunes:title><![CDATA[Windows 11 24H2 正式发布！官方免费下载，并绕过硬件限制安装！| 零度解说]]></itunes:title>
@@ -476,214 +511,5 @@ https://youtu.be/OpYYFGJPr0A
 <p>https://www.youtube.com/watch?v=pL80d6F4gxI</p><p>【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1</p><p>【零度博客】▶https://www.freedidi.com</p><p>【加入会员】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join</p><p>-------------------------------------</p><p>🔔</p><p></p><p>1、本地部署 Llama 3.2 （3B）模型：https://www.freedidi.com/14712.html</p><p>2、Llama 3.2 （11B ）模型下载和安装： https://www.freedidi.com/14700.html</p><p></p><p></p><p>🔰 安全VPN推荐（最高优惠链接）：</p><p></p><p>1.ExpressVPN：https://go.expressvpn.com/c/2612933/1645830/16063</p><p>2.PureVPN： https://billing.purevpn.com/aff.php?aff=44074</p><p></p><p>🚀VPS 推荐：</p><p>1.https://bittly.cc/Vultr （优惠链接）</p><p>2.https://bandwagonhost.com/aff.php?aff=58794 （CN2 GIA 全网高速线路）</p><p></p><p>🦞</p><p>AI 生成对口型视频（支持多语言）：https://bittly.cc/rHFM3</p><p></p><p>🐳我的下载工具：https://bittly.cc/idm</p><p></p><p>💓</p><p>1.回国加速VPN ：https://bittly.cc/qt8cx</p><p></p><p>💰比特币交易平台</p><p></p><p>1.火币官网 : https://www.htx-kol.com/invite/zh-cn/1g?invite_code=48tr7</p><p></p><p></p><p>接码平台推荐:</p><p>https://sms-activate.org/?ref=4203005</p><p></p><p>0:00 视频简介</p><p>1:14 本地部署 Llama 3.2 的前提准备</p><p>4:14 Ollama 控制面板设置</p><p>5:58 测试Llama 3.2 3B模型</p><p>7:13 本地部署Llama 3.2 11B模型</p><p>8:07 免费测试 Llama 3.2 11B 视觉模型</p><p></p><p>=======================</p><p>其它更多精彩内容推荐：😍</p><p>https://youtu.be/h5rUawU0R04</p><p>https://youtu.be/kuWCMrKk9m4</p><p>https://youtu.be/4FWDFhTB6Yk</p><p>https://youtu.be/2G-Emzf29BU</p><p>https://youtu.be/UDGdZaoz77A</p><p>https://youtu.be/N3CTgtz3GMc</p><p>https://youtu.be/nSDz2W7SbOk</p><p>https://youtu.be/4YIz_P25iTI</p><p>https://youtu.be/DO8HZ6_pWqI</p><p>https://youtu.be/PgLDCgEIX40</p><p>https://youtu.be/vX51savENcs</p><p>https://youtu.be/ecfrVMlsvO4</p><p>https://youtu.be/3kWqECtHg1E</p><p>https://youtu.be/absq9kTV_NM</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/L_d5WRlzDYE</p><p>https://youtu.be/eKCvwvhGo5I</p><p>https://youtu.be/EX7SrTaCqQo</p><p>https://youtu.be/MS4FpJA6RBI</p><p>https://youtu.be/5ymZYqEWlOA</p><p>https://youtu.be/4TAufWfiCoQ</p><p>https://youtu.be/47vMjLqMHh8</p><p>https://youtu.be/OpYYFGJPr0A</p><p></p><p></p><p>=========================</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/pL80d6F4gxI/maxresdefault.jpg"/>
       <pubDate>2024-09-29T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[劲爆！ChatGPT 最新语音对话功能实测！真人般体验，附开启方法  | 零度解说]]></title>
-      <link>https://www.youtube.com/watch?v=IKhGe8ozikY</link>
-      <itunes:title><![CDATA[劲爆！ChatGPT 最新语音对话功能实测！真人般体验，附开启方法  | 零度解说]]></itunes:title>
-      <itunes:author><![CDATA[零度解说]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=IKhGe8ozikY
-【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1
-【零度博客】▶https://www.freedidi.com
-【加入会员】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join
--------------------------------------
-🔔
-
-ChatGPT 开启越狱模式：https://www.freedidi.com/12635.html
-免费使用GPT-4 的3种方法：https://www.freedidi.com/12096.html
-ChatGPT 免登入使用：https://www.freedidi.com/11964.html
-
-🔰 安全VPN推荐（最高优惠链接）：
-
-1.ExpressVPN：https://go.expressvpn.com/c/2612933/1645830/16063
-2.PureVPN： https://billing.purevpn.com/aff.php?aff=44074
-
-🚀VPS 推荐：
-1.https://bittly.cc/Vultr （优惠链接）
-2.https://bandwagonhost.com/aff.php?aff=58794 （CN2 GIA 全网高速线路）
-
-🦞
-AI 生成对口型视频（支持多语言）：https://bittly.cc/rHFM3
-
-🐳我的下载工具：https://bittly.cc/idm
-
-💓
-1.回国加速VPN ：https://bittly.cc/qt8cx
-
-💰比特币交易平台
-
-1.火币官网 : https://www.htx-kol.com/invite/zh-cn/1g?invite_code=48tr7
-
-
-接码平台推荐:
-https://sms-activate.org/?ref=4203005
-
-
-=======================
-其它更多精彩内容推荐：😍
-https://youtu.be/h5rUawU0R04
-https://youtu.be/kuWCMrKk9m4
-https://youtu.be/4FWDFhTB6Yk
-https://youtu.be/2G-Emzf29BU
-https://youtu.be/UDGdZaoz77A
-https://youtu.be/N3CTgtz3GMc
-https://youtu.be/nSDz2W7SbOk
-https://youtu.be/4YIz_P25iTI
-https://youtu.be/DO8HZ6_pWqI
-https://youtu.be/PgLDCgEIX40
-https://youtu.be/vX51savENcs
-https://youtu.be/ecfrVMlsvO4
-https://youtu.be/3kWqECtHg1E
-https://youtu.be/absq9kTV_NM
-https://youtu.be/5ymZYqEWlOA
-https://youtu.be/L_d5WRlzDYE
-https://youtu.be/eKCvwvhGo5I
-https://youtu.be/EX7SrTaCqQo
-https://youtu.be/MS4FpJA6RBI
-https://youtu.be/5ymZYqEWlOA
-https://youtu.be/4TAufWfiCoQ
-https://youtu.be/47vMjLqMHh8
-https://youtu.be/OpYYFGJPr0A
-
-
-=========================]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=IKhGe8ozikY
-【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1
-【零度博客】▶https://www.freedidi.com
-【加入会员】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join
--------------------------------------
-🔔
-
-ChatGPT 开启越狱模式：https://www.freedidi.com/12635.html
-免费使用GPT-4 的3种方法：https://www.freedidi.com/12096.html
-ChatGPT 免登入使用：https://www.freedidi.com/11964.html
-
-🔰 安全VPN推荐（最高优惠链接）：
-
-1.ExpressVPN：https://go.expressvpn.com/c/2612933/1645830/16063
-2.PureVPN： https://billing.purevpn.com/aff.php?aff=44074
-
-🚀VPS 推荐：
-1.https://bittly.cc/Vultr （优惠链接）
-2.https://bandwagonhost.com/aff.php?aff=58794 （CN2 GIA 全网高速线路）
-
-🦞
-AI 生成对口型视频（支持多语言）：https://bittly.cc/rHFM3
-
-🐳我的下载工具：https://bittly.cc/idm
-
-💓
-1.回国加速VPN ：https://bittly.cc/qt8cx
-
-💰比特币交易平台
-
-1.火币官网 : https://www.htx-kol.com/invite/zh-cn/1g?invite_code=48tr7
-
-
-接码平台推荐:
-https://sms-activate.org/?ref=4203005
-
-
-=======================
-其它更多精彩内容推荐：😍
-https://youtu.be/h5rUawU0R04
-https://youtu.be/kuWCMrKk9m4
-https://youtu.be/4FWDFhTB6Yk
-https://youtu.be/2G-Emzf29BU
-https://youtu.be/UDGdZaoz77A
-https://youtu.be/N3CTgtz3GMc
-https://youtu.be/nSDz2W7SbOk
-https://youtu.be/4YIz_P25iTI
-https://youtu.be/DO8HZ6_pWqI
-https://youtu.be/PgLDCgEIX40
-https://youtu.be/vX51savENcs
-https://youtu.be/ecfrVMlsvO4
-https://youtu.be/3kWqECtHg1E
-https://youtu.be/absq9kTV_NM
-https://youtu.be/5ymZYqEWlOA
-https://youtu.be/L_d5WRlzDYE
-https://youtu.be/eKCvwvhGo5I
-https://youtu.be/EX7SrTaCqQo
-https://youtu.be/MS4FpJA6RBI
-https://youtu.be/5ymZYqEWlOA
-https://youtu.be/4TAufWfiCoQ
-https://youtu.be/47vMjLqMHh8
-https://youtu.be/OpYYFGJPr0A
-
-
-=========================]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/0.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/1.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/2.jpg" /></a><a href="https://www.youtube.com/watch?v=IKhGe8ozikY"><img src="https://img.youtube.com/vi/IKhGe8ozikY/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=IKhGe8ozikY
-【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1
-【零度博客】▶https://www.freedidi.com
-【加入会员】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join
--------------------------------------
-🔔
-
-ChatGPT 开启越狱模式：https://www.freedidi.com/12635.html
-免费使用GPT-4 的3种方法：https://www.freedidi.com/12096.html
-ChatGPT 免登入使用：https://www.freedidi.com/11964.html
-
-🔰 安全VPN推荐（最高优惠链接）：
-
-1.ExpressVPN：https://go.expressvpn.com/c/2612933/1645830/16063
-2.PureVPN： https://billing.purevpn.com/aff.php?aff=44074
-
-🚀VPS 推荐：
-1.https://bittly.cc/Vultr （优惠链接）
-2.https://bandwagonhost.com/aff.php?aff=58794 （CN2 GIA 全网高速线路）
-
-🦞
-AI 生成对口型视频（支持多语言）：https://bittly.cc/rHFM3
-
-🐳我的下载工具：https://bittly.cc/idm
-
-💓
-1.回国加速VPN ：https://bittly.cc/qt8cx
-
-💰比特币交易平台
-
-1.火币官网 : https://www.htx-kol.com/invite/zh-cn/1g?invite_code=48tr7
-
-
-接码平台推荐:
-https://sms-activate.org/?ref=4203005
-
-
-=======================
-其它更多精彩内容推荐：😍
-https://youtu.be/h5rUawU0R04
-https://youtu.be/kuWCMrKk9m4
-https://youtu.be/4FWDFhTB6Yk
-https://youtu.be/2G-Emzf29BU
-https://youtu.be/UDGdZaoz77A
-https://youtu.be/N3CTgtz3GMc
-https://youtu.be/nSDz2W7SbOk
-https://youtu.be/4YIz_P25iTI
-https://youtu.be/DO8HZ6_pWqI
-https://youtu.be/PgLDCgEIX40
-https://youtu.be/vX51savENcs
-https://youtu.be/ecfrVMlsvO4
-https://youtu.be/3kWqECtHg1E
-https://youtu.be/absq9kTV_NM
-https://youtu.be/5ymZYqEWlOA
-https://youtu.be/L_d5WRlzDYE
-https://youtu.be/eKCvwvhGo5I
-https://youtu.be/EX7SrTaCqQo
-https://youtu.be/MS4FpJA6RBI
-https://youtu.be/5ymZYqEWlOA
-https://youtu.be/4TAufWfiCoQ
-https://youtu.be/47vMjLqMHh8
-https://youtu.be/OpYYFGJPr0A
-
-
-=========================]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/IKhGe8ozikY/maxresdefault.jpg"/>
-      <pubDate>2024-09-27T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
