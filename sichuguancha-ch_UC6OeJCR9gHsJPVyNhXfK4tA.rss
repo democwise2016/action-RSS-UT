@@ -29,5 +29,28 @@
       <itunes:name><![CDATA[四處觀察[YT+]]]></itunes:name>
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/I0-_edvQIWtj1oYqhtsbo4-q2iK5A69J0EPd9uHZ-1zGQTMsSLcXxuaqf9ZFVbN7ptOxLopN=s1024-b50-c-k-c0x008A95A5-no-rj"/>
-</channel>
+<item>
+      <title><![CDATA[太平洋究竟有多大]]></title>
+      <link>https://www.youtube.com/watch?v=_ktPX_98AaQ</link>
+      <itunes:title><![CDATA[太平洋究竟有多大]]></itunes:title>
+      <itunes:author><![CDATA[四處觀察]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[太平洋究竟有多大
+
+https://www.youtube.com/channel/UC6OeJCR9gHsJPVyNhXfK4tA
+四處觀察[YT+]]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[太平洋究竟有多大
+
+https://www.youtube.com/channel/UC6OeJCR9gHsJPVyNhXfK4tA
+四處觀察[YT+]]]>
+      </description>
+      <content:encoded><![CDATA[太平洋究竟有多大
+
+https://www.youtube.com/channel/UC6OeJCR9gHsJPVyNhXfK4tA
+四處觀察[YT+]]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <pubDate>undefined</pubDate>
+    </item></channel>
 </rss>
