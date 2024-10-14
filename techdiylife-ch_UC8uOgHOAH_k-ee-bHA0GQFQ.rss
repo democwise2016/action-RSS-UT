@@ -30,6 +30,26 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/xTtXqy5XHlm9Wgq7VyfvgRkBU_VxerdLNe71aAG99KABEqSiApbv1frKAbhcBQ3Eb0Qt8au8AA=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[从代码到细节：拆解LoRA微调的内部秘密！]]></title>
+      <link>https://www.youtube.com/watch?v=i50G0R8H-3k</link>
+      <itunes:title><![CDATA[从代码到细节：拆解LoRA微调的内部秘密！]]></itunes:title>
+      <itunes:author><![CDATA[AI开发者-就爱瞎鼓捣]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/0.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/1.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/2.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=i50G0R8H-3k
+本期视频深入解析了LoRA模型微调的原理和实现细节。从代码和模型的层面，揭示了微调后模型的具体变化。我们还探讨了微调大模型时常见的挑战，如显存占用、计算开销和存储空间压力，并解释了LoRA如何有效缓解这些问题。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/0.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/1.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/2.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=i50G0R8H-3k
+本期视频深入解析了LoRA模型微调的原理和实现细节。从代码和模型的层面，揭示了微调后模型的具体变化。我们还探讨了微调大模型时常见的挑战，如显存占用、计算开销和存储空间压力，并解释了LoRA如何有效缓解这些问题。]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/0.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/1.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/2.jpg" /></a><a href="https://www.youtube.com/watch?v=i50G0R8H-3k"><img src="https://img.youtube.com/vi/i50G0R8H-3k/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=i50G0R8H-3k
+本期视频深入解析了LoRA模型微调的原理和实现细节。从代码和模型的层面，揭示了微调后模型的具体变化。我们还探讨了微调大模型时常见的挑战，如显存占用、计算开销和存储空间压力，并解释了LoRA如何有效缓解这些问题。]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/i50G0R8H-3k/maxresdefault.jpg"/>
+      <pubDate>2024-10-13T00:00:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[揭秘 OpenAI 新应用 Canvas 的神奇力量！]]></title>
       <link>https://www.youtube.com/watch?v=AMyuvkwasY8</link>
       <itunes:title><![CDATA[揭秘 OpenAI 新应用 Canvas 的神奇力量！]]></itunes:title>
@@ -134,25 +154,5 @@
 <p>https://www.youtube.com/watch?v=Pji6PgHGxMc</p><p>Meta正式开源了首个多模态Llama 3.2系列模型，带来1B和3B的文本生成模型以及11B和90B的视觉处理模型。</p>]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/Pji6PgHGxMc/maxresdefault.jpg"/>
       <pubDate>2024-09-29T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[AI开发者动态：云栖大会主题演讲精华分享]]></title>
-      <link>https://www.youtube.com/watch?v=6TWusd0Cves</link>
-      <itunes:title><![CDATA[AI开发者动态：云栖大会主题演讲精华分享]]></itunes:title>
-      <itunes:author><![CDATA[AI开发者-就爱瞎鼓捣]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/0.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/1.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/2.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=6TWusd0Cves
-云栖大会阿里CEO吴泳铭主题演讲剪辑版。此版本为根据UP个人理解的三分钟剪辑版，可能无法完整传达原演讲的内容。]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/0.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/1.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/2.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=6TWusd0Cves
-云栖大会阿里CEO吴泳铭主题演讲剪辑版。此版本为根据UP个人理解的三分钟剪辑版，可能无法完整传达原演讲的内容。]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/0.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/1.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/2.jpg" /></a><a href="https://www.youtube.com/watch?v=6TWusd0Cves"><img src="https://img.youtube.com/vi/6TWusd0Cves/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=6TWusd0Cves
-云栖大会阿里CEO吴泳铭主题演讲剪辑版。此版本为根据UP个人理解的三分钟剪辑版，可能无法完整传达原演讲的内容。]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/6TWusd0Cves/maxresdefault.jpg"/>
-      <pubDate>2024-09-21T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
