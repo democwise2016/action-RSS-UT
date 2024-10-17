@@ -30,6 +30,29 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/5j1Nz_8wvXD02u4mabrXfMYPWt0Y1gQLnl2HQmKWrRixSLFRgO7zOcVXHTr8vfxd4aZzOmFC4g=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[浏览器指纹是什么？无痕模式能保护隐私么？14种指纹的技术原理]]></title>
+      <link>https://www.youtube.com/watch?v=r_JORa9Uk3o</link>
+      <itunes:title><![CDATA[浏览器指纹是什么？无痕模式能保护隐私么？14种指纹的技术原理]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[浏览器指纹是什么？无痕模式能保护隐私么？14种指纹的技术原理
+
+https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g
+技术爬爬虾  TechShrimp[YT+]]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[浏览器指纹是什么？无痕模式能保护隐私么？14种指纹的技术原理
+
+https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g
+技术爬爬虾  TechShrimp[YT+]]]>
+      </description>
+      <content:encoded><![CDATA[浏览器指纹是什么？无痕模式能保护隐私么？14种指纹的技术原理
+
+https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g
+技术爬爬虾  TechShrimp[YT+]]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <pubDate>undefined</pubDate>
+    </item><item>
       <title><![CDATA[DNS污染？SNI阻断？全新网络协议保护隐私安全。]]></title>
       <link>https://www.youtube.com/watch?v=6rGcBYur4u0</link>
       <itunes:title><![CDATA[DNS污染？SNI阻断？全新网络协议保护隐私安全。]]></itunes:title>
@@ -101,28 +124,5 @@ https://www.youtube.com/watch?v=_CiJN2zdc8A
 随着各种web技术的迅猛发展，现代浏览器已经不仅仅是一个浏览网页的工具了， 它们的功能早已经进化的到超出你我的想象，渐渐发展成了一个强大的多功能计算平台。 本期视频我们来盘点下现代浏览器令人惊叹的神奇功能，我还会简单介绍下实现这些功能的核心实现原理。]]></content:encoded>
       <itunes:image href="https://img.youtube.com/vi/_CiJN2zdc8A/maxresdefault.jpg"/>
       <pubDate>2024-09-12T00:00:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[Mac虚拟机，在Win的Linux子系统的Docker里面运行MacOS，操作系统终极大套娃]]></title>
-      <link>https://www.youtube.com/watch?v=bR_PS0f0_14</link>
-      <itunes:title><![CDATA[Mac虚拟机，在Win的Linux子系统的Docker里面运行MacOS，操作系统终极大套娃]]></itunes:title>
-      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/0.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/1.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/2.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=bR_PS0f0_14
-这是一个究极套娃的Mac系统，我把他安装到了运行在windows上的Linux子系统的docker里面，一下子串联了三大操作系统。我们可以在这个系统尝鲜一些mac的专用软件，开发跨平台软件，测试兼容性等等。
-本期视频我们一起来看下如何部署这个究极套娃系统。本次我使用的项目是Docker OSX，它可以让你以docker的方式快速启动一个MacOS。 不过这个项目硬件要求还是挺高的，普通的Linux小主机的性能满足不了。所以这次我准备用我的windows电脑运行docker。]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<p><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/0.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/1.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/2.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/3.jpg" /></a></p>
-https://www.youtube.com/watch?v=bR_PS0f0_14
-这是一个究极套娃的Mac系统，我把他安装到了运行在windows上的Linux子系统的docker里面，一下子串联了三大操作系统。我们可以在这个系统尝鲜一些mac的专用软件，开发跨平台软件，测试兼容性等等。
-本期视频我们一起来看下如何部署这个究极套娃系统。本次我使用的项目是Docker OSX，它可以让你以docker的方式快速启动一个MacOS。 不过这个项目硬件要求还是挺高的，普通的Linux小主机的性能满足不了。所以这次我准备用我的windows电脑运行docker。]]>
-      </description>
-      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/0.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/1.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/2.jpg" /></a><a href="https://www.youtube.com/watch?v=bR_PS0f0_14"><img src="https://img.youtube.com/vi/bR_PS0f0_14/3.jpg" /></a></p><br />
-https://www.youtube.com/watch?v=bR_PS0f0_14
-这是一个究极套娃的Mac系统，我把他安装到了运行在windows上的Linux子系统的docker里面，一下子串联了三大操作系统。我们可以在这个系统尝鲜一些mac的专用软件，开发跨平台软件，测试兼容性等等。
-本期视频我们一起来看下如何部署这个究极套娃系统。本次我使用的项目是Docker OSX，它可以让你以docker的方式快速启动一个MacOS。 不过这个项目硬件要求还是挺高的，普通的Linux小主机的性能满足不了。所以这次我准备用我的windows电脑运行docker。]]></content:encoded>
-      <itunes:image href="https://img.youtube.com/vi/bR_PS0f0_14/maxresdefault.jpg"/>
-      <pubDate>2024-08-27T00:00:00.000Z</pubDate>
     </item></channel>
 </rss>
