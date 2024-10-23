@@ -70,23 +70,137 @@
       <itunes:title><![CDATA[【AI绘画】AnimateDiff  Webui图像生成方式生成GIF 简单方便易上手 赶紧动起来吧！]]></itunes:title>
       <itunes:author><![CDATA[番茄没有酱]]></itunes:author>
       <itunes:summary>
-        <![CDATA[【AI绘画】AnimateDiff  Webui图像生成方式生成GIF 简单方便易上手 赶紧动起来吧！
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=GquY8NlXfcc
+AnimateDiff插件
+github介绍页：https://github.com/continue-revolution/sd-webui-animatediff
 
-https://www.youtube.com/channel/UCoYbSADuNZvm99BLxqtImYQ
-番茄没有酱聊AI繪圖[YT+]]]>
+模型下载地址：https://huggingface.co/guoyww/animatediff/tree/main
+
+lora预览图：https://drive.google.com/drive/folders/1Pa8lzuCkX7Etg6k3LMQMsEnZ9oFTYxpQ?usp=sharing
+
+controlnet官网：
+https://github.com/Mikubill/sd-webui-controlnet/tree/sdxl
+controlnet sdxl 下载
+git clone -b sdxl https://github.com/Mikubill/sd-webui-controlnet.git
+controlnet sdxl 模型
+https://huggingface.co/lllyasviel/sd_control_collection/tree/main
+
+SD1.5模型下载：https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+模型放在\\stable-diffusion-webui\\extensions\\sd-webui-controlnet\\models
+
+【ai绘画】SD1.5 ControlNet安装教程：
+https://youtu.be/Cm6vgNxjxhI
+
+【ai绘画】ControlNet超高质量重采样、完美像素讲解：
+https://youtu.be/9KeaW7UTsik
+
+【ai绘画】ControlNet里tile模型讲解：
+https://youtu.be/LQRCHVyQvhY
+
+03:31 AnimateDiff插件安装
+08:57 使用插件注意事项
+12:30 AnimateDiff插件参数介绍
+16:53 文本转绘演示
+18:20 AnimateDiff Lora使用演示
+19:08 AnimateDiff插件提示词跃迁演示
+22:26 图生图转绘演示
+24:25 视频转绘演示
+
+#stablediffusion 
+#ai绘画
+#sd
+#AnimateDiff
+#controlnet]]>
       </itunes:summary>
       <description>
-        <![CDATA[【AI绘画】AnimateDiff  Webui图像生成方式生成GIF 简单方便易上手 赶紧动起来吧！
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=GquY8NlXfcc
+AnimateDiff插件
+github介绍页：https://github.com/continue-revolution/sd-webui-animatediff
 
-https://www.youtube.com/channel/UCoYbSADuNZvm99BLxqtImYQ
-番茄没有酱聊AI繪圖[YT+]]]>
+模型下载地址：https://huggingface.co/guoyww/animatediff/tree/main
+
+lora预览图：https://drive.google.com/drive/folders/1Pa8lzuCkX7Etg6k3LMQMsEnZ9oFTYxpQ?usp=sharing
+
+controlnet官网：
+https://github.com/Mikubill/sd-webui-controlnet/tree/sdxl
+controlnet sdxl 下载
+git clone -b sdxl https://github.com/Mikubill/sd-webui-controlnet.git
+controlnet sdxl 模型
+https://huggingface.co/lllyasviel/sd_control_collection/tree/main
+
+SD1.5模型下载：https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+模型放在\\stable-diffusion-webui\\extensions\\sd-webui-controlnet\\models
+
+【ai绘画】SD1.5 ControlNet安装教程：
+https://youtu.be/Cm6vgNxjxhI
+
+【ai绘画】ControlNet超高质量重采样、完美像素讲解：
+https://youtu.be/9KeaW7UTsik
+
+【ai绘画】ControlNet里tile模型讲解：
+https://youtu.be/LQRCHVyQvhY
+
+03:31 AnimateDiff插件安装
+08:57 使用插件注意事项
+12:30 AnimateDiff插件参数介绍
+16:53 文本转绘演示
+18:20 AnimateDiff Lora使用演示
+19:08 AnimateDiff插件提示词跃迁演示
+22:26 图生图转绘演示
+24:25 视频转绘演示
+
+#stablediffusion 
+#ai绘画
+#sd
+#AnimateDiff
+#controlnet]]>
       </description>
-      <content:encoded><![CDATA[【AI绘画】AnimateDiff  Webui图像生成方式生成GIF 简单方便易上手 赶紧动起来吧！
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/0.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/1.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/2.jpg" /></a><a href="https://www.youtube.com/watch?v=GquY8NlXfcc"><img src="https://img.youtube.com/vi/GquY8NlXfcc/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=GquY8NlXfcc
+AnimateDiff插件
+github介绍页：https://github.com/continue-revolution/sd-webui-animatediff
 
-https://www.youtube.com/channel/UCoYbSADuNZvm99BLxqtImYQ
-番茄没有酱聊AI繪圖[YT+]]]></content:encoded>
-      <itunes:image href="undefined"/>
-      <pubDate>undefined</pubDate>
+模型下载地址：https://huggingface.co/guoyww/animatediff/tree/main
+
+lora预览图：https://drive.google.com/drive/folders/1Pa8lzuCkX7Etg6k3LMQMsEnZ9oFTYxpQ?usp=sharing
+
+controlnet官网：
+https://github.com/Mikubill/sd-webui-controlnet/tree/sdxl
+controlnet sdxl 下载
+git clone -b sdxl https://github.com/Mikubill/sd-webui-controlnet.git
+controlnet sdxl 模型
+https://huggingface.co/lllyasviel/sd_control_collection/tree/main
+
+SD1.5模型下载：https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+模型放在\\stable-diffusion-webui\\extensions\\sd-webui-controlnet\\models
+
+【ai绘画】SD1.5 ControlNet安装教程：
+https://youtu.be/Cm6vgNxjxhI
+
+【ai绘画】ControlNet超高质量重采样、完美像素讲解：
+https://youtu.be/9KeaW7UTsik
+
+【ai绘画】ControlNet里tile模型讲解：
+https://youtu.be/LQRCHVyQvhY
+
+03:31 AnimateDiff插件安装
+08:57 使用插件注意事项
+12:30 AnimateDiff插件参数介绍
+16:53 文本转绘演示
+18:20 AnimateDiff Lora使用演示
+19:08 AnimateDiff插件提示词跃迁演示
+22:26 图生图转绘演示
+24:25 视频转绘演示
+
+#stablediffusion 
+#ai绘画
+#sd
+#AnimateDiff
+#controlnet]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/GquY8NlXfcc/maxresdefault.jpg"/>
+      <pubDate>2023-12-25T00:00:00.000Z</pubDate>
     </item><item>
       <title><![CDATA[【3D建模】 tripo3d 一款2d图片一键转3d模型超简单免费AI神器 快来康康吧！]]></title>
       <link>https://www.youtube.com/watch?v=QbrfvP9xxww</link>
