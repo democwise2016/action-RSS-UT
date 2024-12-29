@@ -1,0 +1,128 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/bzVZ-Lp7TBAVKvPQB1L7j6wLKNanujhl5MKMrD5VbprHihgMS8jSlf9gQA__vMjmye9-4I2g=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>JoeMultimedia 教 AI繪圖[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></copyright>
+    <itunes:author><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/bzVZ-Lp7TBAVKvPQB1L7j6wLKNanujhl5MKMrD5VbprHihgMS8jSlf9gQA__vMjmye9-4I2g=s900-b50-c-k-c0x008A95A5-no-rj"/>
+<item>
+      <title><![CDATA[[AI tutorial]  在 comfyUI 使用 Illustrious XL checkpoint 結合綾瀨桃 LoRA  #Illustrious #AI #sdxl #manga]]></title>
+      <link>https://www.youtube.com/watch?v=kbyHv1rhqi0</link>
+      <itunes:title><![CDATA[[AI tutorial]  在 comfyUI 使用 Illustrious XL checkpoint 結合綾瀨桃 LoRA  #Illustrious #AI #sdxl #manga]]></itunes:title>
+      <itunes:author><![CDATA[JoeMultimedia]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=kbyHv1rhqi0
+生成二次元的圖片時總希望能按照提示詞，並且產出的圖片的手指跟腳趾能正常與漂亮， Illustrious XL 滿足了我們的需求，此次教學搭配 comfyUI 來使用並結合 LoRA。
+
+Illustrious XL 網站
+https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0
+
+checkpoint
+https://civitai.com/models/820208/obsession-illustrious-xl
+
+綾瀨桃 LoRA
+https://civitai.com/models/945882/illustriousxl-v01-momo-ayase-or-dandadan
+
+sdxl-flat LoRA
+https://huggingface.co/2vXpSwA7/iroiro-lora/blob/main/sdxl/sdxl-flat.safetensors
+
+提示詞參考
+https://oekaki-ai.com/novelai-change-style-keyword-list/
+
+使用硬體：
+AMD R5 5600X 48GB RAM 
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<p><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/3.jpg" /></a></p>
+https://www.youtube.com/watch?v=kbyHv1rhqi0
+生成二次元的圖片時總希望能按照提示詞，並且產出的圖片的手指跟腳趾能正常與漂亮， Illustrious XL 滿足了我們的需求，此次教學搭配 comfyUI 來使用並結合 LoRA。
+
+Illustrious XL 網站
+https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0
+
+checkpoint
+https://civitai.com/models/820208/obsession-illustrious-xl
+
+綾瀨桃 LoRA
+https://civitai.com/models/945882/illustriousxl-v01-momo-ayase-or-dandadan
+
+sdxl-flat LoRA
+https://huggingface.co/2vXpSwA7/iroiro-lora/blob/main/sdxl/sdxl-flat.safetensors
+
+提示詞參考
+https://oekaki-ai.com/novelai-change-style-keyword-list/
+
+使用硬體：
+AMD R5 5600X 48GB RAM 
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </description>
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/maxresdefault.jpg" /></a></p><br /><p style="clear: both"><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/0.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/1.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/2.jpg" /></a><a href="https://www.youtube.com/watch?v=kbyHv1rhqi0"><img src="https://img.youtube.com/vi/kbyHv1rhqi0/3.jpg" /></a></p><br />
+https://www.youtube.com/watch?v=kbyHv1rhqi0
+生成二次元的圖片時總希望能按照提示詞，並且產出的圖片的手指跟腳趾能正常與漂亮， Illustrious XL 滿足了我們的需求，此次教學搭配 comfyUI 來使用並結合 LoRA。
+
+Illustrious XL 網站
+https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0
+
+checkpoint
+https://civitai.com/models/820208/obsession-illustrious-xl
+
+綾瀨桃 LoRA
+https://civitai.com/models/945882/illustriousxl-v01-momo-ayase-or-dandadan
+
+sdxl-flat LoRA
+https://huggingface.co/2vXpSwA7/iroiro-lora/blob/main/sdxl/sdxl-flat.safetensors
+
+提示詞參考
+https://oekaki-ai.com/novelai-change-style-keyword-list/
+
+使用硬體：
+AMD R5 5600X 48GB RAM 
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/kbyHv1rhqi0/maxresdefault.jpg"/>
+      <pubDate>2024-12-24T00:00:00.000Z</pubDate>
+    </item></channel>
+</rss>
