@@ -1,0 +1,157 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[AI超元域[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>AI超元域[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[AI超元域[YT+]]]></copyright>
+    <itunes:author><![CDATA[AI超元域[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[AI超元域[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s900-b50-c-k-c0x008A95A5-no-rj"/>
+<item>
+      <title><![CDATA[🚀颠覆传统智能体！ADK谷歌最强AI智能体发布！支持MCP与ollama！Agent Development Kit详细教程！超越AutoGen和LangChain!轻松打造多智能体系统！自带UI界面]]></title>
+      <link>https://www.youtube.com/watch?v=z7aGIvVyo_I</link>
+      <itunes:title><![CDATA[🚀颠覆传统智能体！ADK谷歌最强AI智能体发布！支持MCP与ollama！Agent Development Kit详细教程！超越AutoGen和LangChain!轻松打造多智能体系统！自带UI界面]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=28" target="_blank"><strong># ADK多智能体代码优化系统与UI界面功能展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_28.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=71" target="_blank"><strong># ADK框架特色：代码为中心、丰富工具生态、多智能体支持</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_71.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=126" target="_blank"><strong># 详细安装步骤：环境配置与依赖安装</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_126.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=253" target="_blank"><strong># 创建简单AI智能体示例与测试（科幻小说生成、文件处理）</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_253.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=323" target="_blank"><strong># 集成Ollama本地模型(Gemma3 12B)实现代码生成</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_323.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=430" target="_blank"><strong># 工具调用实现：天气预报与城市时间查询功能开发</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_430.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=546" target="_blank"><strong># MCP Server调用方法与网页内容提取示例</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_546.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=659" target="_blank"><strong># 多智能体协作系统：代码编写、审计与优化流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_659.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=728" target="_blank"><strong># 冒泡排序算法优化实例与ADK框架发展前景</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_728.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=748" target="_blank"><strong># 视频代码资源获取方式RetryC</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_748.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=z7aGIvVyo_I</p><p>🚀🚀🚀视频简介：</p><p>✅【实战教程】谷歌开源ADK智能体框架详解：如何利用Python工具包快速构建、评估和部署复杂AI智能体系统的全流程指南！从环境配置到实现自动代码优化的全过程演示，多智能体协作系统构建实战与Ollama模型集成的完整开发教程</p><p>🌟 本期视频详细演示了谷歌新发布的ADK（Agent Development Kit）智能体框架及其使用方法：</p><p>1️⃣ ADK基础介绍：开源Python工具包，用于构建、评估和部署AI智能体系统</p><p>2️⃣ 实际演示：</p><p>   - 创建基础智能体（不到10行代码）</p><p>   - 调用Ollama本地模型</p><p>   - 实现实时天气和时间查询工具</p><p>   - 使用MCP Server抓取网页内容</p><p>   - 构建三阶段代码优化多智能体系统</p><p>3️⃣ 多智能体代码优化流程：</p><p>   - 第一智能体：根据需求编写初始代码</p><p>   - 第二智能体：进行代码审计提出建议</p><p>   - 第三智能体：重构代码生成最终优化版本</p><p>4️⃣ 实用功能：</p><p>   - 文件上传与处理</p><p>   - 语音交互</p><p>   - 可视化工作流</p><p>   - 会话管理</p><p>   - 内置评估能力</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-ADK</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🚀🚀🚀YouTube时间戳：</p><p>0:00 谷歌ADK(Agent Development Kit)开源AI智能体框架介绍</p><p>0:28 ADK多智能体代码优化系统与UI界面功能展示</p><p>1:11 ADK框架特色：代码为中心、丰富工具生态、多智能体支持</p><p>2:06 详细安装步骤：环境配置与依赖安装</p><p>4:13 创建简单AI智能体示例与测试（科幻小说生成、文件处理）</p><p>5:23 集成Ollama本地模型(Gemma3 12B)实现代码生成</p><p>7:10 工具调用实现：天气预报与城市时间查询功能开发</p><p>9:06 MCP Server调用方法与网页内容提取示例</p><p>10:59 多智能体协作系统：代码编写、审计与优化流程</p><p>12:08 冒泡排序算法优化实例与ADK框架发展前景</p><p>12:28 视频代码资源获取方式RetryC</p><p></p><p>#adk #aiagents #agents #google #agentdevelopmentkit #agi #aigc #ai #ollama #gemini #mcpserver #mcp</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=28" target="_blank"><strong># ADK多智能体代码优化系统与UI界面功能展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_28.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=71" target="_blank"><strong># ADK框架特色：代码为中心、丰富工具生态、多智能体支持</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_71.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=126" target="_blank"><strong># 详细安装步骤：环境配置与依赖安装</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_126.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=253" target="_blank"><strong># 创建简单AI智能体示例与测试（科幻小说生成、文件处理）</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_253.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=323" target="_blank"><strong># 集成Ollama本地模型(Gemma3 12B)实现代码生成</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_323.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=430" target="_blank"><strong># 工具调用实现：天气预报与城市时间查询功能开发</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_430.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=546" target="_blank"><strong># MCP Server调用方法与网页内容提取示例</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_546.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=659" target="_blank"><strong># 多智能体协作系统：代码编写、审计与优化流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_659.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=728" target="_blank"><strong># 冒泡排序算法优化实例与ADK框架发展前景</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_728.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=748" target="_blank"><strong># 视频代码资源获取方式RetryC</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_748.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=z7aGIvVyo_I</p><p>🚀🚀🚀视频简介：</p><p>✅【实战教程】谷歌开源ADK智能体框架详解：如何利用Python工具包快速构建、评估和部署复杂AI智能体系统的全流程指南！从环境配置到实现自动代码优化的全过程演示，多智能体协作系统构建实战与Ollama模型集成的完整开发教程</p><p>🌟 本期视频详细演示了谷歌新发布的ADK（Agent Development Kit）智能体框架及其使用方法：</p><p>1️⃣ ADK基础介绍：开源Python工具包，用于构建、评估和部署AI智能体系统</p><p>2️⃣ 实际演示：</p><p>   - 创建基础智能体（不到10行代码）</p><p>   - 调用Ollama本地模型</p><p>   - 实现实时天气和时间查询工具</p><p>   - 使用MCP Server抓取网页内容</p><p>   - 构建三阶段代码优化多智能体系统</p><p>3️⃣ 多智能体代码优化流程：</p><p>   - 第一智能体：根据需求编写初始代码</p><p>   - 第二智能体：进行代码审计提出建议</p><p>   - 第三智能体：重构代码生成最终优化版本</p><p>4️⃣ 实用功能：</p><p>   - 文件上传与处理</p><p>   - 语音交互</p><p>   - 可视化工作流</p><p>   - 会话管理</p><p>   - 内置评估能力</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-ADK</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🚀🚀🚀YouTube时间戳：</p><p>0:00 谷歌ADK(Agent Development Kit)开源AI智能体框架介绍</p><p>0:28 ADK多智能体代码优化系统与UI界面功能展示</p><p>1:11 ADK框架特色：代码为中心、丰富工具生态、多智能体支持</p><p>2:06 详细安装步骤：环境配置与依赖安装</p><p>4:13 创建简单AI智能体示例与测试（科幻小说生成、文件处理）</p><p>5:23 集成Ollama本地模型(Gemma3 12B)实现代码生成</p><p>7:10 工具调用实现：天气预报与城市时间查询功能开发</p><p>9:06 MCP Server调用方法与网页内容提取示例</p><p>10:59 多智能体协作系统：代码编写、审计与优化流程</p><p>12:08 冒泡排序算法优化实例与ADK框架发展前景</p><p>12:28 视频代码资源获取方式RetryC</p><p></p><p>#adk #aiagents #agents #google #agentdevelopmentkit #agi #aigc #ai #ollama #gemini #mcpserver #mcp</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=28" target="_blank"><strong># ADK多智能体代码优化系统与UI界面功能展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_28.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=71" target="_blank"><strong># ADK框架特色：代码为中心、丰富工具生态、多智能体支持</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_71.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=126" target="_blank"><strong># 详细安装步骤：环境配置与依赖安装</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_126.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=253" target="_blank"><strong># 创建简单AI智能体示例与测试（科幻小说生成、文件处理）</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_253.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=323" target="_blank"><strong># 集成Ollama本地模型(Gemma3 12B)实现代码生成</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_323.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=430" target="_blank"><strong># 工具调用实现：天气预报与城市时间查询功能开发</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_430.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=546" target="_blank"><strong># MCP Server调用方法与网页内容提取示例</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_546.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=659" target="_blank"><strong># 多智能体协作系统：代码编写、审计与优化流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_659.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=728" target="_blank"><strong># 冒泡排序算法优化实例与ADK框架发展前景</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_728.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/z7aGIvVyo_I&t=748" target="_blank"><strong># 视频代码资源获取方式RetryC</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/z7aGIvVyo_I_748.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=z7aGIvVyo_I</p><p>🚀🚀🚀视频简介：</p><p>✅【实战教程】谷歌开源ADK智能体框架详解：如何利用Python工具包快速构建、评估和部署复杂AI智能体系统的全流程指南！从环境配置到实现自动代码优化的全过程演示，多智能体协作系统构建实战与Ollama模型集成的完整开发教程</p><p>🌟 本期视频详细演示了谷歌新发布的ADK（Agent Development Kit）智能体框架及其使用方法：</p><p>1️⃣ ADK基础介绍：开源Python工具包，用于构建、评估和部署AI智能体系统</p><p>2️⃣ 实际演示：</p><p>   - 创建基础智能体（不到10行代码）</p><p>   - 调用Ollama本地模型</p><p>   - 实现实时天气和时间查询工具</p><p>   - 使用MCP Server抓取网页内容</p><p>   - 构建三阶段代码优化多智能体系统</p><p>3️⃣ 多智能体代码优化流程：</p><p>   - 第一智能体：根据需求编写初始代码</p><p>   - 第二智能体：进行代码审计提出建议</p><p>   - 第三智能体：重构代码生成最终优化版本</p><p>4️⃣ 实用功能：</p><p>   - 文件上传与处理</p><p>   - 语音交互</p><p>   - 可视化工作流</p><p>   - 会话管理</p><p>   - 内置评估能力</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-ADK</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🚀🚀🚀YouTube时间戳：</p><p>0:00 谷歌ADK(Agent Development Kit)开源AI智能体框架介绍</p><p>0:28 ADK多智能体代码优化系统与UI界面功能展示</p><p>1:11 ADK框架特色：代码为中心、丰富工具生态、多智能体支持</p><p>2:06 详细安装步骤：环境配置与依赖安装</p><p>4:13 创建简单AI智能体示例与测试（科幻小说生成、文件处理）</p><p>5:23 集成Ollama本地模型(Gemma3 12B)实现代码生成</p><p>7:10 工具调用实现：天气预报与城市时间查询功能开发</p><p>9:06 MCP Server调用方法与网页内容提取示例</p><p>10:59 多智能体协作系统：代码编写、审计与优化流程</p><p>12:08 冒泡排序算法优化实例与ADK框架发展前景</p><p>12:28 视频代码资源获取方式RetryC</p><p></p><p>#adk #aiagents #agents #google #agentdevelopmentkit #agi #aigc #ai #ollama #gemini #mcpserver #mcp</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/z7aGIvVyo_I/hqdefault.jpg"/>
+      <pubDate>2025-04-10T11:52:18.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀颠覆MCP！Open WebUI新技术mcpo横空出世！支持ollama！轻松支持各种MCP Server！Cline+Claude3.7轻松开发论文检索MCP Server！3分钟本地部署mcpo]]></title>
+      <link>https://www.youtube.com/watch?v=AAiG_j4Lx4c</link>
+      <itunes:title><![CDATA[🚀颠覆MCP！Open WebUI新技术mcpo横空出世！支持ollama！轻松支持各种MCP Server！Cline+Claude3.7轻松开发论文检索MCP Server！3分钟本地部署mcpo]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[🚀颠覆MCP！Open WebUI新技术mcpo横空出世！支持ollama！轻松支持各种MCP Server！Cline+Claude3.7轻松开发论文检索MCP Server！3分钟本地部署mcpo
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[🚀颠覆MCP！Open WebUI新技术mcpo横空出世！支持ollama！轻松支持各种MCP Server！Cline+Claude3.7轻松开发论文检索MCP Server！3分钟本地部署mcpo
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </description>
+      <content:encoded><![CDATA[🚀颠覆MCP！Open WebUI新技术mcpo横空出世！支持ollama！轻松支持各种MCP Server！Cline+Claude3.7轻松开发论文检索MCP Server！3分钟本地部署mcpo
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <pubDate>undefined</pubDate>
+    </item><item>
+      <title><![CDATA[🚀超越cursor！Roo Code+Gemini 2.5 Pro为OpenAI Agents SDK开发工作流UI！轻松拖动组件即可搭建工作流！小白也能化身软件工程师！超越dify和langflow]]></title>
+      <link>https://www.youtube.com/watch?v=KQULGx6wjco</link>
+      <itunes:title><![CDATA[🚀超越cursor！Roo Code+Gemini 2.5 Pro为OpenAI Agents SDK开发工作流UI！轻松拖动组件即可搭建工作流！小白也能化身软件工程师！超越dify和langflow]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[🚀超越cursor！Roo Code+Gemini 2.5 Pro为OpenAI Agents SDK开发工作流UI！轻松拖动组件即可搭建工作流！小白也能化身软件工程师！超越dify和langflow
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[🚀超越cursor！Roo Code+Gemini 2.5 Pro为OpenAI Agents SDK开发工作流UI！轻松拖动组件即可搭建工作流！小白也能化身软件工程师！超越dify和langflow
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </description>
+      <content:encoded><![CDATA[🚀超越cursor！Roo Code+Gemini 2.5 Pro为OpenAI Agents SDK开发工作流UI！轻松拖动组件即可搭建工作流！小白也能化身软件工程师！超越dify和langflow
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <pubDate>undefined</pubDate>
+    </item><item>
+      <title><![CDATA[🚀Gemini 2.5 Pro震撼发布！OCR能力碾压一切AI大模型！全方位客观测评：轻松识别手写汉字，准确提取复杂表格，准确率百分百！超越o3-mini与gpt4.5和Qwen2.5-VL-32B！]]></title>
+      <link>https://www.youtube.com/watch?v=Y1PERoju6s4</link>
+      <itunes:title><![CDATA[🚀Gemini 2.5 Pro震撼发布！OCR能力碾压一切AI大模型！全方位客观测评：轻松识别手写汉字，准确提取复杂表格，准确率百分百！超越o3-mini与gpt4.5和Qwen2.5-VL-32B！]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[🚀Gemini 2.5 Pro震撼发布！OCR能力碾压一切AI大模型！全方位客观测评：轻松识别手写汉字，准确提取复杂表格，准确率百分百！超越o3-mini与gpt4.5和Qwen2.5-VL-32B！
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[🚀Gemini 2.5 Pro震撼发布！OCR能力碾压一切AI大模型！全方位客观测评：轻松识别手写汉字，准确提取复杂表格，准确率百分百！超越o3-mini与gpt4.5和Qwen2.5-VL-32B！
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </description>
+      <content:encoded><![CDATA[🚀Gemini 2.5 Pro震撼发布！OCR能力碾压一切AI大模型！全方位客观测评：轻松识别手写汉字，准确提取复杂表格，准确率百分百！超越o3-mini与gpt4.5和Qwen2.5-VL-32B！
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <pubDate>undefined</pubDate>
+    </item><item>
+      <title><![CDATA[🚀DeepSeek 6850亿参数开源大模型！DeepSeek-V3-0324全方位测评！编程能力、文档分析、复杂推理能力、Text-to-SQL能力！Cline+DeepSeek轻松开发城市模拟游戏]]></title>
+      <link>https://www.youtube.com/watch?v=28x0s0rv-mw</link>
+      <itunes:title><![CDATA[🚀DeepSeek 6850亿参数开源大模型！DeepSeek-V3-0324全方位测评！编程能力、文档分析、复杂推理能力、Text-to-SQL能力！Cline+DeepSeek轻松开发城市模拟游戏]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[🚀DeepSeek 6850亿参数开源大模型！DeepSeek-V3-0324全方位测评！编程能力、文档分析、复杂推理能力、Text-to-SQL能力！Cline+DeepSeek轻松开发城市模拟游戏
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[🚀DeepSeek 6850亿参数开源大模型！DeepSeek-V3-0324全方位测评！编程能力、文档分析、复杂推理能力、Text-to-SQL能力！Cline+DeepSeek轻松开发城市模拟游戏
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]>
+      </description>
+      <content:encoded><![CDATA[🚀DeepSeek 6850亿参数开源大模型！DeepSeek-V3-0324全方位测评！编程能力、文档分析、复杂推理能力、Text-to-SQL能力！Cline+DeepSeek轻松开发城市模拟游戏
+
+https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A
+AI超元域[YT+]]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <pubDate>undefined</pubDate>
+    </item></channel>
+</rss>
