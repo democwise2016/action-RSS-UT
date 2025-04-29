@@ -35,7 +35,7 @@ jobs:
       - name: Remove all history except latest commit
         run: |
           last_commit=$(git log -n 1 --pretty=format:%H | head -n 1)
-          git reset --soft $last_commit
+          git reset --soft $last_commit || true
 
           # rm -rf *
 
