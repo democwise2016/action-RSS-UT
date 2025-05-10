@@ -30,6 +30,104 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[颠覆传统AI智能体！AutoGen革命性创新GraphFlow技术！让AI团队自动协作！5分钟实现实现智能体工作流自动化！AutoGen GraphFlow保姆级实战教程！支持Qwen3与ollama]]></title>
+      <link>https://www.youtube.com/watch?v=q_IdxUGZsow</link>
+      <itunes:title><![CDATA[颠覆传统AI智能体！AutoGen革命性创新GraphFlow技术！让AI团队自动协作！5分钟实现实现智能体工作流自动化！AutoGen GraphFlow保姆级实战教程！支持Qwen3与ollama]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=q_IdxUGZsow
+🚀🚀🚀视频简介：
+✅【重磅教程】AutoGen开源框架新增GraphFlow技术，轻松构建多智能体系统，掌握AI未来发展方向，深度解析AutoGen的革命性GraphFlow功能，从顺序执行到并行工作流，打造超强多智能体应用
+🚀 本视频详细演示了开源AI框架AutoGen新增的革命性GraphFlow技术！GraphFlow是一个基于图的执行框架，能让开发者通过有向图精准控制agent之间的交互方式，支持顺序执行、并行执行、条件执行和循环执行等复杂工作流模式。
+🔍 视频通过三个实用案例展示GraphFlow的强大功能：
+1️⃣ 顺序执行工作流：构建一个三阶段翻译系统，由翻译agent、校对agent和格式化agent按顺序协作，展示了如何在PyCharm中配置环境并调用不同模型（GPT-4.1、Gemini 2.0 Flash和Qwen3-14B）。
+2️⃣ 并行执行工作流：创建一个文章创作系统，多个agent并行处理不同任务（语法检查、风格编辑），最后由终审编辑agent整合输出。
+3️⃣ 旅行规划系统：构建更复杂的多agent系统，包括旅行规划师、当地专家和语言专家，通过MessageFilterAgent控制信息流，完成旅行规划任务。
+
+👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-GraphFlow
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - AutoGen GraphFlow 简介
+00:00:12 - GraphFlow 基于图的执行框架介绍
+00:00:34 - 开发环境准备
+00:01:04 - 顺序执行工作流案例讲解
+00:03:13 - 三个翻译相关Agent的定义与配置
+00:04:08 - 构建顺序执行图与执行流程
+00:05:21 - 执行翻译工作流并观察结果
+00:06:08 - 并行执行工作流案例讲解
+00:07:14 - 文章创作并行工作流的设计方式
+00:09:10 - 执行并行文章创作工作流
+00:10:07 - 旅行规划多Agent系统演示
+00:11:51 - 三天尼泊尔旅程规划案例展示
+00:12:24 - 视频总结与资源获取方式
+
+#autogen #aiagents #aiagent #ollama #qwen3 #gemini #gpt41 #agents #llm #ai #workflow #agi]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=q_IdxUGZsow
+🚀🚀🚀视频简介：
+✅【重磅教程】AutoGen开源框架新增GraphFlow技术，轻松构建多智能体系统，掌握AI未来发展方向，深度解析AutoGen的革命性GraphFlow功能，从顺序执行到并行工作流，打造超强多智能体应用
+🚀 本视频详细演示了开源AI框架AutoGen新增的革命性GraphFlow技术！GraphFlow是一个基于图的执行框架，能让开发者通过有向图精准控制agent之间的交互方式，支持顺序执行、并行执行、条件执行和循环执行等复杂工作流模式。
+🔍 视频通过三个实用案例展示GraphFlow的强大功能：
+1️⃣ 顺序执行工作流：构建一个三阶段翻译系统，由翻译agent、校对agent和格式化agent按顺序协作，展示了如何在PyCharm中配置环境并调用不同模型（GPT-4.1、Gemini 2.0 Flash和Qwen3-14B）。
+2️⃣ 并行执行工作流：创建一个文章创作系统，多个agent并行处理不同任务（语法检查、风格编辑），最后由终审编辑agent整合输出。
+3️⃣ 旅行规划系统：构建更复杂的多agent系统，包括旅行规划师、当地专家和语言专家，通过MessageFilterAgent控制信息流，完成旅行规划任务。
+
+👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-GraphFlow
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - AutoGen GraphFlow 简介
+00:00:12 - GraphFlow 基于图的执行框架介绍
+00:00:34 - 开发环境准备
+00:01:04 - 顺序执行工作流案例讲解
+00:03:13 - 三个翻译相关Agent的定义与配置
+00:04:08 - 构建顺序执行图与执行流程
+00:05:21 - 执行翻译工作流并观察结果
+00:06:08 - 并行执行工作流案例讲解
+00:07:14 - 文章创作并行工作流的设计方式
+00:09:10 - 执行并行文章创作工作流
+00:10:07 - 旅行规划多Agent系统演示
+00:11:51 - 三天尼泊尔旅程规划案例展示
+00:12:24 - 视频总结与资源获取方式
+
+#autogen #aiagents #aiagent #ollama #qwen3 #gemini #gpt41 #agents #llm #ai #workflow #agi]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=q_IdxUGZsow
+🚀🚀🚀视频简介：
+✅【重磅教程】AutoGen开源框架新增GraphFlow技术，轻松构建多智能体系统，掌握AI未来发展方向，深度解析AutoGen的革命性GraphFlow功能，从顺序执行到并行工作流，打造超强多智能体应用
+🚀 本视频详细演示了开源AI框架AutoGen新增的革命性GraphFlow技术！GraphFlow是一个基于图的执行框架，能让开发者通过有向图精准控制agent之间的交互方式，支持顺序执行、并行执行、条件执行和循环执行等复杂工作流模式。
+🔍 视频通过三个实用案例展示GraphFlow的强大功能：
+1️⃣ 顺序执行工作流：构建一个三阶段翻译系统，由翻译agent、校对agent和格式化agent按顺序协作，展示了如何在PyCharm中配置环境并调用不同模型（GPT-4.1、Gemini 2.0 Flash和Qwen3-14B）。
+2️⃣ 并行执行工作流：创建一个文章创作系统，多个agent并行处理不同任务（语法检查、风格编辑），最后由终审编辑agent整合输出。
+3️⃣ 旅行规划系统：构建更复杂的多agent系统，包括旅行规划师、当地专家和语言专家，通过MessageFilterAgent控制信息流，完成旅行规划任务。
+
+👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-GraphFlow
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - AutoGen GraphFlow 简介
+00:00:12 - GraphFlow 基于图的执行框架介绍
+00:00:34 - 开发环境准备
+00:01:04 - 顺序执行工作流案例讲解
+00:03:13 - 三个翻译相关Agent的定义与配置
+00:04:08 - 构建顺序执行图与执行流程
+00:05:21 - 执行翻译工作流并观察结果
+00:06:08 - 并行执行工作流案例讲解
+00:07:14 - 文章创作并行工作流的设计方式
+00:09:10 - 执行并行文章创作工作流
+00:10:07 - 旅行规划多Agent系统演示
+00:11:51 - 三天尼泊尔旅程规划案例展示
+00:12:24 - 视频总结与资源获取方式
+
+#autogen #aiagents #aiagent #ollama #qwen3 #gemini #gpt41 #agents #llm #ai #workflow #agi]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/q_IdxUGZsow/hqdefault.jpg"/>
+      <pubDate>2025-05-09T12:32:13.000Z</pubDate>
+    </item><item>
       <title><![CDATA[OCR能力倍增！n8n+Gemini 2.5 pro 0506三分钟打造全自动OCR工作流！保姆级教程搭建企业级OCR识别工作流！高难度扫描件实测Gemini2.5！不懂编程也能搭建自己的自动化工作流]]></title>
       <link>https://www.youtube.com/watch?v=nb87POhO6aA</link>
       <itunes:title><![CDATA[OCR能力倍增！n8n+Gemini 2.5 pro 0506三分钟打造全自动OCR工作流！保姆级教程搭建企业级OCR识别工作流！高难度扫描件实测Gemini2.5！不懂编程也能搭建自己的自动化工作流]]></itunes:title>
@@ -157,37 +255,5 @@
 <p>https://www.youtube.com/watch?v=zbjwo97F4kQ</p><p>🚀🚀🚀视频简介：</p><p>✅【本地部署+真实测评】阿里巴巴Qwen3最强模型对决：从235B混合专家到14B本地部署，全方位能力测试从JSON格式化到Python编程，从SQL查询到矩阵运算，从Ollama到LM Studio到vLLM全平台部署教程</p><p>📢 本视频详细演示了阿里巴巴最新发布的Qwen3系列模型，包括混合专家架构模型（235B/22B和30B/3B）以及32B、14B、8B、4B、1.7B、0.6B等多种参数版本。📊</p><p>⚙️ 视频分为两大部分：首先展示了如何在不同平台部署Qwen3模型，包括Windows/macOS用户使用Ollama和LM Studio进行简易部署，以及企业用户使用vLLM在Ubuntu系统进行高性能部署的完整流程。🖥️</p><p>🔍 第二部分进行了全面的性能测试，重点对比了235B、32B和14B三个版本在知识库截止日期、幻觉问题、规律识别、JSON格式化、代码理解、SVG生成、提示词遵循、SQL能力、农夫过河问题、文档分析以及Python编程等多个维度的表现。🧠</p><p>💡 测试结果显示，开启思考模式的14B参数模型在多项测试中表现优于不开启思考模式的32B甚至235B模型，为用户选择最适合自己需求的模型版本提供了宝贵参考。✨</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/llms/deploy-Qwen3</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00:00 - 介绍阿里Qwen 3系列模型，混合专家架构和多种参数版本</p><p>00:01:05 - 使用Ollama和LM Studio部署Qwen 3模型教程</p><p>00:02:02 - 企业项目使用vLLM在Ubuntu系统部署教程</p><p>00:02:48 - 配置Open WebUI连接部署的Qwen 3模型</p><p>00:03:56 - 测试三款模型的知识库截止日期</p><p>00:04:31 - 测试模型应对幻觉问题的能力</p><p>00:05:43 - 规律识别和矩阵填空能力测试</p><p>00:08:17 - JSON格式化与混合格式化输出能力测试</p><p>00:09:37 - 代码理解与SVG流程图生成测试</p><p>00:10:21 - 测试模型的提示词遵循能力</p><p>00:11:00 - SQL能力测试</p><p>00:11:49 - 农夫过河问题测试</p><p>00:13:01 - 文档分析能力测试</p><p>00:13:41 - 算法能力测试</p><p>00:14:18 - Python编程能力测试</p><p>00:15:20 - 测试总结：14B参数模型开启思考模式效果优于32B和235B</p><p>00:15:44 - 视频结束，相关代码和指令获取方式</p><p></p><p>#qwen #qwen3 #ollama #lmstudio #vllm #llm #llms #ai #aigc #agi #aicoding #aiprogramming</p>]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/zbjwo97F4kQ/hqdefault.jpg"/>
       <pubDate>2025-04-29T09:38:23.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[🚀AutoGen重大更新！新增McpWorkbench完美支持MCP Server！支持将Agent和Team封装为工具！开启模块化智能体编程！实战教程：从零开始构建旅游规划智能体和进销存智能客服系统]]></title>
-      <link>https://www.youtube.com/watch?v=1ZxzPpa5Ysc</link>
-      <itunes:title><![CDATA[🚀AutoGen重大更新！新增McpWorkbench完美支持MCP Server！支持将Agent和Team封装为工具！开启模块化智能体编程！实战教程：从零开始构建旅游规划智能体和进销存智能客服系统]]></itunes:title>
-      <itunes:author><![CDATA[AI超元域]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :12 - 0.5.4版本agent/team作为工具的新特性介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :24 - Workbench工具集合抽象和统一接口功能详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :50 - 进销存管理系统智能客服与旅游规划系统演示预告</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :29 - PyCharm环境搭建与AutoGen依赖安装步骤</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :20 - 创建最简单的AutoGen脚本实现斐波那契数列</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :01 - 旅游规划系统实现：三个专家agent封装为工具</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :05 - 尼泊尔3天旅行计划执行过程分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :41 - 旅游规划系统agent交互流程图解析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :45 - Workbench特性演示：网页内容抓取与改写</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :44 - 网页抓取改写为科技资讯博客文章的效果展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :33 - 进销存系统智能客服实现与SQLite数据库交互</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :58 - 智能客服系统订单查询与产品库存查询演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :00 - 视频总结与代码分享方式说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=1ZxzPpa5Ysc</p><p>🚀🚀🚀视频简介：</p><p>✅【AutoGen智能体开发革命】AutoGen 0.5.5深度实战：Workbench工具抽象与Agent封装技术打造高效旅游规划智能体与企业智能客服系统，从环境配置到工具调用详细演示教程</p><p>📢 本期视频详细演示了AutoGen框架最新0.5.5版本的强大新特性！深入讲解了两大核心功能：将agent/team作为工具供其他智能体调用，以及全新的Workbench工具集合抽象。通过实战演示，带你从零开始搭建环境 💻，快速上手构建模块化智能体系统。</p><p>🔍 精彩内容包括：</p><p>- 旅游规划智能体系统实现（专家agent封装为工具）</p><p>- 网页内容抓取与改写的博客生成系统</p><p>- 进销存管理系统的智能客服查询功能</p><p>🛠️ 视频中展示了完整的PyCharm开发流程，从依赖安装到代码编写，轻松掌握AutoGen最新特性，实现智能体的模块化编程！</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-McpWorkbench</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00:00 - AutoGen 0.5.5版本发布介绍与新增Workbench功能</p><p>00:00:12 - 0.5.4版本agent/team作为工具的新特性介绍</p><p>00:00:24 - Workbench工具集合抽象和统一接口功能详解</p><p>00:00:50 - 进销存管理系统智能客服与旅游规划系统演示预告</p><p>00:01:29 - PyCharm环境搭建与AutoGen依赖安装步骤</p><p>00:02:20 - 创建最简单的AutoGen脚本实现斐波那契数列</p><p>00:03:01 - 旅游规划系统实现：三个专家agent封装为工具</p><p>00:05:05 - 尼泊尔3天旅行计划执行过程分析</p><p>00:05:41 - 旅游规划系统agent交互流程图解析</p><p>00:06:45 - Workbench特性演示：网页内容抓取与改写</p><p>00:08:44 - 网页抓取改写为科技资讯博客文章的效果展示</p><p>00:09:33 - 进销存系统智能客服实现与SQLite数据库交互</p><p>00:10:58 - 智能客服系统订单查询与产品库存查询演示</p><p>00:12:00 - 视频总结与代码分享方式说明</p><p></p><p>#autogen  #agi #aigc #agents #aiagents #workbench #gpt4o #mcp #mcpserver</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :12 - 0.5.4版本agent/team作为工具的新特性介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :24 - Workbench工具集合抽象和统一接口功能详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :50 - 进销存管理系统智能客服与旅游规划系统演示预告</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :29 - PyCharm环境搭建与AutoGen依赖安装步骤</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :20 - 创建最简单的AutoGen脚本实现斐波那契数列</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :01 - 旅游规划系统实现：三个专家agent封装为工具</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :05 - 尼泊尔3天旅行计划执行过程分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :41 - 旅游规划系统agent交互流程图解析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :45 - Workbench特性演示：网页内容抓取与改写</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :44 - 网页抓取改写为科技资讯博客文章的效果展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :33 - 进销存系统智能客服实现与SQLite数据库交互</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :58 - 智能客服系统订单查询与产品库存查询演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :00 - 视频总结与代码分享方式说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=1ZxzPpa5Ysc</p><p>🚀🚀🚀视频简介：</p><p>✅【AutoGen智能体开发革命】AutoGen 0.5.5深度实战：Workbench工具抽象与Agent封装技术打造高效旅游规划智能体与企业智能客服系统，从环境配置到工具调用详细演示教程</p><p>📢 本期视频详细演示了AutoGen框架最新0.5.5版本的强大新特性！深入讲解了两大核心功能：将agent/team作为工具供其他智能体调用，以及全新的Workbench工具集合抽象。通过实战演示，带你从零开始搭建环境 💻，快速上手构建模块化智能体系统。</p><p>🔍 精彩内容包括：</p><p>- 旅游规划智能体系统实现（专家agent封装为工具）</p><p>- 网页内容抓取与改写的博客生成系统</p><p>- 进销存管理系统的智能客服查询功能</p><p>🛠️ 视频中展示了完整的PyCharm开发流程，从依赖安装到代码编写，轻松掌握AutoGen最新特性，实现智能体的模块化编程！</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-McpWorkbench</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00:00 - AutoGen 0.5.5版本发布介绍与新增Workbench功能</p><p>00:00:12 - 0.5.4版本agent/team作为工具的新特性介绍</p><p>00:00:24 - Workbench工具集合抽象和统一接口功能详解</p><p>00:00:50 - 进销存管理系统智能客服与旅游规划系统演示预告</p><p>00:01:29 - PyCharm环境搭建与AutoGen依赖安装步骤</p><p>00:02:20 - 创建最简单的AutoGen脚本实现斐波那契数列</p><p>00:03:01 - 旅游规划系统实现：三个专家agent封装为工具</p><p>00:05:05 - 尼泊尔3天旅行计划执行过程分析</p><p>00:05:41 - 旅游规划系统agent交互流程图解析</p><p>00:06:45 - Workbench特性演示：网页内容抓取与改写</p><p>00:08:44 - 网页抓取改写为科技资讯博客文章的效果展示</p><p>00:09:33 - 进销存系统智能客服实现与SQLite数据库交互</p><p>00:10:58 - 智能客服系统订单查询与产品库存查询演示</p><p>00:12:00 - 视频总结与代码分享方式说明</p><p></p><p>#autogen  #agi #aigc #agents #aiagents #workbench #gpt4o #mcp #mcpserver</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :12 - 0.5.4版本agent/team作为工具的新特性介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :24 - Workbench工具集合抽象和统一接口功能详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :50 - 进销存管理系统智能客服与旅游规划系统演示预告</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :29 - PyCharm环境搭建与AutoGen依赖安装步骤</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :20 - 创建最简单的AutoGen脚本实现斐波那契数列</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :01 - 旅游规划系统实现：三个专家agent封装为工具</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :05 - 尼泊尔3天旅行计划执行过程分析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :41 - 旅游规划系统agent交互流程图解析</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :45 - Workbench特性演示：网页内容抓取与改写</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :44 - 网页抓取改写为科技资讯博客文章的效果展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :33 - 进销存系统智能客服实现与SQLite数据库交互</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :58 - 智能客服系统订单查询与产品库存查询演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/1ZxzPpa5Ysc&t=0" target="_blank"><strong># :00 - 视频总结与代码分享方式说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT/file-cache/1ZxzPpa5Ysc_0.jpg" /></p></p>
-
-<hr style="clear:both" />
-====
-<p>https://www.youtube.com/watch?v=1ZxzPpa5Ysc</p><p>🚀🚀🚀视频简介：</p><p>✅【AutoGen智能体开发革命】AutoGen 0.5.5深度实战：Workbench工具抽象与Agent封装技术打造高效旅游规划智能体与企业智能客服系统，从环境配置到工具调用详细演示教程</p><p>📢 本期视频详细演示了AutoGen框架最新0.5.5版本的强大新特性！深入讲解了两大核心功能：将agent/team作为工具供其他智能体调用，以及全新的Workbench工具集合抽象。通过实战演示，带你从零开始搭建环境 💻，快速上手构建模块化智能体系统。</p><p>🔍 精彩内容包括：</p><p>- 旅游规划智能体系统实现（专家agent封装为工具）</p><p>- 网页内容抓取与改写的博客生成系统</p><p>- 进销存管理系统的智能客服查询功能</p><p>🛠️ 视频中展示了完整的PyCharm开发流程，从依赖安装到代码编写，轻松掌握AutoGen最新特性，实现智能体的模块化编程！</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-McpWorkbench</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00:00 - AutoGen 0.5.5版本发布介绍与新增Workbench功能</p><p>00:00:12 - 0.5.4版本agent/team作为工具的新特性介绍</p><p>00:00:24 - Workbench工具集合抽象和统一接口功能详解</p><p>00:00:50 - 进销存管理系统智能客服与旅游规划系统演示预告</p><p>00:01:29 - PyCharm环境搭建与AutoGen依赖安装步骤</p><p>00:02:20 - 创建最简单的AutoGen脚本实现斐波那契数列</p><p>00:03:01 - 旅游规划系统实现：三个专家agent封装为工具</p><p>00:05:05 - 尼泊尔3天旅行计划执行过程分析</p><p>00:05:41 - 旅游规划系统agent交互流程图解析</p><p>00:06:45 - Workbench特性演示：网页内容抓取与改写</p><p>00:08:44 - 网页抓取改写为科技资讯博客文章的效果展示</p><p>00:09:33 - 进销存系统智能客服实现与SQLite数据库交互</p><p>00:10:58 - 智能客服系统订单查询与产品库存查询演示</p><p>00:12:00 - 视频总结与代码分享方式说明</p><p></p><p>#autogen  #agi #aigc #agents #aiagents #workbench #gpt4o #mcp #mcpserver</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/1ZxzPpa5Ysc/hqdefault.jpg"/>
-      <pubDate>2025-04-26T13:37:55.000Z</pubDate>
     </item></channel>
 </rss>
