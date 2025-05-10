@@ -30,6 +30,23 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s900-b50-c-k-c0x008A95A5-no-rj"/>
 <item>
+      <title><![CDATA[我用AI做了个网恋外挂！]]></title>
+      <link>https://www.youtube.com/watch?v=4r4TZqVf7ik</link>
+      <itunes:title><![CDATA[我用AI做了个网恋外挂！]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=4r4TZqVf7ik
+告别尬聊！我们用最近开源的阿里 Qwen3 和 Mac Studio，打造了一个本地运行、极致私密的“AI读心大师”。它能解析聊天潜台词，洞察深层情绪，给出鲁迅般犀利的建议。它能否帮你成为网恋大神？一起看看这个赛博读心大师的发挥！#ai #大模型 #通义千问 #qwen3 #微信 #mlx #macstudio #m3ultra #统一内存]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=4r4TZqVf7ik
+告别尬聊！我们用最近开源的阿里 Qwen3 和 Mac Studio，打造了一个本地运行、极致私密的“AI读心大师”。它能解析聊天潜台词，洞察深层情绪，给出鲁迅般犀利的建议。它能否帮你成为网恋大神？一起看看这个赛博读心大师的发挥！#ai #大模型 #通义千问 #qwen3 #微信 #mlx #macstudio #m3ultra #统一内存]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=4r4TZqVf7ik
+告别尬聊！我们用最近开源的阿里 Qwen3 和 Mac Studio，打造了一个本地运行、极致私密的“AI读心大师”。它能解析聊天潜台词，洞察深层情绪，给出鲁迅般犀利的建议。它能否帮你成为网恋大神？一起看看这个赛博读心大师的发挥！#ai #大模型 #通义千问 #qwen3 #微信 #mlx #macstudio #m3ultra #统一内存]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/4r4TZqVf7ik/hqdefault.jpg"/>
+      <pubDate>2025-05-09T12:15:00.000Z</pubDate>
+    </item><item>
       <title><![CDATA[不为人知的AI真神！Ilya Sutskever！]]></title>
       <link>https://www.youtube.com/watch?v=HfMGy5ibtJg</link>
       <itunes:title><![CDATA[不为人知的AI真神！Ilya Sutskever！]]></itunes:title>
@@ -103,22 +120,5 @@
 自己做 3D 建模、在游戏引擎里设计关卡、甚至直接上网控制咱们的电脑，一直以“纸上谈兵”著称的 AI， 怎么就忽然能“下场做事”了呢？今天，咱们来聊聊这背后的标准化协议 —— MCP！]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/hsooOhxJ7Nc/hqdefault.jpg"/>
       <pubDate>2025-04-11T13:06:00.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[Mac接口进化史]]></title>
-      <link>https://www.youtube.com/watch?v=XN9OyBO1gTY</link>
-      <itunes:title><![CDATA[Mac接口进化史]]></itunes:title>
-      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=XN9OyBO1gTY
-从火线到雷雳5，苹果为什么那么执着于改进接口？#雷雳 #thunderbolt #mac #usb #ai #雷电5 #jobs #apple #火线 #苹果]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=XN9OyBO1gTY
-从火线到雷雳5，苹果为什么那么执着于改进接口？#雷雳 #thunderbolt #mac #usb #ai #雷电5 #jobs #apple #火线 #苹果]]>
-      </description>
-      <content:encoded><![CDATA[https://www.youtube.com/watch?v=XN9OyBO1gTY
-从火线到雷雳5，苹果为什么那么执着于改进接口？#雷雳 #thunderbolt #mac #usb #ai #雷电5 #jobs #apple #火线 #苹果]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/XN9OyBO1gTY/hqdefault.jpg"/>
-      <pubDate>2025-04-04T12:00:48.000Z</pubDate>
     </item></channel>
 </rss>
