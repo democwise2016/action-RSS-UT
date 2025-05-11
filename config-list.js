@@ -160,6 +160,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: 'Kay_漫天大坑',
+    feedID: 'kayshi0521',
+    homepageURL: 'https://www.youtube.com/channel/UCwtcobm6l5gv0LcKVwzQgPw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'AZA宿 聊 動漫音樂',
+    feedID: 'azasu666',
+    homepageURL: 'https://www.youtube.com/channel/UChVPN84LFe_TOjYwJIDw3Sw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
