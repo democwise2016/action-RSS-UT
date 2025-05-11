@@ -4,27 +4,11 @@ const CONFIG = require('../config-json.js')
 let feedList = [
 
   {
-    title: '雀可美特',
-    feedID: 'checkmatekuhaku',
-    homepageURL: 'https://www.youtube.com/channel/UCoWl-esLvmLkh8iZzARvAJg',
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
-    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
-  },
-  {
     title: '動畫小坑谷',
     feedID: 'valleylife351',
     homepageURL: 'https://www.youtube.com/channel/UCbCb-ZUoKwQ8vcRbrH2nE0Q',
     itemFilters: [
       ItemFiltersPreset.between1minTo10Min,
-    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
-  },
-  {
-    title: '老阿貝聊AI繪圖',
-    feedID: 'laoabe',
-    homepageURL: 'https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg',
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
   },
   {
@@ -69,12 +53,6 @@ let feedList = [
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   {
-    title: '35線上賞屋',
-    feedID: '35visitchannel',
-    homepageURL: 'https://www.youtube.com/channel/UCnWB4yjKnm6AeW-pj4E3dQw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
     title: '簡報藝術烘焙坊 SlideArt',
     feedID: 'SlideArtToasters',
     homepageURL: 'https://www.youtube.com/channel/UCoAmv3Imi3Tl1dnseAMSqug',
@@ -90,21 +68,9 @@ let feedList = [
     ],
   },
   {
-    title: '超認真少年Imserious',
-    feedID: 'imseriou',
-    homepageURL: 'https://www.youtube.com/channel/UCckzc03-ycrpB1XIUfRhpnw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
     title: '山小日子',
     feedID: 'Samsdailyproduction',
     homepageURL: 'https://www.youtube.com/channel/UCcFEKnC141Fg-YSltWOmDaA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '钟文泽',
-    feedID: 'zhongwenze',
-    homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   {
@@ -134,12 +100,6 @@ let feedList = [
       ItemFiltersPreset.between1minTo30Min,
       // (item) => { return ((item.title.indexOf('AI大小事') >-1)) }
     ],
-  },
-  {
-    title: '帥狗聊動漫',
-    feedID: 'HandsomeDoge',
-    homepageURL: 'https://www.youtube.com/channel/UCQkAUoa28FZfffFI8tTQ71g',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   {
     title: '低分少年聊電玩',
@@ -173,36 +133,6 @@ let feedList = [
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   
-  // {
-  //   title: '筆吧評測室',
-  //   feedID: 'Bibalaptop',
-  //   homepageURL: 'https://www.youtube.com/channel/UCpIh66B9h_tWfXDcjTYlucA',
-  //   itemFilters: ItemFiltersPreset.between6minTo60Min,
-  // },
-  {
-    title: '工頭堅。旅行長',
-    feedID: 'ctoken',
-    homepageURL: 'https://www.youtube.com/channel/UCO6BMxjvslH_jSo7FZi6DcQ',
-    itemFilters: ItemFiltersPreset.between6minTo60Min,
-  },
-  // {
-  //   title: '0號手稿 看ACG',
-  //   feedID: 'user-soulkao_0',
-  //   homepageURL: 'https://www.youtube.com/channel/UCbWIKVoPlnahOJj8OZ3kSZA',
-  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
-  // },
-  // {
-  //   title: '紫骷 玩遊戲',
-  //   feedID: 'Zikukirby',
-  //   homepageURL: 'https://www.youtube.com/channel/UCQceikp-aRr_e5uCARuPvEQ',
-  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
-  // },
-  {
-    title: '在下莫老师 玩 3C',
-    feedID: 'zxmls',
-    homepageURL: 'https://www.youtube.com/channel/UCAbLQp7cSr_hdPfr_Pe1S_g',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
   {
     title: 'JoeMultimedia 教 AI繪圖',
     feedID: 'JoeMultimedia',
@@ -211,12 +141,6 @@ let feedList = [
       ItemFiltersPreset.between3minTo30Min,
       (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
     ]
-  },
-  {
-    title: '阿蝶-遊戲蝶聲 玩遊戲',
-    feedID: 'AvelnaGaming',
-    homepageURL: 'https://www.youtube.com/channel/UCu3z2_3jY7Z_52rZvO251Tg',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   {
     title: 'Million赵本人 玩遊戲硬體',
@@ -234,42 +158,6 @@ let feedList = [
     title: '翼王 玩 3C',
     feedID: 'WingStudio666',
     homepageURL: 'https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: 'AI超元域',
-    feedID: 'AIsuperdomain',
-    homepageURL: 'https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: 'The walking fish 步行魚',
-    feedID: 'the_walking_fish',
-    homepageURL: 'https://www.youtube.com/channel/UCXgnKgUBxUlRABoWK7a5A5Q',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '技术爬爬虾  TechShrimp',
-    feedID: 'Tech_Shrimp',
-    homepageURL: 'https://www.youtube.com/channel/UCa6D2k5qhpOI9I-WT8fpd6g',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: 'AI开发者-就爱瞎鼓捣',
-    feedID: 'techdiylife',
-    homepageURL: 'https://www.youtube.com/channel/UC8uOgHOAH_k-ee-bHA0GQFQ',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '獨角獸那麼叫',
-    feedID: 'unicorn-roar',
-    homepageURL: 'https://www.youtube.com/channel/UCQ3GunBqsEm0-WkiblbO7uw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: 'AI-最佳拍檔',
-    feedID: 'AI-bestpartners',
-    homepageURL: 'https://www.youtube.com/channel/UCGWYKICLOE8Wxy7q3eYXmPA',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
 ]
