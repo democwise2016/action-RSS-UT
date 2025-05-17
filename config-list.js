@@ -132,16 +132,7 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  
-  {
-    title: 'JoeMultimedia 教 AI繪圖',
-    feedID: 'JoeMultimedia',
-    homepageURL: 'https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ',
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
-      (item) => { return ((item.title.indexOf('AI tutorial') >-1)) }
-    ]
-  },
+ 
   {
     title: 'Million赵本人 玩遊戲硬體',
     feedID: 'millionzhao5973',
