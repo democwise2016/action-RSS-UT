@@ -17,7 +17,6 @@ let CONFIG = {
 }
 
 // let test = '1780'
-
 // CONFIG.publicURL = `https://odd-pug-74.telebit.io`
 // CONFIG.titleAppend = '[RSS+] 20240815-' + test
 // CONFIG.idAppend = '20240815-' + test

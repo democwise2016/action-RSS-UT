@@ -171,12 +171,12 @@ let feedList = [
 
 if (CONFIG.debug) {
   feedList = [
-    { 
-    title: '小宁子 3C',
-    feedID: 'xnzxnz',
-    homepageURL: 'https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
+    {
+      title: '月翔的戰國淺度旅行',
+      feedID: 'SamuraiTraveller',
+      homepageURL: 'https://www.youtube.com/channel/UCcoTcL4-1cBmqqPNdt8xb0Q',
+      itemFilters: ItemFiltersPreset.between3minTo30Min,
+    },
   ]
 }
 
