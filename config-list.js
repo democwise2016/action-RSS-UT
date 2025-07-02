@@ -171,12 +171,12 @@ let feedList = [
 
 if (CONFIG.debug) {
   feedList = [
-    {
-      title: 'AZA宿 聊 動漫音樂',
-      feedID: 'azasu666',
-      homepageURL: 'https://www.youtube.com/channel/UChVPN84LFe_TOjYwJIDw3Sw',
-      itemFilters: ItemFiltersPreset.between3minTo30Min,
-    },
+    { 
+    title: '小宁子 3C',
+    feedID: 'xnzxnz',
+    homepageURL: 'https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
   ]
 }
 
