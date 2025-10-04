@@ -4,7 +4,7 @@
 services:
   app:
     # build: .
-    image: pudding/docker-image-base:action-RSS-UT-Docker-Image-20251004.130200
+    image: pudding/docker-image-base:action-RSS-UT-Docker-Image-20251004.131027
     user: "${UID}:${GID}"
     tty: true
     volumes: 
