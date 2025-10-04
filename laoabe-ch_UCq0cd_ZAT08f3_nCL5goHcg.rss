@@ -1,0 +1,289 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[老阿貝聊AI繪圖[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/ytc/AIdro_kLAR5qJgus986wbH2t2jW7TcqQVb1QlPYg0AY4hNKx24nX5Ac=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>老阿貝聊AI繪圖[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[老阿貝聊AI繪圖[YT+]]]></copyright>
+    <itunes:author><![CDATA[老阿貝聊AI繪圖[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCq0cd_ZAT08f3_nCL5goHcg</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[老阿貝聊AI繪圖[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/ytc/AIdro_kLAR5qJgus986wbH2t2jW7TcqQVb1QlPYg0AY4hNKx24nX5Ac=s900-b50-c-k-c0x008A95A5-no-rj"/>
+<item>
+      <title><![CDATA[comfyUI如何取得影片的某一幀?如何將影片所有幀存成圖檔?]]></title>
+      <link>https://www.youtube.com/watch?v=gawIeXbvr5E</link>
+      <itunes:title><![CDATA[comfyUI如何取得影片的某一幀?如何將影片所有幀存成圖檔?]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=gawIeXbvr5E
+影片回答網友問題，
+在comfyU中
+1.如何取得影片的某一幀?       
+2.如何將影片所有幀存成圖檔?
+#comfyui  #comfyui教學 #comfyuistablediffusion #tutorial 
+
+wan2.1 ComfyUI專區:
+#01-https://youtu.be/T5TO1wC6qIg
+#02-https://youtu.be/ot3pbL_INjQ
+#03-https://youtu.be/3hUjX-zLEmE
+#04-https://youtu.be/EerDy6qwQx0
+#05-https://youtu.be/clgvlxoAAvY
+#06-https://youtu.be/-gbhf-H0cdQ
+#07-https://youtu.be/Ny_8IwTsL2A
+#08-https://youtu.be/xk2sLnUQDq4
+#09-https://youtu.be/WtSkaDwATZs
+#10-https://youtube.com/shorts/VX57PrQFYBc
+
+2025 comfyui教學:
+#01-https://youtu.be/R7bDdDSKsrs
+#02-https://youtu.be/6S_9KkDRfHE
+#03-https://youtu.be/nXe7ccJ_aAo
+#04-https://youtu.be/VHdA_xWglyw
+#05-https://youtu.be/NR3P7_dAVJo
+#06-https://youtu.be/bCsUSjUkZXE
+#07-https://youtu.be/jq8nlCaEQK0
+#08-https://youtu.be/v-0pZc96do8
+#09-https://youtu.be/K6BzU4Z40Uc
+
+小小問題來解答:
+#01-https://youtu.be/clgvlxoAAvY
+#02-https://youtu.be/mHiuBHVywSc
+#03-https://youtu.be/iay7hDxKzzA
+#04-https://youtu.be/mHgPR4yN8Zs
+#05-https://youtu.be/1roB0d6-mbA
+#06-https://youtu.be/jLsgZfUSqGc
+#07-https://youtu.be/gawIeXbvr5E
+
+
+2025年之前舊資料區:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=gawIeXbvr5E
+影片回答網友問題，
+在comfyU中
+1.如何取得影片的某一幀?       
+2.如何將影片所有幀存成圖檔?
+#comfyui  #comfyui教學 #comfyuistablediffusion #tutorial 
+
+wan2.1 ComfyUI專區:
+#01-https://youtu.be/T5TO1wC6qIg
+#02-https://youtu.be/ot3pbL_INjQ
+#03-https://youtu.be/3hUjX-zLEmE
+#04-https://youtu.be/EerDy6qwQx0
+#05-https://youtu.be/clgvlxoAAvY
+#06-https://youtu.be/-gbhf-H0cdQ
+#07-https://youtu.be/Ny_8IwTsL2A
+#08-https://youtu.be/xk2sLnUQDq4
+#09-https://youtu.be/WtSkaDwATZs
+#10-https://youtube.com/shorts/VX57PrQFYBc
+
+2025 comfyui教學:
+#01-https://youtu.be/R7bDdDSKsrs
+#02-https://youtu.be/6S_9KkDRfHE
+#03-https://youtu.be/nXe7ccJ_aAo
+#04-https://youtu.be/VHdA_xWglyw
+#05-https://youtu.be/NR3P7_dAVJo
+#06-https://youtu.be/bCsUSjUkZXE
+#07-https://youtu.be/jq8nlCaEQK0
+#08-https://youtu.be/v-0pZc96do8
+#09-https://youtu.be/K6BzU4Z40Uc
+
+小小問題來解答:
+#01-https://youtu.be/clgvlxoAAvY
+#02-https://youtu.be/mHiuBHVywSc
+#03-https://youtu.be/iay7hDxKzzA
+#04-https://youtu.be/mHgPR4yN8Zs
+#05-https://youtu.be/1roB0d6-mbA
+#06-https://youtu.be/jLsgZfUSqGc
+#07-https://youtu.be/gawIeXbvr5E
+
+
+2025年之前舊資料區:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=gawIeXbvr5E
+影片回答網友問題，
+在comfyU中
+1.如何取得影片的某一幀?       
+2.如何將影片所有幀存成圖檔?
+#comfyui  #comfyui教學 #comfyuistablediffusion #tutorial 
+
+wan2.1 ComfyUI專區:
+#01-https://youtu.be/T5TO1wC6qIg
+#02-https://youtu.be/ot3pbL_INjQ
+#03-https://youtu.be/3hUjX-zLEmE
+#04-https://youtu.be/EerDy6qwQx0
+#05-https://youtu.be/clgvlxoAAvY
+#06-https://youtu.be/-gbhf-H0cdQ
+#07-https://youtu.be/Ny_8IwTsL2A
+#08-https://youtu.be/xk2sLnUQDq4
+#09-https://youtu.be/WtSkaDwATZs
+#10-https://youtube.com/shorts/VX57PrQFYBc
+
+2025 comfyui教學:
+#01-https://youtu.be/R7bDdDSKsrs
+#02-https://youtu.be/6S_9KkDRfHE
+#03-https://youtu.be/nXe7ccJ_aAo
+#04-https://youtu.be/VHdA_xWglyw
+#05-https://youtu.be/NR3P7_dAVJo
+#06-https://youtu.be/bCsUSjUkZXE
+#07-https://youtu.be/jq8nlCaEQK0
+#08-https://youtu.be/v-0pZc96do8
+#09-https://youtu.be/K6BzU4Z40Uc
+
+小小問題來解答:
+#01-https://youtu.be/clgvlxoAAvY
+#02-https://youtu.be/mHiuBHVywSc
+#03-https://youtu.be/iay7hDxKzzA
+#04-https://youtu.be/mHgPR4yN8Zs
+#05-https://youtu.be/1roB0d6-mbA
+#06-https://youtu.be/jLsgZfUSqGc
+#07-https://youtu.be/gawIeXbvr5E
+
+
+2025年之前舊資料區:
+將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:
+01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8
+02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E
+
+stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM
+
+stable diffusion AI繪圖本地安裝:
+一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY
+二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU
+三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI
+四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0
+
+stable diffusion AI繪圖免費雲端使用:
+一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8
+
+模型models(textual inversion、hypernetworks、checkpoint、lora)管理:
+一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o
+二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw
+三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM
+四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY
+
+咒語prompt:
+一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg
+二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314
+
+空間不足怎麼辦
+一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs
+
+其他測試
+一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/gawIeXbvr5E/hqdefault.jpg"/>
+      <pubDate>2025-04-08T12:21:08.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[5強對決，各位覺得哪一個圖生影片效果最好？]]></title>
+      <link>https://www.youtube.com/watch?v=G6jTdzfBfIk</link>
+      <itunes:title><![CDATA[5強對決，各位覺得哪一個圖生影片效果最好？]]></itunes:title>
+      <itunes:author><![CDATA[老阿貝]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以下是影片的摘要：<h1>開端與主題呈現</h1>影片以簡潔明瞭的方式開場，不斷重複著單字：「熱」。這個詞彙以不同的字體和呈現方式出現在螢幕上，搭配著簡短而有力的音樂片段。這種重複的節奏，迅速將「熱」的概念植入觀眾的腦海中。<h1>節奏的變化與堆疊</h1>隨著影片的推進，「熱」這個詞彙出現的頻率和呈現方式有所變化。字體可能略有不同，出現的位置也可能改變。音樂的片段也配合著畫面的節奏，有時短促，有時略長。這些變化雖然細微，卻豐富了影片的層次，也加深了觀眾對「熱」這個主題的印象。<h1>持續堆疊與結束</h1>影片持續堆疊「熱」的意象，讓這個詞語不斷在視覺和聽覺上重複。音樂的變化與「熱」字樣的呈現，形成了一種相互呼應的關係，使影片的氛圍充滿張力。最後，影片在持續的「熱」字樣中結束，留下深刻的印象。<hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Heat. [Music]. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. Heat. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">N. Heat. [Music]. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. [Music]. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. [Music]. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. [Music]. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Heat. Heat. [Music]. </p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=G6jTdzfBfIk</p><p>用相同的圖片、相同的提示詞。</p><p>讓這五家kling pixverse pollo videomaker wan圖生影片比較。#wan2 #kling #pixverse #pollo #videomaker</p><p></p><p>https://pollo.ai/</p><p>https://videomaker.m</p><p>https://app.pixverse.a</p><p>https://wan.video/</p><p>https://klingai.com/</p><p></p><p></p><p>wan2.1 ComfyUI專區:</p><p>#01-https://youtu.be/T5TO1wC6qIg</p><p>#02-https://youtu.be/ot3pbL_INjQ</p><p>#03-https://youtu.be/3hUjX-zLEmE</p><p>#04-https://youtu.be/EerDy6qwQx0</p><p>#05-https://youtu.be/clgvlxoAAvY</p><p>#06-https://youtu.be/-gbhf-H0cdQ</p><p>#07-https://youtu.be/Ny_8IwTsL2A</p><p>#08-https://youtu.be/xk2sLnUQDq4</p><p>#09-https://youtu.be/WtSkaDwATZs</p><p>#10-https://youtube.com/shorts/VX57PrQFYBc</p><p></p><p>2025 comfyui教學:</p><p>#01-https://youtu.be/R7bDdDSKsrs</p><p>#02-https://youtu.be/6S_9KkDRfHE</p><p>#03-https://youtu.be/nXe7ccJ_aAo</p><p>#04-https://youtu.be/VHdA_xWglyw</p><p>#05-https://youtu.be/NR3P7_dAVJo</p><p>#06-https://youtu.be/bCsUSjUkZXE</p><p>#07-https://youtu.be/jq8nlCaEQK0</p><p>#08-https://youtu.be/v-0pZc96do8</p><p>#09-https://youtu.be/K6BzU4Z40Uc</p><p></p><p>小小問題來解答:</p><p>#01-https://youtu.be/clgvlxoAAvY</p><p>#02-https://youtu.be/mHiuBHVywSc</p><p>#03-https://youtu.be/iay7hDxKzzA</p><p>#04-https://youtu.be/mHgPR4yN8Zs</p><p>#05-https://youtu.be/1roB0d6-mbA</p><p>#06-https://youtu.be/jLsgZfUSqGc</p><p>#07-https://youtu.be/gawIeXbvr5E</p><p></p><p>2025年之前舊資料區:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以下是影片的摘要：<h1>開端與主題呈現</h1>影片以簡潔明瞭的方式開場，不斷重複著單字：「熱」。這個詞彙以不同的字體和呈現方式出現在螢幕上，搭配著簡短而有力的音樂片段。這種重複的節奏，迅速將「熱」的概念植入觀眾的腦海中。<h1>節奏的變化與堆疊</h1>隨著影片的推進，「熱」這個詞彙出現的頻率和呈現方式有所變化。字體可能略有不同，出現的位置也可能改變。音樂的片段也配合著畫面的節奏，有時短促，有時略長。這些變化雖然細微，卻豐富了影片的層次，也加深了觀眾對「熱」這個主題的印象。<h1>持續堆疊與結束</h1>影片持續堆疊「熱」的意象，讓這個詞語不斷在視覺和聽覺上重複。音樂的變化與「熱」字樣的呈現，形成了一種相互呼應的關係，使影片的氛圍充滿張力。最後，影片在持續的「熱」字樣中結束，留下深刻的印象。<hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Heat. [Music]. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. Heat. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">N. Heat. [Music]. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. [Music]. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. [Music]. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. [Music]. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Heat. Heat. [Music]. </p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=G6jTdzfBfIk</p><p>用相同的圖片、相同的提示詞。</p><p>讓這五家kling pixverse pollo videomaker wan圖生影片比較。#wan2 #kling #pixverse #pollo #videomaker</p><p></p><p>https://pollo.ai/</p><p>https://videomaker.m</p><p>https://app.pixverse.a</p><p>https://wan.video/</p><p>https://klingai.com/</p><p></p><p></p><p>wan2.1 ComfyUI專區:</p><p>#01-https://youtu.be/T5TO1wC6qIg</p><p>#02-https://youtu.be/ot3pbL_INjQ</p><p>#03-https://youtu.be/3hUjX-zLEmE</p><p>#04-https://youtu.be/EerDy6qwQx0</p><p>#05-https://youtu.be/clgvlxoAAvY</p><p>#06-https://youtu.be/-gbhf-H0cdQ</p><p>#07-https://youtu.be/Ny_8IwTsL2A</p><p>#08-https://youtu.be/xk2sLnUQDq4</p><p>#09-https://youtu.be/WtSkaDwATZs</p><p>#10-https://youtube.com/shorts/VX57PrQFYBc</p><p></p><p>2025 comfyui教學:</p><p>#01-https://youtu.be/R7bDdDSKsrs</p><p>#02-https://youtu.be/6S_9KkDRfHE</p><p>#03-https://youtu.be/nXe7ccJ_aAo</p><p>#04-https://youtu.be/VHdA_xWglyw</p><p>#05-https://youtu.be/NR3P7_dAVJo</p><p>#06-https://youtu.be/bCsUSjUkZXE</p><p>#07-https://youtu.be/jq8nlCaEQK0</p><p>#08-https://youtu.be/v-0pZc96do8</p><p>#09-https://youtu.be/K6BzU4Z40Uc</p><p></p><p>小小問題來解答:</p><p>#01-https://youtu.be/clgvlxoAAvY</p><p>#02-https://youtu.be/mHiuBHVywSc</p><p>#03-https://youtu.be/iay7hDxKzzA</p><p>#04-https://youtu.be/mHgPR4yN8Zs</p><p>#05-https://youtu.be/1roB0d6-mbA</p><p>#06-https://youtu.be/jLsgZfUSqGc</p><p>#07-https://youtu.be/gawIeXbvr5E</p><p></p><p>2025年之前舊資料區:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">以下是影片的摘要：<h1>開端與主題呈現</h1>影片以簡潔明瞭的方式開場，不斷重複著單字：「熱」。這個詞彙以不同的字體和呈現方式出現在螢幕上，搭配著簡短而有力的音樂片段。這種重複的節奏，迅速將「熱」的概念植入觀眾的腦海中。<h1>節奏的變化與堆疊</h1>隨著影片的推進，「熱」這個詞彙出現的頻率和呈現方式有所變化。字體可能略有不同，出現的位置也可能改變。音樂的片段也配合著畫面的節奏，有時短促，有時略長。這些變化雖然細微，卻豐富了影片的層次，也加深了觀眾對「熱」這個主題的印象。<h1>持續堆疊與結束</h1>影片持續堆疊「熱」的意象，讓這個詞語不斷在視覺和聽覺上重複。音樂的變化與「熱」字樣的呈現，形成了一種相互呼應的關係，使影片的氛圍充滿張力。最後，影片在持續的「熱」字樣中結束，留下深刻的印象。<hr />================================================</p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Heat. [Music]. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. Heat. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">N. Heat. [Music]. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. [Music]. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. [Music]. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. Heat. Heat. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">[Music]. Heat. [Music]. </p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; ">Heat. Heat. [Music]. </p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=G6jTdzfBfIk</p><p>用相同的圖片、相同的提示詞。</p><p>讓這五家kling pixverse pollo videomaker wan圖生影片比較。#wan2 #kling #pixverse #pollo #videomaker</p><p></p><p>https://pollo.ai/</p><p>https://videomaker.m</p><p>https://app.pixverse.a</p><p>https://wan.video/</p><p>https://klingai.com/</p><p></p><p></p><p>wan2.1 ComfyUI專區:</p><p>#01-https://youtu.be/T5TO1wC6qIg</p><p>#02-https://youtu.be/ot3pbL_INjQ</p><p>#03-https://youtu.be/3hUjX-zLEmE</p><p>#04-https://youtu.be/EerDy6qwQx0</p><p>#05-https://youtu.be/clgvlxoAAvY</p><p>#06-https://youtu.be/-gbhf-H0cdQ</p><p>#07-https://youtu.be/Ny_8IwTsL2A</p><p>#08-https://youtu.be/xk2sLnUQDq4</p><p>#09-https://youtu.be/WtSkaDwATZs</p><p>#10-https://youtube.com/shorts/VX57PrQFYBc</p><p></p><p>2025 comfyui教學:</p><p>#01-https://youtu.be/R7bDdDSKsrs</p><p>#02-https://youtu.be/6S_9KkDRfHE</p><p>#03-https://youtu.be/nXe7ccJ_aAo</p><p>#04-https://youtu.be/VHdA_xWglyw</p><p>#05-https://youtu.be/NR3P7_dAVJo</p><p>#06-https://youtu.be/bCsUSjUkZXE</p><p>#07-https://youtu.be/jq8nlCaEQK0</p><p>#08-https://youtu.be/v-0pZc96do8</p><p>#09-https://youtu.be/K6BzU4Z40Uc</p><p></p><p>小小問題來解答:</p><p>#01-https://youtu.be/clgvlxoAAvY</p><p>#02-https://youtu.be/mHiuBHVywSc</p><p>#03-https://youtu.be/iay7hDxKzzA</p><p>#04-https://youtu.be/mHgPR4yN8Zs</p><p>#05-https://youtu.be/1roB0d6-mbA</p><p>#06-https://youtu.be/jLsgZfUSqGc</p><p>#07-https://youtu.be/gawIeXbvr5E</p><p></p><p>2025年之前舊資料區:</p><p>將AI繪圖stablde diffusion裝到自己的google雲端硬碟系列:</p><p>01.安裝stable diffusion。https://youtu.be/0_a0vSR9_q8</p><p>02.checkpoint、lora、extensions安裝技巧。https://youtu.be/5Pv8PcvoD7E</p><p></p><p>stable diffusion改成中文(簡體、繁體)介面 https://youtu.be/U6oZFYvP4SM</p><p></p><p>stable diffusion AI繪圖本地安裝:</p><p>一、n卡和CPU運算適用(手動安裝) https://youtu.be/3G5XGyVKbJY</p><p>二、n卡和CPU運算適用(自動安裝) https://youtu.be/rSVdLfwtYbU</p><p>三、AMD顯卡專用(手動安裝) https://youtu.be/MwI0WtrYJhI</p><p>四、InvokeAI AMD N卡 CPU適用 https://youtu.be/4Ri9Chj-ML0</p><p></p><p>stable diffusion AI繪圖免費雲端使用:</p><p>一、Colaboratory雲端系統 https://youtu.be/EV47frX3m8</p><p></p><p>模型models(textual inversion、hypernetworks、checkpoint、lora)管理:</p><p>一、兩種Lora的使用方式 https://youtu.be/gf6NwBBM4-o</p><p>二、學AI繪圖必看的網站Civic AI https://youtu.be/DQ4kM7atJnw</p><p>三、超強的Models for civit AI管理小工具 https://youtu.be/x4tPWPmeAgM</p><p>四、Stable diffusion Models超簡單分類法 https://youtu.be/ZxN3pZSmeEY</p><p></p><p>咒語prompt:</p><p>一、AI繪圖最基礎的構圖教學 https://youtu.be/r-5JllIDYwg</p><p>二、三個Stable Diffusion prompt的提示字管理小工具 ，從陽春版到進階版還有最終加強版https://youtu.be/zHTeZxzJ314</p><p></p><p>空間不足怎麼辦</p><p>一、stable diffusion  3 tips for 基本的檔案管理技巧 https://youtu.be/zCRWEyZ5aYs</p><p></p><p>其他測試</p><p>一、Stable diffusion reimagine和clipdrop老阿貝不專業老實說評測 https://youtu.be/0c7CIEXbViY</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/G6jTdzfBfIk/hqdefault.jpg"/>
+      <pubDate>2025-03-30T08:25:49.000Z</pubDate>
+    </item></channel>
+</rss>
