@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[懷爸瘋科技[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw</link>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_meSE6wegXZ7mzSx-2b1VU8X1vt9DJT22JXotB7DFCHzDc=s88-c-k-c0x00ffffff-no-rj</url>
+      <title>懷爸瘋科技[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[懷爸瘋科技[YT+]]]></copyright>
+    <itunes:author><![CDATA[懷爸瘋科技[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      歡迎來到懷爸瘋科技，我們是北部最專業的空拍機/相機穩定器/攝影器材專賣店!
+我們專營空拍機販售、戶外飛行教學、專業現場維修、空拍接案拍攝、GoPro Insta360相機販售、獨家代理火星人增程天線。
+Youtube, FB, IG🔍 懷爸瘋科技<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      歡迎來到懷爸瘋科技，我們是北部最專業的空拍機/相機穩定器/攝影器材專賣店!
+我們專營空拍機販售、戶外飛行教學、專業現場維修、空拍接案拍攝、GoPro Insta360相機販售、獨家代理火星人增程天線。
+Youtube, FB, IG🔍 懷爸瘋科技<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[懷爸瘋科技[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_meSE6wegXZ7mzSx-2b1VU8X1vt9DJT22JXotB7DFCHzDc=s88-c-k-c0x00ffffff-no-rj"/>
+</channel>
+</rss>

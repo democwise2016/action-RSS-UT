@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[Kay_漫天大坑[YT+]]]></title>
+    <link>undefined</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/630/800/800.jpg?hmac=KVy9Cq6AluWFHAgrLl8JhxApbZrIeJRomRC_E9o8Jfc</url>
+      <title>Kay_漫天大坑[YT+]</title>
+      <link>undefined</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[Kay_漫天大坑[YT+]]]></copyright>
+    <itunes:author><![CDATA[Kay_漫天大坑[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      Failed to parse feed: Status code 404<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCwtcobm6l5gv0LcKVwzQgPw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCwtcobm6l5gv0LcKVwzQgPw</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      Failed to parse feed: Status code 404<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCwtcobm6l5gv0LcKVwzQgPw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCwtcobm6l5gv0LcKVwzQgPw</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[Kay_漫天大坑[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/630/800/800.jpg?hmac=KVy9Cq6AluWFHAgrLl8JhxApbZrIeJRomRC_E9o8Jfc"/>
+</channel>
+</rss>
