@@ -1,0 +1,214 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/B-GT7dDU1AuzHqh-HN8EpRS3uF4rF35qcD1QDOkESBUalCpj1iAz5I-coOzv7kLNuDyv77XUoA=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>JoeMultimedia 教 AI繪圖[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></copyright>
+    <itunes:author><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/channel/UCMv267nynawErUJaQjsqiiQ</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCMv267nynawErUJaQjsqiiQ</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[JoeMultimedia 教 AI繪圖[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/B-GT7dDU1AuzHqh-HN8EpRS3uF4rF35qcD1QDOkESBUalCpj1iAz5I-coOzv7kLNuDyv77XUoA=s900-b50-c-k-c0x008A95A5-no-rj"/>
+<item>
+      <title><![CDATA[[AI tutorial] Forge ControlNet OpenPose 使用及人物提示器 AI 擴充使用自己的 API_KEY  #forge]]></title>
+      <link>https://www.youtube.com/watch?v=7tT1WKJKdPo</link>
+      <itunes:title><![CDATA[[AI tutorial] Forge ControlNet OpenPose 使用及人物提示器 AI 擴充使用自己的 API_KEY  #forge]]></itunes:title>
+      <itunes:author><![CDATA[JoeMultimedia]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=7tT1WKJKdPo
+這次的教學主要在介紹 Forge ControlNet OpenPose 使用及人物提示器 AI 擴充使用自己的 API_KEY。
+
+ControlNet OpenPose SDXL Model 
+https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/tree/main
+
+Forge 安裝
+https://youtu.be/k_jQej_6CYk
+
+ADetailer 安裝
+https://youtu.be/UsSgFb5CFd8?si=QEBy3h7b-gLhN3Oq
+
+ WAI-NSFW-illustrious-SDXL
+https://civitai.com/models/827184?modelVersionId=1367422
+
+模型人物提示器
+https://civitai.com/articles/10754/wai-nsfw-illustrious-sdxl-v80-built-in-character-prompt-generator-v8
+https://github.com/lanner0403/WAI-NSFW-illustrious-character-select?tab=readme-ov-file
+
+api key 申請
+https://console.groq.com/home
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=7tT1WKJKdPo
+這次的教學主要在介紹 Forge ControlNet OpenPose 使用及人物提示器 AI 擴充使用自己的 API_KEY。
+
+ControlNet OpenPose SDXL Model 
+https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/tree/main
+
+Forge 安裝
+https://youtu.be/k_jQej_6CYk
+
+ADetailer 安裝
+https://youtu.be/UsSgFb5CFd8?si=QEBy3h7b-gLhN3Oq
+
+ WAI-NSFW-illustrious-SDXL
+https://civitai.com/models/827184?modelVersionId=1367422
+
+模型人物提示器
+https://civitai.com/articles/10754/wai-nsfw-illustrious-sdxl-v80-built-in-character-prompt-generator-v8
+https://github.com/lanner0403/WAI-NSFW-illustrious-character-select?tab=readme-ov-file
+
+api key 申請
+https://console.groq.com/home
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=7tT1WKJKdPo
+這次的教學主要在介紹 Forge ControlNet OpenPose 使用及人物提示器 AI 擴充使用自己的 API_KEY。
+
+ControlNet OpenPose SDXL Model 
+https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/tree/main
+
+Forge 安裝
+https://youtu.be/k_jQej_6CYk
+
+ADetailer 安裝
+https://youtu.be/UsSgFb5CFd8?si=QEBy3h7b-gLhN3Oq
+
+ WAI-NSFW-illustrious-SDXL
+https://civitai.com/models/827184?modelVersionId=1367422
+
+模型人物提示器
+https://civitai.com/articles/10754/wai-nsfw-illustrious-sdxl-v80-built-in-character-prompt-generator-v8
+https://github.com/lanner0403/WAI-NSFW-illustrious-character-select?tab=readme-ov-file
+
+api key 申請
+https://console.groq.com/home
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/7tT1WKJKdPo/hqdefault.jpg"/>
+      <pubDate>2025-05-12T12:00:30.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[[AI tutorial] WAI-NSFW-illustrious-SDXL 使用 Forge 人物提示器及 AI 擴充安裝 #forge]]></title>
+      <link>https://www.youtube.com/watch?v=RlS4ZSCZAoQ</link>
+      <itunes:title><![CDATA[[AI tutorial] WAI-NSFW-illustrious-SDXL 使用 Forge 人物提示器及 AI 擴充安裝 #forge]]></itunes:title>
+      <itunes:author><![CDATA[JoeMultimedia]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=RlS4ZSCZAoQ
+這次的教學主要在介紹 WAI-NSFW-illustrious-SDXL 使用 Forge 人物提示器及 AI 擴充安裝。
+
+Forge 安裝
+https://youtu.be/k_jQej_6CYk
+
+ADetailer 安裝
+https://youtu.be/UsSgFb5CFd8?si=QEBy3h7b-gLhN3Oq
+
+ WAI-NSFW-illustrious-SDXL
+https://civitai.com/models/827184?modelVersionId=1367422
+
+模型人物提示器
+https://civitai.com/articles/10754/wai-nsfw-illustrious-sdxl-v80-built-in-character-prompt-generator-v8
+https://github.com/lanner0403/WAI-NSFW-illustrious-character-select?tab=readme-ov-file
+
+api key 申請(沒用到)
+https://console.groq.com/home
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=RlS4ZSCZAoQ
+這次的教學主要在介紹 WAI-NSFW-illustrious-SDXL 使用 Forge 人物提示器及 AI 擴充安裝。
+
+Forge 安裝
+https://youtu.be/k_jQej_6CYk
+
+ADetailer 安裝
+https://youtu.be/UsSgFb5CFd8?si=QEBy3h7b-gLhN3Oq
+
+ WAI-NSFW-illustrious-SDXL
+https://civitai.com/models/827184?modelVersionId=1367422
+
+模型人物提示器
+https://civitai.com/articles/10754/wai-nsfw-illustrious-sdxl-v80-built-in-character-prompt-generator-v8
+https://github.com/lanner0403/WAI-NSFW-illustrious-character-select?tab=readme-ov-file
+
+api key 申請(沒用到)
+https://console.groq.com/home
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=RlS4ZSCZAoQ
+這次的教學主要在介紹 WAI-NSFW-illustrious-SDXL 使用 Forge 人物提示器及 AI 擴充安裝。
+
+Forge 安裝
+https://youtu.be/k_jQej_6CYk
+
+ADetailer 安裝
+https://youtu.be/UsSgFb5CFd8?si=QEBy3h7b-gLhN3Oq
+
+ WAI-NSFW-illustrious-SDXL
+https://civitai.com/models/827184?modelVersionId=1367422
+
+模型人物提示器
+https://civitai.com/articles/10754/wai-nsfw-illustrious-sdxl-v80-built-in-character-prompt-generator-v8
+https://github.com/lanner0403/WAI-NSFW-illustrious-character-select?tab=readme-ov-file
+
+api key 申請(沒用到)
+https://console.groq.com/home
+
+My Facebook: https://www.facebook.com/JoeAndMultimedia
+My Patreon Page: https://www.patreon.com/joemultimedia
+
+AIArt, AI Girl, AI Pics, AI Pictures, AI Photos, AI Images, AI Hot, AI Hotpic, AI Hottie, AI Model, AI Gallery, AI Lady, AI그림, AI絵, AI絵画, Al繪圖, Al藝術, AI绘图, AI艺术,  Arte IA, AI눈나, 대유쾌마운틴, AI돌리기, Photorealistic, ai룩북,
+#여자친구 #룩북 #란제리 #속옷모델 #여자 
+#girl #friend #lookbook #AI #aipicture #aiimages #AIart #aigirl #beautyart #beautygirl]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/RlS4ZSCZAoQ/hqdefault.jpg"/>
+      <pubDate>2025-05-12T04:54:12.000Z</pubDate>
+    </item></channel>
+</rss>

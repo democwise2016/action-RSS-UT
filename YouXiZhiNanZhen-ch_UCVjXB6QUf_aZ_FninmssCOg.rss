@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[游戲指南針[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg</link>
+    <image>
+      <url>https://yt3.ggpht.com/9P-MswZSXc5A71o9wzv77ggrkh3MwYsiFCqzRyQWSUs2VTNjZKpo3mY8BYyTPWPIZUFL599Drw=s88-c-k-c0x00ffffff-no-rj</url>
+      <title>游戲指南針[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[游戲指南針[YT+]]]></copyright>
+    <itunes:author><![CDATA[游戲指南針[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      老挝商业头条🇱🇦 
+每天发布3条最新老挝商业价值资讯
+足不出户了解老挝<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      老挝商业头条🇱🇦 
+每天发布3条最新老挝商业价值资讯
+足不出户了解老挝<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[游戲指南針[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.ggpht.com/9P-MswZSXc5A71o9wzv77ggrkh3MwYsiFCqzRyQWSUs2VTNjZKpo3mY8BYyTPWPIZUFL599Drw=s88-c-k-c0x00ffffff-no-rj"/>
+</channel>
+</rss>
