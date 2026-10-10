@@ -3,7 +3,7 @@
     <title><![CDATA[懷爸瘋科技[YT+]]]></title>
     <link>undefined</link>
     <image>
-      <url>https://fastly.picsum.photos/id/242/800/800.jpg?hmac=sSR0c1lrdBCLiofRd7HqjAYs9xQsPYnU3JQZ1thqvuI</url>
+      <url>https://fastly.picsum.photos/id/68/800/800.jpg?hmac=-cMymUCLJnmMX2J-ZdLywxAmFnl-VJvQmmwzd41oIR8</url>
       <title>懷爸瘋科技[YT+]</title>
       <link>undefined</link>
     </image>
@@ -13,14 +13,14 @@
     <itunes:author><![CDATA[懷爸瘋科技[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCP87m51BCpfat9lxD533Mqw</a>
       ]]>
@@ -28,6 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[懷爸瘋科技[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/242/800/800.jpg?hmac=sSR0c1lrdBCLiofRd7HqjAYs9xQsPYnU3JQZ1thqvuI"/>
+    <itunes:image href="https://fastly.picsum.photos/id/68/800/800.jpg?hmac=-cMymUCLJnmMX2J-ZdLywxAmFnl-VJvQmmwzd41oIR8"/>
 </channel>
 </rss>
