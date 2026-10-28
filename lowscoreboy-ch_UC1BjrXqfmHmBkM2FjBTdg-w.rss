@@ -3,7 +3,7 @@
     <title><![CDATA[低分少年聊電玩[YT+]]]></title>
     <link>undefined</link>
     <image>
-      <url>https://fastly.picsum.photos/id/867/800/800.jpg?hmac=D9jzjAep8_znPPeF-n0XXnzhVkM55GNOAUlGJDYoA5Q</url>
+      <url>https://fastly.picsum.photos/id/302/800/800.jpg?hmac=4BgFx1mxEuqhY1MOcl3I_Szp6PwDKINsnXEPS8p6UFk</url>
       <title>低分少年聊電玩[YT+]</title>
       <link>undefined</link>
     </image>
@@ -13,14 +13,14 @@
     <itunes:author><![CDATA[低分少年聊電玩[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC1BjrXqfmHmBkM2FjBTdg-w" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC1BjrXqfmHmBkM2FjBTdg-w</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC1BjrXqfmHmBkM2FjBTdg-w" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC1BjrXqfmHmBkM2FjBTdg-w</a>
       ]]>
@@ -28,6 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[低分少年聊電玩[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/867/800/800.jpg?hmac=D9jzjAep8_znPPeF-n0XXnzhVkM55GNOAUlGJDYoA5Q"/>
+    <itunes:image href="https://fastly.picsum.photos/id/302/800/800.jpg?hmac=4BgFx1mxEuqhY1MOcl3I_Szp6PwDKINsnXEPS8p6UFk"/>
 </channel>
 </rss>

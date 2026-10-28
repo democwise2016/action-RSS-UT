@@ -3,7 +3,7 @@
     <title><![CDATA[游戲指南針[YT+]]]></title>
     <link>undefined</link>
     <image>
-      <url>https://fastly.picsum.photos/id/113/800/800.jpg?hmac=u4HDLFqIxP8dJ1sDEz5NhbgbZQZvJeOaBjRoxZ0MJWY</url>
+      <url>https://fastly.picsum.photos/id/177/800/800.jpg?hmac=uOtmHLuJJCbsiYUgCvsjwwjFHD4roqk8-VFvmZusSBs</url>
       <title>游戲指南針[YT+]</title>
       <link>undefined</link>
     </image>
@@ -13,14 +13,14 @@
     <itunes:author><![CDATA[游戲指南針[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCVjXB6QUf_aZ_FninmssCOg</a>
       ]]>
@@ -28,6 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[游戲指南針[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/113/800/800.jpg?hmac=u4HDLFqIxP8dJ1sDEz5NhbgbZQZvJeOaBjRoxZ0MJWY"/>
+    <itunes:image href="https://fastly.picsum.photos/id/177/800/800.jpg?hmac=uOtmHLuJJCbsiYUgCvsjwwjFHD4roqk8-VFvmZusSBs"/>
 </channel>
 </rss>

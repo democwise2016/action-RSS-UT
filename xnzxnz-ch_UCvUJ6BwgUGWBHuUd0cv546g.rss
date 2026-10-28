@@ -3,7 +3,7 @@
     <title><![CDATA[小宁子 3C[YT+]]]></title>
     <link>undefined</link>
     <image>
-      <url>https://fastly.picsum.photos/id/634/800/800.jpg?hmac=k2afT7WKvZoDlw8BKPoh0tKp2suyM4CTU6T-l57MUqs</url>
+      <url>https://fastly.picsum.photos/id/367/800/800.jpg?hmac=CVHuZJTYh0tN-ZacllW1Yk6DQ0IweAs4agbaGOc_tCc</url>
       <title>小宁子 3C[YT+]</title>
       <link>undefined</link>
     </image>
@@ -13,14 +13,14 @@
     <itunes:author><![CDATA[小宁子 3C[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCvUJ6BwgUGWBHuUd0cv546g" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCvUJ6BwgUGWBHuUd0cv546g</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCvUJ6BwgUGWBHuUd0cv546g" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCvUJ6BwgUGWBHuUd0cv546g</a>
       ]]>
@@ -28,6 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[小宁子 3C[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/634/800/800.jpg?hmac=k2afT7WKvZoDlw8BKPoh0tKp2suyM4CTU6T-l57MUqs"/>
+    <itunes:image href="https://fastly.picsum.photos/id/367/800/800.jpg?hmac=CVHuZJTYh0tN-ZacllW1Yk6DQ0IweAs4agbaGOc_tCc"/>
 </channel>
 </rss>
